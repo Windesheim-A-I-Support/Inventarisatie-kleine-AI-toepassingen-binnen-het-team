@@ -1,0 +1,43 @@
+# Inventarisatie van kleine AI-toepassingen binnen het team
+
+## Doel
+
+Deze inventarisatie zoekt naar kleine onderdelen van het werk waar AI mogelijk direct kan helpen.
+
+Het gaat nog niet om oplossingen. Het doel is eerst goed afpellen waar collega’s AI zelf al zien, gebruiken of zouden willen inzetten.
+
+## Aanpak
+
+Collega’s worden bij voorkeur mondeling bevraagd.
+
+Tijdens de gesprekken worden nog geen oplossingen aangedragen en worden nog geen grote verbanden gelegd.
+
+## Kernvraag
+
+Ik ben niet op zoek naar grote AI-oplossingen, maar naar kleine onderdelen van je werk waar AI misschien kan helpen.
+
+## Interviewvragen
+
+1. Gebruik je nu al AI in je werk?
+2. Waarvoor gebruik je het?
+3. Welke tools gebruik je eventueel zelf?
+4. Welk klein onderdeel van je werk kost veel tijd?
+5. Waar zou AI volgens jou kunnen helpen?
+6. Welke input gaat erin?
+7. Welke output zou handig zijn?
+8. Is de informatie gevoelig?
+9. Wat zou morgen al nuttig zijn?
+
+## Opgehaalde kleine radartjes
+
+| Collega | Werkproces | Klein radartje | Input | Gewenste output | Gevoeligheid | Opmerking |
+|---------|------------|----------------|-------|-----------------|--------------|-----------|
+|         |            |                |       |                 |              |           |
+
+## Eerste signalen
+
+Nog niet invullen met conclusies. Alleen signalen verzamelen.
+
+## Volgende stap
+
+Nieuwe gesprekken voeren en de kleine radartjes verder afpellen.

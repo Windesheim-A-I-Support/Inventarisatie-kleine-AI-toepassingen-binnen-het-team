@@ -1,0 +1,25 @@
+# Weekupdate AI-inventarisatie
+
+## Deze week gedaan
+
+- [aantal] collega’s gesproken
+- [aantal] kleine AI-radartjes opgehaald
+- Eerste verkenning gedaan naar direct bruikbare AI-tools
+
+## Kleine radartjes die naar voren komen
+
+- [Radartje 1]
+- [Radartje 2]
+- [Radartje 3]
+
+## Wat ik bewust nog niet doe
+
+Ik kom nog niet met oplossingen of grote verbanden. Ik pel eerst af op welk klein onderdeel van het werk AI mogelijk kan helpen.
+
+## Toolverkenning
+
+Ik richt me niet op een grote lijst, maar op een paar tools die mogelijk snel inzetbaar zijn binnen het team en waar academische of universitaire onderbouwing voor te vinden is.
+
+## Volgende stap
+
+Volgende week spreek ik [aantal/namen] collega’s verder en werk ik de meest concrete radartjes en tools uit.

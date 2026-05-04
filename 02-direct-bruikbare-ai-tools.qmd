@@ -1,0 +1,35 @@
+# Direct bruikbare AI-tools voor het team
+
+## Doel
+
+Dit document verzamelt een kleine selectie AI-tools die mogelijk direct bruikbaar zijn voor het team.
+
+Het gaat niet om een volledige marktverkenning, maar om een paar betrouwbare tools waar het team snel iets aan heeft.
+
+## Selectiecriteria
+
+Een tool is interessant als:
+
+1. het team er snel mee kan starten
+2. de tool past bij onderwijs, onderzoek of ondersteuning
+3. er duidelijke informatie is over gebruik door universiteiten of onderzoeksinstellingen
+4. privacy en datagebruik voldoende te beoordelen zijn
+5. de tool helpt bij concrete kleine radartjes uit de inventarisatie
+
+## Tooloverzicht
+
+| Tool | Waarvoor | Universiteit of bron | Direct bruikbaar voor team | Privacy | Kosten | Opmerking |
+|------|----------|----------------------|----------------------------|---------|--------|-----------|
+|      |          |                      |                            |         |        |           |
+
+## Korte selectie
+
+### Tool 1
+
+### Tool 2
+
+### Tool 3
+
+## Advies voor eerste test
+
+Nog niet invullen voordat de eerste radartjes uit de gesprekken bekend zijn.
