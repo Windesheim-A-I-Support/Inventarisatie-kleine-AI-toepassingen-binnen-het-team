@@ -1,0 +1,71 @@
+# Interview: [naam collega]
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-04 |
+| Collega | [naam] |
+| Rol | [rol] |
+| Gespreksvorm | Mondeling |
+| Duur | [duur] |
+
+## Doel van het gesprek
+
+Inventariseren waar kleine AI-toepassingen mogelijk kunnen helpen in het werk van de collega.
+
+Belangrijk: dit gesprek is bedoeld om op te halen, niet om oplossingen aan te dragen.
+
+## Vragen en antwoorden
+
+### 1. Gebruik je nu al AI in je werk?
+
+Antwoord:
+
+### 2. Waarvoor gebruik je het?
+
+Antwoord:
+
+### 3. Welke tools gebruik je eventueel zelf?
+
+Antwoord:
+
+### 4. Welk klein onderdeel van je werk kost veel tijd?
+
+Antwoord:
+
+### 5. Waar zou AI volgens jou kunnen helpen?
+
+Antwoord:
+
+### 6. Welke input gaat erin?
+
+Antwoord:
+
+### 7. Welke output zou handig zijn?
+
+Antwoord:
+
+### 8. Is de informatie gevoelig?
+
+Antwoord:
+
+### 9. Wat zou morgen al nuttig zijn?
+
+Antwoord:
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Input | Gewenste output | Gevoeligheid | Opmerking |
+|---|---|---|---|---|---|
+| | | | | | |
+
+## Letterlijke signalen
+
+- “[quote]”
+
+## Nog niet oplossen
+
+Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
+
+- 

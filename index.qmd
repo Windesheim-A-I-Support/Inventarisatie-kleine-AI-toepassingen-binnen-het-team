@@ -1,0 +1,30 @@
+# Inventarisatie kleine AI-toepassingen binnen het team
+
+Dit project verzamelt kleine, concrete AI-toepassingen die collega’s binnen het team zelf zien in hun werk.
+
+## Werksporen
+
+1. Kleine AI-radartjes ophalen bij collega’s
+2. Een paar direct bruikbare AI-tools selecteren
+3. Wekelijks terugkoppelen wat er is opgehaald
+
+## Documenten
+
+- [Inventarisatie kleine AI-toepassingen](01-inventarisatie-kleine-ai-toepassingen.html)
+- [Direct bruikbare AI-tools](02-direct-bruikbare-ai-tools.html)
+- [Weekupdate 1](updates/week-01.html)
+
+## Uitgangspunt
+
+Eerst luisteren, dan pas duiden. Tijdens de gesprekken worden nog geen oplossingen aangedragen.
+
+## Downloads
+
+Na elke automatische render komen de downloadbestanden hier beschikbaar:
+
+- [Inventarisatie als Word](downloads/01-inventarisatie-kleine-ai-toepassingen.docx)
+- [Inventarisatie als PDF](downloads/01-inventarisatie-kleine-ai-toepassingen.pdf)
+- [Toolselectie als Word](downloads/02-direct-bruikbare-ai-tools.docx)
+- [Toolselectie als PDF](downloads/02-direct-bruikbare-ai-tools.pdf)
+- [Weekupdate 1 als Word](downloads/week-01.docx)
+- [Weekupdate 1 als PDF](downloads/week-01.pdf)
