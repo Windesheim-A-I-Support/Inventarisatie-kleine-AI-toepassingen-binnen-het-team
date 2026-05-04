@@ -1,0 +1,13 @@
+project:
+  type: default
+  output-dir: _output
+
+format:
+  html:
+    toc: true
+    number-sections: true
+  docx:
+    toc: true
+    number-sections: true
+
+lang: nl
