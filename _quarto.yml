@@ -6,7 +6,6 @@ project:
     - 01-inventarisatie-kleine-ai-toepassingen.qmd
     - 02-direct-bruikbare-ai-tools.qmd
     - updates/*.qmd
-    - interviews/*.qmd
 
 website:
   title: "Inventarisatie kleine AI-toepassingen"
