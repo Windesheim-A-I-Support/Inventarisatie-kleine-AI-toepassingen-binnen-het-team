@@ -1,13 +1,39 @@
 project:
-  type: default
-  output-dir: _output
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - 01-inventarisatie-kleine-ai-toepassingen.qmd
+    - 02-direct-bruikbare-ai-tools.qmd
+    - updates/*.qmd
+    - interviews/*.qmd
+
+website:
+  title: "Inventarisatie kleine AI-toepassingen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: 01-inventarisatie-kleine-ai-toepassingen.qmd
+        text: Inventarisatie
+      - href: 02-direct-bruikbare-ai-tools.qmd
+        text: Tools
+      - text: Updates
+        menu:
+          - href: updates/week-01.qmd
+            text: Week 1
 
 format:
   html:
     toc: true
     number-sections: true
+    theme: cosmo
   docx:
     toc: true
     number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+    documentclass: article
 
 lang: nl
