@@ -1,6 +1,4 @@
----
-title: "Over dit project"
----
+# Over dit project
 
 Dit project brengt in kaart waar collega's binnen het team AI zinvol kunnen inzetten. Niet als grote strategie, maar als kleine concrete stappen: welke onderdelen van het werk kosten onnodig veel tijd, herhalen zich steeds, of leveren een kwaliteitscompromis op?
 

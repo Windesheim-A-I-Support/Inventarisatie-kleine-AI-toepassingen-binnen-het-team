@@ -11,8 +11,8 @@ lang: nl
 
 ```{ojs}
 //| output: false
-radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
-longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: true })
+radartjes = FileAttachment("data/radartjes.csv").csv({ typed: false })
+longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: false })
 ```
 
 ```{ojs}
@@ -96,6 +96,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
   return Plot.plot({
     marginLeft: 160,
     marginRight: 80,
+    marginBottom: 60,
     style: { fontSize: 12 },
     marks: [
       Plot.barX(data, {
@@ -144,6 +145,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
   return Plot.plot({
     marginLeft: 160,
     marginRight: 100,
+    marginBottom: 60,
     style: { fontSize: 12 },
     marks: [
       Plot.barX(data, {
@@ -190,6 +192,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
   return Plot.plot({
     marginLeft: 200,
     marginRight: 40,
+    marginBottom: 60,
     style: { fontSize: 12 },
     marks: [
       Plot.barX(typeCounts, {
@@ -246,6 +249,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
   return Plot.plot({
     marginLeft: 200,
     marginRight: 40,
+    marginBottom: 60,
     style: { fontSize: 12 },
     marks: [
       Plot.barX(typeData, {

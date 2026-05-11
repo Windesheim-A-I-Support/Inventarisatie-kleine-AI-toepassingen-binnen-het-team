@@ -14,7 +14,7 @@ website:
     logo: "Windesheim Ai Survey.png"
     left:
       - href: index.qmd
-        text: Home
+        text: Over dit project
       - href: 01-inventarisatie-kleine-ai-toepassingen.qmd
         text: Inventarisatie
       - href: 02-direct-bruikbare-ai-tools.qmd
