@@ -193,23 +193,36 @@ gefilterd.length > 0
 ## {.sidebar}
 
 ```{ojs}
-beschikbaarheidOpties = Array.from(
-  new Set(tools.map(d => d.direct_bruikbaar_voor_team))
-).filter(Boolean)
+toolTypeOpties = ["Alle"].concat(
+  Array.from(new Set(longlist.map(d => d.type))).filter(Boolean).sort()
+)
 
-viewof beschikbaarheidFilter = Inputs.checkbox(
-  beschikbaarheidOpties.length > 0 ? beschikbaarheidOpties : ["Ja", "In pilotfase"],
-  {
-    label: "Beschikbaarheid",
-    value: beschikbaarheidOpties.length > 0 ? beschikbaarheidOpties : ["Ja", "In pilotfase"]
-  }
+viewof toolTypeFilter = Inputs.select(toolTypeOpties, {
+  label: "Type tool",
+  value: "Alle"
+})
+```
+
+```{ojs}
+viewof toolTop5Filter = Inputs.checkbox(
+  ["Ja", "Nee"],
+  { label: "In top 5", value: ["Ja", "Nee"] }
+)
+```
+
+```{ojs}
+viewof toolBruikbaarheidFilter = Inputs.checkbox(
+  ["Ja", "Nee", "In pilotfase"],
+  { label: "Direct bruikbaar", value: ["Ja", "In pilotfase"] }
 )
 ```
 
 ```{ojs}
 //| output: false
-gefilterdTools = tools.filter(d =>
-  beschikbaarheidFilter.includes(d.direct_bruikbaar_voor_team)
+gefilterdTools = longlist.filter(d =>
+  (toolTypeFilter === "Alle" || d.type === toolTypeFilter) &&
+  toolTop5Filter.includes(d.in_top5) &&
+  toolBruikbaarheidFilter.includes(d.direct_bruikbaar_voor_team)
 )
 ```
 
@@ -217,162 +230,7 @@ gefilterdTools = tools.filter(d =>
 
 **Over de tools**
 
-Universiteits-AI-tools die direct inzetbaar zijn of binnenkort beschikbaar komen. Voeg toe via `data/tools.csv`.
-
-## Row {height="16%"}
-
-```{ojs}
-//| content: valuebox
-//| title: "Tools gevonden"
-//| icon: grid
-//| color: primary
-tools.length
-```
-
-```{ojs}
-//| content: valuebox
-//| title: "Direct inzetbaar"
-//| icon: check-circle
-//| color: success
-tools.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
-```
-
-```{ojs}
-//| content: valuebox
-//| title: "Gratis beschikbaar"
-//| icon: piggy-bank
-//| color: info
-tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
-```
-
-## Row
-
-```{ojs}
-{
-  if (gefilterdTools.length === 0)
-    return html`<p style="color:#888;padding:2rem;">Geen tools voor deze filter.</p>`
-
-  const badgeKleur = {
-    "Ja": "success",
-    "In pilotfase": "warning",
-    "Nee": "danger"
-  }
-
-  const kostenKleur = (k = "") =>
-    k.toLowerCase().includes("gratis") ? "success" : "secondary"
-
-  return html`
-    <div style="padding: 1rem;">
-      <div class="row g-4">
-        ${gefilterdTools.map(t => html`
-          <div class="col-12 col-xl-6">
-            <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; overflow: hidden;">
-
-              <div class="card-header d-flex justify-content-between align-items-start py-3"
-                   style="background: #f8f9fa; border-bottom: 2px solid #e9ecef;">
-                <div>
-                  <h5 class="mb-0 fw-bold">
-                    <a href="https://${t.link}" target="_blank" rel="noopener"
-                       style="color: inherit; text-decoration: none;">
-                      ${t.toolnaam} ↗
-                    </a>
-                  </h5>
-                  <small class="text-muted">${t.universiteit_of_bron}</small>
-                </div>
-                <div class="d-flex flex-column align-items-end gap-1">
-                  <span class="badge bg-${badgeKleur[t.direct_bruikbaar_voor_team] ?? "secondary"}">
-                    ${t.direct_bruikbaar_voor_team}
-                  </span>
-                  <span class="badge bg-${kostenKleur(t.kosten)} bg-opacity-75">
-                    ${t.kosten ?? "Onbekend"}
-                  </span>
-                </div>
-              </div>
-
-              <div class="card-body" style="font-size: 0.9rem;">
-                <p class="mb-3">${t.waarvoor}</p>
-
-                <div class="mb-2">
-                  <span class="fw-semibold">&#127979; Academische inbedding</span><br>
-                  <span class="text-muted">${t.academische_inbedding ?? "—"}</span>
-                </div>
-
-                <div class="mb-2">
-                  <span class="fw-semibold">&#128274; Privacy & data</span><br>
-                  <span class="text-muted">${t.data_en_privacy ?? "—"}</span>
-                </div>
-
-                ${t.opmerking ? html`
-                  <div class="alert alert-light py-2 px-3 mt-3 mb-0" style="font-size:0.85rem; border-left: 3px solid #0d6efd;">
-                    ${t.opmerking}
-                  </div>` : ""}
-              </div>
-
-              <div class="card-footer bg-white border-top-0 pt-0 pb-3 px-3">
-                <a href="https://${t.link}" target="_blank" rel="noopener"
-                   class="btn btn-sm btn-primary">
-                  Bekijk tool ↗
-                </a>
-              </div>
-
-            </div>
-          </div>
-        `)}
-      </div>
-    </div>
-  `
-}
-```
-
-# Longlist {orientation="rows"}
-
-## {.sidebar}
-
-```{ojs}
-typeOpties = ["Alle"].concat(
-  Array.from(new Set(longlist.map(d => d.type))).filter(Boolean).sort()
-)
-
-viewof typeFilter = Inputs.select(typeOpties, {
-  label: "Type tool",
-  value: "Alle"
-})
-```
-
-```{ojs}
-viewof top5Filter = Inputs.checkbox(
-  ["Ja", "Nee"],
-  {
-    label: "In top 5",
-    value: ["Ja", "Nee"]
-  }
-)
-```
-
-```{ojs}
-viewof bruikbaarheidFilter = Inputs.checkbox(
-  ["Ja", "Nee", "In pilotfase"],
-  {
-    label: "Direct bruikbaar",
-    value: ["Ja", "Nee", "In pilotfase"]
-  }
-)
-```
-
-```{ojs}
-//| output: false
-gefilterdLonglist = longlist.filter(d =>
-  (typeFilter === "Alle" || d.type === typeFilter) &&
-  top5Filter.includes(d.in_top5) &&
-  bruikbaarheidFilter.includes(d.direct_bruikbaar_voor_team)
-)
-```
-
----
-
-**Over de longlist**
-
-20 onderzochte tools, gescoord op gebruikersaantal, universitaire adoptie, academische citaties en type. De top 5 zijn direct inzetbaar voor het team.
+20 tools onderzocht op gebruikers, universitaire adoptie, academische verankering en type. Top 5 geselecteerd op die criteria.
 
 ## Row {height="14%"}
 
@@ -394,106 +252,98 @@ longlist.filter(d => d.in_top5 === "Ja").length
 
 ```{ojs}
 //| content: valuebox
-//| title: "Zichtbaar na filter"
+//| title: "Zichtbaar"
 //| icon: funnel
-//| color: secondary
-gefilterdLonglist.length
+//| color: info
+gefilterdTools.length
 ```
 
 ## Row
 
 ```{ojs}
 {
-  if (gefilterdLonglist.length === 0)
+  if (gefilterdTools.length === 0)
     return html`<p style="color:#888;padding:2rem;">Geen tools voor deze filters.</p>`
 
-  const top5Kleur = { "Ja": "#198754", "Nee": "#6c757d" }
+  const bruikbaarheidKleur = { "Ja": "success", "In pilotfase": "warning", "Nee": "secondary" }
+  const kostenKleur = (k = "") => k.toLowerCase().includes("gratis") ? "success" : "secondary"
+  const litKleur = { "Ja": "#198754", "Nee": "#adb5bd" }
 
   return html`
     <div style="padding: 1rem;">
-      <div class="table-responsive">
-        <table class="table table-hover align-middle" style="font-size: 0.88rem;">
-          <thead class="table-light">
-            <tr>
-              <th style="width:130px;">Tool</th>
-              <th style="width:140px;">Type</th>
-              <th>Waarvoor</th>
-              <th style="width:90px;">Gebruikers</th>
-              <th style="width:80px;">Top 5</th>
-              <th style="width:80px;">Bruikbaar</th>
-              <th style="width:100px;">Kosten</th>
-              <th style="width:180px;">Reden selectie / afwijzing</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${gefilterdLonglist.map(t => html`
-              <tr>
-                <td>
-                  <a href="https://${t.link}" target="_blank" rel="noopener"
-                     style="font-weight:600; text-decoration:none;">
-                    ${t.toolnaam} ↗
-                  </a>
-                </td>
-                <td><span class="badge bg-light text-dark border">${t.type}</span></td>
-                <td style="color:#444;">${t.waarvoor}</td>
-                <td style="color:#555;">${t.gebruikers ?? "—"}</td>
-                <td>
-                  <span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'}">
-                    ${t.in_top5}
-                  </span>
-                </td>
-                <td>
-                  <span class="badge bg-${t.direct_bruikbaar_voor_team === "Ja" ? "success" : t.direct_bruikbaar_voor_team === "In pilotfase" ? "warning" : "secondary"}">
-                    ${t.direct_bruikbaar_voor_team}
-                  </span>
-                </td>
-                <td style="color:#555;">${t.kosten ?? "—"}</td>
-                <td style="color:#666; font-size:0.82rem;">${t.reden_selectie_of_afwijzing ?? "—"}</td>
-              </tr>
-            `)}
-          </tbody>
-        </table>
+      <div class="row g-3">
+        ${gefilterdTools.map(t => html`
+          <div class="col-12 col-xl-6">
+            <div class="card h-100 shadow-sm border-0" style="border-radius:12px; overflow:hidden;">
+
+              <div class="card-header py-3" style="background:#f8f9fa; border-bottom:2px solid #e9ecef;">
+                <div class="d-flex justify-content-between align-items-start">
+                  <div>
+                    <h5 class="mb-1 fw-bold">
+                      <a href="https://${t.link}" target="_blank" rel="noopener"
+                         style="color:inherit; text-decoration:none;">
+                        ${t.toolnaam} ↗
+                      </a>
+                      ${t.github_link ? html`
+                        <a href="https://${t.github_link}" target="_blank" rel="noopener"
+                           class="ms-2 text-muted" style="font-size:0.8rem; text-decoration:none;"
+                           title="GitHub">
+                          &#128196; GitHub
+                        </a>` : ""}
+                    </h5>
+                    <div class="d-flex flex-wrap gap-1 mt-1">
+                      <span class="badge bg-light text-dark border" style="font-weight:500;">${t.type}</span>
+                      ${t.in_top5 === "Ja" ? html`<span class="badge bg-warning text-dark">&#11088; Top 5</span>` : ""}
+                      <span class="badge bg-${bruikbaarheidKleur[t.direct_bruikbaar_voor_team] ?? "secondary"}">${t.direct_bruikbaar_voor_team}</span>
+                      <span class="badge bg-${kostenKleur(t.kosten)} bg-opacity-75">${t.kosten ?? "Onbekend"}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="card-body" style="font-size:0.88rem;">
+                <p class="mb-3 text-dark">${t.waarvoor}</p>
+
+                <div class="mb-2">
+                  <span class="fw-semibold">&#127979; Universiteiten</span>
+                  <span class="ms-1 badge bg-primary bg-opacity-10 text-primary border border-primary border-opacity-25"
+                        style="font-size:0.78rem;">${t.aantal_universiteiten ?? "?"}</span><br>
+                  <span class="text-muted" style="font-size:0.83rem;">${t.universiteiten_voorbeeld ?? "—"}</span>
+                </div>
+
+                <div class="mb-2">
+                  <span class="fw-semibold">&#128218; Gebruikt in literatuuronderzoek</span>
+                  <span class="ms-1 badge" style="background:${litKleur[t.in_literatuuronderzoek] ?? "#adb5bd"}; font-size:0.78rem;">
+                    ${t.in_literatuuronderzoek ?? "?"}
+                  </span><br>
+                  <span class="text-muted" style="font-size:0.83rem;">${t.literatuuronderzoek_toelichting ?? "—"}</span>
+                </div>
+
+                <div class="mb-0">
+                  <span class="fw-semibold">&#128274; Privacy & data</span><br>
+                  <span class="text-muted" style="font-size:0.83rem;">${t.data_en_privacy ?? "—"}</span>
+                </div>
+
+                ${t.reden_selectie_of_afwijzing ? html`
+                  <div class="alert alert-light py-2 px-3 mt-3 mb-0"
+                       style="font-size:0.82rem; border-left:3px solid ${t.in_top5 === 'Ja' ? '#198754' : '#adb5bd'};">
+                    <strong>${t.in_top5 === "Ja" ? "Geselecteerd:" : "Niet geselecteerd:"}</strong> ${t.reden_selectie_of_afwijzing}
+                  </div>` : ""}
+              </div>
+
+              <div class="card-footer bg-white border-top-0 pt-1 pb-3 px-3 d-flex gap-2">
+                <a href="https://${t.link}" target="_blank" rel="noopener"
+                   class="btn btn-sm btn-primary">Bekijk tool ↗</a>
+                ${t.github_link ? html`
+                  <a href="https://${t.github_link}" target="_blank" rel="noopener"
+                     class="btn btn-sm btn-outline-secondary">GitHub</a>` : ""}
+              </div>
+
+            </div>
+          </div>
+        `)}
       </div>
     </div>
   `
-}
-```
-
-## Row
-
-```{ojs}
-{
-  if (longlist.length === 0) return html`<p style="color:#888;">Geen data.</p>`
-
-  const typeCounts = d3.rollups(longlist, v => v.length, d => d.type)
-    .map(([type, count]) => ({ type, count }))
-    .sort((a, b) => b.count - a.count)
-
-  return Plot.plot({
-    marginLeft: 200,
-    marginRight: 40,
-    style: { fontSize: 12 },
-    marks: [
-      Plot.barX(typeCounts, {
-        x: "count",
-        y: "type",
-        fill: d => longlist.some(t => t.type === d.type && t.in_top5 === "Ja") ? "#198754" : "#6c757d",
-        sort: { y: "x", reverse: true },
-        rx: 4
-      }),
-      Plot.text(typeCounts, {
-        x: "count",
-        y: "type",
-        text: d => String(d.count),
-        dx: 10,
-        fill: "#333",
-        sort: { y: "x", reverse: true }
-      }),
-      Plot.ruleX([0])
-    ],
-    x: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" },
-    y: { label: null },
-    title: "Verdeling per type (groen = type met top 5 tool)"
-  })
 }
 ```
