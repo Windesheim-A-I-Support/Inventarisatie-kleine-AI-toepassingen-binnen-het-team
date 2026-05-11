@@ -15,6 +15,323 @@ radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
 longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: true })
 ```
 
+```{ojs}
+//| output: false
+// Parse "10.000+" / "16.000+" / "500+" etc. to number for sorting/charting
+function parseUni(s) {
+  if (!s || s === "Niet bekend" || s === "Niet known") return 0
+  const clean = s.replace(/\./g, "").replace(",", ".")
+  const m = clean.match(/(\d+(?:\.\d+)?)/)
+  return m ? parseFloat(m[1]) : 0
+}
+
+// Parse "5M+" / "17M MAU" / "1,5M+" etc. to number
+function parseUsers(s) {
+  if (!s || s === "Niet bekend" || s === "Breed universitair") return 0
+  if (s.includes("miljard")) return 1500000000
+  if (s.includes("14 NL")) return 14
+  const mMatch = s.replace(",", ".").match(/([\d.]+)M/)
+  if (mMatch) return parseFloat(mMatch[1]) * 1000000
+  const plain = s.match(/[\d]+/)
+  return plain ? parseInt(plain[0]) : 0
+}
+
+longlistPlus = longlist.map(t => ({
+  ...t,
+  uni_num:   parseUni(t.aantal_universiteiten),
+  users_num: parseUsers(t.gebruikers)
+}))
+```
+
+# Tools {orientation="rows"}
+
+## Row {height="11%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools onderzocht"
+//| icon: binoculars
+//| color: primary
+longlist.length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "In top 5"
+//| icon: trophy
+//| color: success
+longlist.filter(d => d.in_top5 === "Ja").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Direct inzetbaar"
+//| icon: check-circle
+//| color: info
+longlist.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Gebruikt in literatuuronderzoek"
+//| icon: book
+//| color: warning
+longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
+```
+
+## Row {height="42%" .tabset}
+
+### Universitaire adoptie
+
+```{ojs}
+{
+  const data = longlistPlus
+    .filter(d => d.uni_num > 0)
+    .sort((a, b) => b.uni_num - a.uni_num)
+
+  return Plot.plot({
+    marginLeft: 160,
+    marginRight: 80,
+    style: { fontSize: 12 },
+    marks: [
+      Plot.barX(data, {
+        x: "uni_num",
+        y: "toolnaam",
+        fill: d => d.in_top5 === "Ja" ? "#198754" : "#adb5bd",
+        sort: { y: "x", reverse: true },
+        rx: 4,
+        title: d => `${d.toolnaam}: ${d.aantal_universiteiten} universiteiten`
+      }),
+      Plot.text(data, {
+        x: "uni_num",
+        y: "toolnaam",
+        text: d => d.aantal_universiteiten,
+        dx: 6,
+        textAnchor: "start",
+        fill: "#333",
+        fontSize: 11,
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: {
+      label: "Aantal universiteiten (geschat)",
+      tickFormat: d => d >= 1000 ? `${d/1000}K` : d
+    },
+    y: { label: null },
+    color: {
+      domain: ["Ja", "Nee"],
+      range: ["#198754", "#adb5bd"],
+      legend: true,
+      label: "In top 5"
+    }
+  })
+}
+```
+
+### Gebruikers per tool
+
+```{ojs}
+{
+  const data = longlistPlus
+    .filter(d => d.users_num > 0)
+    .sort((a, b) => b.users_num - a.users_num)
+
+  return Plot.plot({
+    marginLeft: 160,
+    marginRight: 100,
+    style: { fontSize: 12 },
+    marks: [
+      Plot.barX(data, {
+        x: "users_num",
+        y: "toolnaam",
+        fill: d => d.in_top5 === "Ja" ? "#0d6efd" : "#adb5bd",
+        sort: { y: "x", reverse: true },
+        rx: 4,
+        title: d => `${d.toolnaam}: ${d.gebruikers}`
+      }),
+      Plot.text(data, {
+        x: "users_num",
+        y: "toolnaam",
+        text: d => d.gebruikers,
+        dx: 6,
+        textAnchor: "start",
+        fill: "#333",
+        fontSize: 10,
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: {
+      label: "Gebruikers",
+      tickFormat: d => d >= 1000000 ? `${(d/1000000).toFixed(0)}M` : d >= 1000 ? `${d/1000}K` : d
+    },
+    y: { label: null }
+  })
+}
+```
+
+### Type verdeling
+
+```{ojs}
+{
+  const typeCounts = d3.rollups(longlistPlus, v => v.length, d => d.type)
+    .map(([type, count]) => ({
+      type,
+      count,
+      top5: longlistPlus.filter(t => t.type === type && t.in_top5 === "Ja").length
+    }))
+    .sort((a, b) => b.count - a.count)
+
+  return Plot.plot({
+    marginLeft: 200,
+    marginRight: 40,
+    style: { fontSize: 12 },
+    marks: [
+      Plot.barX(typeCounts, {
+        x: "count",
+        y: "type",
+        fill: "#adb5bd",
+        sort: { y: "x", reverse: true },
+        rx: 4
+      }),
+      Plot.barX(typeCounts.filter(d => d.top5 > 0), {
+        x: "top5",
+        y: "type",
+        fill: "#198754",
+        sort: { y: "x", reverse: true },
+        rx: 4,
+        title: d => `${d.top5} in top 5`
+      }),
+      Plot.text(typeCounts, {
+        x: "count",
+        y: "type",
+        text: d => `${d.count} tool${d.count > 1 ? "s" : ""}`,
+        dx: 6,
+        textAnchor: "start",
+        fill: "#333",
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" },
+    y: { label: null },
+    color: { legend: true, domain: ["Top 5", "Overig"], range: ["#198754", "#adb5bd"] }
+  })
+}
+```
+
+### Literatuurverankering
+
+```{ojs}
+{
+  const litData = d3.rollups(longlistPlus, v => v.length, d => d.in_literatuuronderzoek)
+    .map(([label, count]) => ({ label: label ?? "Onbekend", count }))
+
+  const typeData = d3.rollups(
+    longlistPlus,
+    v => ({
+      ja: v.filter(d => d.in_literatuuronderzoek === "Ja").length,
+      nee: v.filter(d => d.in_literatuuronderzoek !== "Ja").length
+    }),
+    d => d.type
+  ).map(([type, d]) => ({ type, ...d }))
+   .filter(d => d.ja + d.nee > 0)
+   .sort((a, b) => b.ja - a.ja)
+
+  return Plot.plot({
+    marginLeft: 200,
+    marginRight: 40,
+    style: { fontSize: 12 },
+    marks: [
+      Plot.barX(typeData, {
+        x: "nee",
+        y: "type",
+        fill: "#dee2e6",
+        sort: { y: d => -(d.ja), reverse: false },
+        rx: 4
+      }),
+      Plot.barX(typeData, {
+        x: "ja",
+        y: "type",
+        fill: "#198754",
+        sort: { y: d => -(d.ja), reverse: false },
+        rx: 4,
+        title: d => `${d.ja} tools geciteerd in onderzoek`
+      }),
+      Plot.text(typeData, {
+        x: d => d.ja,
+        y: "type",
+        text: d => d.ja > 0 ? `${d.ja} ja` : "",
+        dx: 6,
+        textAnchor: "start",
+        fill: "#198754",
+        fontWeight: "bold",
+        sort: { y: d => -(d.ja), reverse: false }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" },
+    y: { label: null },
+    color: { legend: true, domain: ["Geciteerd in onderzoek", "Niet"], range: ["#198754", "#dee2e6"] }
+  })
+}
+```
+
+## Row {height="47%"}
+
+```{ojs}
+{
+  const top5Kleur  = { "Ja": "#198754", "Nee": "#6c757d" }
+  const litKleur   = { "Ja": "#198754", "Nee": "#adb5bd" }
+  const bruikKleur = { "Ja": "success", "In pilotfase": "warning", "Nee": "secondary" }
+
+  const sorted = [...longlistPlus].sort((a, b) =>
+    (b.in_top5 === "Ja") - (a.in_top5 === "Ja") || b.uni_num - a.uni_num
+  )
+
+  return html`
+    <div style="padding: 0 1.5rem 1.5rem 1.5rem; width: 100%;">
+      <table class="table table-hover align-middle mb-0" style="font-size: 0.82rem; width: 100%;">
+        <thead class="table-light" style="position: sticky; top: 0; z-index: 1;">
+          <tr>
+            <th>Tool</th>
+            <th>Type</th>
+            <th>Gebruikers</th>
+            <th>Universiteiten</th>
+            <th>Lit.</th>
+            <th>Top 5</th>
+            <th>Bruikbaar</th>
+            <th>Kosten</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${sorted.map(t => html`
+            <tr style="${t.in_top5 === 'Ja' ? 'background:#f0fff4; font-weight:500;' : ''}">
+              <td style="white-space:nowrap;">
+                <a href="https://${t.link}" target="_blank" rel="noopener"
+                   style="text-decoration:none; color: ${t.in_top5 === 'Ja' ? '#198754' : 'inherit'};">
+                  ${t.toolnaam} ↗
+                </a>
+                ${t.github_link ? html`<br><a href="https://${t.github_link}" target="_blank" rel="noopener"
+                   style="font-size:0.72rem; color:#6c757d; text-decoration:none;">GitHub</a>` : ""}
+              </td>
+              <td><span class="badge bg-light text-dark border" style="font-weight:400;">${t.type}</span></td>
+              <td style="color:#555;">${t.gebruikers ?? "?"}</td>
+              <td style="color:#555;">${t.aantal_universiteiten ?? "?"}</td>
+              <td><span class="badge" style="background:${litKleur[t.in_literatuuronderzoek] ?? '#adb5bd'};">${t.in_literatuuronderzoek ?? "?"}</span></td>
+              <td><span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'};">${t.in_top5}</span></td>
+              <td><span class="badge bg-${bruikKleur[t.direct_bruikbaar_voor_team] ?? 'secondary'}">${t.direct_bruikbaar_voor_team}</span></td>
+              <td style="color:#555; font-size:0.78rem;">${t.kosten ?? "?"}</td>
+            </tr>
+          `)}
+        </tbody>
+      </table>
+    </div>
+  `
+}
+```
+
 # Radartjes {orientation="rows"}
 
 ## {.sidebar}
@@ -184,82 +501,5 @@ gefilterd.length > 0
     x: { label: "Gevoeligheid" },
     y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
   })
-}
-```
-
-
-# Tools {orientation="rows"}
-
-## Row {height="14%"}
-
-```{ojs}
-//| content: valuebox
-//| title: "Tools onderzocht"
-//| icon: binoculars
-//| color: primary
-longlist.length
-```
-
-```{ojs}
-//| content: valuebox
-//| title: "In top 5"
-//| icon: trophy
-//| color: success
-longlist.filter(d => d.in_top5 === "Ja").length
-```
-
-```{ojs}
-//| content: valuebox
-//| title: "Direct inzetbaar"
-//| icon: check-circle
-//| color: info
-longlist.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
-```
-
-## Row
-
-```{ojs}
-{
-  const top5Kleur  = { "Ja": "#198754", "Nee": "#6c757d" }
-  const litKleur   = { "Ja": "#198754", "Nee": "#adb5bd" }
-  const bruikKleur = { "Ja": "success", "In pilotfase": "warning", "Nee": "secondary" }
-
-  return html`
-    <div style="padding: 1.5rem; width: 100%;">
-      <table class="table table-hover align-middle" style="font-size: 0.85rem; width: 100%;">
-        <thead class="table-light">
-          <tr>
-            <th>Tool</th>
-            <th>Type</th>
-            <th>Gebruikers</th>
-            <th>Universiteiten</th>
-            <th>Lit.</th>
-            <th>Top 5</th>
-            <th>Bruikbaar</th>
-            <th>Kosten</th>
-          </tr>
-        </thead>
-        <tbody>
-          ${longlist.map(t => html`
-            <tr style="${t.in_top5 === 'Ja' ? 'background:#f0fff4;' : ''}">
-              <td style="white-space:nowrap;">
-                <a href="https://${t.link}" target="_blank" rel="noopener"
-                   style="font-weight:600; text-decoration:none;">${t.toolnaam} ↗</a>
-                ${t.github_link ? html` <a href="https://${t.github_link}" target="_blank" rel="noopener"
-                   style="font-size:0.75rem; color:#6c757d; text-decoration:none;">GitHub</a>` : ""}
-              </td>
-              <td><span class="badge bg-light text-dark border">${t.type}</span></td>
-              <td style="color:#555;">${t.gebruikers ?? "?"}</td>
-              <td style="color:#555;">${t.aantal_universiteiten ?? "?"}</td>
-              <td><span class="badge" style="background:${litKleur[t.in_literatuuronderzoek] ?? '#adb5bd'};">${t.in_literatuuronderzoek ?? "?"}</span></td>
-              <td><span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'};">${t.in_top5}</span></td>
-              <td><span class="badge bg-${bruikKleur[t.direct_bruikbaar_voor_team] ?? 'secondary'}">${t.direct_bruikbaar_voor_team}</span></td>
-              <td style="color:#555; font-size:0.8rem;">${t.kosten ?? "?"}</td>
-            </tr>
-          `)}
-        </tbody>
-      </table>
-    </div>
-  `
 }
 ```
