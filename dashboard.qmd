@@ -12,6 +12,7 @@ lang: nl
 ```{ojs}
 //| output: false
 radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
+longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: true })
 ```
 
 # Radartjes {orientation="rows"}
@@ -186,3 +187,79 @@ gefilterd.length > 0
 }
 ```
 
+
+# Tools {orientation="rows"}
+
+## Row {height="14%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools onderzocht"
+//| icon: binoculars
+//| color: primary
+longlist.length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "In top 5"
+//| icon: trophy
+//| color: success
+longlist.filter(d => d.in_top5 === "Ja").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Direct inzetbaar"
+//| icon: check-circle
+//| color: info
+longlist.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
+```
+
+## Row
+
+```{ojs}
+{
+  const top5Kleur  = { "Ja": "#198754", "Nee": "#6c757d" }
+  const litKleur   = { "Ja": "#198754", "Nee": "#adb5bd" }
+  const bruikKleur = { "Ja": "success", "In pilotfase": "warning", "Nee": "secondary" }
+
+  return html`
+    <div style="padding: 1.5rem; width: 100%;">
+      <table class="table table-hover align-middle" style="font-size: 0.85rem; width: 100%;">
+        <thead class="table-light">
+          <tr>
+            <th>Tool</th>
+            <th>Type</th>
+            <th>Gebruikers</th>
+            <th>Universiteiten</th>
+            <th>Lit.</th>
+            <th>Top 5</th>
+            <th>Bruikbaar</th>
+            <th>Kosten</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${longlist.map(t => html`
+            <tr style="${t.in_top5 === 'Ja' ? 'background:#f0fff4;' : ''}">
+              <td style="white-space:nowrap;">
+                <a href="https://${t.link}" target="_blank" rel="noopener"
+                   style="font-weight:600; text-decoration:none;">${t.toolnaam} ↗</a>
+                ${t.github_link ? html` <a href="https://${t.github_link}" target="_blank" rel="noopener"
+                   style="font-size:0.75rem; color:#6c757d; text-decoration:none;">GitHub</a>` : ""}
+              </td>
+              <td><span class="badge bg-light text-dark border">${t.type}</span></td>
+              <td style="color:#555;">${t.gebruikers ?? "?"}</td>
+              <td style="color:#555;">${t.aantal_universiteiten ?? "?"}</td>
+              <td><span class="badge" style="background:${litKleur[t.in_literatuuronderzoek] ?? '#adb5bd'};">${t.in_literatuuronderzoek ?? "?"}</span></td>
+              <td><span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'};">${t.in_top5}</span></td>
+              <td><span class="badge bg-${bruikKleur[t.direct_bruikbaar_voor_team] ?? 'secondary'}">${t.direct_bruikbaar_voor_team}</span></td>
+              <td style="color:#555; font-size:0.8rem;">${t.kosten ?? "?"}</td>
+            </tr>
+          `)}
+        </tbody>
+      </table>
+    </div>
+  `
+}
+```
