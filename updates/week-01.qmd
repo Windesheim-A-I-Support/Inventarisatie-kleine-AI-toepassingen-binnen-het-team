@@ -1,25 +1,43 @@
-# Weekupdate AI-inventarisatie
+# Weekupdate AI-inventarisatie -- week 1
 
 ## Deze week gedaan
 
-- [aantal] collega’s gesproken
-- [aantal] kleine AI-radartjes opgehaald
-- Eerste verkenning gedaan naar direct bruikbare AI-tools
+- Projectstructuur opgezet: gespreksgids, interviewtemplate, dashboard, GitHub Pages
+- Gespreksgids ontwikkeld op basis van professionele interviewmethodologie (7 vragen)
+- Meer dan 20 AI-tools onderzocht op academische verankering, gebruikersaantal, universitaire adoptie en type
+- Top 5 geselecteerd op basis van die criteria
+- Longlist van alle 20 onderzochte tools gedocumenteerd met motivatie per tool
+- Automatisch dashboard gebouwd dat vult vanuit CSV-data bij elke push naar main
 
-## Kleine radartjes die naar voren komen
+## Kleine radartjes
 
-- [Radartje 1]
-- [Radartje 2]
-- [Radartje 3]
+Interviews starten volgende week. Radartjes volgen na de eerste gesprekken.
+
+## Toolonderzoek: top 5
+
+Ik heb meer dan 20 tools onderzocht en gescoord op vier criteria: academische citaties, aantal universiteiten dat de tool gebruikt, aantal gebruikers en type tool. De vijf tools hieronder vullen elkaar aan en overlappen niet.
+
+**1. Consensus**
+Zoekt uitsluitend in peer-reviewed bronnen en geeft per bewering een evidence-score. Meer dan 5 miljoen gebruikers, 10.000+ universiteiten wereldwijd waaronder Princeton, Stanford en Harvard. Gepubliceerd in PMC (2025). Direct bruikbaar, gratis basisversie.
+
+**2. Elicit**
+Wetenschappelijke literatuur zoeken, samenvatten en data extraheren op basis van een onderzoeksvraag. Meer dan 2 miljoen gebruikers. Oregon State University biedt de betaalde versie aan via de bibliotheek. Gevalideerd op Cochrane-reviews: 95% search recall, 97% abstract screening, 99% full-text screening. GDPR-compliant, verwerkersovereenkomst beschikbaar.
+
+**3. Scite**
+Classificeert 1,6 miljard citaties als supporting, contrasting of mentioning. Unieke functie die geen andere tool biedt. Institutionele abonnementen bij onder andere Oregon State, University of Kansas en Clemson. Partner van 30+ wetenschappelijke uitgevers.
+
+**4. ASReview**
+Ontwikkeld door de Universiteit Utrecht. Gepubliceerd in Nature Machine Intelligence. Volledig open source, lokaal te draaien, geen data naar buiten. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk. Enige tool op deze lijst in NL universitaire handen.
+
+**5. Semantic Scholar**
+Non-profit van Allen Institute for AI. Meer dan 7 miljoen maandelijkse gebruikers. Gratis toegang tot 205 miljoen+ publicaties. Onderliggende databron voor ResearchRabbit, Connected Papers, SciSpace en Litmaps. Open API. Geen commercieel verdienmodel op gebruikersdata.
+
+De volledige longlist van 20 onderzochte tools met motivatie per tool staat in het dashboard onder het tabblad Longlist.
 
 ## Wat ik bewust nog niet doe
 
 Ik kom nog niet met oplossingen of grote verbanden. Ik pel eerst af op welk klein onderdeel van het werk AI mogelijk kan helpen.
 
-## Toolverkenning
-
-Ik richt me niet op een grote lijst, maar op een paar tools die mogelijk snel inzetbaar zijn binnen het team en waar academische of universitaire onderbouwing voor te vinden is.
-
 ## Volgende stap
 
-Volgende week spreek ik [aantal/namen] collega’s verder en werk ik de meest concrete radartjes en tools uit.
+Gesprekken starten met collega's. Radartjes ophalen, toevoegen aan het dashboard en terugkoppelen per weekupdate.

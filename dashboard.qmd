@@ -13,6 +13,7 @@ lang: nl
 //| output: false
 radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
 tools     = FileAttachment("data/tools.csv").csv({ typed: true })
+longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: true })
 ```
 
 # Radartjes {orientation="rows"}
@@ -320,5 +321,179 @@ tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
       </div>
     </div>
   `
+}
+```
+
+# Longlist {orientation="rows"}
+
+## {.sidebar}
+
+```{ojs}
+typeOpties = ["Alle"].concat(
+  Array.from(new Set(longlist.map(d => d.type))).filter(Boolean).sort()
+)
+
+viewof typeFilter = Inputs.select(typeOpties, {
+  label: "Type tool",
+  value: "Alle"
+})
+```
+
+```{ojs}
+viewof top5Filter = Inputs.checkbox(
+  ["Ja", "Nee"],
+  {
+    label: "In top 5",
+    value: ["Ja", "Nee"]
+  }
+)
+```
+
+```{ojs}
+viewof bruikbaarheidFilter = Inputs.checkbox(
+  ["Ja", "Nee", "In pilotfase"],
+  {
+    label: "Direct bruikbaar",
+    value: ["Ja", "Nee", "In pilotfase"]
+  }
+)
+```
+
+```{ojs}
+//| output: false
+gefilterdLonglist = longlist.filter(d =>
+  (typeFilter === "Alle" || d.type === typeFilter) &&
+  top5Filter.includes(d.in_top5) &&
+  bruikbaarheidFilter.includes(d.direct_bruikbaar_voor_team)
+)
+```
+
+---
+
+**Over de longlist**
+
+20 onderzochte tools, gescoord op gebruikersaantal, universitaire adoptie, academische citaties en type. De top 5 zijn direct inzetbaar voor het team.
+
+## Row {height="14%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools onderzocht"
+//| icon: binoculars
+//| color: primary
+longlist.length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "In top 5"
+//| icon: trophy
+//| color: success
+longlist.filter(d => d.in_top5 === "Ja").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Zichtbaar na filter"
+//| icon: funnel
+//| color: secondary
+gefilterdLonglist.length
+```
+
+## Row
+
+```{ojs}
+{
+  if (gefilterdLonglist.length === 0)
+    return html`<p style="color:#888;padding:2rem;">Geen tools voor deze filters.</p>`
+
+  const top5Kleur = { "Ja": "#198754", "Nee": "#6c757d" }
+
+  return html`
+    <div style="padding: 1rem;">
+      <div class="table-responsive">
+        <table class="table table-hover align-middle" style="font-size: 0.88rem;">
+          <thead class="table-light">
+            <tr>
+              <th style="width:130px;">Tool</th>
+              <th style="width:140px;">Type</th>
+              <th>Waarvoor</th>
+              <th style="width:90px;">Gebruikers</th>
+              <th style="width:80px;">Top 5</th>
+              <th style="width:80px;">Bruikbaar</th>
+              <th style="width:100px;">Kosten</th>
+              <th style="width:180px;">Reden selectie / afwijzing</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${gefilterdLonglist.map(t => html`
+              <tr>
+                <td>
+                  <a href="https://${t.link}" target="_blank" rel="noopener"
+                     style="font-weight:600; text-decoration:none;">
+                    ${t.toolnaam} ↗
+                  </a>
+                </td>
+                <td><span class="badge bg-light text-dark border">${t.type}</span></td>
+                <td style="color:#444;">${t.waarvoor}</td>
+                <td style="color:#555;">${t.gebruikers ?? "—"}</td>
+                <td>
+                  <span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'}">
+                    ${t.in_top5}
+                  </span>
+                </td>
+                <td>
+                  <span class="badge bg-${t.direct_bruikbaar_voor_team === "Ja" ? "success" : t.direct_bruikbaar_voor_team === "In pilotfase" ? "warning" : "secondary"}">
+                    ${t.direct_bruikbaar_voor_team}
+                  </span>
+                </td>
+                <td style="color:#555;">${t.kosten ?? "—"}</td>
+                <td style="color:#666; font-size:0.82rem;">${t.reden_selectie_of_afwijzing ?? "—"}</td>
+              </tr>
+            `)}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  `
+}
+```
+
+## Row
+
+```{ojs}
+{
+  if (longlist.length === 0) return html`<p style="color:#888;">Geen data.</p>`
+
+  const typeCounts = d3.rollups(longlist, v => v.length, d => d.type)
+    .map(([type, count]) => ({ type, count }))
+    .sort((a, b) => b.count - a.count)
+
+  return Plot.plot({
+    marginLeft: 200,
+    marginRight: 40,
+    style: { fontSize: 12 },
+    marks: [
+      Plot.barX(typeCounts, {
+        x: "count",
+        y: "type",
+        fill: d => longlist.some(t => t.type === d.type && t.in_top5 === "Ja") ? "#198754" : "#6c757d",
+        sort: { y: "x", reverse: true },
+        rx: 4
+      }),
+      Plot.text(typeCounts, {
+        x: "count",
+        y: "type",
+        text: d => String(d.count),
+        dx: 10,
+        fill: "#333",
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" },
+    y: { label: null },
+    title: "Verdeling per type (groen = type met top 5 tool)"
+  })
 }
 ```
