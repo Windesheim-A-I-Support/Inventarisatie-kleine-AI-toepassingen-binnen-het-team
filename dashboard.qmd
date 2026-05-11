@@ -270,7 +270,12 @@ tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
               <div class="card-header d-flex justify-content-between align-items-start py-3"
                    style="background: #f8f9fa; border-bottom: 2px solid #e9ecef;">
                 <div>
-                  <h5 class="mb-0 fw-bold">${t.toolnaam}</h5>
+                  <h5 class="mb-0 fw-bold">
+                    <a href="https://${t.link}" target="_blank" rel="noopener"
+                       style="color: inherit; text-decoration: none;">
+                      ${t.toolnaam} ↗
+                    </a>
+                  </h5>
                   <small class="text-muted">${t.universiteit_of_bron}</small>
                 </div>
                 <div class="d-flex flex-column align-items-end gap-1">
@@ -287,16 +292,12 @@ tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
                 <p class="mb-3">${t.waarvoor}</p>
 
                 <div class="mb-2">
-                  <span class="fw-semibold">
-                    <i class="bi bi-mortarboard"></i> Academische inbedding
-                  </span><br>
+                  <span class="fw-semibold">&#127979; Academische inbedding</span><br>
                   <span class="text-muted">${t.academische_inbedding ?? "—"}</span>
                 </div>
 
                 <div class="mb-2">
-                  <span class="fw-semibold">
-                    <i class="bi bi-shield-check"></i> Privacy & data
-                  </span><br>
+                  <span class="fw-semibold">&#128274; Privacy & data</span><br>
                   <span class="text-muted">${t.data_en_privacy ?? "—"}</span>
                 </div>
 
@@ -308,8 +309,8 @@ tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
 
               <div class="card-footer bg-white border-top-0 pt-0 pb-3 px-3">
                 <a href="https://${t.link}" target="_blank" rel="noopener"
-                   class="btn btn-sm btn-outline-primary">
-                  <i class="bi bi-box-arrow-up-right"></i> Bekijk tool
+                   class="btn btn-sm btn-primary">
+                  Bekijk tool ↗
                 </a>
               </div>
 
