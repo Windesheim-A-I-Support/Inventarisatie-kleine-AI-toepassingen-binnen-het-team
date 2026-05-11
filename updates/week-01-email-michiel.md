@@ -60,17 +60,45 @@ Sterkste signaal: "[letterlijke uitspraak]"
 
 ## AI-tools die andere universiteiten gebruiken
 
-Dit zijn geen aanbevelingen voor grote implementaties. Het zijn tools die we morgen al zouden kunnen proberen.
+Dit zijn geen aanbevelingen voor grote implementaties. Het zijn tools die we morgen al zouden kunnen proberen. Geordend van sterkste universitaire verankering naar breed gebruik.
 
 ---
 
-### 1. Elicit
+### 1. ASReview - Universiteit Utrecht
+
+**Wat:** Open-source AI-tool voor het screenen van grote hoeveelheden wetenschappelijke literatuur. Gebruikt active learning: de AI leert van jouw keuzes en prioriteert steeds beter.
+
+**Waarvoor bruikbaar:** Systematische reviews, meta-analyses, en elke situatie waarbij je grote hoeveelheden tekst moet doorzoeken en filteren op relevantie.
+
+**Universitaire inbedding:** Ontwikkeld door de Universiteit Utrecht (Methodology and Statistics). Gepubliceerd in Nature Machine Intelligence. Volledig open source (Apache 2.0 licentie, op GitHub). Geen gebruikersdata verzameld. In mei 2025 uitgebracht als versie 2.0 met multi-expert samenwerking.
+
+**Direct inzetbaar:** Ja. Gratis, open source, lokaal te draaien.
+
+**Link:** asreview.nl / github.com/asreview/asreview
+
+---
+
+### 2. SURF AI-hub / EduGenAI
+
+**Wat:** Nederlandse sovereign AI-omgeving voor onderwijs en onderzoek. Veilige toegang tot open-source en commerciele taalmodellen via Nederlandse infrastructuur.
+
+**Waarvoor bruikbaar:** Veilig gebruik van AI-modellen zonder data bij grote Amerikaanse techbedrijven. Basis voor eigen AI-toepassingen binnen een instelling.
+
+**Universitaire inbedding:** Opgezet door SURF, de ICT-samenwerkingsorganisatie van alle Nederlandse universiteiten en hogescholen. DPIA is uitgevoerd en gepubliceerd. Pilot loopt bij Universiteit Twente, Universiteit Utrecht en andere instellingen.
+
+**Direct inzetbaar:** In pilotfase. Breed beschikbaar verwacht eind 2026. Nu al toegang aanvragen via instelling.
+
+**Link:** surf.nl/en/themes/artificial-intelligence
+
+---
+
+### 3. Elicit
 
 **Wat:** AI-assistent voor wetenschappelijk literatuuronderzoek. Zoekt, vat samen en extraheert data uit meer dan 125 miljoen wetenschappelijke artikelen.
 
-**Waarvoor bruikbaar:** Snel relevante papers vinden, samenvatten, vergelijken. Vragen stellen aan wetenschappelijke literatuur.
+**Waarvoor bruikbaar:** Snel relevante papers vinden op basis van een onderzoeksvraag, samenvatten, vergelijken, data extraheren.
 
-**Universitaire inbedding:** Breed gebruikt in de academische wereld, meer dan 2 miljoen onderzoekers wereldwijd. Getoetst door Jisc (Britse equivalent van SURF). GDPR-compliant, verwerkersovereenkomst beschikbaar.
+**Universitaire inbedding:** Oregon State University biedt de betaalde versie aan via de universiteitsbibliotheek. Library guides bij: Ohio State University, University of Arizona, Baylor University, Deakin University (Australie). Meer dan 2 miljoen gebruikers wereldwijd. GDPR-compliant, verwerkersovereenkomst beschikbaar.
 
 **Direct inzetbaar:** Ja. Gratis basisversie beschikbaar.
 
@@ -78,13 +106,13 @@ Dit zijn geen aanbevelingen voor grote implementaties. Het zijn tools die we mor
 
 ---
 
-### 2. Consensus
+### 4. Consensus
 
-**Wat:** Zoekmotor die uitsluitend peer-reviewed bronnen gebruikt. Geeft bij elke bewering een indicatie van wetenschappelijke consensus.
+**Wat:** Zoekmotor die uitsluitend peer-reviewed bronnen gebruikt. Geeft per bewering een indicatie van wetenschappelijke consensus.
 
-**Waarvoor bruikbaar:** Onderzoeksvragen beantwoorden met directe bronverwijzingen. Snel checken wat de stand van wetenschap is over een onderwerp.
+**Waarvoor bruikbaar:** Onderzoeksvragen beantwoorden met directe bronverwijzingen. Snel de stand van wetenschap checken over een onderwerp.
 
-**Universitaire inbedding:** Uitsluitend peer-reviewed bronnen. Publicatie-analyses gepubliceerd in PMC (PubMed Central). Breed aangeraden in universitaire bibliotheekgidsen.
+**Universitaire inbedding:** Meer dan 5.000 universiteiten wereldwijd gebruiken het, waaronder Princeton, Northwestern, UCLA, Stanford, University of Michigan en Harvard (vermeld op hun site). Universiteitsbrede abonnementen bij University of St. Thomas en St. Catherine University. Library guides bij Oregon State, Ohio University en Oklahoma State.
 
 **Direct inzetbaar:** Ja. Gratis basisversie beschikbaar.
 
@@ -92,31 +120,17 @@ Dit zijn geen aanbevelingen voor grote implementaties. Het zijn tools die we mor
 
 ---
 
-### 3. ResearchRabbit
+### 5. ResearchRabbit
 
-**Wat:** Gratis tool die verbanden tussen wetenschappelijke papers en auteurs visualiseert. Helpt een onderzoekslandschap snel in kaart brengen.
+**Wat:** Gratis tool die verbanden tussen wetenschappelijke papers en auteurs visualiseert.
 
-**Waarvoor bruikbaar:** Literatuuronderzoek starten, verwante papers ontdekken, co-auteurnetwerken zien.
+**Waarvoor bruikbaar:** Literatuuronderzoek opstarten, verwante papers ontdekken, co-auteurnetwerken zien.
 
-**Universitaire inbedding:** Gratis en breed gebruikt in de academische wereld. Aanbevolen in bibliotheekgidsen van o.a. University at Buffalo en Texas A&M.
+**Universitaire inbedding:** Library guides bij University at Buffalo, Penn State University, University of Texas at Austin, UC Merced, Trinity University en Deakin University.
 
 **Direct inzetbaar:** Ja. Volledig gratis.
 
 **Link:** researchrabbit.ai
-
----
-
-### 4. SURF AI-hub / EduGenAI
-
-**Wat:** Nederlandse sovereign AI-omgeving voor onderwijs en onderzoek. Biedt veilige toegang tot zowel open-source als commerciele taalmodellen via een eigen infrastructuur.
-
-**Waarvoor bruikbaar:** Veilig gebruik van AI-modellen zonder data bij grote Amerikaanse techbedrijven. Basis voor eigen AI-toepassingen binnen een instelling.
-
-**Universitaire inbedding:** Opgezet door SURF, de ICT-samenwerkingsorganisatie van alle Nederlandse universiteiten en hogescholen. DPIA is uitgevoerd en gepubliceerd. Pilot loopt bij meerdere universiteiten, waaronder Universiteit Twente en Utrecht.
-
-**Direct inzetbaar:** In pilotfase. Breed beschikbaar verwacht eind 2026. Toegang via instelling aanvragen.
-
-**Link:** surf.nl/en/themes/artificial-intelligence
 
 ---
 
