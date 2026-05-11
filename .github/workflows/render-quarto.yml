@@ -31,6 +31,9 @@ jobs:
       - name: Render website
         run: quarto render --to html
 
+      - name: Render dashboard
+        run: quarto render dashboard.qmd
+
       - name: Render DOCX documents
         run: |
           mkdir -p _site/downloads

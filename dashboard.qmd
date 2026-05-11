@@ -20,24 +20,41 @@ tools     = FileAttachment("data/tools.csv").csv({ typed: true })
 ## {.sidebar}
 
 ```{ojs}
-werkprocessen = ["Alle", ...new Set(radartjes.map(d => d.werkproces)).values()]
+werkprocessen = ["Alle"].concat(
+  Array.from(new Set(radartjes.map(d => d.werkproces))).filter(Boolean)
+)
 
 viewof werkprocesFilter = Inputs.select(werkprocessen, {
   label: "Werkproces",
   value: "Alle"
 })
+```
 
-gevoeligheidOpties = [...new Set(radartjes.map(d => d.gevoeligheid)).values()]
+```{ojs}
+gevoeligheidOpties = Array.from(
+  new Set(radartjes.map(d => d.gevoeligheid))
+).filter(Boolean)
 
-viewof gevoeligheidsFilter = Inputs.checkbox(gevoeligheidOpties, {
-  label: "Gevoeligheid",
-  value: gevoeligheidOpties
-})
+viewof gevoeligheidsFilter = Inputs.checkbox(
+  gevoeligheidOpties.length > 0 ? gevoeligheidOpties : ["Laag", "Midden", "Hoog"],
+  {
+    label: "Gevoeligheid",
+    value: gevoeligheidOpties.length > 0 ? gevoeligheidOpties : ["Laag", "Midden", "Hoog"]
+  }
+)
+```
+
+```{ojs}
+//| output: false
+gefilterd = radartjes.filter(d =>
+  (werkprocesFilter === "Alle" || d.werkproces === werkprocesFilter) &&
+  (gevoeligheidsFilter.length === 0 || gevoeligheidsFilter.includes(d.gevoeligheid))
+)
 ```
 
 ---
 
-**Over dit dashboard**
+**Toelichting**
 
 Vult zich automatisch na elk interview. Voeg een rij toe aan `data/radartjes.csv` en push naar `main`.
 
@@ -65,23 +82,16 @@ gefilterd.length
 //| icon: arrow-repeat
 //| color: info
 {
+  if (gefilterd.length === 0) return "—"
   const counts = d3.rollups(gefilterd, v => v.length, d => d.werkproces)
     .sort((a, b) => b[1] - a[1])
-  counts.length > 0 ? counts[0][0] : "—"
+  return counts.length > 0 ? counts[0][0] : "—"
 }
 ```
 
 ## Row {.tabset}
 
-### Overzicht
-
-```{ojs}
-//| output: false
-gefilterd = radartjes.filter(d =>
-  (werkprocesFilter === "Alle" || d.werkproces === werkprocesFilter) &&
-  gevoeligheidsFilter.includes(d.gevoeligheid)
-)
-```
+### Tabel
 
 ```{ojs}
 gefilterd.length > 0
@@ -99,82 +109,81 @@ gefilterd.length > 0
       reverse: true,
       width: { klein_radartje: 300 }
     })
-  : html`<p style="color:#888;padding:2rem;">Geen radartjes gevonden voor deze filters.</p>`
+  : html`<p style="color:#888;padding:2rem;">Geen radartjes voor deze filters. Vul <code>data/radartjes.csv</code> na elk interview.</p>`
 ```
 
 ### Per werkproces
 
 ```{ojs}
-gefilterd.length > 0
-  ? Plot.plot({
-      marginLeft: 180,
-      marginRight: 20,
-      style: { fontSize: 13 },
-      marks: [
-        Plot.barX(
-          d3.rollups(gefilterd, v => v.length, d => d.werkproces)
-            .map(([werkproces, count]) => ({ werkproces, count })),
-          {
-            x: "count",
-            y: "werkproces",
-            fill: "#0d6efd",
-            sort: { y: "x", reverse: true },
-            rx: 4
-          }
-        ),
-        Plot.text(
-          d3.rollups(gefilterd, v => v.length, d => d.werkproces)
-            .map(([werkproces, count]) => ({ werkproces, count })),
-          {
-            x: "count",
-            y: "werkproces",
-            text: d => String(d.count),
-            dx: 8,
-            fill: "#333",
-            sort: { y: "x", reverse: true }
-          }
-        ),
-        Plot.ruleX([0])
-      ],
-      x: { label: "Aantal radartjes", tickFormat: d => Number.isInteger(d) ? d : "" },
-      y: { label: null }
-    })
-  : html`<p style="color:#888;padding:2rem;">Geen data.</p>`
+{
+  if (gefilterd.length === 0)
+    return html`<p style="color:#888;padding:2rem;">Geen data.</p>`
+
+  const data = d3.rollups(gefilterd, v => v.length, d => d.werkproces)
+    .map(([werkproces, count]) => ({ werkproces, count }))
+
+  return Plot.plot({
+    marginLeft: 180,
+    marginRight: 40,
+    style: { fontSize: 13 },
+    marks: [
+      Plot.barX(data, {
+        x: "count",
+        y: "werkproces",
+        fill: "#0d6efd",
+        sort: { y: "x", reverse: true },
+        rx: 4
+      }),
+      Plot.text(data, {
+        x: "count",
+        y: "werkproces",
+        text: d => String(d.count),
+        dx: 10,
+        fill: "#333",
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: { label: "Aantal radartjes", tickFormat: d => Number.isInteger(d) ? d : "" },
+    y: { label: null }
+  })
+}
 ```
 
 ### Per gevoeligheid
 
 ```{ojs}
 {
+  if (gefilterd.length === 0)
+    return html`<p style="color:#888;padding:2rem;">Geen data.</p>`
+
   const kleur = { "Laag": "#198754", "Midden": "#fd7e14", "Hoog": "#dc3545" }
   const data = d3.rollups(gefilterd, v => v.length, d => d.gevoeligheid)
     .map(([gevoeligheid, count]) => ({ gevoeligheid, count }))
 
-  return gefilterd.length > 0
-    ? Plot.plot({
-        marginBottom: 40,
-        style: { fontSize: 13 },
-        marks: [
-          Plot.barY(data, {
-            x: "gevoeligheid",
-            y: "count",
-            fill: d => kleur[d.gevoeligheid] ?? "#adb5bd",
-            rx: 4
-          }),
-          Plot.text(data, {
-            x: "gevoeligheid",
-            y: "count",
-            text: d => String(d.count),
-            dy: -8,
-            fill: "#333",
-            fontWeight: "bold"
-          }),
-          Plot.ruleY([0])
-        ],
-        x: { label: "Gevoeligheid" },
-        y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
-      })
-    : html`<p style="color:#888;padding:2rem;">Geen data.</p>`
+  return Plot.plot({
+    marginBottom: 40,
+    style: { fontSize: 13 },
+    marks: [
+      Plot.barY(data, {
+        x: "gevoeligheid",
+        y: "count",
+        fill: d => kleur[d.gevoeligheid] ?? "#adb5bd",
+        rx: 4
+      }),
+      Plot.text(data, {
+        x: "gevoeligheid",
+        y: "count",
+        text: d => String(d.count),
+        dy: -10,
+        fill: "#333",
+        fontWeight: "bold"
+      }),
+      Plot.ruleY([0])
+    ],
+    x: { label: "Gevoeligheid" },
+    y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
+  })
 }
 ```
 
@@ -195,12 +204,12 @@ tools.length > 0
         link: "Link"
       },
       width: {
-        toolnaam: 160,
+        toolnaam: 140,
         waarvoor: 260,
-        direct_bruikbaar_voor_team: 120,
-        universiteit_of_bron: 220,
-        kosten: 100,
-        link: 160
+        direct_bruikbaar_voor_team: 110,
+        universiteit_of_bron: 200,
+        kosten: 90,
+        link: 140
       },
       rows: 20
     })
