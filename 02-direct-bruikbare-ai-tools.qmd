@@ -6,8 +6,6 @@ Naast het ophalen van kleine AI-radartjes bij collega's is onderzocht welke AI-t
 
 Dit document beschrijft hoe dat onderzoek is uitgevoerd, welke criteria zijn gebruikt en wat de uitkomsten zijn.
 
----
-
 ## Onderzoeksaanpak
 
 Er zijn meer dan 20 tools onderzocht. Per tool is gezocht naar:
@@ -21,8 +19,6 @@ Er zijn meer dan 20 tools onderzocht. Per tool is gezocht naar:
 
 De bronnen zijn bibliotheekgidsen van universiteiten, PMC-publicaties, arXiv-papers, institutionele persberichten en de tools zelf.
 
----
-
 ## Selectiecriteria voor de top 5
 
 Een tool scoort hoog als:
@@ -33,8 +29,6 @@ Een tool scoort hoog als:
 4. **Onderscheidend type** — de top 5 vult elkaar aan, geen overlap
 5. **Direct inzetbaar** — gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel** — data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
-
----
 
 ## De longlist: 20 onderzochte tools
 
@@ -63,13 +57,11 @@ Een tool scoort hoog als:
 
 Het volledige overzicht met per tool de academische verankering, privacyanalyse en reden van selectie of afwijzing staat in het [dashboard](/dashboard.html).
 
----
-
 ## Top 5 selectie
 
 ### 1. Consensus
 
-**consensus.app** — Gratis basisversie
+**[consensus.app](https://consensus.app)** — Gratis basisversie
 
 Consensus beantwoordt onderzoeksvragen met uitsluitend peer-reviewed bronnen en geeft per bewering een evidence-score. Het zoekt in 220 miljoen+ papers en toont wetenschappelijke consensus op een manier die direct bruikbaar is voor zowel onderzoekers als beleidsmedewerkers.
 
@@ -77,11 +69,9 @@ Consensus beantwoordt onderzoeksvragen met uitsluitend peer-reviewed bronnen en 
 
 **Gebruikt bij:** Princeton, Stanford, Harvard, UCLA, Northwestern en meer dan 10.000 andere universiteiten wereldwijd.
 
----
-
 ### 2. Elicit
 
-**elicit.com** — Gratis basisversie, GDPR-compliant
+**[elicit.com](https://elicit.com)** — Gratis basisversie, GDPR-compliant
 
 Elicit zoekt literatuur op basis van een onderzoeksvraag, vat papers samen en extraheert data uit resultaten. Het zoekt in 125 miljoen papers.
 
@@ -89,11 +79,9 @@ Elicit zoekt literatuur op basis van een onderzoeksvraag, vat papers samen en ex
 
 **Gebruikt bij:** Oregon State University biedt de betaalde versie aan via de bibliotheek. Library guides bij Ohio State, University of Arizona, Baylor, Deakin University.
 
----
-
 ### 3. Scite
 
-**scite.ai** — Gratis basisversie
+**[scite.ai](https://scite.ai)** — Gratis basisversie
 
 Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *mentioning*. In plaats van alleen het aantal citaties te tonen, laat het zien of een paper positief of kritisch geciteerd wordt.
 
@@ -101,11 +89,9 @@ Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *men
 
 **Gebruikt bij:** Oregon State, University of Kansas, Clemson, Albert Einstein College of Medicine, University of Arizona.
 
----
-
 ### 4. ASReview
 
-**asreview.nl** — Volledig gratis, open source
+**[asreview.nl](https://asreview.nl)** — Volledig gratis, open source
 
 ASReview screent grote hoeveelheden literatuur voor systematische reviews via active learning AI. De AI leert van de keuzes van de reviewer en plaatst steeds relevantere papers naar voren. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
 
@@ -113,17 +99,13 @@ ASReview screent grote hoeveelheden literatuur voor systematische reviews via ac
 
 **Gemaakt door:** Universiteit Utrecht, afdeling Methodology and Statistics.
 
----
-
 ### 5. Semantic Scholar
 
-**semanticscholar.org** — Volledig gratis
+**[semanticscholar.org](https://semanticscholar.org)** — Volledig gratis
 
 Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties via AI-gestuurde zoekfuncties. Het is de onderliggende databron voor ResearchRabbit, Connected Papers, SciSpace en Litmaps.
 
 **Waarom geselecteerd:** Non-profit van Allen Institute for AI. Meer dan 7 miljoen maandelijkse gebruikers. Geen commercieel verdienmodel op gebruikersdata. De sterkste vrij beschikbare wetenschappelijke database, direct bruikbaar als zoekmachine en via open API. Integreert Crossref, PubMed en Unpaywall.
-
----
 
 ## Afgevallen tools: waarom niet
 
@@ -145,8 +127,6 @@ Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties vi
 
 **Iris.ai, Paperpal, Jenni.ai, SciSpace** — Minder sterke academische verankering of overlappend met betere alternatieven in de top 5.
 
----
-
 ## Hoe interviews de toolselectie verder informeren
 
 De toolselectie is gebaseerd op externe criteria. Interviews met collega's voegen een laag toe: welke tools worden al gebruikt, wat werkt goed, en voor welke werkprocessen is de behoefte het grootst?
@@ -154,8 +134,6 @@ De toolselectie is gebaseerd op externe criteria. Interviews met collega's voege
 Het dashboard koppelt deze twee bronnen automatisch: zodra een collega een tool noemt in een interview, wordt die tool hoger geplaatst in het overzicht en gemarkeerd als "al in gebruik bij collega's."
 
 De top 3 voor directe inzet wordt pas definitief bepaald na de eerste ronde interviews.
-
----
 
 ## Demo's
 
