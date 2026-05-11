@@ -11,6 +11,7 @@ project:
 website:
   title: "Inventarisatie kleine AI-toepassingen"
   navbar:
+    logo: "Windesheim Ai Survey.png"
     left:
       - href: index.qmd
         text: Home
