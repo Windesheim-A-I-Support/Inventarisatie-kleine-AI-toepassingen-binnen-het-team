@@ -23,12 +23,12 @@ De bronnen zijn bibliotheekgidsen van universiteiten, PMC-publicaties, arXiv-pap
 
 Een tool scoort hoog als:
 
-1. **Universitaire adoptie** — meerdere universiteiten gebruiken de tool aantoonbaar, bij voorkeur via een institutioneel abonnement of library guide
-2. **Academische verankering** — de tool is zelf beoordeeld of geciteerd in peer-reviewed onderzoek
-3. **Gebruikersaantal** — een grote actieve gebruikersbasis duidt op volwassenheid en betrouwbaarheid
-4. **Onderscheidend type** — de top 5 vult elkaar aan, geen overlap
-5. **Direct inzetbaar** — gratis basisversie beschikbaar, geen lange onboarding
-6. **Privacy acceptabel** — data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
+1. **Universitaire adoptie**: meerdere universiteiten gebruiken de tool aantoonbaar, bij voorkeur via een institutioneel abonnement of library guide
+2. **Academische verankering**: de tool is zelf beoordeeld of geciteerd in peer-reviewed onderzoek
+3. **Gebruikersaantal**: een grote actieve gebruikersbasis duidt op volwassenheid en betrouwbaarheid
+4. **Onderscheidend type**: de top 5 vult elkaar aan, geen overlap
+5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
+6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
 ## De longlist: 20 onderzochte tools
 
@@ -61,17 +61,17 @@ Het volledige overzicht met per tool de academische verankering, privacyanalyse 
 
 ### 1. Consensus
 
-**[consensus.app](https://consensus.app)** — Gratis basisversie
+**[consensus.app](https://consensus.app)**: Gratis basisversie
 
 Consensus beantwoordt onderzoeksvragen met uitsluitend peer-reviewed bronnen en geeft per bewering een evidence-score. Het zoekt in 220 miljoen+ papers en toont wetenschappelijke consensus op een manier die direct bruikbaar is voor zowel onderzoekers als beleidsmedewerkers.
 
-**Waarom geselecteerd:** Sterkste universitaire adoptie van alle onderzochte tools. Meer dan 5 miljoen gebruikers, universiteitsbrede abonnementen bij meerdere instellingen, gepubliceerd in PMC (2025). Het zoekt uitsluitend in peer-reviewed bronnen — geen Wikipedia, geen blogs. Uniek ten opzichte van andere tools op de lijst.
+**Waarom geselecteerd:** Sterkste universitaire adoptie van alle onderzochte tools. Meer dan 5 miljoen gebruikers, universiteitsbrede abonnementen bij meerdere instellingen, gepubliceerd in PMC (2025). Het zoekt uitsluitend in peer-reviewed bronnen: geen Wikipedia, geen blogs. Uniek ten opzichte van andere tools op de lijst.
 
 **Gebruikt bij:** Princeton, Stanford, Harvard, UCLA, Northwestern en meer dan 10.000 andere universiteiten wereldwijd.
 
 ### 2. Elicit
 
-**[elicit.com](https://elicit.com)** — Gratis basisversie, GDPR-compliant
+**[elicit.com](https://elicit.com)**: Gratis basisversie, GDPR-compliant
 
 Elicit zoekt literatuur op basis van een onderzoeksvraag, vat papers samen en extraheert data uit resultaten. Het zoekt in 125 miljoen papers.
 
@@ -81,7 +81,7 @@ Elicit zoekt literatuur op basis van een onderzoeksvraag, vat papers samen en ex
 
 ### 3. Scite
 
-**[scite.ai](https://scite.ai)** — Gratis basisversie
+**[scite.ai](https://scite.ai)**: Gratis basisversie
 
 Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *mentioning*. In plaats van alleen het aantal citaties te tonen, laat het zien of een paper positief of kritisch geciteerd wordt.
 
@@ -91,7 +91,7 @@ Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *men
 
 ### 4. ASReview
 
-**[asreview.nl](https://asreview.nl)** — Volledig gratis, open source
+**[asreview.nl](https://asreview.nl)**: Volledig gratis, open source
 
 ASReview screent grote hoeveelheden literatuur voor systematische reviews via active learning AI. De AI leert van de keuzes van de reviewer en plaatst steeds relevantere papers naar voren. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
 
@@ -101,7 +101,7 @@ ASReview screent grote hoeveelheden literatuur voor systematische reviews via ac
 
 ### 5. Semantic Scholar
 
-**[semanticscholar.org](https://semanticscholar.org)** — Volledig gratis
+**[semanticscholar.org](https://semanticscholar.org)**: Volledig gratis
 
 Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties via AI-gestuurde zoekfuncties. Het is de onderliggende databron voor ResearchRabbit, Connected Papers, SciSpace en Litmaps.
 
@@ -109,23 +109,23 @@ Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties vi
 
 ## Afgevallen tools: waarom niet
 
-**Litmaps** — Sterke tool voor visualisatie van citatienetwerken, maar overlappend met Connected Papers en ResearchRabbit. Na de overname van ResearchRabbit in mei 2025 de sterkste in dit segment, maar niet onderscheidend genoeg ten opzichte van de top 5.
+**Litmaps**: Sterke tool voor visualisatie van citatienetwerken, maar overlappend met Connected Papers en ResearchRabbit. Na de overname van ResearchRabbit in mei 2025 de sterkste in dit segment, maar niet onderscheidend genoeg ten opzichte van de top 5.
 
-**ResearchRabbit** — Overgenomen door Litmaps in mei 2025 en opnieuw gelanceerd als freemium platform. Minder stabiel voor langetermijngebruik.
+**ResearchRabbit**: Overgenomen door Litmaps in mei 2025 en opnieuw gelanceerd als freemium platform. Minder stabiel voor langetermijngebruik.
 
-**NotebookLM** — Brede adoptie (17M MAU), maar Google-eigendom brengt privacyrisico's voor vertrouwelijke data. Zoekt niet zelfstandig in wetenschappelijke literatuur.
+**NotebookLM**: Brede adoptie (17M MAU), maar Google-eigendom brengt privacyrisico's voor vertrouwelijke data. Zoekt niet zelfstandig in wetenschappelijke literatuur.
 
-**Perplexity AI** — Mixt wetenschappelijke en niet-wetenschappelijke bronnen. Minder geschikt voor onderzoek dat uitsluitend op peer-reviewed literatuur wil steunen.
+**Perplexity AI**: Mixt wetenschappelijke en niet-wetenschappelijke bronnen. Minder geschikt voor onderzoek dat uitsluitend op peer-reviewed literatuur wil steunen.
 
-**Zotero en Mendeley** — Referentiemanagers, geen AI-zoekmachines. Aanvullend aan de top 5 maar ander type tool. Zotero is open source en sterk aanbevolen als aanvulling.
+**Zotero en Mendeley**: Referentiemanagers, geen AI-zoekmachines. Aanvullend aan de top 5 maar ander type tool. Zotero is open source en sterk aanbevolen als aanvulling.
 
-**SURF AI-hub / EduGenAI** — Veelbelovend voor de langere termijn (data in Nederland, DPIA gepubliceerd, alle 14 NL universiteiten en hogescholen), maar nog in pilotfase. Breed beschikbaar eind 2026.
+**SURF AI-hub / EduGenAI**: Veelbelovend voor de langere termijn (data in Nederland, DPIA gepubliceerd, alle 14 NL universiteiten en hogescholen), maar nog in pilotfase. Breed beschikbaar eind 2026.
 
-**Whisper (lokaal)** — Ander type tool (transcriptie). Sterk aanvullend voor vergaderingen en interviews, maar buiten scope van literatuurreview.
+**Whisper (lokaal)**: Ander type tool (transcriptie). Sterk aanvullend voor vergaderingen en interviews, maar buiten scope van literatuurreview.
 
-**OpenAlex** — Database en API, geen directe eindgebruikersinterface. Relevant voor bibliometrische analyse maar niet direct inzetbaar zonder technische kennis.
+**OpenAlex**: Database en API, geen directe eindgebruikersinterface. Relevant voor bibliometrische analyse maar niet direct inzetbaar zonder technische kennis.
 
-**Iris.ai, Paperpal, Jenni.ai, SciSpace** — Minder sterke academische verankering of overlappend met betere alternatieven in de top 5.
+**Iris.ai, Paperpal, Jenni.ai, SciSpace**: Minder sterke academische verankering of overlappend met betere alternatieven in de top 5.
 
 ## Hoe interviews de toolselectie verder informeren
 
