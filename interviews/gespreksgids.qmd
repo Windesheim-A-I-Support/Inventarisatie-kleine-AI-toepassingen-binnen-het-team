@@ -2,102 +2,117 @@
 title: "Gespreksgids: kleine AI-radartjes ophalen"
 ---
 
-## Doel van dit gesprek
+## Doel
 
-Ophalen waar AI kleine onderdelen van het werk kan ondersteunen.
+Kleine, concrete werkonderdelen blootleggen waar AI mogelijk iets mee kan. Geen AI-gesprek. Een werkgesprek.
 
-**Niet doen:** oplossingen aandragen, tools aanbevelen, verbanden leggen.
+**Niet doen:** AI noemen als oplossing, suggereren, invullen, verbanden leggen.
 
-**Wel doen:** luisteren, doorvragen, kleine werkonderdelen blootleggen.
+**Wel doen:** luisteren, terugvragen met hun eigen woorden, stilte laten vallen.
+
+---
+
+## Houding tijdens het gesprek
+
+Mensen weten niet wat een goed AI-gebruik is. Directe vragen daarover leveren clichés op. Je vindt de radartjes niet door te vragen waar AI kan helpen — je vindt ze door goed te luisteren naar hoe iemand werkt.
+
+Let op deze signalen:
+
+- "Ik doe altijd..." — herhaling, mogelijk automatiseerbaar
+- "Dat kost me echt uren..." — tijdskosten
+- "Ik heb zelf een trucje bedacht..." — workaround, sterkste pijnsignaal
+- "Eigenlijk lees ik dat niet helemaal..." — kwaliteitscompromis
+- "Ik moet dat steeds weer opzoeken..." — retrieval
+- "Ik stuur dan altijd hetzelfde soort bericht..." — templating
 
 ---
 
 ## Opening
 
-> "Ik ben bezig met een inventarisatie van kleine AI-toepassingen binnen ons team. Geen grote strategie, gewoon ophalen wat er leeft. Ik stel je wat vragen en noteer mee. Er zijn geen goede of foute antwoorden."
+> "Ik ben bezig met een inventarisatie van kleine AI-toepassingen binnen het team. Geen grote strategie, gewoon ophalen wat er speelt. Ik stel je een paar vragen en luister. Er zijn geen goede of foute antwoorden."
 
 ---
 
-## Vragen
+## De 7 vragen
 
-### 1. Warming up: breng het gesprek naar concreet werk
+### 1. Walk-through
 
-> "Beschrijf eens je werkdag van gisteren, van begin tot eind. Wat deed je?"
+> "Loop me eens door een recente werkdag heen, van begin tot eind. Wat deed je?"
 
-Laat de collega vertellen. Niet sturen. Noteer werkonderdelen die voorbijkomen.
+Laat ze vertellen. Onderbreek niet. Noteer elk werkonderdeel dat voorbijkomt als potentieel radartje.
 
-Doorvragen als iets vaag blijft:
+Gebruik als ze stoppen of vaag worden:
 
-- "Wat deed je daarna precies?"
-- "Hoe lang was je daar mee bezig?"
+- "En daarna?"
+- "Hoe lang was je daarmee bezig?"
 - "Hoe vaak doe je dat?"
 
 ---
 
-### 2. Tijdvreters: via frustratie, niet via abstractie
+### 2. Drill-down op wat ze noemden
 
-> "Was er iets deze week waarbij je dacht: dit kost me echt te veel tijd voor wat het oplevert?"
+Kies een of twee onderdelen uit de walk-through en ga er dieper op in.
 
-Doorvragen:
+> "Je zei dat je [X] doet. Hoe begint dat precies, wat doe je stap voor stap, en hoe eindigt het?"
 
-- "Wat deed je op dat moment precies?"
-- "Wat ging erin, wat moest er uitkomen?"
-- "Doe je dit vaker, of was dit uitzonderlijk?"
-
-> "Is er iets in je werk dat je eigenlijk met de handrem erop doet?"
+Gebruik hun eigen woorden, niet jouw interpretatie. Nooit invullen.
 
 ---
 
-### 3. Herhaling: zoek naar patronen
+### 3. Workaround-vraag
 
-> "Als je kijkt naar de afgelopen maand: welke taak heb je het vaakst op exact dezelfde manier uitgevoerd?"
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
 
-Doorvragen:
-
-- "Hoe ziet die taak eruit, stap voor stap?"
-- "Zijn er e-mails, documenten of berichten die je telkens op dezelfde manier opstelt of beantwoordt?"
-- "Kan iemand anders dit ook uitvoeren als jij er een duidelijke instructie bij geeft?"
-
----
-
-### 4. Informatie verwerken: de kern van veel AI-toepassingen
-
-> "Welke informatie krijg jij regelmatig binnen die je daarna moet verwerken, samenvatten of doorsturen?"
+Als ja: dit is een sterk signaal. Er is echte pijn, en ze hebben al nagedacht over een oplossing.
 
 Doorvragen:
 
-- "Wat doe je dan precies met die informatie?"
-- "Gebruik je het hele document, of zoek je eigenlijk alleen een paar dingen daarin?"
-- "Zijn er documenten of berichten die je eigenlijk maar half leest omdat je er geen tijd voor hebt?"
+- "Hoe ziet dat trucje eruit?"
+- "Waarom doe je het zo en niet anders?"
 
 ---
 
-### 5. Zoeken en uitzoeken
+### 4. Volume
 
-> "Als je iets moet uitzoeken voor je werk, hoe pak je dat aan? Wat doet dat met je tijd?"
+> "Hoeveel van dit soort [X] doe je per week, globaal?"
 
-Doorvragen:
-
-- "Waar zoek je dan?"
-- "Hoe lang duurt het voordat je hebt wat je nodig hebt?"
-- "Is er informatie die je eigenlijk zou willen bijhouden maar nu laat liggen?"
+Volume maakt een radartje concreet. Zonder volume weet je niet of het ertoe doet.
 
 ---
 
-### 6. Wat blijft liggen
+### 5. Herhaling
 
-> "Is er iets wat je eigenlijk zou willen doen in je werk, maar waar je nooit aan toekomt?"
+> "Doe je [X] elke keer op dezelfde manier, of verschilt het?"
 
-Doorvragen:
+Herhaling en voorspelbaarheid = automatiseerbaar. Grote variatie = moeilijker.
 
-- "Waarom komt het er niet van?"
-- "Wat zou er moeten veranderen om het wel te kunnen doen?"
+Doorvragen als het herhaalt:
+
+- "Zijn er ook berichten, documenten of verslagen die je telkens op dezelfde manier opstelt?"
 
 ---
 
-### 7. Gebruik van AI (afsluiter, niet opener)
+### 6. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Dit onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de kans.
+
+---
+
+### 7. De magische vraag
+
+> "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
+
+Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
+
+---
+
+### Afsluiter: AI-gebruik
 
 > "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Bewust als laatste. Eerst werk begrijpen, dan pas de kleur van de collega.
 
 Zo ja:
 
@@ -110,15 +125,16 @@ Zo nee:
 
 ---
 
-## Als er een radartje naar boven komt: afpellen
+## Radartje gevonden? Afpellen.
 
 | Vraag | Antwoord |
 |---|---|
 | Wat gaat er precies in? | |
 | Wat moet er uitkomen? | |
-| Hoe vaak? | |
-| Gevoeligheid van de informatie? | |
-| Huidige tool of werkwijze? | |
+| Hoe vaak per week? | |
+| Doet iedereen het hetzelfde of verschilt het? | |
+| Is de informatie gevoelig? | |
+| Wat gebruik je er nu voor? | |
 
 ---
 
@@ -126,11 +142,11 @@ Zo nee:
 
 **Kleine radartjes:**
 
-| Werkproces | Radartje | Gevoel van prioriteit |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+| Werkproces | Radartje | Volume | Gevoeligheid |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
 
 **Letterlijke uitspraken om te onthouden:**
 
