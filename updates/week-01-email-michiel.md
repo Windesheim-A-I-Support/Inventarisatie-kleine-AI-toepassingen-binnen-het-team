@@ -31,6 +31,8 @@ Kleine radartjes:
 - [radartje]
 - [radartje]
 
+Al in gebruik: [tools of "niets"]
+
 Sterkste signaal: "[letterlijke uitspraak]"
 
 ---
@@ -43,6 +45,8 @@ Kleine radartjes:
 
 - [radartje]
 - [radartje]
+
+Al in gebruik: [tools of "niets"]
 
 Sterkste signaal: "[letterlijke uitspraak]"
 
