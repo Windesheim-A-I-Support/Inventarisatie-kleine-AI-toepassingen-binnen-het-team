@@ -60,31 +60,31 @@ Sterkste signaal: "[letterlijke uitspraak]"
 
 ## Top 5 AI-tools die andere universiteiten gebruiken
 
-Ik heb een twaalftal tools onderzocht en op basis van academische verankering, directe bruikbaarheid, privacy en onderscheidende functie een top 5 samengesteld. Dit zijn geen overlappende tools: ze vullen elkaar aan.
+Ik heb meer dan twintig tools onderzocht en gescoord op vier criteria: hoeveelheid citaties in wetenschappelijk onderzoek, aantal universiteiten dat de tool gebruikt, aantal gebruikers, en type tool (zodat de vijf elkaar aanvullen). Dit zijn de uitkomsten.
 
 ---
 
-### 1. ASReview
+### 1. Consensus
 
-**Eigenaar:** Universiteit Utrecht
+**Eigenaar:** Commercieel — meer dan 10.000 universiteiten wereldwijd, waaronder Princeton, Stanford, Harvard, UCLA en Northwestern
 
-**Waarvoor:** Grote hoeveelheden literatuur screenen voor systematische reviews. De AI leert van jouw keuzes en prioriteert steeds beter.
+**Waarvoor:** Onderzoeksvragen beantwoorden met uitsluitend peer-reviewed bronnen. Geeft per bewering een evidence-score en toont wetenschappelijke consensus.
 
-**Waarom in de top 5:** Enige tool op deze lijst die eigendom is van een Nederlandse universiteit. Gepubliceerd in Nature Machine Intelligence. Volledig open source, lokaal te draaien, geen data naar buiten. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts.
+**Waarom in de top 5:** Sterkste universitaire adoptie van alle onderzochte tools. Meer dan 5 miljoen gebruikers. Universiteitsbrede abonnementen bij onder andere University of St. Thomas en St. Catherine University. Gepubliceerd in PMC (2025). Zoekt in 220 miljoen+ papers. Zoekt uitsluitend in peer-reviewed bronnen — geen Wikipedia of blogs.
 
-**Direct inzetbaar:** Ja. Gratis.
+**Direct inzetbaar:** Ja. Gratis basisversie.
 
-**Link:** asreview.nl
+**Link:** consensus.app
 
 ---
 
 ### 2. Elicit
 
-**Eigenaar:** Commercieel, meerdere universitaire abonnementen
+**Eigenaar:** Commercieel — meerdere universitaire abonnementen
 
 **Waarvoor:** Wetenschappelijke literatuur zoeken, samenvatten en data extraheren op basis van een onderzoeksvraag. Zoekt in 125 miljoen papers.
 
-**Waarom in de top 5:** Oregon State University biedt de betaalde versie aan via de bibliotheek. Library guides bij Ohio State, University of Arizona, Baylor en Deakin (Australie). Meer dan 2 miljoen gebruikers. GDPR-compliant, verwerkersovereenkomst beschikbaar.
+**Waarom in de top 5:** Sterkst gevalideerde tool voor literatuurreview. Oregon State University biedt de betaalde versie aan via de bibliotheek. Library guides bij Ohio State, University of Arizona, Baylor en Deakin. Meer dan 2 miljoen gebruikers. Enige tool met gepubliceerde recall-scores op Cochrane-reviews: 95% search recall, 97% abstract screening, 99% full-text screening. GDPR-compliant, verwerkersovereenkomst beschikbaar.
 
 **Direct inzetbaar:** Ja. Gratis basisversie.
 
@@ -94,11 +94,11 @@ Ik heb een twaalftal tools onderzocht en op basis van academische verankering, d
 
 ### 3. Scite
 
-**Eigenaar:** Commercieel, institutionele abonnementen bij meerdere universiteiten
+**Eigenaar:** Commercieel — institutionele abonnementen bij meerdere universiteiten
 
-**Waarvoor:** Citaties analyseren: niet alleen hoeveel keer iets geciteerd is, maar of dat positief of kritisch was. Classificeert 1,2 miljard citaties als "supporting", "contrasting" of "mentioning".
+**Waarvoor:** Citaties analyseren: niet alleen hoeveel keer iets geciteerd is, maar of dat positief of kritisch was. Classificeert 1,6 miljard citaties als "supporting", "contrasting" of "mentioning".
 
-**Waarom in de top 5:** Unieke functie die geen andere tool biedt. Institutionele abonnementen bij Oregon State, University of Kansas, Clemson, Albert Einstein College of Medicine en University of Arizona.
+**Waarom in de top 5:** Unieke functie die geen andere tool biedt: de context van citaties. Essentieel voor het beoordelen van de betrouwbaarheid van claims in literatuur. Meer dan 2 miljoen gebruikers. Partner van 30+ wetenschappelijke uitgevers. Institutionele abonnementen bij Oregon State, University of Kansas, Clemson, Albert Einstein College of Medicine en University of Arizona.
 
 **Direct inzetbaar:** Ja. Gratis basisversie.
 
@@ -106,31 +106,31 @@ Ik heb een twaalftal tools onderzocht en op basis van academische verankering, d
 
 ---
 
-### 4. Whisper (lokaal)
+### 4. ASReview
 
-**Eigenaar:** OpenAI (open source model) — lokale implementatie door Universiteit Groningen
+**Eigenaar:** Universiteit Utrecht
 
-**Waarvoor:** Vergaderingen en interviews automatisch transcriberen zonder data naar externe servers te sturen.
+**Waarvoor:** Grote hoeveelheden literatuur screenen voor systematische reviews via active learning AI. De AI leert van jouw keuzes en prioriteert steeds beter.
 
-**Waarom in de top 5:** Universiteit Groningen biedt dit al gratis aan voor alle medewerkers en studenten als volledig lokale dienst. Geen data verlaat de server. Sterkste privacypositie van alle transcriptietools. Direct relevant voor het ophalen van interviewverslagen.
+**Waarom in de top 5:** Enige tool op deze lijst die eigendom is van een Nederlandse universiteit. Gepubliceerd in Nature Machine Intelligence. Volledig open source (Apache 2.0), lokaal te draaien, geen data naar buiten. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
 
-**Direct inzetbaar:** Ja. Gratis, open source.
+**Direct inzetbaar:** Ja. Gratis.
 
-**Link:** github.com/openai/whisper / rug.nl/digital-competence-centre
+**Link:** asreview.nl
 
 ---
 
-### 5. SURF AI-hub / EduGenAI
+### 5. Semantic Scholar
 
-**Eigenaar:** SURF — ICT-samenwerkingsorganisatie van alle 14 Nederlandse universiteiten en hogescholen
+**Eigenaar:** Allen Institute for AI (non-profit)
 
-**Waarvoor:** Veilig gebruik van grote taalmodellen (open-source en commercieel) via Nederlandse infrastructuur. Basis voor eigen AI-toepassingen.
+**Waarvoor:** Wetenschappelijke literatuur zoeken en analyseren via AI. Gratis toegang tot 205 miljoen+ publicaties.
 
-**Waarom in de top 5:** Enige optie waarbij data gegarandeerd in Nederland blijft. DPIA uitgevoerd en gepubliceerd. Pilot actief bij Universiteit Twente en Utrecht. Breed beschikbaar eind 2026, nu al aan te vragen.
+**Waarom in de top 5:** Basis van het academisch AI-zoekecosysteem. Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende database voor ResearchRabbit, Connected Papers, SciSpace en Litmaps. Integreert metadata van Crossref, PubMed en Unpaywall. Non-profit, geen commercieel verdienmodel op gebruikersdata. Volledig gratis en beschikbaar via open API.
 
-**Direct inzetbaar:** In pilotfase.
+**Direct inzetbaar:** Ja. Volledig gratis.
 
-**Link:** surf.nl/en/themes/artificial-intelligence
+**Link:** semanticscholar.org
 
 ---
 
