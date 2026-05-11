@@ -1,0 +1,89 @@
+# Interview: Sara
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-11 |
+| Collega | Sara |
+| Rol | Onderzoeksondersteuner |
+| Gespreksvorm | Mondeling |
+| Duur | 30 minuten |
+
+## Doel van het gesprek
+
+Inventariseren waar kleine AI-toepassingen mogelijk kunnen helpen in het werk van de collega.
+
+Belangrijk: dit gesprek is bedoeld om op te halen, niet om oplossingen aan te dragen.
+
+## Vragen en antwoorden
+
+### 1. Gebruik je nu al AI in je werk?
+
+Antwoord: Ja, soms ChatGPT voor het herschrijven van teksten. Niet structureel, meer als er haast is.
+
+### 2. Waarvoor gebruik je het?
+
+Antwoord: Formulieren en e-mails die steeds hetzelfde patroon hebben. En een keer een samenvatting van een lang rapport gemaakt, dat werkte goed.
+
+### 3. Welke tools gebruik je eventueel zelf?
+
+Antwoord: ChatGPT. Verder Google Scholar voor literatuur zoeken.
+
+### 4. Welk klein onderdeel van je werk kost veel tijd?
+
+Antwoord: Literatuur doorzoeken voor een projectvoorstel. We zoeken dan op meerdere zoektermen, openen tientallen abstracts en proberen te filteren wat relevant is. Dat kost soms een hele middag.
+
+### 5. Waar zou AI volgens jou kunnen helpen?
+
+Antwoord: Als het zelf de abstracts kan lezen en zeggen welke relevant zijn op basis van onze vraag. Dat zou het meeste schelen.
+
+### 6. Welke input gaat erin?
+
+Antwoord: Een onderzoeksvraag en een lijst papers uit Google Scholar of PubMed.
+
+### 7. Welke output zou handig zijn?
+
+Antwoord: Een shortlist van papers met een korte toelichting waarom ze relevant zijn.
+
+### 8. Is de informatie gevoelig?
+
+Antwoord: Nee, het gaat om publieke wetenschappelijke literatuur.
+
+### 9. Wat zou morgen al nuttig zijn?
+
+Antwoord: Een tool waarmee je een onderzoeksvraag intypt en die automatisch relevante papers vindt en samenvat. Dan hoeven we niet alles handmatig te lezen.
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Input | Gewenste output | Gevoeligheid | Opmerking |
+|---|---|---|---|---|---|
+| Literatuuronderzoek | Automatisch abstracts screenen op relevantie | Onderzoeksvraag + lijst papers | Shortlist met toelichting | Laag | Hoge frequentie bij projectvoorstellen |
+| Rapportage | Samenvatting van lang rapport | PDF rapport | Kernpunten in 5-10 regels | Laag | Al zelf uitgeprobeerd, werkte goed |
+
+## Letterlijke signalen
+
+- "Dat kost soms een hele middag, terwijl ik eigenlijk maar 10 papers nodig heb."
+- "Als het zelf de abstracts kan lezen zou dat het meeste schelen."
+
+## Nog niet oplossen
+
+- Kijken of Elicit direct aansluit op de PubMed-workflow die Sara gebruikt.
+- Nagaan hoe groot de projectvoorstel-cyclus is: hoeveel keer per jaar doet Sara dit?
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Onderzoeksondersteuner, werkt aan projectvoorstellen en literatuuranalyse.
+
+**In het kort:** Collega besteedt veel tijd aan het handmatig doorzoeken van wetenschappelijke literatuur voor projectvoorstellen. Heeft al positieve ervaring met AI voor samenvattingen.
+
+**Kleine radartjes:**
+
+- Literatuuronderzoek: automatisch abstracts screenen op relevantie op basis van een onderzoeksvraag
+- Rapportage: lange rapporten samenvatten naar kernpunten
+
+**Al in gebruik:** ChatGPT (sporadisch, voor herschrijven en samenvatten), Google Scholar.
+
+**Sterkste signaal:** "Dat kost soms een hele middag, terwijl ik eigenlijk maar 10 papers nodig heb."

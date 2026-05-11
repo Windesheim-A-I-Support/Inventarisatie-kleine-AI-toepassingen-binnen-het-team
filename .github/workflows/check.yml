@@ -1,0 +1,30 @@
+name: Check Quarto build
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up TinyTeX for PDF
+        uses: r-lib/actions/setup-tinytex@v2
+
+      - name: Render website (check for errors)
+        run: quarto render --to html
+
+      - name: Render dashboard (check for errors)
+        run: quarto render dashboard.qmd
+
+      - name: Render gespreksgids PDF (check for errors)
+        run: quarto render interviews/gespreksgids.qmd --to pdf

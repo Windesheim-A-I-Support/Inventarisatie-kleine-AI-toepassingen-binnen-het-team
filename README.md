@@ -2,37 +2,16 @@
 
 **Live site:** https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/
 
-Dit project verzamelt kleine, concrete AI-toepassingen die collega’s binnen het team zelf zien in hun werk.
+Dit project brengt in kaart waar collega's binnen het team AI zinvol kunnen inzetten. Niet als grote strategie, maar als kleine concrete stappen: welke onderdelen van het werk kosten onnodig veel tijd, herhalen zich steeds, of leveren een kwaliteitscompromis op?
 
-Het doel is eerst goed inventariseren. Dus nog geen oplossingen aandragen, geen grote strategie maken en geen lange toolcatalogus bouwen.
+## Wat staat er op de site?
 
-## Aanleiding
+- **Over dit project:** aanleiding, top 5 tools en de inzichten die tot die selectie hebben geleid.
+- **Inventarisatie:** de interviewmethode en wat een goed AI-radartje is.
+- **Tools:** uitgebreide analyse van meer dan 20 onderzochte AI-tools met selectiecriteria.
+- **Dashboard:** live overzicht van gevonden radartjes per interview en tool-vergelijking.
+- **Updates:** wekelijkse stand van zaken.
 
-Uit het gesprek met Michiel kwam naar voren dat de focus moet liggen op kleine radartjes: concrete onderdelen van het werk waar AI mogelijk direct kan helpen.
+## Meedoen aan de inventarisatie
 
-Het gaat om twee praktische werksporen:
-
-1. Kleine AI-radartjes ophalen bij collega’s.
-2. Een paar direct bruikbare AI-tools vinden waar het team snel iets aan heeft.
-
-## Uitgangspunten
-
-- Eerst luisteren, dan pas duiden
-- Geen oplossingen aandragen tijdens de inventarisatie
-- Focus op kleine onderdelen van het werk
-- Focus op direct bruikbare tools
-- Waar mogelijk letten op academische of universitaire inbedding
-
-## Werken met dit project
-
-Render de website lokaal met:
-
-```bash
-quarto render
-```
-
-De HTML-site komt in `_site`. De GitHub Actions-workflow maakt daarnaast Word- en PDF-downloads in `_site/downloads` en publiceert `_site` via GitHub Pages.
-
-## Privacy
-
-Ruwe interviewnotities kunnen gevoelig zijn. Publiceer daarom alleen lege templates, geanonimiseerde samenvattingen of inhoud die expliciet openbaar mag zijn.
+Heb je 20-30 minuten voor een gesprek? Neem contact op. Het gesprek gaat niet over AI, maar over hoe je zelf werkt.
