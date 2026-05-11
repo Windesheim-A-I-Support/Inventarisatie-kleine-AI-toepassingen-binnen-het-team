@@ -58,79 +58,55 @@ Sterkste signaal: "[letterlijke uitspraak]"
 
 ---
 
-## Top 5 AI-tools die andere universiteiten gebruiken
+## Top 3 AI-tools die het team direct kan gebruiken
 
-Ik heb meer dan twintig tools onderzocht en gescoord op vier criteria: hoeveelheid citaties in wetenschappelijk onderzoek, aantal universiteiten dat de tool gebruikt, aantal gebruikers, en type tool (zodat de vijf elkaar aanvullen). Dit zijn de uitkomsten.
-
----
-
-### 1. Consensus
-
-**Eigenaar:** Commercieel — meer dan 10.000 universiteiten wereldwijd, waaronder Princeton, Stanford, Harvard, UCLA en Northwestern
-
-**Waarvoor:** Onderzoeksvragen beantwoorden met uitsluitend peer-reviewed bronnen. Geeft per bewering een evidence-score en toont wetenschappelijke consensus.
-
-**Waarom in de top 5:** Sterkste universitaire adoptie van alle onderzochte tools. Meer dan 5 miljoen gebruikers. Universiteitsbrede abonnementen bij onder andere University of St. Thomas en St. Catherine University. Gepubliceerd in PMC (2025). Zoekt in 220 miljoen+ papers. Zoekt uitsluitend in peer-reviewed bronnen — geen Wikipedia of blogs.
-
-**Direct inzetbaar:** Ja. Gratis basisversie.
-
-**Link:** consensus.app
+Ik heb meer dan twintig tools onderzocht. Dit zijn de drie die nu al bruikbaar zijn, de sterkste academische verankering hebben en het meest aansluiten op ons werk.
 
 ---
 
-### 2. Elicit
+### 1. Elicit
 
-**Eigenaar:** Commercieel — meerdere universitaire abonnementen
+Stel een onderzoeksvraag. Elicit zoekt in 125 miljoen wetenschappelijke papers, geeft samenvattingen en extraheert data. Gevalideerd op Cochrane-reviews: 95% trefkans.
 
-**Waarvoor:** Wetenschappelijke literatuur zoeken, samenvatten en data extraheren op basis van een onderzoeksvraag. Zoekt in 125 miljoen papers.
+Gebruikt door Oregon State University, Ohio State, University of Arizona, Baylor, Deakin University.
 
-**Waarom in de top 5:** Sterkst gevalideerde tool voor literatuurreview. Oregon State University biedt de betaalde versie aan via de bibliotheek. Library guides bij Ohio State, University of Arizona, Baylor en Deakin. Meer dan 2 miljoen gebruikers. Enige tool met gepubliceerde recall-scores op Cochrane-reviews: 95% search recall, 97% abstract screening, 99% full-text screening. GDPR-compliant, verwerkersovereenkomst beschikbaar.
+Gratis basisversie. GDPR-compliant.
 
-**Direct inzetbaar:** Ja. Gratis basisversie.
+**Link:** https://elicit.com
 
-**Link:** elicit.com
-
----
-
-### 3. Scite
-
-**Eigenaar:** Commercieel — institutionele abonnementen bij meerdere universiteiten
-
-**Waarvoor:** Citaties analyseren: niet alleen hoeveel keer iets geciteerd is, maar of dat positief of kritisch was. Classificeert 1,6 miljard citaties als "supporting", "contrasting" of "mentioning".
-
-**Waarom in de top 5:** Unieke functie die geen andere tool biedt: de context van citaties. Essentieel voor het beoordelen van de betrouwbaarheid van claims in literatuur. Meer dan 2 miljoen gebruikers. Partner van 30+ wetenschappelijke uitgevers. Institutionele abonnementen bij Oregon State, University of Kansas, Clemson, Albert Einstein College of Medicine en University of Arizona.
-
-**Direct inzetbaar:** Ja. Gratis basisversie.
-
-**Link:** scite.ai
+**Demo:** https://www.youtube.com/watch?v=rJJPS-EvNfk
 
 ---
 
-### 4. ASReview
+### 2. Consensus
 
-**Eigenaar:** Universiteit Utrecht
+Typ een vraag, krijg antwoord gebaseerd op peer-reviewed onderzoek. Elke bewering heeft een evidence-score. Zoekt uitsluitend in wetenschappelijke bronnen.
 
-**Waarvoor:** Grote hoeveelheden literatuur screenen voor systematische reviews via active learning AI. De AI leert van jouw keuzes en prioriteert steeds beter.
+Meer dan 5 miljoen gebruikers. 10.000+ universiteiten wereldwijd waaronder Harvard, Stanford en Princeton.
 
-**Waarom in de top 5:** Enige tool op deze lijst die eigendom is van een Nederlandse universiteit. Gepubliceerd in Nature Machine Intelligence. Volledig open source (Apache 2.0), lokaal te draaien, geen data naar buiten. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
+Gratis basisversie.
 
-**Direct inzetbaar:** Ja. Gratis.
+**Link:** https://consensus.app
 
-**Link:** asreview.nl
+**Demo:** https://www.youtube.com/watch?v=puKeOamRMzY
 
 ---
 
-### 5. Semantic Scholar
+### 3. ASReview
 
-**Eigenaar:** Allen Institute for AI (non-profit)
+Grote hoeveelheden literatuur screenen voor een systematische review. De AI leert van je keuzes en schuift relevante papers naar voren.
 
-**Waarvoor:** Wetenschappelijke literatuur zoeken en analyseren via AI. Gratis toegang tot 205 miljoen+ publicaties.
+Gemaakt door de Universiteit Utrecht. Gepubliceerd in Nature Machine Intelligence. Open source, lokaal te draaien, geen data naar buiten.
 
-**Waarom in de top 5:** Basis van het academisch AI-zoekecosysteem. Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende database voor ResearchRabbit, Connected Papers, SciSpace en Litmaps. Integreert metadata van Crossref, PubMed en Unpaywall. Non-profit, geen commercieel verdienmodel op gebruikersdata. Volledig gratis en beschikbaar via open API.
+Gratis.
 
-**Direct inzetbaar:** Ja. Volledig gratis.
+**Link:** https://asreview.nl
 
-**Link:** semanticscholar.org
+**Demo:** https://www.youtube.com/watch?v=eiqCjJxGBhw
+
+---
+
+Volledig overzicht van alle 20 onderzochte tools staat op het dashboard.
 
 ---
 
