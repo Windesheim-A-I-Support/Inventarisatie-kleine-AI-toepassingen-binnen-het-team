@@ -1,122 +1,208 @@
 ---
 title: "AI-inventarisatie"
-format: dashboard
+format:
+  dashboard:
+    theme: cosmo
+    nav-buttons:
+      - icon: github
+        href: https://github.com/Windesheim-A-I-Support/Inventarisatie-kleine-AI-toepassingen-binnen-het-team
+lang: nl
 ---
 
 ```{ojs}
 //| output: false
 radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
-tools = FileAttachment("data/tools.csv").csv({ typed: true })
-
-aantalCollega = new Set(radartjes.map(d => d.collega)).size
-aantalRadartjes = radartjes.length
-aantalTools = tools.length
+tools     = FileAttachment("data/tools.csv").csv({ typed: true })
 ```
+
+# Radartjes {orientation="rows"}
+
+## {.sidebar}
+
+```{ojs}
+werkprocessen = ["Alle", ...new Set(radartjes.map(d => d.werkproces)).values()]
+
+viewof werkprocesFilter = Inputs.select(werkprocessen, {
+  label: "Werkproces",
+  value: "Alle"
+})
+
+gevoeligheidOpties = [...new Set(radartjes.map(d => d.gevoeligheid)).values()]
+
+viewof gevoeligheidsFilter = Inputs.checkbox(gevoeligheidOpties, {
+  label: "Gevoeligheid",
+  value: gevoeligheidOpties
+})
+```
+
+---
+
+**Over dit dashboard**
+
+Vult zich automatisch na elk interview. Voeg een rij toe aan `data/radartjes.csv` en push naar `main`.
 
 ## Row {height="18%"}
 
 ```{ojs}
 //| content: valuebox
 //| title: "Collega's gesproken"
-//| icon: people
+//| icon: person-check
 //| color: primary
-aantalCollega
+new Set(radartjes.map(d => d.collega)).size
 ```
 
 ```{ojs}
 //| content: valuebox
 //| title: "Radartjes gevonden"
-//| icon: lightbulb
+//| icon: reception-4
 //| color: success
-aantalRadartjes
+gefilterd.length
 ```
 
 ```{ojs}
 //| content: valuebox
-//| title: "Tools geidentificeerd"
-//| icon: tools
-//| color: secondary
-aantalTools
+//| title: "Meest voorkomend"
+//| icon: arrow-repeat
+//| color: info
+{
+  const counts = d3.rollups(gefilterd, v => v.length, d => d.werkproces)
+    .sort((a, b) => b[1] - a[1])
+  counts.length > 0 ? counts[0][0] : "—"
+}
 ```
 
 ## Row {.tabset}
 
-### Radartjes
+### Overzicht
 
 ```{ojs}
-radartjes.length > 0
-  ? Inputs.table(radartjes, {
-      columns: ["datum", "collega", "rol", "werkproces", "klein_radartje", "frequentie", "gevoeligheid"],
+//| output: false
+gefilterd = radartjes.filter(d =>
+  (werkprocesFilter === "Alle" || d.werkproces === werkprocesFilter) &&
+  gevoeligheidsFilter.includes(d.gevoeligheid)
+)
+```
+
+```{ojs}
+gefilterd.length > 0
+  ? Inputs.table(gefilterd, {
+      columns: ["datum", "collega", "werkproces", "klein_radartje", "frequentie", "gevoeligheid"],
       header: {
         datum: "Datum",
         collega: "Collega",
-        rol: "Rol",
         werkproces: "Werkproces",
         klein_radartje: "Klein radartje",
         frequentie: "Frequentie",
         gevoeligheid: "Gevoeligheid"
       },
       sort: "datum",
-      reverse: true
+      reverse: true,
+      width: { klein_radartje: 300 }
     })
-  : html`<p style="color: #888; padding: 1rem;">Nog geen radartjes gevonden. Vul <code>data/radartjes.csv</code> na elk interview.</p>`
+  : html`<p style="color:#888;padding:2rem;">Geen radartjes gevonden voor deze filters.</p>`
 ```
 
 ### Per werkproces
 
 ```{ojs}
-radartjes.length > 0
+gefilterd.length > 0
   ? Plot.plot({
-      marginLeft: 200,
+      marginLeft: 180,
+      marginRight: 20,
+      style: { fontSize: 13 },
       marks: [
         Plot.barX(
-          d3.rollups(radartjes, v => v.length, d => d.werkproces)
+          d3.rollups(gefilterd, v => v.length, d => d.werkproces)
             .map(([werkproces, count]) => ({ werkproces, count })),
-          { x: "count", y: "werkproces", fill: "#4e79a7", sort: { y: "x", reverse: true } }
+          {
+            x: "count",
+            y: "werkproces",
+            fill: "#0d6efd",
+            sort: { y: "x", reverse: true },
+            rx: 4
+          }
+        ),
+        Plot.text(
+          d3.rollups(gefilterd, v => v.length, d => d.werkproces)
+            .map(([werkproces, count]) => ({ werkproces, count })),
+          {
+            x: "count",
+            y: "werkproces",
+            text: d => String(d.count),
+            dx: 8,
+            fill: "#333",
+            sort: { y: "x", reverse: true }
+          }
         ),
         Plot.ruleX([0])
       ],
       x: { label: "Aantal radartjes", tickFormat: d => Number.isInteger(d) ? d : "" },
       y: { label: null }
     })
-  : html`<p style="color: #888; padding: 1rem;">Nog geen data.</p>`
+  : html`<p style="color:#888;padding:2rem;">Geen data.</p>`
 ```
 
-### Gevoeligheid
+### Per gevoeligheid
 
 ```{ojs}
-radartjes.length > 0
-  ? Plot.plot({
-      marks: [
-        Plot.barY(
-          d3.rollups(radartjes, v => v.length, d => d.gevoeligheid)
-            .map(([gevoeligheid, count]) => ({ gevoeligheid, count })),
-          { x: "gevoeligheid", y: "count", fill: "#f28e2b" }
-        ),
-        Plot.ruleY([0])
-      ],
-      x: { label: "Gevoeligheid" },
-      y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
-    })
-  : html`<p style="color: #888; padding: 1rem;">Nog geen data.</p>`
+{
+  const kleur = { "Laag": "#198754", "Midden": "#fd7e14", "Hoog": "#dc3545" }
+  const data = d3.rollups(gefilterd, v => v.length, d => d.gevoeligheid)
+    .map(([gevoeligheid, count]) => ({ gevoeligheid, count }))
+
+  return gefilterd.length > 0
+    ? Plot.plot({
+        marginBottom: 40,
+        style: { fontSize: 13 },
+        marks: [
+          Plot.barY(data, {
+            x: "gevoeligheid",
+            y: "count",
+            fill: d => kleur[d.gevoeligheid] ?? "#adb5bd",
+            rx: 4
+          }),
+          Plot.text(data, {
+            x: "gevoeligheid",
+            y: "count",
+            text: d => String(d.count),
+            dy: -8,
+            fill: "#333",
+            fontWeight: "bold"
+          }),
+          Plot.ruleY([0])
+        ],
+        x: { label: "Gevoeligheid" },
+        y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
+      })
+    : html`<p style="color:#888;padding:2rem;">Geen data.</p>`
+}
 ```
 
-## Row
+# Tools
 
-### Tools {width="100%"}
+## Row {height="100%"}
 
 ```{ojs}
 tools.length > 0
   ? Inputs.table(tools, {
-      columns: ["toolnaam", "waarvoor", "direct_bruikbaar_voor_team", "universiteit_of_bron", "academische_inbedding", "kosten"],
+      columns: ["toolnaam", "waarvoor", "direct_bruikbaar_voor_team", "universiteit_of_bron", "kosten", "link"],
       header: {
         toolnaam: "Tool",
         waarvoor: "Waarvoor",
         direct_bruikbaar_voor_team: "Direct bruikbaar",
         universiteit_of_bron: "Universiteit / bron",
-        academische_inbedding: "Academische inbedding",
-        kosten: "Kosten"
-      }
+        kosten: "Kosten",
+        link: "Link"
+      },
+      width: {
+        toolnaam: 160,
+        waarvoor: 260,
+        direct_bruikbaar_voor_team: 120,
+        universiteit_of_bron: 220,
+        kosten: 100,
+        link: 160
+      },
+      rows: 20
     })
-  : html`<p style="color: #888; padding: 1rem;">Nog geen tools. Vul <code>data/tools.csv</code>.</p>`
+  : html`<p style="color:#888;padding:2rem;">Nog geen tools. Vul <code>data/tools.csv</code>.</p>`
 ```

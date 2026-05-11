@@ -1,5 +1,7 @@
 # Inventarisatie van kleine AI-toepassingen binnen het team
 
+**Live site:** https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/
+
 Dit project verzamelt kleine, concrete AI-toepassingen die collega’s binnen het team zelf zien in hun werk.
 
 Het doel is eerst goed inventariseren. Dus nog geen oplossingen aandragen, geen grote strategie maken en geen lange toolcatalogus bouwen.
