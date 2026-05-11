@@ -86,3 +86,5 @@ Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende databron voor Research
 - [Uitgebreide toolanalyse met longlist](02-direct-bruikbare-ai-tools.html)
 - [Dashboard](dashboard.html)
 - [Weekupdate 1](updates/week-01.html)
+- [Toolkeuze-survey (PDF, invulbaar offline)](downloads/toolkeuze-survey.pdf)
+- [Gespreksgids interviews (PDF)](downloads/gespreksgids.pdf)

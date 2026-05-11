@@ -1,0 +1,160 @@
+---
+title: "Welke AI-tool past bij jouw werk?"
+subtitle: "Inventarisatie kleine AI-toepassingen · Lectoraat Windesheim"
+date: "2026"
+format:
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm, top=2cm, bottom=2.5cm"
+    fontsize: 11pt
+    colorlinks: false
+    header-includes: |
+      \usepackage{amssymb}
+      \usepackage{enumitem}
+      \usepackage{booktabs}
+      \usepackage{array}
+      \usepackage{xcolor}
+      \usepackage{mdframed}
+      \usepackage{parskip}
+      \setlength{\parskip}{0.5em}
+      \newcommand{\antwoord}[1]{\vspace{#1}\noindent\rule{\linewidth}{0.4pt}}
+      \newcommand{\checkbox}{$\square$\ }
+      \newcommand{\sectiekop}[1]{\vspace{1em}\noindent{\large\bfseries #1}\vspace{0.3em}\hrule\vspace{0.5em}}
+      \newcommand{\vraag}[1]{\vspace{0.8em}\noindent\textbf{#1}}
+lang: nl
+number-sections: false
+---
+
+\begin{center}
+\small
+Vul dit formulier in voor het gesprek of stuur het ingevuld terug. Antwoorden helpen bepalen welke AI-tool het beste aansluit bij jouw dagelijkse werk binnen het lectoraat.
+\end{center}
+
+\vspace{0.5em}
+
+\sectiekop{A \quad Werkprofiel}
+
+\vraag{1. Wat is je rol binnen het lectoraat?}
+
+\vspace{0.4em}
+\checkbox Onderzoeker \quad
+\checkbox Docent-onderzoeker \quad
+\checkbox Beleidsmedewerker \quad
+\checkbox Andere: \rule{5cm}{0.4pt}
+
+\vraag{2. Wat doe je het vaakst met wetenschappelijke literatuur? Vink maximaal twee opties aan.}
+
+\vspace{0.4em}
+\begin{itemize}[leftmargin=1.5em, itemsep=0.3em, topsep=0.2em]
+  \item[\checkbox] Snel een antwoord zoeken op een onderzoeksvraag
+  \item[\checkbox] Literatuur samenvatten voor een rapport of projectvoorstel
+  \item[\checkbox] Papers screenen voor een systematische of scoping review
+  \item[\checkbox] Beoordelen of een wetenschappelijke claim stevig onderbouwd is
+  \item[\checkbox] Breed zoeken: zien wat er al bestaat over een onderwerp
+  \item[\checkbox] Anders: \rule{8cm}{0.4pt}
+\end{itemize}
+
+\sectiekop{B \quad Volume en frequentie}
+
+\vraag{3. Hoe vaak doe je literatuuronderzoek?}
+
+\vspace{0.4em}
+\checkbox Dagelijks \quad
+\checkbox Wekelijks \quad
+\checkbox Maandelijks \quad
+\checkbox Zelden of op projectbasis
+
+\vraag{4. Hoeveel papers doorloop je gemiddeld per zoekactie?}
+
+\vspace{0.4em}
+\checkbox Minder dan 10 \quad
+\checkbox 10 tot 50 \quad
+\checkbox 50 tot 200 \quad
+\checkbox Meer dan 200
+
+\vraag{5. Wat kost je het meest tijd bij literatuurwerk? Beschrijf kort.}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{6. Hoe doe je het nu? Welke tools of werkwijze gebruik je?}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\sectiekop{C \quad Privacy en databeheer}
+
+\vraag{7. Bevat de context of literatuur waarmee je werkt vertrouwelijke of persoonsgebonden informatie?}
+
+\vspace{0.4em}
+\checkbox Nee, altijd publieke wetenschappelijke literatuur \quad
+\checkbox Soms \quad
+\checkbox Ja, regelmatig
+
+\vraag{8. Is het voor jouw werk noodzakelijk dat data op Nederlandse of Europese servers blijft?}
+
+\vspace{0.4em}
+\checkbox Ja, dat is een harde eis \quad
+\checkbox Sterk gewenst \quad
+\checkbox Niet per se \quad
+\checkbox Weet ik niet
+
+\sectiekop{D \quad Technische voorkeur}
+
+\vraag{9. Hoe comfortabel ben je met het installeren of configureren van nieuwe software?}
+
+\vspace{0.4em}
+\begin{itemize}[leftmargin=1.5em, itemsep=0.3em, topsep=0.2em]
+  \item[\checkbox] Liever niet -- ik wil gewoon een website kunnen openen
+  \item[\checkbox] Kan wel -- als er duidelijke instructies bij zijn
+  \item[\checkbox] Geen probleem -- ik ben technisch ingesteld
+\end{itemize}
+
+\vraag{10. Gebruik je nu al AI-tools in je werk?}
+
+\vspace{0.4em}
+\checkbox Nee \quad
+\checkbox Ja, namelijk: \rule{9cm}{0.4pt}
+
+\sectiekop{E \quad Conclusie}
+
+Lees je antwoorden terug en vergelijk met de tabel hieronder. Kies de tool die het beste aansluit.
+
+\vspace{0.6em}
+
+\noindent
+\begin{tabular}{>{\bfseries}p{8.5cm} p{5.5cm}}
+\toprule
+Ik doe voornamelijk \ldots & Aanbevolen tool \\
+\midrule
+Snel een onderzoeksvraag beantwoorden met bewijs & Consensus \\[0.3em]
+Papers zoeken en samenvatten op basis van een vraag & Elicit \\[0.3em]
+Beoordelen of claims wetenschappelijk stevig staan & Scite \\[0.3em]
+Honderden papers screenen voor een systematische review & ASReview \\[0.3em]
+Breed zoeken in wetenschappelijke literatuur (gratis, open) & Semantic Scholar \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.8em}
+
+\noindent\textit{Privacy-aanwijzing:} werk je met vertrouwelijke data of heb je een harde eis voor lokale opslag? Kies dan \textbf{ASReview} (draait volledig lokaal, geen cloudverbinding). Heb je behoefte aan een GDPR-conforme cloudtool met verwerkersovereenkomst? Kies dan \textbf{Elicit}.
+
+\vspace{1em}
+
+\vraag{Mijn toolkeuze na het invullen:}
+
+\antwoord{0.6em}
+
+\vraag{Waarom ik voor deze tool kies (of: wat ik nog niet zeker weet):}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vspace{1em}
+
+\noindent\rule{\linewidth}{0.4pt}
+
+\noindent\small Meer informatie over alle onderzochte tools: \textbf{https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/}
