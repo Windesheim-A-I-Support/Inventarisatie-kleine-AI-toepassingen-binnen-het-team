@@ -40,26 +40,26 @@ Een tool scoort hoog als:
 
 | Tool | Type | Gebruikers | Universiteiten | In literatuuronderzoek | Gratis |
 |------|------|-----------|----------------|------------------------|--------|
-| Consensus | Literatuurreview | 5M+ | 10.000+ | Ja (PMC 2025) | Ja |
-| Elicit | Literatuurreview | 2M+ | 10+ | Ja (Cochrane) | Ja |
-| Scite | Citatie-analyse | 2M+ | 5+ | Ja | Ja |
-| ASReview | Screening | onbekend | 20+ | Ja (Nature MI) | Ja |
-| Semantic Scholar | Zoekmachine | 7M+/maand | 1.000+ | Ja | Ja |
-| Litmaps | Visuele kaart | 2M+ | 16.000+ | Ja | Ja |
-| ResearchRabbit | Literatuurontdekking | 1M+ | 50+ | Nee | Ja |
-| Connected Papers | Visualisatie | onbekend | 3+ | Nee | Ja |
-| Inciteful | Netwerk-analyse | onbekend | 1+ | Ja | Ja |
-| SciSpace | Alles-in-één | onbekend | onbekend | Nee | Ja |
-| NotebookLM | Document-analyse | 17M MAU | 10.000+ | Ja | Ja |
-| Perplexity AI | Zoekengine | 15M+ MAU | 3+ | Nee | Ja |
-| Zotero | Referentiebeheer | breed | 500+ | Ja | Ja |
-| OpenAlex | Open database | 1,5B API/maand | 5+ | Ja | Ja |
-| Iris.ai | Enterprise review | onbekend | onbekend | Nee | Nee |
-| Paperpal | Schrijfassistent | 1,5M+ | onbekend | Nee | Ja |
-| SURF AI-hub | NL infrastructuur | 14 NL instellingen | 14 | Nee | Op aanvraag |
-| Whisper (lokaal) | Transcriptie | onbekend | 1+ | Ja (arXiv) | Ja |
-| Mendeley | Referentiebeheer | 6M+ | 500+ | Ja | Ja |
-| Jenni.ai | Schrijfassistent | 1M+ | onbekend | Nee | Ja |
+| [Consensus](https://consensus.app) | Literatuurreview | 5M+ | 10.000+ | Ja (PMC 2025) | Ja |
+| [Elicit](https://elicit.com) | Literatuurreview | 2M+ | 10+ | Ja (Cochrane) | Ja |
+| [Scite](https://scite.ai) | Citatie-analyse | 2M+ | 5+ | Ja | Ja |
+| [ASReview](https://asreview.nl) | Screening | onbekend | 20+ | Ja (Nature MI) | Ja |
+| [Semantic Scholar](https://semanticscholar.org) | Zoekmachine | 7M+/maand | 1.000+ | Ja | Ja |
+| [Litmaps](https://litmaps.com) | Visuele kaart | 2M+ | 16.000+ | Ja | Ja |
+| [ResearchRabbit](https://researchrabbit.ai) | Literatuurontdekking | 1M+ | 50+ | Nee | Ja |
+| [Connected Papers](https://connectedpapers.com) | Visualisatie | onbekend | 3+ | Nee | Ja |
+| [Inciteful](https://inciteful.xyz) | Netwerk-analyse | onbekend | 1+ | Ja | Ja |
+| [SciSpace](https://scispace.com) | Alles-in-één | onbekend | onbekend | Nee | Ja |
+| [NotebookLM](https://notebooklm.google.com) | Document-analyse | 17M MAU | 10.000+ | Ja | Ja |
+| [Perplexity AI](https://perplexity.ai) | Zoekengine | 15M+ MAU | 3+ | Nee | Ja |
+| [Zotero](https://zotero.org) | Referentiebeheer | breed | 500+ | Ja | Ja |
+| [OpenAlex](https://openalex.org) | Open database | 1,5B API/maand | 5+ | Ja | Ja |
+| [Iris.ai](https://iris.ai) | Enterprise review | onbekend | onbekend | Nee | Nee |
+| [Paperpal](https://paperpal.com) | Schrijfassistent | 1,5M+ | onbekend | Nee | Ja |
+| [SURF AI-hub](https://surf.nl/en/themes/artificial-intelligence) | NL infrastructuur | 14 NL instellingen | 14 | Nee | Op aanvraag |
+| [Whisper](https://github.com/openai/whisper) | Transcriptie | onbekend | 1+ | Ja (arXiv) | Ja |
+| [Mendeley](https://mendeley.com) | Referentiebeheer | 6M+ | 500+ | Ja | Ja |
+| [Jenni.ai](https://jenni.ai) | Schrijfassistent | 1M+ | onbekend | Nee | Ja |
 
 Het volledige overzicht met per tool de academische verankering, privacyanalyse en reden van selectie of afwijzing staat in het [dashboard](/dashboard.html).
 
