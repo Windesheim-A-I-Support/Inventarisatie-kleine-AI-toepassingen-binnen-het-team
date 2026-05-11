@@ -1,30 +1,90 @@
-# Inventarisatie kleine AI-toepassingen binnen het team
+---
+title: "Over dit project"
+---
 
-Dit project verzamelt kleine, concrete AI-toepassingen die collega’s binnen het team zelf zien in hun werk.
+Dit project brengt in kaart waar collega's binnen het team AI zinvol kunnen inzetten. Niet als grote strategie, maar als kleine concrete stappen: welke onderdelen van het werk kosten onnodig veel tijd, herhalen zich steeds, of leveren een kwaliteitscompromis op?
 
-## Werksporen
+Het project bestaat uit twee werksporen die elkaar versterken. Gesprekken met collega's leveren kleine radartjes op. Onderzoek naar wat andere universiteiten al doen levert direct bruikbare tools op. Beide stromen komen samen in het [dashboard](dashboard.html).
 
-1. Kleine AI-radartjes ophalen bij collega’s
-2. Een paar direct bruikbare AI-tools selecteren
-3. Wekelijks terugkoppelen wat er is opgehaald
+## Aanleiding
+
+Opdracht van Michiel: eerst goed inventariseren voordat er oplossingen worden aangedragen. Geen grote AI-strategie, maar kleine toepassingen die het team morgen al kan gebruiken.
+
+## Stand van zaken
+
+Interviews zijn gestart. Tools zijn onderzocht. De radartjes en inzichten uit de gesprekken worden wekelijks bijgehouden.
+
+Zie de [weekupdate](updates/week-01.html) voor de meest recente stand.
+
+## Top 5 tools (tot nu toe)
+
+Op basis van onderzoek naar meer dan 20 tools, gescoord op universitaire adoptie, gebruikersaantal, academische verankering en type, zijn dit de vijf tools die het team direct kan inzetten.
+
+### 1. Elicit
+
+Stel een onderzoeksvraag. Elicit zoekt in 125 miljoen wetenschappelijke papers, geeft samenvattingen en extraheert data. Gevalideerd op Cochrane-reviews: 95% trefkans. GDPR-compliant, verwerkersovereenkomst beschikbaar.
+
+Gebruikt door Oregon State University, Ohio State, University of Arizona, Baylor en Deakin University.
+
+**Waarom dit de sterkste keuze is voor ons:** Literatuur samenvatten en doorzoeken op onderzoeksvraag is het meest genoemde tijdrovende werkproces in de eerste gesprekken. Elicit is de enige tool met gepubliceerde validatiescores op echte systematische reviews.
+
+[Naar Elicit](https://elicit.com) | [Demo](https://www.youtube.com/watch?v=rJJPS-EvNfk)
+
+### 2. Consensus
+
+Typ een onderzoeksvraag, krijg antwoord gebaseerd op peer-reviewed literatuur. Elke bewering heeft een evidence-score. Zoekt uitsluitend in wetenschappelijke bronnen, geen Wikipedia of blogs.
+
+Meer dan 5 miljoen gebruikers. Meer dan 10.000 universiteiten wereldwijd, waaronder Harvard, Stanford en Princeton.
+
+**Waarom dit relevant is voor ons:** Snel een onderbouwde positie innemen op basis van de stand van de wetenschap, zonder eerst zelf een literatuurreview te doen. Direct bruikbaar voor beleidsondersteuning en onderzoeksvoorbereiding.
+
+[Naar Consensus](https://consensus.app) | [Demo](https://www.youtube.com/watch?v=puKeOamRMzY)
+
+### 3. Scite
+
+Classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *mentioning*. Niet hoeveel keer iets geciteerd is, maar of het positief of kritisch geciteerd wordt.
+
+Meer dan 2 miljoen gebruikers. Institutionele abonnementen bij Oregon State, University of Kansas, Clemson en Albert Einstein College of Medicine.
+
+**Waarom dit aanvullend is:** Elicit en Consensus vinden papers. Scite beoordeelt of de claims in die papers standhouden. Samen vormen ze een complete literatuurworkflow.
+
+[Naar Scite](https://scite.ai)
+
+### 4. ASReview
+
+Screent grote hoeveelheden literatuur voor systematische reviews via active learning AI. De AI leert van je keuzes en plaatst relevantere papers steeds hoger. Versie 2.0 ondersteunt samenwerking door meerdere reviewers tegelijk.
+
+Gemaakt door de Universiteit Utrecht. Gepubliceerd in *Nature Machine Intelligence*. Volledig open source, lokaal te draaien, geen data naar externe servers.
+
+**Waarom dit relevant is voor ons:** De sterkste NL-verankerde tool op de lijst. Voor systematische reviews onmisbaar. Maximale privacybescherming doordat het lokaal draait.
+
+[Naar ASReview](https://asreview.nl) | [Demo](https://www.youtube.com/watch?v=eiqCjJxGBhw)
+
+### 5. Semantic Scholar
+
+Toegang tot 205 miljoen+ wetenschappelijke publicaties via AI-gestuurde zoekfuncties. Non-profit van Allen Institute for AI. Volledig gratis. Open API.
+
+Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende databron voor ResearchRabbit, Connected Papers, SciSpace en Litmaps.
+
+**Waarom dit de basis is:** De sterkste vrij beschikbare wetenschappelijke database. Geen commercieel verdienmodel op gebruikersdata. Wie Semantic Scholar gebruikt heeft toegang tot de kern van het academisch AI-zoekecosysteem.
+
+[Naar Semantic Scholar](https://semanticscholar.org)
+
+## Inzichten die tot deze selectie hebben geleid
+
+**Universitaire adoptie als kwaliteitsfilter.** Tools die universiteitsbibliotheken actief aanbevelen of waarvoor institutionele abonnementen bestaan, zijn beoordeeld door professionals met privacy- en kwaliteitseisen vergelijkbaar met die van Windesheim. Dat is een sterkere validatie dan marketingclaims.
+
+**Validatie in academisch onderzoek.** Elicit is de enige tool op de lijst waarvan de prestaties zijn gepubliceerd in peer-reviewed onderzoek. Dat maakt het de veiligste keuze voor literatuurreview in een onderzoekscontext.
+
+**Geen overlap in de top 5.** Elicit zoekt en vat samen. Consensus beantwoordt vragen. Scite beoordeelt claims. ASReview screent grote volumes. Semantic Scholar is de databasis. De vijf vullen elkaar aan in plaats van dubbel te doen.
+
+**Privacy als harde eis.** Tools waarbij data wordt gebruikt voor modeltraining of waarbij geen verwerkersovereenkomst beschikbaar is, zijn bewust buiten de top 5 gehouden. ASReview scoort hier het sterkst: volledig lokaal te draaien.
+
+**Interviews informeren de definitieve top 3.** De top 5 is gebaseerd op extern onderzoek. Zodra uit de gesprekken blijkt welke werkprocessen het vaakst terugkomen, wordt de top 3 voor directe inzet definitief bepaald. Die koppeling loopt automatisch via het dashboard.
 
 ## Documenten
 
-- [Inventarisatie kleine AI-toepassingen](01-inventarisatie-kleine-ai-toepassingen.html)
-- [Direct bruikbare AI-tools](02-direct-bruikbare-ai-tools.html)
+- [Inventarisatie en interviewmethode](01-inventarisatie-kleine-ai-toepassingen.html)
+- [Uitgebreide toolanalyse met longlist](02-direct-bruikbare-ai-tools.html)
+- [Dashboard](dashboard.html)
 - [Weekupdate 1](updates/week-01.html)
-
-## Uitgangspunt
-
-Eerst luisteren, dan pas duiden. Tijdens de gesprekken worden nog geen oplossingen aangedragen.
-
-## Downloads
-
-Na elke automatische render komen de downloadbestanden hier beschikbaar:
-
-- [Inventarisatie als Word](downloads/01-inventarisatie-kleine-ai-toepassingen.docx)
-- [Inventarisatie als PDF](downloads/01-inventarisatie-kleine-ai-toepassingen.pdf)
-- [Toolselectie als Word](downloads/02-direct-bruikbare-ai-tools.docx)
-- [Toolselectie als PDF](downloads/02-direct-bruikbare-ai-tools.pdf)
-- [Weekupdate 1 als Word](downloads/week-01.docx)
-- [Weekupdate 1 als PDF](downloads/week-01.pdf)
