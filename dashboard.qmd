@@ -187,31 +187,137 @@ gefilterd.length > 0
 }
 ```
 
-# Tools
+# Tools {orientation="rows"}
 
-## Row {height="100%"}
+## {.sidebar}
 
 ```{ojs}
-tools.length > 0
-  ? Inputs.table(tools, {
-      columns: ["toolnaam", "waarvoor", "direct_bruikbaar_voor_team", "universiteit_of_bron", "kosten", "link"],
-      header: {
-        toolnaam: "Tool",
-        waarvoor: "Waarvoor",
-        direct_bruikbaar_voor_team: "Direct bruikbaar",
-        universiteit_of_bron: "Universiteit / bron",
-        kosten: "Kosten",
-        link: "Link"
-      },
-      width: {
-        toolnaam: 140,
-        waarvoor: 260,
-        direct_bruikbaar_voor_team: 110,
-        universiteit_of_bron: 200,
-        kosten: 90,
-        link: 140
-      },
-      rows: 20
-    })
-  : html`<p style="color:#888;padding:2rem;">Nog geen tools. Vul <code>data/tools.csv</code>.</p>`
+beschikbaarheidOpties = Array.from(
+  new Set(tools.map(d => d.direct_bruikbaar_voor_team))
+).filter(Boolean)
+
+viewof beschikbaarheidFilter = Inputs.checkbox(
+  beschikbaarheidOpties.length > 0 ? beschikbaarheidOpties : ["Ja", "In pilotfase"],
+  {
+    label: "Beschikbaarheid",
+    value: beschikbaarheidOpties.length > 0 ? beschikbaarheidOpties : ["Ja", "In pilotfase"]
+  }
+)
+```
+
+```{ojs}
+//| output: false
+gefilterdTools = tools.filter(d =>
+  beschikbaarheidFilter.includes(d.direct_bruikbaar_voor_team)
+)
+```
+
+---
+
+**Over de tools**
+
+Universiteits-AI-tools die direct inzetbaar zijn of binnenkort beschikbaar komen. Voeg toe via `data/tools.csv`.
+
+## Row {height="16%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools gevonden"
+//| icon: grid
+//| color: primary
+tools.length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Direct inzetbaar"
+//| icon: check-circle
+//| color: success
+tools.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Gratis beschikbaar"
+//| icon: piggy-bank
+//| color: info
+tools.filter(d => (d.kosten ?? "").toLowerCase().includes("gratis")).length
+```
+
+## Row
+
+```{ojs}
+{
+  if (gefilterdTools.length === 0)
+    return html`<p style="color:#888;padding:2rem;">Geen tools voor deze filter.</p>`
+
+  const badgeKleur = {
+    "Ja": "success",
+    "In pilotfase": "warning",
+    "Nee": "danger"
+  }
+
+  const kostenKleur = (k = "") =>
+    k.toLowerCase().includes("gratis") ? "success" : "secondary"
+
+  return html`
+    <div style="padding: 1rem;">
+      <div class="row g-4">
+        ${gefilterdTools.map(t => html`
+          <div class="col-12 col-xl-6">
+            <div class="card h-100 shadow-sm border-0" style="border-radius: 12px; overflow: hidden;">
+
+              <div class="card-header d-flex justify-content-between align-items-start py-3"
+                   style="background: #f8f9fa; border-bottom: 2px solid #e9ecef;">
+                <div>
+                  <h5 class="mb-0 fw-bold">${t.toolnaam}</h5>
+                  <small class="text-muted">${t.universiteit_of_bron}</small>
+                </div>
+                <div class="d-flex flex-column align-items-end gap-1">
+                  <span class="badge bg-${badgeKleur[t.direct_bruikbaar_voor_team] ?? "secondary"}">
+                    ${t.direct_bruikbaar_voor_team}
+                  </span>
+                  <span class="badge bg-${kostenKleur(t.kosten)} bg-opacity-75">
+                    ${t.kosten ?? "Onbekend"}
+                  </span>
+                </div>
+              </div>
+
+              <div class="card-body" style="font-size: 0.9rem;">
+                <p class="mb-3">${t.waarvoor}</p>
+
+                <div class="mb-2">
+                  <span class="fw-semibold">
+                    <i class="bi bi-mortarboard"></i> Academische inbedding
+                  </span><br>
+                  <span class="text-muted">${t.academische_inbedding ?? "—"}</span>
+                </div>
+
+                <div class="mb-2">
+                  <span class="fw-semibold">
+                    <i class="bi bi-shield-check"></i> Privacy & data
+                  </span><br>
+                  <span class="text-muted">${t.data_en_privacy ?? "—"}</span>
+                </div>
+
+                ${t.opmerking ? html`
+                  <div class="alert alert-light py-2 px-3 mt-3 mb-0" style="font-size:0.85rem; border-left: 3px solid #0d6efd;">
+                    ${t.opmerking}
+                  </div>` : ""}
+              </div>
+
+              <div class="card-footer bg-white border-top-0 pt-0 pb-3 px-3">
+                <a href="https://${t.link}" target="_blank" rel="noopener"
+                   class="btn btn-sm btn-outline-primary">
+                  <i class="bi bi-box-arrow-up-right"></i> Bekijk tool
+                </a>
+              </div>
+
+            </div>
+          </div>
+        `)}
+      </div>
+    </div>
+  `
+}
 ```
