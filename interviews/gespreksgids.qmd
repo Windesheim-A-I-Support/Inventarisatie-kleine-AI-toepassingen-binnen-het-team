@@ -1,0 +1,84 @@
+---
+title: "Gespreksgids: kleine AI-radartjes ophalen"
+---
+
+## Doel van dit gesprek
+
+Ophalen waar AI kleine onderdelen van het werk kan ondersteunen.
+
+**Niet doen:** oplossingen aandragen, tools aanbevelen, verbanden leggen.
+
+**Wel doen:** luisteren, doorvragen, kleine werkonderdelen blootleggen.
+
+---
+
+## Opening
+
+> "Ik ben bezig met een inventarisatie van kleine AI-toepassingen binnen ons team. Geen grote strategie, gewoon ophalen wat er leeft. Ik stel je wat vragen en noteer mee. Er zijn geen goede of foute antwoorden."
+
+---
+
+## Kernvragen
+
+### 1. Gebruik je nu al AI in je werk?
+
+- Zo ja: waarvoor precies?
+- Welke tool gebruik je?
+- Hoe vaak?
+
+### 2. Welk klein onderdeel van je werk kost onnodig veel tijd?
+
+Doorvragen:
+
+- Wat doe je dan stap voor stap?
+- Wat gaat erin?
+- Wat moet eruit komen?
+- Hoe vaak komt dit voor?
+
+### 3. Waar erger je je aan? (klein en concreet)
+
+Doorvragen:
+
+- Is het zoeken, schrijven, samenvatten, overzetten, iets anders?
+- Wat zou er makkelijker moeten?
+
+### 4. Als je morgen een AI-assistent had, wat laat je die dan meteen doen?
+
+### 5. Is er iets wat je eigenlijk altijd op dezelfde manier doet?
+
+Doorvragen:
+
+- Herhaalt dit zich vaak?
+- Kan iemand anders het ook uitvoeren zonder extra uitleg?
+
+---
+
+## Als er een radartje naar boven komt: afpellen
+
+| Vraag | Antwoord |
+|---|---|
+| Wat gaat er precies in? | |
+| Wat moet er uitkomen? | |
+| Hoe vaak? | |
+| Gevoeligheid van de informatie? | |
+| Huidige tool of werkwijze? | |
+
+---
+
+## Aantekeningen
+
+**Kleine radartjes:**
+
+| Werkproces | Radartje | Gevoel van prioriteit |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+**Letterlijke uitspraken om te onthouden:**
+
+-
+
+**Ideeën die ik nu nog niet benoem:**
+
+-

@@ -68,4 +68,24 @@ Antwoord:
 
 Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
 
-- 
+-
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** [bijv. "onderzoeker", "beleidsmedewerker"]
+
+**In het kort:** [1-2 zinnen wat de collega doet en wat opviel]
+
+**Kleine radartjes:**
+
+- [radartje 1: werkproces + wat AI zou kunnen doen]
+- [radartje 2]
+- [radartje 3]
+
+**Al in gebruik:** [tools of werkwijzen die de collega nu al gebruikt, of "niets"]
+
+**Sterkste signaal:** "[letterlijke uitspraak of kernobservatie]"
