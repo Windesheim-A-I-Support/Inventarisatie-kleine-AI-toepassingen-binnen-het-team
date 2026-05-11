@@ -5,6 +5,7 @@ project:
     - index.qmd
     - 01-inventarisatie-kleine-ai-toepassingen.qmd
     - 02-direct-bruikbare-ai-tools.qmd
+    - dashboard.qmd
     - updates/*.qmd
 
 website:
@@ -17,6 +18,8 @@ website:
         text: Inventarisatie
       - href: 02-direct-bruikbare-ai-tools.qmd
         text: Tools
+      - href: dashboard.qmd
+        text: Dashboard
       - text: Updates
         menu:
           - href: updates/week-01.qmd

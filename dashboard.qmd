@@ -1,0 +1,122 @@
+---
+title: "AI-inventarisatie"
+format: dashboard
+---
+
+```{ojs}
+//| output: false
+radartjes = FileAttachment("data/radartjes.csv").csv({ typed: true })
+tools = FileAttachment("data/tools.csv").csv({ typed: true })
+
+aantalCollega = new Set(radartjes.map(d => d.collega)).size
+aantalRadartjes = radartjes.length
+aantalTools = tools.length
+```
+
+## Row {height="18%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Collega's gesproken"
+//| icon: people
+//| color: primary
+aantalCollega
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Radartjes gevonden"
+//| icon: lightbulb
+//| color: success
+aantalRadartjes
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools geidentificeerd"
+//| icon: tools
+//| color: secondary
+aantalTools
+```
+
+## Row {.tabset}
+
+### Radartjes
+
+```{ojs}
+radartjes.length > 0
+  ? Inputs.table(radartjes, {
+      columns: ["datum", "collega", "rol", "werkproces", "klein_radartje", "frequentie", "gevoeligheid"],
+      header: {
+        datum: "Datum",
+        collega: "Collega",
+        rol: "Rol",
+        werkproces: "Werkproces",
+        klein_radartje: "Klein radartje",
+        frequentie: "Frequentie",
+        gevoeligheid: "Gevoeligheid"
+      },
+      sort: "datum",
+      reverse: true
+    })
+  : html`<p style="color: #888; padding: 1rem;">Nog geen radartjes gevonden. Vul <code>data/radartjes.csv</code> na elk interview.</p>`
+```
+
+### Per werkproces
+
+```{ojs}
+radartjes.length > 0
+  ? Plot.plot({
+      marginLeft: 200,
+      marks: [
+        Plot.barX(
+          d3.rollups(radartjes, v => v.length, d => d.werkproces)
+            .map(([werkproces, count]) => ({ werkproces, count })),
+          { x: "count", y: "werkproces", fill: "#4e79a7", sort: { y: "x", reverse: true } }
+        ),
+        Plot.ruleX([0])
+      ],
+      x: { label: "Aantal radartjes", tickFormat: d => Number.isInteger(d) ? d : "" },
+      y: { label: null }
+    })
+  : html`<p style="color: #888; padding: 1rem;">Nog geen data.</p>`
+```
+
+### Gevoeligheid
+
+```{ojs}
+radartjes.length > 0
+  ? Plot.plot({
+      marks: [
+        Plot.barY(
+          d3.rollups(radartjes, v => v.length, d => d.gevoeligheid)
+            .map(([gevoeligheid, count]) => ({ gevoeligheid, count })),
+          { x: "gevoeligheid", y: "count", fill: "#f28e2b" }
+        ),
+        Plot.ruleY([0])
+      ],
+      x: { label: "Gevoeligheid" },
+      y: { label: "Aantal", tickFormat: d => Number.isInteger(d) ? d : "" }
+    })
+  : html`<p style="color: #888; padding: 1rem;">Nog geen data.</p>`
+```
+
+## Row
+
+### Tools {width="100%"}
+
+```{ojs}
+tools.length > 0
+  ? Inputs.table(tools, {
+      columns: ["toolnaam", "waarvoor", "direct_bruikbaar_voor_team", "universiteit_of_bron", "academische_inbedding", "kosten"],
+      header: {
+        toolnaam: "Tool",
+        waarvoor: "Waarvoor",
+        direct_bruikbaar_voor_team: "Direct bruikbaar",
+        universiteit_of_bron: "Universiteit / bron",
+        academische_inbedding: "Academische inbedding",
+        kosten: "Kosten"
+      }
+    })
+  : html`<p style="color: #888; padding: 1rem;">Nog geen tools. Vul <code>data/tools.csv</code>.</p>`
+```
