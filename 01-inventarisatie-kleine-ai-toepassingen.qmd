@@ -2,42 +2,109 @@
 
 ## Doel
 
-Deze inventarisatie zoekt naar kleine onderdelen van het werk waar AI mogelijk direct kan helpen.
+Deze inventarisatie zoekt naar kleine, concrete onderdelen van het werk waar AI mogelijk direct kan helpen. Niet naar grote strategie, niet naar een volledige toolcatalogus.
 
-Het gaat nog niet om oplossingen. Het doel is eerst goed afpellen waar collega’s AI zelf al zien, gebruiken of zouden willen inzetten.
+De opdracht van Michiel is tweeledig: kleine AI-radartjes ophalen bij collega's, en een handvol tools vinden die andere universiteiten al inzetten en die het team direct kan gebruiken.
 
 ## Aanpak
 
-Collega’s worden bij voorkeur mondeling bevraagd.
+Collega's worden mondeling gesproken aan de hand van een gespreksgids. De aanpak is bewust indirect: niet vragen "waar kan AI helpen?" maar luisteren naar hoe iemand werkt en daar de radartjes in ontdekken.
 
-Tijdens de gesprekken worden nog geen oplossingen aangedragen en worden nog geen grote verbanden gelegd.
+Uitgangspunten tijdens elk gesprek:
 
-## Kernvraag
+- Geen oplossingen aandragen
+- Geen grote verbanden leggen
+- Alleen luisteren en afpellen
+- Ruwe notities blijven privé, alleen geanonimiseerde samenvattingen worden gedeeld
 
-Ik ben niet op zoek naar grote AI-oplossingen, maar naar kleine onderdelen van je werk waar AI misschien kan helpen.
+## Waarom deze interviewmethode
 
-## Interviewvragen
+Directe vragen over AI leveren clichés op. Mensen zeggen dan "ChatGPT voor alles" of "ik weet het eigenlijk niet." De echte radartjes zitten verstopt in hoe mensen werken: de trucjes die ze zelf bedacht hebben, de taken die ze weglaten als ze haast hebben, de dingen die ze telkens opnieuw doen.
 
-1. Gebruik je nu al AI in je werk?
-2. Waarvoor gebruik je het?
-3. Welke tools gebruik je eventueel zelf?
-4. Welk klein onderdeel van je werk kost veel tijd?
-5. Waar zou AI volgens jou kunnen helpen?
-6. Welke input gaat erin?
-7. Welke output zou handig zijn?
-8. Is de informatie gevoelig?
-9. Wat zou morgen al nuttig zijn?
+De gespreksgids is daarom gebaseerd op vier technieken uit gebruikersonderzoek:
 
-## Opgehaalde kleine radartjes
+**Walk-through:** iemand door een recente werkweek laten lopen onthult werkprocessen die ze zelf niet als probleem benoemen maar die wel herhaalbaar en tijdrovend zijn.
 
-| Collega | Werkproces | Klein radartje | Input | Gewenste output | Gevoeligheid | Opmerking |
-|---------|------------|----------------|-------|-----------------|--------------|-----------|
-|         |            |                |       |                 |              |           |
+**Workaround-detectie:** als iemand zelf een trucje heeft bedacht voor een taak, is er echte pijn. Dat is het sterkste signaal.
 
-## Eerste signalen
+**Volumevraag:** zonder volume weet je niet of een radartje ertoe doet. Iemand die één keer per jaar iets doet verschilt wezenlijk van iemand die het dagelijks doet.
 
-Nog niet invullen met conclusies. Alleen signalen verzamelen.
+**Magische stagiairvraag:** "Wat laat je een slimme stagiair als eerste doen?" omzeilt het AI-frame volledig en levert concrete taken op, geen abstracties.
+
+## De 7 interviewvragen
+
+### 1. Opener: recente taak
+
+> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen, wat je écht deed."
+
+Concreet en klein als instap. De collega hoeft geen hele werkdag te reconstrueren, alleen iets recents te noemen. Vanuit dat antwoord wordt doorgevraagd.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, wat doe je stap voor stap, en hoe eindigt het?"
+
+De eigen woorden van de collega worden teruggegeven. Nooit invullen of interpreteren. Het gaat erom de exacte stappen te begrijpen, niet om de grote lijn.
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Als ja: sterk signaal. Er is echte pijn en de collega heeft er al over nagedacht. Doorvragen op hoe het trucje werkt en waarom ze het zo aanpakken.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week, globaal?"
+
+Volume maakt een radartje concreet. Zonder volume weet je niet of het de moeite waard is om verder te onderzoeken.
+
+### 5. AI-kansen verkennen
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Pas na de werkinhoud gevraagd, zodat het gesprek niet direct over AI gaat maar over het werk zelf. Daarna:
+
+> "Als je kijkt naar [X dat ze net noemden], denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
+
+De collega maakt zelf de verbinding. Niet invullen.
+
+### 6. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de grootste kans: iets wat iedereen eigenlijk zou willen doen maar niet toekomt aan.
+
+### 7. Magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
+
+Sterkste vraag van het gesprek. Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
+
+## Wat een klein radartje is
+
+Een goed radartje is:
+
+- **Klein**: één concreet onderdeel van een werkproces, niet het hele proces
+- **Herhalend**: iets wat meerdere keren per week of maand terugkomt
+- **Afgebakend**: duidelijke input en gewenste output
+- **Niet te gevoelig**: of gevoeligheid is bekend zodat de juiste tool gekozen kan worden
+
+Voorbeelden van goede radartjes:
+
+- Vergadernotities omzetten naar een actielijst
+- Literatuur samenvatten op basis van een onderzoeksvraag
+- Telkens hetzelfde soort e-mail opstellen met andere details
+- Papers screenen op relevantie voor een review
+
+Voorbeelden van slechte radartjes (te groot of te vaag):
+
+- "AI inzetten voor onderzoek"
+- "Alles sneller maken"
+- "Slimmer communiceren"
+
+## Opgehaalde radartjes
+
+De radartjes uit de gesprekken staan live bijgehouden in het [dashboard](/dashboard.html). Elke rij is één radartje van één collega, geanonimiseerd.
 
 ## Volgende stap
 
-Nieuwe gesprekken voeren en de kleine radartjes verder afpellen.
+Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wordt een weekupdate verstuurd. De patroonherkenning over gesprekken heen volgt pas nadat meerdere collega's gesproken zijn.
