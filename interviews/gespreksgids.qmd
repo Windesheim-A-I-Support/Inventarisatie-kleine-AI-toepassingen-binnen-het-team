@@ -18,38 +18,95 @@ Ophalen waar AI kleine onderdelen van het werk kan ondersteunen.
 
 ---
 
-## Kernvragen
+## Vragen
 
-### 1. Gebruik je nu al AI in je werk?
+### 1. Warming up: breng het gesprek naar concreet werk
 
-- Zo ja: waarvoor precies?
-- Welke tool gebruik je?
-- Hoe vaak?
+> "Beschrijf eens je werkdag van gisteren, van begin tot eind. Wat deed je?"
 
-### 2. Welk klein onderdeel van je werk kost onnodig veel tijd?
+Laat de collega vertellen. Niet sturen. Noteer werkonderdelen die voorbijkomen.
 
-Doorvragen:
+Doorvragen als iets vaag blijft:
 
-- Wat doe je dan stap voor stap?
-- Wat gaat erin?
-- Wat moet eruit komen?
-- Hoe vaak komt dit voor?
+- "Wat deed je daarna precies?"
+- "Hoe lang was je daar mee bezig?"
+- "Hoe vaak doe je dat?"
 
-### 3. Waar erger je je aan? (klein en concreet)
+---
 
-Doorvragen:
+### 2. Tijdvreters: via frustratie, niet via abstractie
 
-- Is het zoeken, schrijven, samenvatten, overzetten, iets anders?
-- Wat zou er makkelijker moeten?
-
-### 4. Als je morgen een AI-assistent had, wat laat je die dan meteen doen?
-
-### 5. Is er iets wat je eigenlijk altijd op dezelfde manier doet?
+> "Was er iets deze week waarbij je dacht: dit kost me echt te veel tijd voor wat het oplevert?"
 
 Doorvragen:
 
-- Herhaalt dit zich vaak?
-- Kan iemand anders het ook uitvoeren zonder extra uitleg?
+- "Wat deed je op dat moment precies?"
+- "Wat ging erin, wat moest er uitkomen?"
+- "Doe je dit vaker, of was dit uitzonderlijk?"
+
+> "Is er iets in je werk dat je eigenlijk met de handrem erop doet?"
+
+---
+
+### 3. Herhaling: zoek naar patronen
+
+> "Als je kijkt naar de afgelopen maand: welke taak heb je het vaakst op exact dezelfde manier uitgevoerd?"
+
+Doorvragen:
+
+- "Hoe ziet die taak eruit, stap voor stap?"
+- "Zijn er e-mails, documenten of berichten die je telkens op dezelfde manier opstelt of beantwoordt?"
+- "Kan iemand anders dit ook uitvoeren als jij er een duidelijke instructie bij geeft?"
+
+---
+
+### 4. Informatie verwerken: de kern van veel AI-toepassingen
+
+> "Welke informatie krijg jij regelmatig binnen die je daarna moet verwerken, samenvatten of doorsturen?"
+
+Doorvragen:
+
+- "Wat doe je dan precies met die informatie?"
+- "Gebruik je het hele document, of zoek je eigenlijk alleen een paar dingen daarin?"
+- "Zijn er documenten of berichten die je eigenlijk maar half leest omdat je er geen tijd voor hebt?"
+
+---
+
+### 5. Zoeken en uitzoeken
+
+> "Als je iets moet uitzoeken voor je werk, hoe pak je dat aan? Wat doet dat met je tijd?"
+
+Doorvragen:
+
+- "Waar zoek je dan?"
+- "Hoe lang duurt het voordat je hebt wat je nodig hebt?"
+- "Is er informatie die je eigenlijk zou willen bijhouden maar nu laat liggen?"
+
+---
+
+### 6. Wat blijft liggen
+
+> "Is er iets wat je eigenlijk zou willen doen in je werk, maar waar je nooit aan toekomt?"
+
+Doorvragen:
+
+- "Waarom komt het er niet van?"
+- "Wat zou er moeten veranderen om het wel te kunnen doen?"
+
+---
+
+### 7. Gebruik van AI (afsluiter, niet opener)
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Zo ja:
+
+- "Waarvoor precies?"
+- "Wat werkt goed, wat werkt niet?"
+
+Zo nee:
+
+- "Heb je er wel eens naar gekeken? Wat weerhield je?"
 
 ---
 
