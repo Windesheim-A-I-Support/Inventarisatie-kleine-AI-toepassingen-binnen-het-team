@@ -35,23 +35,22 @@ Let op deze signalen:
 
 ## De 7 vragen
 
-### 1. Walk-through
+### 1. Opener: recente taak
 
-> "Loop me eens door een recente werkdag heen, van begin tot eind. Wat deed je?"
+> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen — wat je écht deed."
 
-Laat ze vertellen. Onderbreek niet. Noteer elk werkonderdeel dat voorbijkomt als potentieel radartje.
+Concreet en klein. Ze hoeven geen dag te reconstrueren, alleen iets recents te noemen.
 
 Gebruik als ze stoppen of vaag worden:
 
-- "En daarna?"
-- "Hoe lang was je daarmee bezig?"
-- "Hoe vaak doe je dat?"
+- "Hoe lang was je daar globaal mee bezig?"
+- "Hoe begint dat precies?"
 
 ---
 
-### 2. Drill-down op wat ze noemden
+### 2. Drill-down
 
-Kies een of twee onderdelen uit de walk-through en ga er dieper op in.
+Kies het meest tijdrovende of herhalende onderdeel en ga er dieper op in.
 
 > "Je zei dat je [X] doet. Hoe begint dat precies, wat doe je stap voor stap, en hoe eindigt het?"
 
@@ -63,7 +62,7 @@ Gebruik hun eigen woorden, niet jouw interpretatie. Nooit invullen.
 
 > "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
 
-Als ja: dit is een sterk signaal. Er is echte pijn, en ze hebben al nagedacht over een oplossing.
+Als ja: sterk signaal. Echte pijn, al nagedacht over oplossing.
 
 Doorvragen:
 
@@ -80,15 +79,24 @@ Volume maakt een radartje concreet. Zonder volume weet je niet of het ertoe doet
 
 ---
 
-### 5. Herhaling
+### 5. AI-kansen verkennen
 
-> "Doe je [X] elke keer op dezelfde manier, of verschilt het?"
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
 
-Herhaling en voorspelbaarheid = automatiseerbaar. Grote variatie = moeilijker.
+Zo ja:
 
-Doorvragen als het herhaalt:
+- "Waarvoor precies?"
+- "Wat werkt goed, wat werkt niet?"
 
-- "Zijn er ook berichten, documenten of verslagen die je telkens op dezelfde manier opstelt?"
+Zo nee:
+
+- "Zijn er dingen in je werk waarvan je denkt: hier zou ik eigenlijk hulp bij willen?"
+
+Daarna altijd:
+
+> "Als je kijkt naar [X dat ze net noemden] — denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
+
+Laat ze zelf de verbinding maken. Niet invullen.
 
 ---
 
@@ -100,28 +108,11 @@ Dit onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de ka
 
 ---
 
-### 7. De magische vraag
+### 7. De magische stagiairvraag
 
 > "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
 
 Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
-
----
-
-### Afsluiter: AI-gebruik
-
-> "Gebruik je zelf al AI-tools, voor werk of privé?"
-
-Bewust als laatste. Eerst werk begrijpen, dan pas de kleur van de collega.
-
-Zo ja:
-
-- "Waarvoor precies?"
-- "Wat werkt goed, wat werkt niet?"
-
-Zo nee:
-
-- "Heb je er wel eens naar gekeken? Wat weerhield je?"
 
 ---
 
