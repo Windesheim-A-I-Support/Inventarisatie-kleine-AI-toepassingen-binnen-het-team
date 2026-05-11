@@ -14,16 +14,16 @@ Kleine, concrete werkonderdelen blootleggen waar AI mogelijk iets mee kan. Geen 
 
 ## Houding tijdens het gesprek
 
-Mensen weten niet wat een goed AI-gebruik is. Directe vragen daarover leveren clichés op. Je vindt de radartjes niet door te vragen waar AI kan helpen — je vindt ze door goed te luisteren naar hoe iemand werkt.
+Mensen weten niet wat een goed AI-gebruik is. Directe vragen daarover leveren clichés op. Je vindt de radartjes niet door te vragen waar AI kan helpen: je vindt ze door goed te luisteren naar hoe iemand werkt.
 
 Let op deze signalen:
 
-- "Ik doe altijd..." — herhaling, mogelijk automatiseerbaar
-- "Dat kost me echt uren..." — tijdskosten
-- "Ik heb zelf een trucje bedacht..." — workaround, sterkste pijnsignaal
-- "Eigenlijk lees ik dat niet helemaal..." — kwaliteitscompromis
-- "Ik moet dat steeds weer opzoeken..." — retrieval
-- "Ik stuur dan altijd hetzelfde soort bericht..." — templating
+- "Ik doe altijd...": herhaling, mogelijk automatiseerbaar
+- "Dat kost me echt uren...": tijdskosten
+- "Ik heb zelf een trucje bedacht...": workaround, sterkste pijnsignaal
+- "Eigenlijk lees ik dat niet helemaal...": kwaliteitscompromis
+- "Ik moet dat steeds weer opzoeken...": retrieval
+- "Ik stuur dan altijd hetzelfde soort bericht...": templating
 
 ---
 
@@ -37,7 +37,7 @@ Let op deze signalen:
 
 ### 1. Opener: recente taak
 
-> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen — wat je écht deed."
+> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen: wat je écht deed."
 
 Concreet en klein. Ze hoeven geen dag te reconstrueren, alleen iets recents te noemen.
 
@@ -94,7 +94,7 @@ Zo nee:
 
 Daarna altijd:
 
-> "Als je kijkt naar [X dat ze net noemden] — denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
+> "Als je kijkt naar [X dat ze net noemden]: denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
 
 Laat ze zelf de verbinding maken. Niet invullen.
 
