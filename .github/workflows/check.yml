@@ -27,4 +27,5 @@ jobs:
         run: quarto render dashboard.qmd
 
       - name: Render gespreksgids PDF (check for errors)
-        run: quarto render interviews/gespreksgids.qmd --to pdf
+        run: |
+          quarto render interviews/gespreksgids.qmd --to pdf
