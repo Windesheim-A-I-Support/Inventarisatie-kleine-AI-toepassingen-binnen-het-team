@@ -61,12 +61,14 @@ jobs:
             base=$(basename "$f" .qmd)
             quarto render "$f" --to pdf
             cp "interviews/${base}.pdf" "_site/downloads/interview-${base}.pdf" 2>/dev/null || true
-            quarto render "$f" --to docx --output "${base}.docx" --output-dir _site/downloads
+            quarto render "$f" --to docx --output "${base}.docx"
+            cp "interviews/${base}.docx" "_site/downloads/${base}.docx" 2>/dev/null || true
           done
 
       - name: Render interview-template als DOCX
         run: |
-          quarto render interviews/_template-interview.qmd --to docx --output interview-template-invulbaar.docx --output-dir _site/downloads
+          quarto render interviews/_template-interview.qmd --to docx --output interview-template-invulbaar.docx
+          cp interviews/interview-template-invulbaar.docx _site/downloads/interview-template-invulbaar.docx
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
