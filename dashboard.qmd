@@ -291,14 +291,14 @@ gefilterdeLonglist = {
         x: "nee",
         y: "type",
         fill: "#dee2e6",
-        sort: { y: d => -(d.ja), reverse: false },
+        sort: null,
         rx: 4
       }),
       Plot.barX(typeData, {
         x: "ja",
         y: "type",
         fill: "#198754",
-        sort: { y: d => -(d.ja), reverse: false },
+        sort: null,
         rx: 4,
         title: d => `${d.ja} tools geciteerd in onderzoek`
       }),
@@ -310,7 +310,7 @@ gefilterdeLonglist = {
         textAnchor: "start",
         fill: "#198754",
         fontWeight: "bold",
-        sort: { y: d => -(d.ja), reverse: false }
+        sort: null
       }),
       Plot.ruleX([0])
     ],
@@ -377,41 +377,67 @@ gefilterdeLonglist = {
 
 # Digitalisering {orientation="rows"}
 
-## Row {height="12%"}
+## Row {fill="false"}
 
 ```{ojs}
-//| content: valuebox
-//| title: "Collega's geïnventariseerd"
-//| icon: person-check
-//| color: primary
-new Set(toolsInGebruik.map(d => d.collega)).size
+viewof digitalFilter = {
+  const filters = [
+    { key: "alle",     label: "Tools in kaart",      color: "#0d6efd", bg: "#e7f1ff", count: toolsInGebruik.length,                                                                                   icon: "🗂️" },
+    { key: "ai",       label: "AI-tools",             color: "#6610f2", bg: "#f0e8ff", count: toolsInGebruik.filter(d => String(d.categorie).startsWith("AI")).length,                                 icon: "🤖" },
+    { key: "werkend",  label: "Werkende tools",       color: "#198754", bg: "#e8f5e9", count: toolsInGebruik.filter(d => d.frequentie !== "Niet werkend" && d.tevredenheid !== "Laag").length,         icon: "✅" },
+    { key: "knelpunt", label: "Adoptieknelpunten",    color: "#dc3545", bg: "#fdecea", count: toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid === "Laag").length,         icon: "⚠️" }
+  ]
+
+  let selected = "alle"
+  const div = document.createElement("div")
+  div.style.cssText = "display:flex; gap:1rem; padding:0.75rem 1.5rem; width:100%; box-sizing:border-box;"
+
+  function render() {
+    div.innerHTML = ""
+    filters.forEach(f => {
+      const card = document.createElement("div")
+      const active = selected === f.key
+      card.style.cssText = `
+        flex:1; padding:1rem 1.25rem; border-radius:10px; cursor:pointer;
+        border: 2px solid ${active ? f.color : "#dee2e6"};
+        background: ${active ? f.bg : "#fff"};
+        box-shadow: ${active ? `0 0 0 3px ${f.color}33` : "0 1px 3px rgba(0,0,0,0.08)"};
+        transition: all 0.15s ease;
+        user-select: none;
+      `
+      card.innerHTML = `
+        <div style="font-size:1.5rem; margin-bottom:0.25rem;">${f.icon}</div>
+        <div style="font-size:2rem; font-weight:700; color:${f.color}; line-height:1;">${f.count}</div>
+        <div style="font-size:0.8rem; color:#555; margin-top:0.25rem; line-height:1.3;">${f.label}</div>
+        ${active ? `<div style="font-size:0.7rem; color:${f.color}; margin-top:0.3rem;">▼ gefilterd</div>` : `<div style="font-size:0.7rem; color:#aaa; margin-top:0.3rem;">klik om te filteren</div>`}
+      `
+      card.addEventListener("click", () => {
+        selected = (selected === f.key) ? "alle" : f.key
+        render()
+        div.value = selected
+        div.dispatchEvent(new Event("input"))
+      })
+      div.appendChild(card)
+    })
+  }
+
+  render()
+  div.value = selected
+  return div
+}
 ```
 
 ```{ojs}
-//| content: valuebox
-//| title: "Tools in kaart"
-//| icon: grid
-//| color: info
-toolsInGebruik.length
+//| output: false
+gefilterdeTijdsTools = {
+  if (digitalFilter === "ai")      return toolsInGebruik.filter(d => String(d.categorie).startsWith("AI"))
+  if (digitalFilter === "werkend") return toolsInGebruik.filter(d => d.frequentie !== "Niet werkend" && d.tevredenheid !== "Laag")
+  if (digitalFilter === "knelpunt") return toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid === "Laag")
+  return toolsInGebruik
+}
 ```
 
-```{ojs}
-//| content: valuebox
-//| title: "Werkende tools"
-//| icon: check-circle
-//| color: success
-toolsInGebruik.filter(d => d.tevredenheid !== "Laag" && d.frequentie !== "Niet werkend").length
-```
-
-```{ojs}
-//| content: valuebox
-//| title: "Adoptieknelpunten"
-//| icon: exclamation-triangle
-//| color: warning
-toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid === "Laag").length
-```
-
-## Row {height="50%" .tabset}
+## Row {height="53%" .tabset}
 
 ### Per categorie
 
@@ -552,7 +578,7 @@ toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid ===
 ```{ojs}
 {
   const tevKleur = { "Hoog": "#198754", "Middel": "#fd7e14", "Laag": "#dc3545", "Niet van toepassing": "#adb5bd" }
-  const sorted = [...toolsInGebruik].sort((a, b) =>
+  const sorted = [...gefilterdeTijdsTools].sort((a, b) =>
     a.collega.localeCompare(b.collega) || a.categorie.localeCompare(b.categorie)
   )
 
