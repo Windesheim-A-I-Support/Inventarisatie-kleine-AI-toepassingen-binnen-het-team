@@ -70,6 +70,23 @@ Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende databron voor Research
 
 ## Inzichten die tot deze selectie hebben geleid
 
+**Interviews zijn de primaire bron, niet aannames.** De top 5 is een startpunt op basis van extern onderzoek. De definitieve keuzes worden gestuurd door wat collega's zelf vertellen: waar zit de echte tijdslast, waar is weerstand tegen adoptie, waar liggen de quick wins? Een tool die technisch sterk is maar niet aansluit op hoe het team werkt, is geen goede keuze. De gesprekken gaan boven de externe criteria.
+
+Wat de interviews moeten blootleggen:
+
+- Welke werkprocessen kosten het meeste tijd en herhalen zich het vaakst
+- Waar collega's al iets hebben geprobeerd en waarom het niet werkte
+- Waar de weerstand zit: adoptiedrempel, vertrouwen, technische kennis
+- Waar quick wins liggen: kleine ingrepen met direct merkbaar effect
+
+**Drie criteria voor een tool die het waard is.** Een tool verdient een plek in de selectie als hij aantoonbaar:
+
+1. **Tijd bespaart**: minder handmatig werk aan een taak die nu structureel te lang duurt
+2. **Fouten vermindert**: minder kans op het missen van relevante literatuur, onjuiste citaties, of overlooked evidence
+3. **Kwaliteit verbetert**: betere onderzoeksuitkomsten, niet alleen snellere
+
+Tools die alleen sneller maken wat ook fout kan gaan, scoren lager. Tools die de kwaliteit van het onderzoek zelf versterken, scoren hoger.
+
 **Universitaire adoptie als kwaliteitsfilter.** Tools die universiteitsbibliotheken actief aanbevelen of waarvoor institutionele abonnementen bestaan, zijn beoordeeld door professionals met privacy- en kwaliteitseisen vergelijkbaar met die van Windesheim. Dat is een sterkere validatie dan marketingclaims.
 
 **Validatie in academisch onderzoek.** Elicit is de enige tool op de lijst waarvan de prestaties zijn gepubliceerd in peer-reviewed onderzoek. Dat maakt het de veiligste keuze voor literatuurreview in een onderzoekscontext.
@@ -77,8 +94,6 @@ Meer dan 7 miljoen maandelijkse gebruikers. Onderliggende databron voor Research
 **Geen overlap in de top 5.** Elicit zoekt en vat samen. Consensus beantwoordt vragen. Scite beoordeelt claims. ASReview screent grote volumes. Semantic Scholar is de databasis. De vijf vullen elkaar aan in plaats van dubbel te doen.
 
 **Privacy als harde eis.** Tools waarbij data wordt gebruikt voor modeltraining of waarbij geen verwerkersovereenkomst beschikbaar is, zijn bewust buiten de top 5 gehouden. ASReview scoort hier het sterkst: volledig lokaal te draaien.
-
-**Interviews informeren de definitieve top 3.** De top 5 is gebaseerd op extern onderzoek. Zodra uit de gesprekken blijkt welke werkprocessen het vaakst terugkomen, wordt de top 3 voor directe inzet definitief bepaald. Die koppeling loopt automatisch via het dashboard.
 
 ## Documenten
 
