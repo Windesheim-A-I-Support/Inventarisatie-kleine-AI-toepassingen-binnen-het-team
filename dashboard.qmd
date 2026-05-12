@@ -83,7 +83,7 @@ longlist.filter(d => d.direct_bruikbaar_voor_team === "Ja").length
 longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
 ```
 
-## Row {height="42%" .tabset}
+## Row {height="60%" .tabset}
 
 ### Universitaire adoptie
 
@@ -94,6 +94,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
     .sort((a, b) => b.uni_num - a.uni_num)
 
   return Plot.plot({
+    height: 500,
     marginLeft: 160,
     marginRight: 80,
     marginBottom: 60,
@@ -143,6 +144,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
     .sort((a, b) => b.users_num - a.users_num)
 
   return Plot.plot({
+    height: 500,
     marginLeft: 160,
     marginRight: 100,
     marginBottom: 60,
@@ -190,6 +192,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
     .sort((a, b) => b.count - a.count)
 
   return Plot.plot({
+    height: 500,
     marginLeft: 200,
     marginRight: 40,
     marginBottom: 60,
@@ -247,6 +250,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
    .sort((a, b) => b.ja - a.ja)
 
   return Plot.plot({
+    height: 500,
     marginLeft: 200,
     marginRight: 40,
     marginBottom: 60,
@@ -286,7 +290,7 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
 }
 ```
 
-## Row {height="47%"}
+## Row {height="29%"}
 
 ```{ojs}
 {
