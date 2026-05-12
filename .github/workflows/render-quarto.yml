@@ -80,6 +80,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: render
+    if: ${{ needs.render.result == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
