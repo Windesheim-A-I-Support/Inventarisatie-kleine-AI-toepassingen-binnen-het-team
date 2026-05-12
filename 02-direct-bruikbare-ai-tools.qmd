@@ -8,7 +8,7 @@ Dit document beschrijft hoe dat onderzoek is uitgevoerd, welke criteria zijn geb
 
 ## Onderzoeksaanpak
 
-Er zijn meer dan 20 tools onderzocht. Per tool is gezocht naar:
+Er zijn meer dan 49 tools onderzocht. Per tool is gezocht naar:
 
 - Gebruikersaantallen (opgegeven door de tool zelf of via onafhankelijke bronnen)
 - Aantal universiteiten dat de tool gebruikt of aanbeveelt (library guides, institutionele abonnementen, case studies)
@@ -30,7 +30,7 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 42 onderzochte tools
+## De longlist: 49 onderzochte tools
 
 | Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
 |------|------|-----------|------------------------|-------------------|
@@ -76,6 +76,13 @@ Een tool scoort hoog als:
 | [prismaid](https://prismaid.org) | Literatuuronderzoek | onbekend | onbekend | Enige open source tool specifiek voor PRISMA 2020 systematische reviews. Aanvulling op ASReview. |
 | [fabric](https://danielmiessler.com/projects/fabric) | Werkprocesautomatisering | 27K+ GitHub stars | onbekend | Krachtige bibliotheek AI-prompts via terminal. Relevant voor technische gebruikers, niet voor eindgebruikers. |
 | [Haystack](https://haystack.deepset.ai) | Semantisch zoeken / RAG | onbekend | onbekend | Framework voor zoek- en QA-pipelines. Ontwikkeltool, geen directe eindgebruikersinterface. |
+| [NVivo](https://lumivero.com/products/nvivo) | Kwalitatief data-analyse | breed universiteit | **UU** (gratis) + **UT** (BMS Lab) | Kwalitatieve interview-analyse met AI-codes en samenvattingen. Direct inzetbaar bij Windesheim via UU-licentie. |
+| [ATLAS.ti](https://atlasti.com) | Kwalitatief data-analyse | breed universiteit | **De Haagse Hogeschool** (campuslicentie) + **HU** (SURFspot) | AI-transcriptie en code-suggesties. Twee NL hogescholen bevestigd. Sterk alternatief voor NVivo. |
+| [MAXQDA](https://maxqda.com) | Kwalitatief data-analyse | breed universiteit | 150+ landen (geen NL bevestigd) | Volledig kwalitatief analyse-pakket met AI. Sterke academische training en ondersteuning. |
+| [Explainpaper](https://explainpaper.com) | Paper-leesbegrip | onbekend | 3+ (Texas Tech, Oxford; geen NL) | Laagdrempelig hulpmiddel om moeilijke passages in papers te begrijpen. Aanvulling op Elicit. |
+| [QuillBot](https://quillbot.com) | Schrijven / parafrasering | 35M+ | 5+ (Oxford, Cincinnati; geen NL) | Meest gebruikte parafraseringstool. Oxford library guide. Schrijfhulp, geen literatuurzoektool. |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | AI-zoekmotor (open source) | onbekend | geen NL gevonden | Privacy-proof open source Perplexity-alternatief met academische zoekmodus. Vereist Docker + Ollama. |
+| [Open Paper](https://openpaper.ai) | Onderzoeksbibliotheek | onbekend | geen NL gevonden | Open source paper-bibliotheek met AI-literatuurreview. Gemaakt door Khoj-team, vroeg stadium (v0.1). |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
