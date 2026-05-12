@@ -151,6 +151,14 @@ De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews vol
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
+## Geplande interviews
+
+| Naam | Rol |
+|---|---|
+| Luca Gelsomino | — |
+| Hendryk Dittfeld | — |
+| Maxime Bouillon | — |
+
 ## Volgende stap
 
 Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wordt een weekupdate verstuurd. Patroonherkenning over gesprekken heen volgt nadat meerdere collega's gesproken zijn.
