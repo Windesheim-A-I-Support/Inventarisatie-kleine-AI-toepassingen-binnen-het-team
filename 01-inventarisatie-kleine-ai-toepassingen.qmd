@@ -1,37 +1,35 @@
-# Inventarisatie van kleine AI-toepassingen binnen het team
+# Interviews
 
-## Doel
+## Wat zijn de interviews?
 
-Deze inventarisatie zoekt naar kleine, concrete onderdelen van het werk waar AI mogelijk direct kan helpen. Niet naar grote strategie, niet naar een volledige toolcatalogus.
+De inventarisatie van kleine AI-toepassingen verloopt via één-op-één gesprekken met collega's. Geen vragenlijst die rondgestuurd wordt, geen groepssessie, geen enquête. Eén gesprek per persoon, mondeling, doorvragend.
 
-De opdracht van Michiel is tweeledig: kleine AI-radartjes ophalen bij collega's, en een handvol tools vinden die andere universiteiten al inzetten en die het team direct kan gebruiken.
-
-## Aanpak
-
-Collega's worden mondeling gesproken aan de hand van een gespreksgids. De aanpak is bewust indirect: niet vragen "waar kan AI helpen?" maar luisteren naar hoe iemand werkt en daar de radartjes in ontdekken.
+Het doel is niet om mensen te vragen waar AI kan helpen. Die vraag levert clichés op. Het doel is om te luisteren naar hoe iemand werkt en daarin de radartjes te ontdekken: kleine, concrete onderdelen van het werk waar iets te winnen valt.
 
 Uitgangspunten tijdens elk gesprek:
 
 - Geen oplossingen aandragen
-- Geen grote verbanden leggen
-- Alleen luisteren en afpellen
-- Ruwe notities blijven privé, alleen geanonimiseerde samenvattingen worden gedeeld
+- Niet invullen voor de collega
+- Stilte laten vallen
+- Ruwe notities en transcript blijven privé, alleen geanonimiseerde samenvattingen worden gedeeld
 
-## Waarom deze interviewmethode
+## Methodiek
 
-Directe vragen over AI leveren clichés op. Mensen zeggen dan "ChatGPT voor alles" of "ik weet het eigenlijk niet." De echte radartjes zitten verstopt in hoe mensen werken: de trucjes die ze zelf bedacht hebben, de taken die ze weglaten als ze haast hebben, de dingen die ze telkens opnieuw doen.
+De gespreksgids is gebaseerd op technieken uit gebruikersonderzoek en contextual inquiry.
 
-De gespreksgids is daarom gebaseerd op vier technieken uit gebruikersonderzoek:
+**Walk-through** — iemand door een recente werkweek laten lopen onthult werkprocessen die ze zelf niet als probleem benoemen maar die wel herhaalbaar en tijdrovend zijn. De opener vraagt altijd naar wat iemand écht deed, niet wat ze hadden moeten doen.
 
-**Walk-through:** iemand door een recente werkweek laten lopen onthult werkprocessen die ze zelf niet als probleem benoemen maar die wel herhaalbaar en tijdrovend zijn.
+**Workaround-detectie** — als iemand zelf een trucje heeft bedacht voor een taak, is er echte pijn. Dat is het sterkste signaal in een gesprek. Een workaround betekent: de officiële werkwijze voldoet niet en de collega heeft zelf al nagedacht over een oplossing.
 
-**Workaround-detectie:** als iemand zelf een trucje heeft bedacht voor een taak, is er echte pijn. Dat is het sterkste signaal.
+**Volumevraag** — zonder volume weet je niet of een radartje ertoe doet. Iemand die één keer per jaar iets doet verschilt wezenlijk van iemand die het dagelijks doet.
 
-**Volumevraag:** zonder volume weet je niet of een radartje ertoe doet. Iemand die één keer per jaar iets doet verschilt wezenlijk van iemand die het dagelijks doet.
+**Eerder-geprobeerd-vraag** — iemand die al iets probeerde en stopte heeft een echte drempel ondervonden: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
 
-**Magische stagiairvraag:** "Wat laat je een slimme stagiair als eerste doen?" omzeilt het AI-frame volledig en levert concrete taken op, geen abstracties.
+**Schaalvraag** — als meerdere collega's hetzelfde doen, is het radartje groter dan het lijkt. Een oplossing voor één persoon heeft dan veel meer waarde.
 
-## De 7 interviewvragen
+**Magische stagiairvraag** — "Wat laat je een slimme stagiair als eerste doen?" omzeilt het AI-frame volledig en levert concrete taken op, geen abstracties.
+
+## De 12 interviewvragen
 
 ### 1. Opener: recente taak
 
@@ -57,7 +55,7 @@ Als ja: sterk signaal. Er is echte pijn en de collega heeft er al over nagedacht
 
 Volume maakt een radartje concreet. Zonder volume weet je niet of het de moeite waard is om verder te onderzoeken.
 
-### 5. AI-kansen verkennen
+### 5. AI-gebruik
 
 > "Gebruik je zelf al AI-tools, voor werk of privé?"
 
@@ -67,17 +65,47 @@ Pas na de werkinhoud gevraagd, zodat het gesprek niet direct over AI gaat maar o
 
 De collega maakt zelf de verbinding. Niet invullen.
 
-### 6. Kwaliteitscompromis
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt? Wat was dat?"
+
+Iemand die al iets probeerde en opgaf heeft een echte drempel ondervonden. Die informatie bepaalt welk type oplossing realistisch is: een te technische tool, een te hoge tijdsinvestering, of een mismatch met het werkproces.
+
+### 7. Kwaliteitscompromis
 
 > "Wat doe je als je haast hebt? Wat laat je dan weg?"
 
-Onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de grootste kans: iets wat iedereen eigenlijk zou willen doen maar niet toekomt aan.
+Onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de grootste kans: iets wat iedereen eigenlijk zou willen doen maar niet aan toekomt.
 
-### 7. Magische stagiairvraag
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Als meerdere mensen hetzelfde doen, is het radartje groter dan het lijkt. Doorvragen: doen ze het allemaal op dezelfde manier, of heeft iemand een efficiëntere aanpak?
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Bepaalt hoe kritisch het radartje is. Een fout in een intern werkdocument is anders dan een fout in een publicatie of subsidieaanvraag. Hoge foutkosten betekenen hogere eisen aan de tool.
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]? Ook de saaie: Outlook, Teams, Excel."
+
+Bepaalt integratie-vereisten. Een oplossing die buiten bestaande systemen werkt heeft een hogere drempel. Als iemand volledig in Outlook werkt, is een losse webapp moeilijker te adopteren.
+
+### 11. Magische stagiairvraag
 
 > "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
 
 Sterkste vraag van het gesprek. Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om later te beoordelen of een tool daadwerkelijk geholpen heeft.
 
 ## Wat een klein radartje is
 
@@ -86,7 +114,7 @@ Een goed radartje is:
 - **Klein**: één concreet onderdeel van een werkproces, niet het hele proces
 - **Herhalend**: iets wat meerdere keren per week of maand terugkomt
 - **Afgebakend**: duidelijke input en gewenste output
-- **Niet te gevoelig**: of gevoeligheid is bekend zodat de juiste tool gekozen kan worden
+- **Gevoeligheid bekend**: zodat de juiste tool gekozen kan worden (cloud of lokaal)
 
 Voorbeelden van goede radartjes:
 
@@ -94,6 +122,7 @@ Voorbeelden van goede radartjes:
 - Literatuur samenvatten op basis van een onderzoeksvraag
 - Telkens hetzelfde soort e-mail opstellen met andere details
 - Papers screenen op relevantie voor een review
+- AI-agent output beoordelen op volledigheid
 
 Voorbeelden van slechte radartjes (te groot of te vaag):
 
@@ -101,10 +130,30 @@ Voorbeelden van slechte radartjes (te groot of te vaag):
 - "Alles sneller maken"
 - "Slimmer communiceren"
 
-## Opgehaalde radartjes
+## Interview-template
 
-De radartjes uit de gesprekken staan live bijgehouden in het [dashboard](/dashboard.html). Elke rij is één radartje van één collega, geanonimiseerd.
+Elk gesprek wordt vastgelegd in een gestandaardiseerd bestand met drie lagen:
+
+1. **Ruwe transcript** — woordelijk verslag, blijft privé in de repo
+2. **Gestructureerde Q&A** — samenvatting per vraag, blijft privé
+3. **Samenvatting voor weekupdate** — geanonimiseerd, dit is het enige dat gedeeld wordt
+
+De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews volgen het naamformaat `interviews/DATUM-NAAM.qmd`.
+
+## Interviewoverzicht
+
+| Datum | Rol | Radartjes | Sterkste signaal |
+|---|---|---|---|
+| 2026-05-11 | Onderzoeksondersteuner | Abstracts screenen, rapporten samenvatten | "Dat kost soms een hele middag, terwijl ik maar 10 papers nodig heb." |
+| 2026-05-12 | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." |
+
+Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html). Elke rij is één radartje van één collega, geanonimiseerd.
 
 ## Volgende stap
 
-Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wordt een weekupdate verstuurd. De patroonherkenning over gesprekken heen volgt pas nadat meerdere collega's gesproken zijn.
+Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wordt een weekupdate verstuurd. Patroonherkenning over gesprekken heen volgt nadat meerdere collega's gesproken zijn.
+
+De gespreksgids en het intake-formulier zijn beschikbaar als PDF:
+
+- [Gespreksgids (PDF)](downloads/gespreksgids.pdf)
+- [Toolkeuze-formulier (PDF, invulbaar offline)](downloads/toolkeuze-formulier.pdf)

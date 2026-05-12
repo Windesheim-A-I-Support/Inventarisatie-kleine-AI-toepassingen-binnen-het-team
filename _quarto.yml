@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Over dit project
       - href: 01-inventarisatie-kleine-ai-toepassingen.qmd
-        text: Inventarisatie
+        text: Interviews
       - href: 02-direct-bruikbare-ai-tools.qmd
         text: Tools
       - href: dashboard.qmd
