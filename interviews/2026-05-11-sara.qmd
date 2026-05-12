@@ -5,6 +5,8 @@ format:
     documentclass: article
     geometry: "margin=2.5cm"
     fontsize: 11pt
+  docx:
+    toc: false
 lang: nl
 ---
 

@@ -144,10 +144,10 @@ De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews vol
 
 ## Interviewoverzicht
 
-| Datum | Naam | Rol | Radartjes | Sterkste signaal | Download |
+| Datum | Naam | Rol | Radartjes | Sterkste signaal | Downloads |
 |---|---|---|---|---|---|
-| 2026-05-11 | Sara | Onderzoeksondersteuner | Abstracts screenen, rapporten samenvatten | "Dat kost soms een hele middag, terwijl ik maar 10 papers nodig heb." | [PDF](downloads/interview-2026-05-11-sara.pdf) |
-| 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) |
+| 2026-05-11 | Sara | Onderzoeksondersteuner | Abstracts screenen, rapporten samenvatten | "Dat kost soms een hele middag, terwijl ik maar 10 papers nodig heb." | [PDF](downloads/interview-2026-05-11-sara.pdf) · [Word](downloads/2026-05-11-sara.docx) |
+| 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) · [Word](downloads/2026-05-12-christiaan.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -157,8 +157,8 @@ Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wor
 
 ## Downloads
 
-| Document | Omschrijving |
-|---|---|
-| [Interview-template (PDF, invulbaar)](downloads/interview-template-invulbaar.pdf) | Blanco formulier met alle 12 vragen en invulvakken |
-| [Gespreksgids (PDF)](downloads/gespreksgids.pdf) | Handleiding voor de interviewer |
-| [Toolkeuze-formulier (PDF)](downloads/toolkeuze-formulier.pdf) | Invulformulier voor toolselectie |
+| Document | PDF | Word |
+|---|---|---|
+| Interview-template (blanco, invulbaar) | [PDF](downloads/interview-template-invulbaar.pdf) | [Word](downloads/interview-template-invulbaar.docx) |
+| Gespreksgids (handleiding interviewer) | [PDF](downloads/gespreksgids.pdf) | |
+| Toolkeuze-formulier | [PDF](downloads/toolkeuze-formulier.pdf) | |
