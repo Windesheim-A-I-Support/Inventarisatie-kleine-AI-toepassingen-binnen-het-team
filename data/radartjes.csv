@@ -1,3 +1,6 @@
 datum,collega,rol,werkproces,klein_radartje,input,gewenste_output,frequentie,gevoeligheid,huidige_tool,opmerking
 2026-05-11,Sara,Onderzoeksondersteuner,Literatuuronderzoek,Automatisch abstracts screenen op relevantie,Onderzoeksvraag + lijst papers,Shortlist met toelichting,Meerdere keren per kwartaal,Laag,Google Scholar,Hoge tijdsdruk bij projectvoorstellen
 2026-05-11,Sara,Onderzoeksondersteuner,Rapportage,Lange rapporten samenvatten naar kernpunten,PDF rapport,Kernpunten in 5-10 regels,Maandelijks,Laag,ChatGPT (incidenteel),Al zelf uitgeprobeerd met positief resultaat
+2026-05-12,Christiaan,Lid lectoraat,Agent output review,Automatisch checken of output de vraag daadwerkelijk beantwoordt,Agent output + oorspronkelijke prompt,Volledigheidscheck met signaal bij afraffelen,30-40x per dag,Laag,Agent of Empires + handmatig,Enorme tijdslast: 4 uur/dag
+2026-05-12,Christiaan,Lid lectoraat,Infrastructuur monitoring,Geautomatiseerd monitoren en alerting van eigen AI-infrastructuur,Systeemstatus diverse services,Alert bij afwijking,Continu,Middel,Handmatig,Bottleneck bij adoptie nieuwe tools
+2026-05-12,Christiaan,Lid lectoraat,Agendabeheer,Afspraken plannen en bijhouden,Verzoeken + agenda + prioriteiten,Geplande afspraken en herinneringen,Dagelijks,Laag-middel,Trello + handmatig,Wil secretaresse-functie
