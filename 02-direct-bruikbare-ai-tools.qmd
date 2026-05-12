@@ -30,32 +30,54 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 20 onderzochte tools
+## De longlist: 42 onderzochte tools
 
-| Tool | Type | Gebruikers | Universiteiten | In literatuuronderzoek | Gratis |
-|------|------|-----------|----------------|------------------------|--------|
-| [Consensus](https://consensus.app) | Literatuurreview | 5M+ | 10.000+ | Ja (PMC 2025) | Ja |
-| [Elicit](https://elicit.com) | Literatuurreview | 2M+ | 10+ | Ja (Cochrane) | Ja |
-| [Scite](https://scite.ai) | Citatie-analyse | 2M+ | 5+ | Ja | Ja |
-| [ASReview](https://asreview.nl) | Screening | onbekend | 20+ | Ja (Nature MI) | Ja |
-| [Semantic Scholar](https://semanticscholar.org) | Zoekmachine | 7M+/maand | 1.000+ | Ja | Ja |
-| [Litmaps](https://litmaps.com) | Visuele kaart | 2M+ | 16.000+ | Ja | Ja |
-| [ResearchRabbit](https://researchrabbit.ai) | Literatuurontdekking | 1M+ | 50+ | Nee | Ja |
-| [Connected Papers](https://connectedpapers.com) | Visualisatie | onbekend | 3+ | Nee | Ja |
-| [Inciteful](https://inciteful.xyz) | Netwerk-analyse | onbekend | 1+ | Ja | Ja |
-| [SciSpace](https://scispace.com) | Alles-in-één | onbekend | onbekend | Nee | Ja |
-| [NotebookLM](https://notebooklm.google.com) | Document-analyse | 17M MAU | 10.000+ | Ja | Ja |
-| [Perplexity AI](https://perplexity.ai) | Zoekengine | 15M+ MAU | 3+ | Nee | Ja |
-| [Zotero](https://zotero.org) | Referentiebeheer | breed | 500+ | Ja | Ja |
-| [OpenAlex](https://openalex.org) | Open database | 1,5B API/maand | 5+ | Ja | Ja |
-| [Iris.ai](https://iris.ai) | Enterprise review | onbekend | onbekend | Nee | Nee |
-| [Paperpal](https://paperpal.com) | Schrijfassistent | 1,5M+ | onbekend | Nee | Ja |
-| [SURF AI-hub](https://surf.nl/en/themes/artificial-intelligence) | NL infrastructuur | 14 NL instellingen | 14 | Nee | Op aanvraag |
-| [Whisper](https://github.com/openai/whisper) | Transcriptie | onbekend | 1+ | Ja (arXiv) | Ja |
-| [Mendeley](https://mendeley.com) | Referentiebeheer | 6M+ | 500+ | Ja | Ja |
-| [Jenni.ai](https://jenni.ai) | Schrijfassistent | 1M+ | onbekend | Nee | Ja |
+| Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
+|------|------|-----------|------------------------|-------------------|
+| [Consensus](https://consensus.app) | Literatuurreview | 5M+ | 10.000+ (Princeton, Stanford, Harvard) | **Top 5.** Sterkste universitaire adoptie. Zoekt alleen peer-reviewed, evidence-score per claim. |
+| [Elicit](https://elicit.com) | Literatuurreview | 2M+ | 10+ (Oregon State, Ohio State) | **Top 5.** Enige tool met gepubliceerde Cochrane recall-scores (95-99%). GDPR-compliant. |
+| [Scite](https://scite.ai) | Citatie-analyse | 2M+ | 5+ (Oregon State, Kansas, Clemson) | **Top 5.** Uniek: classificeert citaties als supporting/contrasting/mentioning. |
+| [ASReview](https://asreview.nl) | Screening | onbekend | 20+ (**UU maker**) | **Top 5.** Nederlands, open source, lokaal draaien, gepubliceerd in Nature Machine Intelligence. |
+| [Whisper (lokaal)](https://github.com/openai/whisper) | Transcriptie | onbekend | 1+ (**RUG gratis dienst**) | **Top 5.** Enige privacyveilige transcriptieoptie. Volledig lokaal, GDPR-proof. |
+| [SURF AI-hub / EduGenAI](https://surf.nl) | NL infrastructuur | 14 NL instellingen | 14 NL | **Veelbelovend.** Alle NL universiteiten en hogescholen, sovereign hosting, DPIA gepubliceerd. Breed beschikbaar eind 2026. |
+| [Semantic Scholar](https://semanticscholar.org) | Zoekmachine | 7M+/mnd | 1.000+ | Sterk als databron (205M papers), non-profit. Minder stuurbaar dan Elicit op een specifieke vraag. |
+| [Litmaps](https://litmaps.com) | Visuele kaart | 2M+ | 16.000+ | Sterke visualisatie, maar overlappend met ResearchRabbit (dat het overnam). |
+| [ResearchRabbit](https://researchrabbit.ai) | Literatuurontdekking | 1M+ | 50+ | Overgenomen door Litmaps (mei 2025). Minder stabiel voor langetermijngebruik. |
+| [Zotero](https://zotero.org) | Referentiebeheer | breed | 500+ | Referentiemanager, geen AI-zoeker. Sterk aanvullend maar ander type. Open source. |
+| [Mendeley](https://mendeley.com) | Referentiebeheer | 6M+ | 500+ | Zelfde type als Zotero, eigendom van Elsevier (commercieel verdienmodel). |
+| [NotebookLM](https://notebooklm.google.com) | Document-analyse | 17M MAU | 10.000+ | Brede adoptie maar Google-eigendom. Privacyrisico voor vertrouwelijke data. |
+| [Perplexity AI](https://perplexity.ai) | Zoekengine | 15M+ MAU | 3+ | Mixt wetenschappelijk en niet-wetenschappelijk. Ongeschikt voor onderzoek op peer-reviewed basis. |
+| [SciSpace](https://scispace.com) | Alles-in-één | onbekend | onbekend | Brede features maar minder sterk academisch verankerd dan Elicit of Consensus. |
+| [Connected Papers](https://connectedpapers.com) | Visualisatie | onbekend | 3+ | Nuttig voor paper-netwerken maar beperkt tot 5 grafen/maand gratis. Minder onderscheidend. |
+| [Inciteful](https://inciteful.xyz) | Netwerk-analyse | onbekend | 1+ | Interessant maar te weinig universitaire adoptie om te prioriteren. |
+| [OpenAlex](https://openalex.org) | Open database | 1,5B API/mnd | 5+ | Geen eindgebruikersinterface. Sterk voor technische bibliometrie via API. |
+| [Iris.ai](https://iris.ai) | Enterprise review | onbekend | onbekend | Enterprise-only, geen gratis versie. Te hoge drempel voor directe adoptie. |
+| [Paperpal](https://paperpal.com) | Schrijfassistent | 1,5M+ | onbekend | Schrijfondersteuning voor publicaties. Minder relevant voor literatuurreview-radartjes. |
+| [Jenni.ai](https://jenni.ai) | Schrijfassistent | 1M+ | onbekend | Overlappend met Paperpal. Minder academisch verankerd dan alternatieven. |
+| [Microsoft GraphRAG](https://microsoft.github.io/graphrag) | Kennisgraaf / RAG | onbekend | onbekend | Krachtig voor entiteitenextractie uit documenten. Vereist technische kennis, niet direct inzetbaar. |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | Kennisgraaf / RAG | onbekend | onbekend | Lichter en sneller alternatief voor GraphRAG (EMNLP 2025). Zelfde technische drempel. |
+| [VOSviewer](https://vosviewer.com) | Bibliometrie | onbekend | 1.000+ (**Leiden University maker**) | Gratis, gemaakt door Universiteit Leiden. Standaard voor bibliometrische visualisatie. |
+| [Bibliometrix](https://bibliometrix.org) | Bibliometrie | onbekend | 100+ | Open source R-pakket voor kwantitatieve literatuuranalyse. Vereist R-kennis. |
+| [Gephi](https://gephi.org) | Netwerkanalyse | onbekend | 100+ | Open source graafvisualisatie. Nuttig voor supply chain mapping, niet voor literatuurreview. |
+| [Open Semantic Search](https://opensemanticsearch.org) | Semantisch zoeken | onbekend | onbekend | Zelf-hostbaar semantisch zoeken. Te technisch voor directe adoptie door eindgebruikers. |
+| [Semantra](https://github.com/freedmand/semantra) | Semantisch zoeken | onbekend | onbekend | Lokaal semantisch zoeken in eigen documenten. Veelbelovend maar weinig gedocumenteerde adoptie. |
+| [Weaviate](https://weaviate.io) | Vectordatabase | onbekend | onbekend | Open source vector database. Framework voor RAG-toepassingen, geen eindgebruikerstool. |
+| [Deep Research (open source)](https://github.com/dzhng/deep-research) | Onderzoeksagent | 18K+ GitHub stars | onbekend | Iteratieve onderzoeksagent. Vereist API-sleutels en technische kennis. |
+| [AI-Researcher (HKUDS)](https://github.com/HKUDS/AI-Researcher) | Onderzoeksagent | onbekend | onbekend | NeurIPS 2025 Spotlight. Autonoom maar vereist significante technische kennis voor inzet. |
+| [RMIS / JRC Critical Raw Materials](https://rmis.jrc.ec.europa.eu) | Data / monitoring | onbekend | onbekend | EU-database voor supply chain monitoring kritieke grondstoffen. Gratis, geen AI maar onmisbaar als databron. |
+| [MindsDB](https://mindsdb.com) | ML automatisering | onbekend | onbekend | ML-platform voor gestructureerde data. Te generiek voor de specifieke onderzoekscontext. |
+| [Khoj](https://khoj.dev) | AI-assistent / RAG | onbekend | onbekend | Zelf-hostbaar, volledig lokaal, GDPR-proof alternatief voor NotebookLM. Zoekt in eigen docs + web. |
+| [GPT Researcher](https://gptr.dev) | Onderzoeksagent | 27K+ GitHub stars | onbekend | Sterkste open source deep research agent. Vereist LLM API-sleutels; niet plug-and-play voor eindgebruikers. |
+| [privateGPT](https://privategpt.io) | Document-AI (lokaal) | onbekend | onbekend | Volledig offline document-QA. Maximale privacy, maar technische installatie vereist. |
+| [Otter.ai](https://otter.ai) | Transcriptie | 1M+ | 3+ (UC Berkeley, TU Dublin; geen NL) | Cloud-transcriptie met AI-samenvatting. Handig maar data naar VS-servers; Whisper lokaal heeft voorkeur voor gevoelige gesprekken. |
+| [genei](https://genei.io) | Literatuuronderzoek | onbekend | 2+ (UCL, Oxford informeel; geen NL) | Academische samenvatting in seconden. Complement op Elicit voor snelle screening. |
+| [Sourcely](https://sourcely.net) | Literatuuronderzoek | onbekend | onbekend | Uniek: vindt bronnen bij bestaande tekst. Geen gedocumenteerde NL adoptie maar directe meerwaarde. |
+| [quivr](https://quivr.app) | Document-AI / RAG | onbekend | onbekend | Chat met eigen bestanden, self-hosted optie. Eenvoudiger dan privateGPT voor meerdere bestandstypen. |
+| [prismaid](https://prismaid.org) | Literatuuronderzoek | onbekend | onbekend | Enige open source tool specifiek voor PRISMA 2020 systematische reviews. Aanvulling op ASReview. |
+| [fabric](https://danielmiessler.com/projects/fabric) | Werkprocesautomatisering | 27K+ GitHub stars | onbekend | Krachtige bibliotheek AI-prompts via terminal. Relevant voor technische gebruikers, niet voor eindgebruikers. |
+| [Haystack](https://haystack.deepset.ai) | Semantisch zoeken / RAG | onbekend | onbekend | Framework voor zoek- en QA-pipelines. Ontwikkeltool, geen directe eindgebruikersinterface. |
 
-Het volledige overzicht met per tool de academische verankering, privacyanalyse en reden van selectie of afwijzing staat in het [dashboard](/dashboard.html).
+Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
 ## Top 5 selectie
 
