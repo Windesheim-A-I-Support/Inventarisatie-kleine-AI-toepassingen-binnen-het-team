@@ -49,8 +49,8 @@ jobs:
           quarto render updates/week-01.qmd --to pdf --output week-01.pdf --output-dir _site/downloads
           quarto render interviews/gespreksgids.qmd --to pdf
           cp interviews/gespreksgids.pdf _site/downloads/gespreksgids.pdf
-          quarto render survey/toolkeuze-survey.qmd --to pdf
-          cp survey/toolkeuze-survey.pdf _site/downloads/toolkeuze-survey.pdf
+          quarto render survey/toolkeuze-formulier.qmd --to pdf
+          cp survey/toolkeuze-formulier.pdf _site/downloads/toolkeuze-formulier.pdf
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
