@@ -33,7 +33,21 @@ Let op deze signalen:
 
 ---
 
-## De 7 vragen
+## De 12 vragen
+
+### 0. Digitale toolkit (vroeg in het gesprek)
+
+> "Welke digitale tools gebruik je dagelijks of wekelijks? Denk aan alles: e-mail, agenda, tekstverwerking, projecttools. En ook AI-tools als je die gebruikt."
+
+Niet als AI-vraag stellen. Gewoon inventariseren wat het digitale werklandschap is. Dit geeft context voor alles wat daarna komt: je ziet waar iemand al digitaal werkt en waar nog niet.
+
+Let op:
+
+- Tools die ze vanzelfsprekend vinden (Outlook, Teams, Word) zijn net zo interessant als de experimentele tools
+- "Niet werkend" of "geprobeerd en gestopt" is ook relevante informatie
+- Noteer ook frequentie en tevredenheid per tool
+
+---
 
 ### 1. Opener: recente taak
 
@@ -178,9 +192,16 @@ Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om te wete
 
 ## Aantekeningen
 
+**Digitale toolkit (vroeg invullen):**
+
+| Tool | Categorie | Frequentie | Tevredenheid |
+|---|---|---|---|
+| | | | |
+| | | | |
+
 **Kleine radartjes:**
 
-| Werkproces | Radartje | Volume | Gevoeligheid |
+| Werkproces | Radartje | Volume | Privacyniveau |
 |---|---|---|---|
 | | | | |
 | | | | |

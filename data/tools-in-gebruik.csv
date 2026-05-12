@@ -1,0 +1,11 @@
+datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
+2026-05-11,Sara,Onderzoeksondersteuner,ChatGPT,AI/LLM,Teksten herschrijven,Incidenteel,Middel,Niet structureel - meer als er haast is
+2026-05-11,Sara,Onderzoeksondersteuner,Google Scholar,Literatuur,Literatuur zoeken,Wekelijks,Hoog,Standaardtool voor literatuuronderzoek
+2026-05-12,Christiaan,Lid lectoraat,Claude,AI/LLM,Schrijven en programmeren,Dagelijks,Hoog,Intensief gebruik - primaire AI-tool
+2026-05-12,Christiaan,Lid lectoraat,Ollama,AI lokaal,Lokale modellen draaien,Incidenteel,Middel,Minder frequent dan Claude
+2026-05-12,Christiaan,Lid lectoraat,Agent of Empires,Automatisering,AI-agents schedulen via TMUX,Dagelijks,Middel,Werkt maar reviewlast is hoog (4u/dag)
+2026-05-12,Christiaan,Lid lectoraat,Trello,Projectmanagement,Taken en planning bijhouden,Dagelijks,Middel,Geen geautomatiseerde koppeling
+2026-05-12,Christiaan,Lid lectoraat,GitHub,Ontwikkeling,Code en content beheren,Dagelijks,Hoog,Centrale hub voor projecten
+2026-05-12,Christiaan,Lid lectoraat,Quarto,Documenten,Publicaties en rapporten maken,Dagelijks,Hoog,Gecombineerd met GitHub Pages
+2026-05-12,Christiaan,Lid lectoraat,n8n,Automatisering,Workflows automatiseren,Niet werkend,Laag,Infrastructuurprobleem blokkeert adoptie
+2026-05-12,Christiaan,Lid lectoraat,OpenWebUI,AI lokaal,Lokale AI-interface,Niet werkend,Laag,Infrastructuurprobleem blokkeert adoptie

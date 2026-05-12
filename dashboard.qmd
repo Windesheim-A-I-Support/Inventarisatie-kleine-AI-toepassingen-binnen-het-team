@@ -11,8 +11,9 @@ lang: nl
 
 ```{ojs}
 //| output: false
-radartjes = FileAttachment("data/radartjes.csv").csv({ typed: false })
-longlist  = FileAttachment("data/tools-longlist.csv").csv({ typed: false })
+radartjes      = FileAttachment("data/radartjes.csv").csv({ typed: false })
+longlist       = FileAttachment("data/tools-longlist.csv").csv({ typed: false })
+toolsInGebruik = FileAttachment("data/tools-in-gebruik.csv").csv({ typed: false })
 ```
 
 ```{ojs}
@@ -335,6 +336,223 @@ longlist.filter(d => d.in_literatuuronderzoek === "Ja").length
               <td><span class="badge" style="background:${top5Kleur[t.in_top5] ?? '#adb5bd'};">${t.in_top5}</span></td>
               <td><span class="badge bg-${bruikKleur[t.direct_bruikbaar_voor_team] ?? 'secondary'}">${t.direct_bruikbaar_voor_team}</span></td>
               <td style="color:#555; font-size:0.78rem;">${t.kosten ?? "?"}</td>
+            </tr>
+          `)}
+        </tbody>
+      </table>
+    </div>
+  `
+}
+```
+
+# Digitalisering {orientation="rows"}
+
+## Row {height="12%"}
+
+```{ojs}
+//| content: valuebox
+//| title: "Collega's geïnventariseerd"
+//| icon: person-check
+//| color: primary
+new Set(toolsInGebruik.map(d => d.collega)).size
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Tools in kaart"
+//| icon: grid
+//| color: info
+toolsInGebruik.length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Werkende tools"
+//| icon: check-circle
+//| color: success
+toolsInGebruik.filter(d => d.tevredenheid !== "Laag" && d.frequentie !== "Niet werkend").length
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Adoptieknelpunten"
+//| icon: exclamation-triangle
+//| color: warning
+toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid === "Laag").length
+```
+
+## Row {height="50%" .tabset}
+
+### Per categorie
+
+```{ojs}
+{
+  const catData = d3.rollups(toolsInGebruik, v => v.length, d => d.categorie)
+    .map(([categorie, count]) => ({ categorie, count }))
+    .sort((a, b) => b.count - a.count)
+
+  const catKleur = {
+    "AI/LLM":          "#0d6efd",
+    "AI lokaal":        "#6610f2",
+    "Automatisering":   "#fd7e14",
+    "Literatuur":       "#198754",
+    "Projectmanagement":"#20c997",
+    "Ontwikkeling":     "#0dcaf0",
+    "Communicatie":     "#ffc107",
+    "Documenten":       "#6c757d",
+    "Andere":           "#adb5bd"
+  }
+
+  return Plot.plot({
+    height: 380,
+    marginLeft: 180,
+    marginRight: 60,
+    marginBottom: 40,
+    style: { fontSize: 13 },
+    marks: [
+      Plot.barX(catData, {
+        x: "count",
+        y: "categorie",
+        fill: d => catKleur[d.categorie] ?? "#adb5bd",
+        sort: { y: "x", reverse: true },
+        rx: 4
+      }),
+      Plot.text(catData, {
+        x: "count",
+        y: "categorie",
+        text: d => String(d.count),
+        dx: 10,
+        fill: "#333",
+        fontWeight: "bold",
+        sort: { y: "x", reverse: true }
+      }),
+      Plot.ruleX([0])
+    ],
+    x: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" },
+    y: { label: null }
+  })
+}
+```
+
+### Per collega
+
+```{ojs}
+{
+  const personData = d3.rollups(
+    toolsInGebruik,
+    v => d3.rollups(v, w => w.length, d => d.categorie)
+           .map(([categorie, count]) => ({ categorie, count })),
+    d => d.collega
+  ).flatMap(([collega, cats]) => cats.map(c => ({ collega, ...c })))
+
+  const catKleur = {
+    "AI/LLM":          "#0d6efd",
+    "AI lokaal":        "#6610f2",
+    "Automatisering":   "#fd7e14",
+    "Literatuur":       "#198754",
+    "Projectmanagement":"#20c997",
+    "Ontwikkeling":     "#0dcaf0",
+    "Communicatie":     "#ffc107",
+    "Documenten":       "#6c757d",
+    "Andere":           "#adb5bd"
+  }
+
+  return Plot.plot({
+    height: 380,
+    marginLeft: 120,
+    marginRight: 40,
+    marginBottom: 60,
+    style: { fontSize: 12 },
+    color: { domain: Object.keys(catKleur), range: Object.values(catKleur), legend: true },
+    marks: [
+      Plot.barY(personData, {
+        x: "collega",
+        y: "count",
+        fill: d => catKleur[d.categorie] ?? "#adb5bd",
+        offset: "stack",
+        rx: 2,
+        title: d => `${d.categorie}: ${d.count}`
+      }),
+      Plot.ruleY([0])
+    ],
+    x: { label: "Collega" },
+    y: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" }
+  })
+}
+```
+
+### Tevredenheid
+
+```{ojs}
+{
+  const tevData = d3.rollups(toolsInGebruik, v => v.length, d => d.tevredenheid)
+    .map(([tevredenheid, count]) => ({ tevredenheid, count }))
+
+  const tevKleur = { "Hoog": "#198754", "Middel": "#fd7e14", "Laag": "#dc3545", "Niet van toepassing": "#adb5bd" }
+
+  return Plot.plot({
+    height: 300,
+    marginBottom: 50,
+    marginLeft: 60,
+    style: { fontSize: 13 },
+    marks: [
+      Plot.barY(tevData, {
+        x: "tevredenheid",
+        y: "count",
+        fill: d => tevKleur[d.tevredenheid] ?? "#adb5bd",
+        rx: 4
+      }),
+      Plot.text(tevData, {
+        x: "tevredenheid",
+        y: "count",
+        text: d => String(d.count),
+        dy: -10,
+        fill: "#333",
+        fontWeight: "bold"
+      }),
+      Plot.ruleY([0])
+    ],
+    x: { label: "Tevredenheid" },
+    y: { label: "Aantal tools", tickFormat: d => Number.isInteger(d) ? d : "" }
+  })
+}
+```
+
+## Row {height="38%"}
+
+```{ojs}
+{
+  const tevKleur = { "Hoog": "#198754", "Middel": "#fd7e14", "Laag": "#dc3545", "Niet van toepassing": "#adb5bd" }
+  const sorted = [...toolsInGebruik].sort((a, b) =>
+    a.collega.localeCompare(b.collega) || a.categorie.localeCompare(b.categorie)
+  )
+
+  return html`
+    <div style="padding: 0 1.5rem 1.5rem 1.5rem; width: 100%;">
+      <table class="table table-hover align-middle mb-0" style="font-size: 0.82rem; width: 100%;">
+        <thead class="table-light" style="position: sticky; top: 0; z-index: 1;">
+          <tr>
+            <th>Collega</th>
+            <th>Rol</th>
+            <th>Tool</th>
+            <th>Categorie</th>
+            <th>Waarvoor</th>
+            <th>Frequentie</th>
+            <th>Tevredenheid</th>
+            <th>Opmerking</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${sorted.map(t => html`
+            <tr>
+              <td style="white-space:nowrap; font-weight:500;">${t.collega}</td>
+              <td style="color:#555; font-size:0.78rem;">${t.rol}</td>
+              <td style="white-space:nowrap; font-weight:500;">${t.tool}</td>
+              <td><span class="badge bg-light text-dark border" style="font-weight:400;">${t.categorie}</span></td>
+              <td style="color:#555;">${t.waarvoor}</td>
+              <td style="color:#555;">${t.frequentie}</td>
+              <td><span class="badge" style="background:${tevKleur[t.tevredenheid] ?? '#adb5bd'}; color:white;">${t.tevredenheid}</span></td>
+              <td style="color:#888; font-size:0.78rem;">${t.opmerking ?? ""}</td>
             </tr>
           `)}
         </tbody>

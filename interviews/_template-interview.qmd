@@ -10,6 +10,18 @@
 | Gespreksvorm | Mondeling, één op één |
 | Duur | [duur] |
 
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
 ## Ruwe transcript
 
 *Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
