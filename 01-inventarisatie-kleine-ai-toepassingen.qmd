@@ -2,7 +2,9 @@
 
 ## Wat zijn de interviews?
 
-De inventarisatie van kleine AI-toepassingen verloopt via één-op-één gesprekken met collega's. Geen vragenlijst die rondgestuurd wordt, geen groepssessie, geen enquête. Eén gesprek per persoon, mondeling, doorvragend.
+De inventarisatie verloopt via één-op-één gesprekken met collega's. Geen vragenlijst die rondgestuurd wordt, geen groepssessie, geen enquête. Eén gesprek per persoon, mondeling, doorvragend.
+
+De scope is breder dan AI alleen. De interviews brengen het volledige digitale werklandschap in kaart: welke tools gebruikt iemand al, wat werkt goed, wat heeft iemand geprobeerd en losgelaten, en welke werkprocessen zijn nog helemaal niet digitaal ondersteund? AI is één categorie binnen dat bredere beeld.
 
 Het doel is niet om mensen te vragen waar AI kan helpen. Die vraag levert clichés op. Het doel is om te luisteren naar hoe iemand werkt en daarin de radartjes te ontdekken: kleine, concrete onderdelen van het werk waar iets te winnen valt.
 

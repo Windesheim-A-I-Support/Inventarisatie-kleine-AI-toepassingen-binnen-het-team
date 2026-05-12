@@ -1,8 +1,10 @@
 # Over dit project
 
-Dit project brengt in kaart waar collega's binnen het team AI zinvol kunnen inzetten. Niet als grote strategie, maar als kleine concrete stappen: welke onderdelen van het werk kosten onnodig veel tijd, herhalen zich steeds, of leveren een kwaliteitscompromis op?
+Dit project brengt in kaart waar collega's binnen het team digitale tools zinvol kunnen inzetten. Niet als grote strategie, maar als kleine concrete stappen: welke onderdelen van het werk kosten onnodig veel tijd, herhalen zich steeds, of leveren een kwaliteitscompromis op?
 
-Het project bestaat uit twee werksporen die elkaar versterken. Gesprekken met collega's leveren kleine radartjes op. Onderzoek naar wat andere universiteiten al doen levert direct bruikbare tools op. Beide stromen komen samen in het [dashboard](dashboard.html).
+AI is daarin één categorie. Even relevant zijn de tools die collega's al gebruiken, de tools die ze geprobeerd hebben en losgelaten, en de werkprocessen die nog helemaal niet digitaal ondersteund worden.
+
+Het project bestaat uit twee werksporen die elkaar versterken. Gesprekken met collega's leveren kleine radartjes op én een beeld van het huidige digitale werklandschap. Onderzoek naar wat andere universiteiten al doen levert direct bruikbare tools op. Beide stromen komen samen in het [dashboard](dashboard.html).
 
 ## Aanleiding
 
