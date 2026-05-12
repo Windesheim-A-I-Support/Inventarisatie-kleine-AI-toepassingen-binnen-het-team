@@ -43,14 +43,18 @@ function parseUsers(s) {
 
 longlistPlus = longlist.map(t => ({
   ...t,
-  uni_num:   parseUni(t.aantal_universiteiten),
-  users_num: parseUsers(t.gebruikers)
+  type:                   String(t.type ?? "Onbekend"),
+  in_literatuuronderzoek: String(t.in_literatuuronderzoek ?? "Nee"),
+  direct_bruikbaar_voor_team: String(t.direct_bruikbaar_voor_team ?? "Nee"),
+  in_top5:                String(t.in_top5 ?? "Nee"),
+  uni_num:                parseUni(t.aantal_universiteiten),
+  users_num:              parseUsers(t.gebruikers)
 }))
 ```
 
 # Tools {orientation="rows"}
 
-## Row {height="18%"}
+## Row {fill="false"}
 
 ```{ojs}
 viewof toolFilter = {
@@ -491,14 +495,13 @@ toolsInGebruik.filter(d => d.frequentie === "Niet werkend" || d.tevredenheid ===
     style: { fontSize: 12 },
     color: { domain: Object.keys(catKleur), range: Object.values(catKleur), legend: true },
     marks: [
-      Plot.barY(personData, {
+      Plot.barY(personData, Plot.stackY({
         x: "collega",
         y: "count",
         fill: d => catKleur[d.categorie] ?? "#adb5bd",
-        offset: "stack",
         rx: 2,
         title: d => `${d.categorie}: ${d.count}`
-      }),
+      })),
       Plot.ruleY([0])
     ],
     x: { label: "Collega" },
