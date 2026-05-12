@@ -144,18 +144,21 @@ De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews vol
 
 ## Interviewoverzicht
 
-| Datum | Rol | Radartjes | Sterkste signaal |
-|---|---|---|---|
-| 2026-05-11 | Onderzoeksondersteuner | Abstracts screenen, rapporten samenvatten | "Dat kost soms een hele middag, terwijl ik maar 10 papers nodig heb." |
-| 2026-05-12 | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." |
+| Datum | Naam | Rol | Radartjes | Sterkste signaal | Download |
+|---|---|---|---|---|---|
+| 2026-05-11 | Sara | Onderzoeksondersteuner | Abstracts screenen, rapporten samenvatten | "Dat kost soms een hele middag, terwijl ik maar 10 papers nodig heb." | [PDF](downloads/interview-2026-05-11-sara.pdf) |
+| 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) |
 
-Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html). Elke rij is één radartje van één collega, geanonimiseerd.
+Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
 ## Volgende stap
 
 Na elke ronde gesprekken worden de radartjes toegevoegd aan het dashboard en wordt een weekupdate verstuurd. Patroonherkenning over gesprekken heen volgt nadat meerdere collega's gesproken zijn.
 
-De gespreksgids en het intake-formulier zijn beschikbaar als PDF:
+## Downloads
 
-- [Gespreksgids (PDF)](downloads/gespreksgids.pdf)
-- [Toolkeuze-formulier (PDF, invulbaar offline)](downloads/toolkeuze-formulier.pdf)
+| Document | Omschrijving |
+|---|---|
+| [Interview-template (PDF, invulbaar)](downloads/interview-template-invulbaar.pdf) | Blanco formulier met alle 12 vragen en invulvakken |
+| [Gespreksgids (PDF)](downloads/gespreksgids.pdf) | Handleiding voor de interviewer |
+| [Toolkeuze-formulier (PDF)](downloads/toolkeuze-formulier.pdf) | Invulformulier voor toolselectie |

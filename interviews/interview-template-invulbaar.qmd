@@ -1,0 +1,188 @@
+---
+title: "Interview-template: kleine AI-toepassingen"
+subtitle: "Inventarisatie digitale toepassingen · Lectoraat Windesheim"
+date: "2026"
+format:
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm, top=2cm, bottom=2.5cm"
+    fontsize: 11pt
+    colorlinks: false
+    header-includes: |
+      \usepackage{enumitem}
+      \usepackage{booktabs}
+      \usepackage{array}
+      \usepackage{xcolor}
+      \usepackage{mdframed}
+      \usepackage{parskip}
+      \setlength{\parskip}{0.4em}
+      \newcommand{\antwoord}[1]{\vspace{#1}\noindent\rule{\linewidth}{0.4pt}}
+      \newcommand{\sectiekop}[1]{\vspace{1em}\noindent{\large\bfseries #1}\vspace{0.3em}\hrule\vspace{0.5em}}
+      \newcommand{\vraag}[1]{\vspace{0.6em}\noindent\textbf{#1}}
+      \newcommand{\toelichting}[1]{\vspace{0.2em}\noindent\small\textit{#1}\normalsize}
+lang: nl
+number-sections: false
+---
+
+\begin{center}
+\small
+Dit formulier is bedoeld voor de interviewer. Vul het in tijdens of direct na het gesprek. Het ruwe transcript en de Q\&A blijven privé. Alleen de samenvatting onderaan wordt gedeeld.
+\end{center}
+
+\vspace{0.5em}
+
+\sectiekop{Metadata}
+
+\vraag{Datum:} \antwoord{0.4em}
+
+\vraag{Naam collega:} \antwoord{0.4em}
+
+\vraag{Rol:} \antwoord{0.4em}
+
+\vraag{Duur gesprek:} \antwoord{0.4em}
+
+\sectiekop{0 \quad Digitale toolkit (vroeg invullen)}
+
+\toelichting{Welke digitale tools gebruikt deze persoon dagelijks of wekelijks? Noteer alles: ook Outlook, Teams, Excel.}
+
+\vspace{0.4em}
+
+\noindent
+\begin{tabular}{p{4cm} p{3.5cm} p{2.5cm} p{3.5cm}}
+\toprule
+\textbf{Tool} & \textbf{Categorie} & \textbf{Frequentie} & \textbf{Tevredenheid} \\
+\midrule
+& & & \\[0.8em]
+& & & \\[0.8em]
+& & & \\[0.8em]
+& & & \\[0.8em]
+& & & \\[0.8em]
+\bottomrule
+\end{tabular}
+
+\sectiekop{Vragen en antwoorden}
+
+\vraag{1. Opener — recente taak}
+\toelichting{"Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen: wat je écht deed."}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{2. Drill-down}
+\toelichting{"Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap, en hoe eindigt het?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{3. Workaround}
+\toelichting{"Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{4. Volume}
+\toelichting{"Hoeveel van dit soort [X] doe je per week, globaal?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{5. AI-gebruik}
+\toelichting{"Gebruik je zelf al AI-tools, voor werk of privé? Waarvoor precies? Wat werkt goed, wat niet?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{6. Eerder geprobeerd en gestopt?}
+\toelichting{"Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt? Wat was dat?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{7. Kwaliteitscompromis}
+\toelichting{"Wat doe je als je haast hebt? Wat laat je dan weg?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{8. Samenwerking en schaal}
+\toelichting{"Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{9. Foutkosten}
+\toelichting{"Wat gaat er mis als [X] niet goed gaat?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{10. Bestaande tools en systemen}
+\toelichting{"Welke programma's of systemen gebruik je al bij [X]? Ook de saaie: Outlook, Teams, Excel."}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{11. Magische stagiairvraag}
+\toelichting{"Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{12. Succescriterium}
+\toelichting{"Stel het werkt. Hoe merk je dat het beter gaat?"}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\sectiekop{Kleine radartjes uit dit gesprek}
+
+\noindent
+\begin{tabular}{p{3cm} p{3.5cm} p{2cm} p{2cm} p{3cm}}
+\toprule
+\textbf{Werkproces} & \textbf{Radartje} & \textbf{Inputtype} & \textbf{Privacyniveau} & \textbf{Opmerking} \\
+\midrule
+& & & & \\[1.2em]
+& & & & \\[1.2em]
+& & & & \\[1.2em]
+\bottomrule
+\end{tabular}
+
+\sectiekop{Letterlijke signalen}
+
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\sectiekop{Samenvatting voor weekupdate}
+
+\toelichting{Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.}
+
+\vraag{Rol/context collega:}
+\antwoord{0.6em}
+
+\vraag{In het kort:}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{Kleine radartjes:}
+\antwoord{0.6em}
+\antwoord{0.6em}
+\antwoord{0.6em}
+
+\vraag{Al in gebruik:}
+\antwoord{0.6em}
+
+\vraag{Sterkste signaal:}
+\antwoord{0.6em}
+\antwoord{0.6em}

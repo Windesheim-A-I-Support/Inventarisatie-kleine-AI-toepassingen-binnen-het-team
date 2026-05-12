@@ -51,6 +51,12 @@ jobs:
           cp interviews/gespreksgids.pdf _site/downloads/gespreksgids.pdf
           quarto render survey/toolkeuze-formulier.qmd --to pdf
           cp survey/toolkeuze-formulier.pdf _site/downloads/toolkeuze-formulier.pdf
+          quarto render interviews/interview-template-invulbaar.qmd --to pdf
+          cp interviews/interview-template-invulbaar.pdf _site/downloads/interview-template-invulbaar.pdf
+          quarto render interviews/2026-05-11-sara.qmd --to pdf
+          cp interviews/2026-05-11-sara.pdf _site/downloads/interview-2026-05-11-sara.pdf
+          quarto render interviews/2026-05-12-christiaan.qmd --to pdf
+          cp interviews/2026-05-12-christiaan.pdf _site/downloads/interview-2026-05-12-christiaan.pdf
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -1,3 +1,13 @@
+---
+title: "Interview: Christiaan"
+format:
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
 # Interview: Christiaan
 
 ## Metadata
