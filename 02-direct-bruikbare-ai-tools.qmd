@@ -8,7 +8,7 @@ Dit document beschrijft hoe dat onderzoek is uitgevoerd, welke criteria zijn geb
 
 ## Onderzoeksaanpak
 
-Er zijn meer dan 53 tools onderzocht. Per tool is gezocht naar:
+Er zijn meer dan 56 tools onderzocht. Per tool is gezocht naar:
 
 - Gebruikersaantallen (opgegeven door de tool zelf of via onafhankelijke bronnen)
 - Aantal universiteiten dat de tool gebruikt of aanbeveelt (library guides, institutionele abonnementen, case studies)
@@ -30,7 +30,7 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 53 onderzochte tools
+## De longlist: 56 onderzochte tools
 
 | Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
 |------|------|-----------|------------------------|-------------------|
@@ -87,6 +87,9 @@ Een tool scoort hoog als:
 | [Covidence](https://covidence.org) | Systematic review management | breed | **UT** (institutionele licentie alle faculteiten) | Cochrane-endorsed full review management. UT heeft gratis toegang voor alle medewerkers. |
 | [Fireflies.ai](https://fireflies.ai) | Vergadertranscriptie | 1M+ | geen NL gevonden | Krachtig maar 2025-rechtszaak biometrische stemdata. Whisper lokaal heeft voorkeur voor gevoelige vergaderingen. |
 | [tl;dv](https://tldv.io) | Vergadertranscriptie | 1M+ | geen NL gevonden | Sterkste GDPR-profiel cloud-transcriptie: Europese servers, end-to-end encryptie, geen modeltraining. |
+| [Anara](https://anara.com) | Document-analyse / literatuurreview | 3M+ | Stanford, MIT, Johns Hopkins (geen NL) | Anti-hallucination document-chat: elke respons met klikbare bronverwijzing. Y Combinator. |
+| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Onderzoeksagent (open source) | onbekend | geen NL gevonden | LangChain multi-agent research systeem. MIT-licentie, #6 Deep Research Bench. Meer configureerbaar dan GPT Researcher. |
+| [Sonix](https://sonix.ai) | Transcriptie (cloud) | breed | 5+ (geen NL specifiek) | Nederlandstalig transcriptiemodel (85-99% accuraat). Academisch getraind. Cloud-alternatief voor Whisper. |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
