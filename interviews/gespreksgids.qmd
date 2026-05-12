@@ -100,7 +100,15 @@ Laat ze zelf de verbinding maken. Niet invullen.
 
 ---
 
-### 6. Kwaliteitscompromis
+### 6. Eerder geprobeerd?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt? Wat was dat?"
+
+Sterk signaal. Iemand die al iets probeerde en opgaf heeft een echte drempel: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
+
+---
+
+### 7. Kwaliteitscompromis
 
 > "Wat doe je als je haast hebt? Wat laat je dan weg?"
 
@@ -108,11 +116,48 @@ Dit onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de ka
 
 ---
 
-### 7. De magische stagiairvraag
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Als meerdere mensen hetzelfde doen: het radartje is groter dan het lijkt. Een oplossing voor één persoon heeft dan veel meer waarde.
+
+Doorvragen:
+
+- "Doen jullie het allemaal op dezelfde manier?"
+- "Is er iemand die het efficiënter doet dan anderen?"
+
+---
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Bepaalt hoe kritisch het radartje is. Een fout in een intern werkdocument is anders dan een fout in een publicatie of subsidieaanvraag.
+
+---
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]? Ook de saaie: Outlook, Teams, Excel."
+
+Bepaalt integratie-vereisten. Een oplossing die buiten bestaande systemen werkt heeft een hogere drempel.
+
+---
+
+### 11. De magische stagiairvraag
 
 > "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
 
 Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
+
+---
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om te weten of een tool daadwerkelijk helpt.
 
 ---
 
@@ -121,10 +166,12 @@ Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
 | Vraag | Antwoord |
 |---|---|
 | Wat gaat er precies in? | |
+| **In welk formaat?** (tekst, PDF, audio, data, agenda, iets anders) | |
 | Wat moet er uitkomen? | |
 | Hoe vaak per week? | |
 | Doet iedereen het hetzelfde of verschilt het? | |
-| Is de informatie gevoelig? | |
+| Is de informatie gevoelig? (publiek / intern / persoonsgegevens) | |
+| **Wie zou dit moeten gebruiken?** (alleen jij, heel team, iedereen) | |
 | Wat gebruik je er nu voor? | |
 
 ---

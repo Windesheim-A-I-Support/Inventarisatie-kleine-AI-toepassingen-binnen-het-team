@@ -1,0 +1,103 @@
+# Interview: Christiaan
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-12 |
+| Collega | Christiaan |
+| Rol | Lid lectoraat |
+| Gespreksvorm | Mondeling |
+| Duur | 20 minuten |
+
+## Doel van het gesprek
+
+Inventariseren waar kleine AI-toepassingen mogelijk kunnen helpen in het werk van de collega.
+
+Belangrijk: dit gesprek is bedoeld om op te halen, niet om oplossingen aan te dragen.
+
+## Vragen en antwoorden
+
+### 1. Waar was je deze week het meest tijd aan kwijt?
+
+Antwoord: Plannen, bijhouden van projecten, en kijken naar wat AI agents daadwerkelijk hadden gedaan.
+
+### 2. Hoe lang was je met dat reviewen bezig?
+
+Antwoord: Zo'n 4 uur per dag.
+
+### 3. Hoe begint dat reviewen precies, stap voor stap?
+
+Antwoord: Hij gebruikt Agent of Empires (een TMUX-applicatie) om agents te schedulen. Daarna kijkt hij naar het resultaat op GitHub of direct in de tool.
+
+### 4. Wat doe je als je het resultaat ziet?
+
+Antwoord: Hij leest het door en kijkt of het volledig is. Dat is vaak niet het geval: AI blijft vaak oppervlakkig. Als hij het er opnieuw naar wijst, pikt de AI het wel op, maar het lijkt alsof het frequent afraffelt.
+
+### 5. Hoe geef je de correctie terug?
+
+Antwoord: Hij geeft het terug aan dezelfde agent en laat die een nieuw plan of takenlijst maken.
+
+### 6. Hoe vaak doe je dat per dag?
+
+Antwoord: 30-40 keer, net zolang als hij met AI-tools werkt.
+
+### 7. Heb je een trucje om het makkelijker te maken?
+
+Antwoord: Hij werkt met een Trello board voor planning, maar het reviewen zelf heeft hij nog niet gestroomlijnd.
+
+### 8. Welke AI-tools gebruik je?
+
+Antwoord: Claude veel, Ollama een beetje. Wil graag overstappen naar OpenWebUI en n8n, maar de infrastructuur lukt nog steeds niet goed.
+
+### 9. Wat werkt goed, wat werkt niet?
+
+Antwoord: Claude lost problemen op als je het erop wijst, maar het raakt frequent de weg kwijt of is onvolledig. Agent of Empires is een TMUX-applicatie om agents mee te schedulen.
+
+### 10. Wat laat je weg als je haast hebt?
+
+Antwoord: Hij kijkt naar het meest essentiële en of het er een beetje goed uitziet. Eerst de werking, dan de looks. Hij gebruikt AI ook om Quarto-books te maken en die op GitHub Pages te laden: dat werkt redelijk als basis om verder mee te gaan.
+
+### 11. Wat laat je een slimme stagiair als eerste doen?
+
+Antwoord: Continu monitoren van infrastructuur, en het maken van agenda-afspraken. "Ik zou wel een goede secretaresse willen."
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Input | Gewenste output | Gevoeligheid | Opmerking |
+|---|---|---|---|---|---|
+| Agent output review | Automatisch checken of output de vraag daadwerkelijk beantwoordt | Agent output + oorspronkelijke prompt | Volledigheidscheck met signaal bij afraffelen | Laag | 30-40x per dag, enorme tijdslast |
+| Infrastructuur monitoring | Geautomatiseerd monitoren en alerting | Systeemstatus diverse services | Alert bij afwijking | Middel | Bottleneck bij adoptie van nieuwe tools |
+| Agendabeheer | Afspraken plannen en bijhouden | Verzoeken, agenda, prioriteiten | Geplande afspraken, herinneringen | Laag-middel | Wil "secretaresse"-functie |
+
+## Letterlijke signalen
+
+- "Vaak blijft AI oppervlakkig."
+- "Net zolang ik werk met AI tools." (over 30-40 correctierondes)
+- "Eerst de werking, dan de looks."
+- "Ik zou wel een goede secretaresse willen."
+
+## Nog niet oplossen
+
+- Nagaan of er een evaluatie-stap in de agent-loop zelf ingebouwd kan worden zodat de reviewlast daalt.
+- OpenWebUI + n8n infrastructuurproblemen zijn een drempel: blokkeren adoptie van lokale AI.
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Lid lectoraat, werkt intensief met AI-agents voor projecten en content.
+
+**In het kort:** Collega besteedt dagelijks 4 uur aan het reviewen van AI-agent output op volledigheid. De AI raffelt frequent af; correctierondes zijn de norm, niet de uitzondering.
+
+**Kleine radartjes:**
+
+- Agent output review: automatisch signaleren of een agent de vraag daadwerkelijk volledig heeft beantwoord, zodat handmatige review minder intensief wordt
+- Infrastructuur monitoring: geautomatiseerd bewaken van de status van eigen AI-infrastructuur
+- Agendabeheer: ondersteuning bij plannen en bijhouden van afspraken
+
+**Al in gebruik:** Claude (intensief), Ollama, Agent of Empires (TMUX-agent scheduler), Trello, Quarto + GitHub Pages.
+
+**Sterkste signaal:** "Ik zou wel een goede secretaresse willen."

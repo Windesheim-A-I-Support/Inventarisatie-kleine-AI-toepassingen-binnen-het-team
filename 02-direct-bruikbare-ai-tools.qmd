@@ -127,13 +127,163 @@ Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties vi
 
 **Iris.ai, Paperpal, Jenni.ai, SciSpace**: Minder sterke academische verankering of overlappend met betere alternatieven in de top 5.
 
+## Van radartje naar tool
+
+Interviews leveren radartjes op: concrete werkprocessen met tijdslast. Of een radartje bij een bepaalde tool past, hangt af van vier dimensies.
+
+### De vier beslissende dimensies
+
+**1. Inputtype** bepaalt welke tools technisch passen:
+
+| Inputtype | Geschikte tools |
+|---|---|
+| Wetenschappelijke literatuur (titels, abstracts, PDFs) | ASReview, Elicit, Scite, Consensus |
+| Onderzoeksvraag in gewone taal | Elicit, Consensus, Semantic Scholar |
+| Lang document of rapport (PDF/Word) | Elicit, Claude |
+| Audio (vergadering, interview) | Whisper lokaal |
+| Agenda, e-mail, berichten | n8n + kalender-integratie |
+| Agent- of AI-output (tekst) | Evaluatie-agent in pipeline, n8n |
+| Systeemstatus, logs | n8n + webhooks |
+
+**2. Privacy** bepaalt cloud vs lokaal:
+
+| Niveau | Definitie | Wat mag |
+|---|---|---|
+| Publiek | Gepubliceerde papers, openbare informatie | Alle tools |
+| Intern | Werkdocumenten zonder persoonsgegevens | Cloud met verwerkersovereenkomst (Elicit, Claude via instelling, SURF) |
+| Vertrouwelijk | Persoonsgegevens, BSN, medisch, commercieel | Alleen lokaal (ASReview, Whisper lokaal) |
+
+**3. Trigger** bepaalt tool of automatisering:
+
+| Trigger | Aanpak |
+|---|---|
+| Ad-hoc, handmatig | Directe tool (Elicit, Claude, ASReview) |
+| Herhalend, gepland | Automatisering via n8n of agent scheduler |
+| Continu, event-driven | Monitoring + alerting (n8n + webhooks) |
+
+**4. Gebruikersniveau** bepaalt adoptiedrempel:
+
+| Niveau | Wat het vraagt | Geschikte tools |
+|---|---|---|
+| No-code | Alleen een browser | Elicit, Consensus, Scite, Claude.ai |
+| Low-code | Visuele configuratie | n8n, OpenWebUI |
+| Code | Installatie, terminal | ASReview, Whisper, Agent of Empires |
+
+### Per radartje: redenering achter de toolkeuze
+
+#### Abstracts screenen (grote batches literatuur)
+
+**Beste keuze: ASReview**
+
+ASReview is exact voor dit doel gebouwd. Het gebruikt active learning: de AI leert van de keuzes van de reviewer en plaatst steeds relevantere papers naar voren. Naarmate de sessie vordert, daalt de hoeveelheid te lezen abstracts sterk. Volledig open source, lokaal te draaien, geen data extern.
+
+**Aanvullend: Elicit** voor het vinden van de initiële lijst papers op basis van een onderzoeksvraag.
+
+**Valt af:**
+
+- *Consensus*: beantwoordt onderzoeksvragen met peer-reviewed bronnen, screent geen bestaande lijsten
+- *Scite*: analyseert citatie-context, werkt op losse papers niet op batches
+- *Semantic Scholar*: database en zoekmachine, geen screener
+
+---
+
+#### Literatuur zoeken op onderzoeksvraag
+
+**Beste keuze: Elicit**
+
+Enige tool op de lijst met gepubliceerde recall-scores op Cochrane-reviews: 95% search recall, 97% abstract screening, 99% full-text screening. Extraheert gestructureerde data uit gevonden papers. GDPR-compliant, verwerkersovereenkomst beschikbaar.
+
+**Aanvullend:**
+
+- *Consensus* voor vragen naar wetenschappelijke consensus op een specifieke bewering
+- *Scite* als tweede stap: beoordeel of de gevonden papers positief of kritisch geciteerd worden
+
+**Valt af:**
+
+- *ASReview*: screener, geen finder — werkt op een bestaande lijst, zoekt niet zelfstandig
+- *Semantic Scholar*: sterke database maar minder stuurbaar op een specifieke onderzoeksvraag
+
+---
+
+#### Lang rapport of document samenvatten
+
+**Beste keuze: Claude (via instelling of SURF AI-hub)**
+
+Elicit is geoptimaliseerd voor wetenschappelijke papers. Voor arbitraire documenten (beleidsstukken, vergaderverslagen, rapporten) presteert Claude beter. Intern document vereist een verwerkersovereenkomst: gebruik Claude via een institutionele licentie of wacht op SURF AI-hub.
+
+**Valt af:**
+
+- *ASReview, Scite, Consensus*: geen samenvattingsfunctie voor generieke documenten
+- *Elicit*: werkt optimaal op papers in zijn eigen database, minder geschikt voor willekeurige PDFs
+
+---
+
+#### Audio transcriberen (vergadering, interview)
+
+**Enige privacyveilige optie: Whisper lokaal**
+
+Vergader- en interviewdata bevat persoonsgegevens. Alle cloud-transcriptiediensten (OpenAI API, Otter.ai, Teams Premium) sturen data naar externe servers. Whisper is het open source model van OpenAI: het draait volledig lokaal, geen data naar buiten.
+
+Universiteit Groningen biedt Whisper al als gratis dienst aan voor alle medewerkers. Dat is een direct bruikbaar precedent voor Windesheim.
+
+**Valt af:**
+
+- Alle andere tools op deze lijst: geen audio-ondersteuning
+
+---
+
+#### Agent-output reviewen op volledigheid
+
+**Geen tool in de top 5 past hier.**
+
+Dit is geen single-tool-probleem, maar een pipeline-probleem. De oplossing zit in de agent-loop zelf: een evaluatie-stap die de output toetst aan de oorspronkelijke prompt voordat het resultaat wordt gepresenteerd. Instrumenten daarvoor zijn n8n (visuele automatisering) of een tweede Claude-agent als reviewer.
+
+Dit radartje signaleert een categorie-gat: de huidige top 5 dekt onderzoekstools, niet agent-orchestratie. Zie bevinding hieronder.
+
+---
+
+#### Infrastructuur monitoren en Agendabeheer
+
+**Geen tool in de top 5 past hier.**
+
+Beide radartjes vallen in de categorie werkproces-automatisering, niet onderzoeksondersteuning. n8n is de standaard no-code aanpak voor monitoring (webhooks, health checks, alerts) en agendabeheer (kalender-integraties, e-mail-triggers).
+
+---
+
+### Bevinding: twee categorieën, één gat
+
+De eerste twee interviews leveren twee afzonderlijke clusters van radartjes op:
+
+**Cluster 1: Onderzoeksondersteuning** (literatuur zoeken, screenen, samenvatten)
+Gedekt door de huidige top 5. Elicit, ASReview en Scite sluiten direct aan op de werkprocessen in dit cluster.
+
+**Cluster 2: Werkproces-automatisering** (agent-review, monitoring, agendabeheer)
+Niet gedekt door de huidige top 5. Dit cluster vraagt om een aparte categorie: automatiseringstools zoals n8n en agent-pipeline-ingrepen.
+
+Dit suggereert dat de tool-inventarisatie een tweede track nodig heeft naast de onderzoeksfocus. Hoe meer interviews worden afgenomen, hoe scherper de verdeling tussen deze twee clusters zal worden.
+
+---
+
+### Overzichtstabel
+
+| Werkproces (radartje) | Inputtype | Privacy | Trigger | Aanbevolen tool | Categorie |
+|---|---|---|---|---|---|
+| Abstracts screenen | Literatuur (PDFs) | Publiek | Ad-hoc | ASReview | Onderzoek |
+| Literatuur zoeken op vraag | Tekst (vraag) | Publiek | Ad-hoc | Elicit (+Consensus, Scite) | Onderzoek |
+| Rapport samenvatten | PDF | Intern | Ad-hoc | Claude via instelling | Onderzoek |
+| Audio transcriberen | Audio | Vertrouwelijk | Ad-hoc | Whisper lokaal | Onderzoek |
+| Agent-output reviewen | Tekst (output) | Intern | Continu | Evaluatie-agent in pipeline | Automatisering |
+| Infrastructuur monitoren | Systeemstatus | Intern | Continu | n8n + webhooks | Automatisering |
+| Agendabeheer | Agenda / e-mail | Intern | Event-driven | n8n + kalender | Automatisering |
+| E-mails templaten | Tekst | Intern | Ad-hoc | Claude via instelling | Automatisering |
+
+Deze tabel groeit mee met elke interviewronde.
+
 ## Hoe interviews de toolselectie verder informeren
 
-De toolselectie is gebaseerd op externe criteria. Interviews met collega's voegen een laag toe: welke tools worden al gebruikt, wat werkt goed, en voor welke werkprocessen is de behoefte het grootst?
+De toolselectie is gebaseerd op externe criteria. Interviews met collega's voegen een laag toe: welke werkprocessen vragen het meest om ondersteuning, welke tools worden al gebruikt, en waar zitten categorie-gaten?
 
-Het dashboard koppelt deze twee bronnen automatisch: zodra een collega een tool noemt in een interview, wordt die tool hoger geplaatst in het overzicht en gemarkeerd als "al in gebruik bij collega's."
-
-De top 3 voor directe inzet wordt pas definitief bepaald na de eerste ronde interviews.
+Het dashboard koppelt deze twee bronnen. De top 3 voor directe inzet wordt definitief bepaald na de eerste volledige interviewronde.
 
 ## Demo's
 
