@@ -8,7 +8,7 @@ Dit document beschrijft hoe dat onderzoek is uitgevoerd, welke criteria zijn geb
 
 ## Onderzoeksaanpak
 
-Er zijn meer dan 62 tools onderzocht. Per tool is gezocht naar:
+Er zijn meer dan 70 tools onderzocht. Per tool is gezocht naar:
 
 - Gebruikersaantallen (opgegeven door de tool zelf of via onafhankelijke bronnen)
 - Aantal universiteiten dat de tool gebruikt of aanbeveelt (library guides, institutionele abonnementen, case studies)
@@ -30,7 +30,7 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 62 onderzochte tools
+## De longlist: 70 onderzochte tools
 
 | Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
 |------|------|-----------|------------------------|-------------------|
@@ -96,6 +96,14 @@ Een tool scoort hoog als:
 | [Kepler.gl](https://kepler.gl) | Geospatiale visualisatie | breed | 5+ (academisch; geen NL specifiek) | Krachtige open source geovisualisatie voor grote datasets. Supply chain mapping. Geen code nodig. |
 | [Semantic Visions](https://semantic-visions.com) | Supply chain intelligence | onbekend | geen NL gevonden | AI multi-tier supply chain mapping via 1,9M OSINT-bronnen. Taylor & Francis 2025 paper. Enterprise. |
 | [FLINT AI](https://flintai.com) | Forensische linguistiek | onbekend | geen NL gevonden | Linguistisch vingerafdruk voor auteurschapsverificatie en AI-detectie. 80%+ accuraat. |
+| [Autopsy](https://autopsy.com) | Digitale forensische analyse | law enforcement + universiteiten | George Washington University, Vanderbilt, Dartmouth, Penn State | Open source forensisch platform voor schijfimage-analyse en bewijsverzameling. Breed ingezet in academische cybersecurity-cursussen. Lokaal draaien, gratis. |
+| [Velociraptor](https://velociraptor.app) | DFIR / endpoint monitoring | security teams, CISA | Naval Postgraduate School (CISA-aanbeveling) | Open source DFIR-platform voor threat hunting op 10.000-100.000+ endpoints. CISA-erkend. Alleen relevant bij forensische toepassingen. |
+| [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) | AI onderzoeksassistent (self-hosted) | onderzoekers, developers | geen NL gevonden | Privacy-proof alternatief voor ChatGPT Deep Research. Doorzoekt ArXiv, PubMed, Semantic Scholar lokaal. Volledig gratis, Ollama-ondersteuning. |
+| [Open Notebook](https://github.com/lfnovo/open-notebook) | NotebookLM-alternatief (self-hosted) | onderzoekers, kenniswerkers | geen NL gevonden | Self-hosted NotebookLM-alternatief met 18+ AI-providers, multi-modale bronnen en podcast-generatie. Lokaal draaien, privacyvriendelijk. |
+| [SurfSense](https://surfsense.net) | AI onderzoeksagent (self-hosted) | teams, kenniswerkers | geen NL gevonden | Open source NotebookLM + Perplexity alternatief. Verbindt 20+ bronnen (Slack, Notion, YouTube) en draait lokaal met Ollama. Privacy-proof voor teams. |
+| [GeoAI](https://opengeoai.org) | AI geospatiale analyse (Python / QGIS) | geo-wetenschappers, universiteiten | Harvard (Center for Geographic Analysis), Penn State, George Washington University | Python-bibliotheek + QGIS-plugin voor AI-gestuurde geospatiale analyse. No-code bruikbaar. MIT-licentie. Aanvulling op IntelliGeo. |
+| [Resilinc EventWatchAI](https://resilinc.ai) | Supply chain risico-monitoring AI | bedrijven, defensie | Naval Postgraduate School (CRADA-partnership) | Real-time monitoring van 104M+ bronnen in 100+ talen op supply chain verstoringen. Meest geavanceerde tool in dit segment. Commercieel. |
+| [Everstream Analytics](https://everstream.ai) | Supply chain risico-intelligence AI | enterprise, logistiek, procurement | geen NL gevonden | Gartner Magic Quadrant Leader 2026 voor leveranciersrisicobeheer. Voorspellende risicomodellering via NLP + real-time data. Commercieel. |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
