@@ -8,7 +8,7 @@ Dit document beschrijft hoe dat onderzoek is uitgevoerd, welke criteria zijn geb
 
 ## Onderzoeksaanpak
 
-Er zijn meer dan 57 tools onderzocht. Per tool is gezocht naar:
+Er zijn meer dan 62 tools onderzocht. Per tool is gezocht naar:
 
 - Gebruikersaantallen (opgegeven door de tool zelf of via onafhankelijke bronnen)
 - Aantal universiteiten dat de tool gebruikt of aanbeveelt (library guides, institutionele abonnementen, case studies)
@@ -30,7 +30,7 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 57 onderzochte tools
+## De longlist: 62 onderzochte tools
 
 | Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
 |------|------|-----------|------------------------|-------------------|
@@ -91,6 +91,11 @@ Een tool scoort hoog als:
 | [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Onderzoeksagent (open source) | onbekend | geen NL gevonden | LangChain multi-agent research systeem. MIT-licentie, #6 Deep Research Bench. Meer configureerbaar dan GPT Researcher. |
 | [Sonix](https://sonix.ai) | Transcriptie (cloud) | breed | 5+ (geen NL specifiek) | Nederlandstalig transcriptiemodel (85-99% accuraat). Academisch getraind. Cloud-alternatief voor Whisper. |
 | [PaperQA2](https://github.com/Future-House/paper-qa) | Literatuurreview / RAG | onbekend | geen NL gevonden | Anti-hallucination RAG voor eigen papers. arXiv-paper + OpenReview. Matcht expert-prestaties. Open source. |
+| [Open Knowledge Maps](https://openknowledgemaps.org) | Literatuurvisualisatie / mapping | onbekend | **KB Nederland** (ondersteunend lid); Princeton | Visueel overzicht van onderzoeksgebied. KB NL is lid. Gratis. Aanvulling op VOSviewer. |
+| [IntelliGeo](https://intelligeo.org) | Geospatiale AI (QGIS-plugin) | onbekend | **Universiteit Twente** (maker, NWO AiNed) | NL-gemaakte AI-plugin voor QGIS. Natural language → geoprocessing workflow. Apache 2.0. |
+| [Kepler.gl](https://kepler.gl) | Geospatiale visualisatie | breed | 5+ (academisch; geen NL specifiek) | Krachtige open source geovisualisatie voor grote datasets. Supply chain mapping. Geen code nodig. |
+| [Semantic Visions](https://semantic-visions.com) | Supply chain intelligence | onbekend | geen NL gevonden | AI multi-tier supply chain mapping via 1,9M OSINT-bronnen. Taylor & Francis 2025 paper. Enterprise. |
+| [FLINT AI](https://flintai.com) | Forensische linguistiek | onbekend | geen NL gevonden | Linguistisch vingerafdruk voor auteurschapsverificatie en AI-detectie. 80%+ accuraat. |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
