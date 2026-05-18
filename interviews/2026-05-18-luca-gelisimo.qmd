@@ -1,0 +1,193 @@
+---
+title: "Interview: Luca Gelisimo"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Luca Gelisimo
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-18 |
+| Collega | Luca Gelsomino |
+| Rol | Onderzoeker |
+| Gespreksvorm | Mondeling, één op één |
+| Duur | ca. 25 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT | AI/LLM | Python code genereren | Regelmatig | Positief | Plakt code handmatig in VS Code; geen directe GitHub-integratie |
+| Visual Studio Code | Ontwikkeling | Python schrijven en uitvoeren | Dagelijks | Positief | |
+| | | | | | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+*Opmerking: transcript gedeeltelijk beschikbaar (14:14-14:15 en 14:38-14:40). Middelste deel ontbreekt.*
+
+**14:14**
+Luca: "Yeah, okay. No, I didn't know it, but the workflow was also a bit clunky because I don't really give much care that things go into my GitHub. I want them to go into my virtual studio code."
+Interviewer: "Right, yeah, yeah."
+Luca: "which doesn't seem to be possible, at least to my knowledge. So what I do now, which is the fastest, is that I just prompt ChatGPT into giving me the Python code and then I drop it in Visual Studio and it usually works out."
+Interviewer: "Yeah, yeah. I can I can give you the answer how to do to do that, but let's first confuse do the rest of the interview. OK."
+Luca: "Sure."
+Interviewer: "What would you describe as one of the more painful things that you have to do?"
+Luca: "Ha. Yeah, good question. I don't know. It really depends. It really depends. I would say sometimes some writing process is extremely slow. Sometimes I have to do some intense data analysis that that it's difficult to automate, that takes too much time. So like the analysis on annual reports that we discussed in the past that took way too much of my time. So I cannot really do it again, even though I automated it partially, but it was still painful. Writing papers is still sometimes painful in the sense that stuff like the literature review. Wait, can you give me one minute? There's someone at my door. I'll be right back."
+
+*[Middelste deel transcript ontbreekt]*
+
+**14:38**
+Interviewer: "So it does take a little bit of time to figure out, just like latex, right? Because you've used latex before, you also know that that's not the easiest language to ever get yourself across."
+Luca: "Yep."
+Interviewer: "But once you have it up, it can do some really amazing things, right? So I make all my websites in Quarto. I make all my dashboarding and all my presentations in Quarto. And what we can definitely do is we can make a PowerPoint template presentation for Rin inside with all the logos and the nice formatting."
+Luca: "Okay."
+Interviewer: "And then everybody will have the same thing. You only need to adjust the text."
+Luca: "Mhm."
+Interviewer: "Or add some pictures or whatever you want."
+Luca: "Okay, well, sounds sounds cool."
+Interviewer: "We can, we can work on that, yeah. Yeah, but I'm not allowed to work on that first before we figured out all of, you know, I went through everybody and then we figured out, yes, it's PowerPoints. We need better PowerPoints. Okay."
+Luca: "Okay, well."
+Interviewer: "I will give you the report survey and stuff like that. It will also be published in the dashboard and stuff like that."
+Luca: "Sure."
+Interviewer: "So, yeah, I really thank you for for your time in this, and I find you've been really a wealth of information here. So, funny enough, Ritz had the same same question this morning, actually."
+Luca: "No problem. No problem. Thank you for the, yeah. Okay, nice. Well, thanks for all the information. I'll definitely look into that."
+Interviewer: "Yeah, you don't have to, but that's I thought, okay."
+Luca: "No, it sounds extremely interesting."
+Interviewer: "Right."
+Luca: "Thanks A lot. Have a nice day."
+Interviewer: "You're welcome. And you too. And hope to see you soon again. Bye bye."
+Luca: "Yep, keep in touch. Bye."
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Antwoord: Tijdrovende werkzaamheden: schrijfprocessen (traag), intensieve data-analyse (moeilijk te automatiseren), jaarverslagenanalyse (gedeeltelijk geautomatiseerd maar nog steeds pijnlijk), literatuurreviews bij papers schrijven.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Antwoord: Ja: ChatGPT gebruiken voor Python-code, output handmatig plakken in VS Code. Workflow clunky maar snelste methode die werkt.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Antwoord: Ja, ChatGPT voor het genereren van Python-code. Wil output liever direct in VS Code, niet via GitHub.
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Antwoord: Jaarverslagenanalyse gedeeltelijk geautomatiseerd, maar te tijdrovend om te herhalen.
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Antwoord: ChatGPT + Visual Studio Code voor Python-ontwikkeling. LaTeX bekend en gebruikt.
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Python-code schrijven | ChatGPT genereert code, handmatig plakken in VS Code | Tekstprompt | Werkende Python-code | Intern | Herhaling, workaround | Wil directe VS Code-integratie |
+| Jaarverslagenanalyse | Gedeeltelijk geautomatiseerd via Python, nog te traag | PDF/data jaarverslagen | Gestructureerde analyse-output | Intern/publiek | Tijdskosten, herhaling | Eenmalig gedaan, te pijnlijk om te herhalen |
+| Literatuurreview | Traag schrijfproces | Literatuur | Samenvatting/overzicht | Publiek | Tijdskosten | Onvolledig besproken |
+
+## Letterlijke signalen
+
+- "I just prompt ChatGPT into giving me the Python code and then I drop it in Visual Studio and it usually works out."
+- "The analysis on annual reports... took way too much of my time. So I cannot really do it again, even though I automated it partially, but it was still painful."
+- "Sometimes some writing process is extremely slow."
+
+## Nog niet oplossen
+
+Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
+
+- VS Code + GitHub Copilot of directe Claude-integratie voor Python-workflow
+- ASReview of Elicit voor literatuurreview
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Onderzoeker
+
+**In het kort:** Gebruikt Python voor data-analyse en doet onderzoekswerk inclusief papers schrijven. Werkt al met ChatGPT voor code maar heeft een omslachtige workflow. Data-intensieve analyses (zoals jaarverslagen) zijn te tijdrovend geworden om te herhalen, ook na gedeeltelijke automatisering.
+
+**Kleine radartjes:**
+
+- Python-codegeneratie: gebruikt ChatGPT maar plakt handmatig in VS Code, wil gestroomlindere integratie
+- Jaarverslagenanalyse: gedeeltelijk geautomatiseerd maar nog te tijdrovend om regelmatig uit te voeren
+- Literatuurreview bij papers: traag schrijfproces, kans voor AI-ondersteunde samenvatting of screening
+
+**Al in gebruik:** ChatGPT (code genereren), Visual Studio Code, LaTeX
+
+**Sterkste signaal:** "I cannot really do it again, even though I automated it partially, but it was still painful."
