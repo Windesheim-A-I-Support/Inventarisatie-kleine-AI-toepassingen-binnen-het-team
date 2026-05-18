@@ -28,11 +28,25 @@ lang: nl
 
 | Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
 |---|---|---|---|---|---|
-| ChatGPT | AI/LLM | Python code + JavaScript voor Qualtrics | Dagelijks | Positief | Plakt code handmatig in VS Code; geen GitHub-integratie nodig |
-| Visual Studio Code | Ontwikkeling | Python schrijven en uitvoeren | Dagelijks | Positief | |
-| Qualtrics | Onderzoek | Surveys maken | Regelmatig | Matig | Vereist JavaScript voor maatwerk; vroeger weken per taak |
-| Claude | AI/LLM | Code via GitHub | Geprobeerd, gestopt | Negatief | GitHub-integratie werkte niet goed |
-| Note AI (overweging) | AI/LLM | Vergader- en interviewtranscriptie | Nog niet in gebruik | Geinteresseerd | Privacybezwaren, lage prioriteit |
+| Clockify | Productiviteit | Tijdregistratie dagelijkse taken | Dagelijks | Positief | Gratis webapp; denkt als enige in team het te gebruiken |
+| Google Mail | Communicatie | E-mail (extern/persoonlijk) | Dagelijks | Neutraal | |
+| Outlook | Communicatie | E-mail Windesheim | Dagelijks | Neutraal | |
+| Word | Documenten | Papers en proposals schrijven | Dagelijks | Positief | Meeste werk gaat hier naartoe |
+| Excel | Documenten | Data en analyse | Regelmatig | Positief | |
+| PowerPoint | Documenten | Presentaties | Regelmatig | Matig | Wil betere/geautomatiseerde slides |
+| Mendeley | Literatuur | Wetenschappelijke papers beheren | Regelmatig | Positief | "Most useful one that I know" |
+| Obsidian | Productiviteit | Notities, tracking | Regelmatig | Positief | Breed gebruik, geen specifieke workflow |
+| Microsoft Teams | Communicatie | Samenwerking Windesheim | Dagelijks | Negatief | "I kind of hate it, but that's what it is" |
+| Overleaf | Documenten | LaTeX samen met collega's | Regelmatig | Neutraal | |
+| Sumatra PDF | Documenten | PDF lezen | Dagelijks | Positief | Overgestapt van Acrobat |
+| ChatGPT | AI/LLM | Schrijven, Python code, JavaScript voor Qualtrics | Dagelijks | Positief | Gepersonaliseerd; code copy-pasten in VS Code |
+| Draw.io | Ontwerp | Diagrammen (wat PowerPoint niet kan) | Regelmatig | Positief | Windesheim betaalt |
+| Visual Studio Code | Ontwikkeling | Python uitvoeren | Dagelijks | Positief | |
+| Stata | Analyse | Statistiek | Regelmatig | Positief | |
+| Qualtrics | Onderzoek | Surveys | Regelmatig | Matig | Vereist JavaScript maatwerk; vroeger weken per taak |
+| Refinitiv | Data | Jaarverslagen downloaden | Incidenteel | Matig | Geen API-toegang via Windesheim; handmatige batch-downloads |
+| Claude | AI/LLM | Code via GitHub | Geprobeerd, gestopt | Negatief | GitHub-integratie werkte niet; na 2 frustraties gestopt |
+| Krisp | AI/LLM | Vergadertranscriptie + notities | Overweging | Geinteresseerd | Collega gebruikt het; Luca overweegt voor eigen meetings en onderzoeksinterviews |
 
 Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
 
@@ -41,6 +55,20 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 ## Ruwe transcript
 
 *Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+**14:03-14:08 (toolkit)**
+Luca: "Actually, the first thing I do is that I use an app called Clockify and I register how I spent my time the day before. That's free to use. The web app. And I'm pretty sure I'm the only one that uses it, but I find it very useful."
+Luca: "I don't really check my mails in the morning, but eventually I will check my mails. I have to use two systems. Google Mail and Outlook for Windesheim. Then I usually use the office suite. Especially only Word, Excel, and PowerPoint, that's... I would say most of my work goes to either one of these three. I use a lot something called Mendeley for managing scientific papers."
+Luca: "I use Obsidian for a lot of things, from taking notes to tracking stuff. I have to use Teams for Windesheim, even though I kind of hate it. I also use something called Overleaf. Which is a LaTeX... yeah, whatever you want to call it. I read a lot of PDFs. I moved away from Acrobat to something else. Sumatra. Just for opening PDFs."
+Luca: "I use ChatGPT quite a lot for a lot of stuff nowadays. That's the main one I use in terms of AI, at least on a daily basis. Sometimes I use the others, but not that much. I use something called Draw IO. And that's because Windesheim pays for it. When basically I cannot do stuff with PowerPoint, I do it with Draw IO. I use Visual Studio Code for Python. I use Stata for statistical stuff."
+
+**14:08-14:11 (schrijven + ChatGPT gebruik)**
+Interviewer: "Considering what you're doing with these tools, what do you imagine that you are spending most of your time on?"
+Luca: "Writing. It's either papers or proposals."
+Interviewer: "And you don't use templates for this? You write them all from scratch?"
+Luca: "Well, there's no really a template for writing a paper. Scientific papers do not have templates, but that doesn't mean I write them from scratch. It's a very complex process. It always involves multiple people, multiple versions of the same document."
+Interviewer: "And you said you're using ChatGPT already. What do you find most useful about it?"
+Luca: "I would say two things. The writing, I use it the most there. I don't ask ChatGPT to write stuff because it's pretty bad at it still, especially scientific stuff. But I have invested quite a lot of time into personalizing ChatGPT. So now it got much better, but it's still not that good. But what is very good at is... [substantial time saving]."
 
 **14:12**
 Luca: "And the second thing that I do with ChatGPT is Python code. I do not write any single line of Python code anymore. First of all, I'm not very good at it. And ChatGPT is fast and reliable. Also with JavaScript, so I use..."
@@ -55,16 +83,31 @@ Luca: "I get too many requests to do too much stuff. So I need some kind of heur
 Interviewer: "That's not personal enough."
 Luca: "Yeah, they're not addressing me, so it doesn't matter whether I react or not. They are probably addressing hundreds of people, so if you get like that email... Join our conference. Yeah, okay, well, you obviously sent that to thousands of people, so you don't care that I joined your conference. So I don't invest time into understanding what the conference is about. On the other side, if someone reaches out to me and says, well, I have done... I've read this or I know you through this channel or whatever. And I think, would you like to come to this conference? Then at the very least, I acknowledge it or I try to understand what the conference is about."
 
-**14:22-14:23**
-Interviewer: "The second, and then I'm going to leave you because we're already over time, is you said every part of the data process that we did some time ago, was like screaming for automation? Can you tell me more?"
-Luca: "They reach out process."
-Interviewer: "Yeah, so only the reach-out process, or were there other parts of this that were kind of screaming for automation?"
-Luca: "Well, in relation to the event that we did in Munich, the reach out was the activity that took the most time."
-Interviewer: "Yeah, sure. And I have to say it was not bad. So I went into a couple of meetings with a guy for a project and this guy records all meetings with Note AI. So he basically opens the app on his phone and lets the app record the meeting. And after the meeting, it sends the transcription and a summary, more useful meeting notes."
-Luca: "I'm considering whether to... I'm looking into that. And I'm thinking also about some kind of tool for interviews, like again, a bit like Note AI or that kind of stuff for research in which you automatically get transcription and summary after the interview. That is also something that I would probably find very interesting. But there are a lot of issues with that. So for now it's a very low priority for me."
+**14:16-14:17 (pijnpunten vervolgd)**
+Luca: "So we were saying painful things. I was saying writing stuff like literature reviews, not the actual reading, that's fine. But the actual writing of the review is extremely time-consuming and not that much fun. And proposal writing. I still have the impression that there's a lot that can be improved in terms of automation, but I don't have a good workflow."
 
-**14:38-14:40**
-*[Demo van Quarto door interviewer, afsluiting]*
+**14:17-14:20 (stagiairvraag)**
+Interviewer: "If you would have like an intern, and you could ask it almost anything you want, what would you ask it to do for you?"
+Luca: "I would probably outsource data analysis because I think that that can be done reasonably well. And the annual report research, I'm pretty sure that could be easily outsourced to an intern. Making a survey, if you give it instruction, can be outsourced to an intern. I have masters students doing it, so I guess an intern can do it as well. Data collection. LinkedIn reach out, right? So we reach out to like thousands of people on LinkedIn, and that is basically mostly manual. But that can be automated for sure."
+
+**14:20-14:22 (outreach)**
+Luca: "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails. I don't for sure. And no one else does. So if you write on LinkedIn, for example, you need to be sure that it's a human-like type of message. If it's a very marketing type of message, then people will just ignore you."
+Interviewer: "Why don't you reply to automated emails? What's the emotion behind this?"
+Luca: "Because I get too many requests. So I need some kind of heuristic to filter out requests. I just assume that, okay, well, this is obviously a mass message. So they are not really seeking me out. Join our conference. Yeah, okay, well, you obviously sent that to thousands of people, so you don't care that I joined your conference. On the other side, if someone reaches out to me and says, I've read this or I know you through this channel, and would you like to come to this conference? Then at the very least, I acknowledge it."
+
+**14:22-14:27 (annual reports drill-down + PowerPoint)**
+Interviewer: "You said every part of the data process was like screaming for automation?"
+Luca: "The reach out and the reach out process. In relation to the event that we did in Munich, the reach out was the activity that took the most time. The rest was relatively straightforward."
+Interviewer: "I'm more talking about the annual reports research."
+Luca: "Annual reports. Yeah, that can be fully automated, I think. So what the way I currently do it: I downloaded a bunch of annual reports from a tool called Refinitiv. Which is already a problem, because we do not have the API to do the mass download. So I have to do like four or five batch downloads. After that, I had a script that extracted the data from the annual report and sent it into the API of ChatGPT and gave me back an evaluation of those extracted paragraphs based on criteria I had decided. A master student wrote the script. But the assessment procedure required a lot of fine tuning. I got it working, so I made the assessment of all the paragraphs. There were still errors, so I had to check all 200-300 paragraphs because I could not change the prompt to make it return close to 0 errors. So at a certain point I said, okay, it's more time effective to just go through all of them myself. After that I got the Excel file with the results, and then I had to do some analysis on that data. I was a bit out of time so I did it all myself. But that part I can also automate, because it's pretty mechanical."
+Luca: "Wait, one thing. I also want to improve on making slides. I went into a meeting with a guy in Spain in supply chain management, and he had this awesome... But right now, ChatGPT is useless in this sense. It's complete garbage. But also the others, like I tried Claude and also did not return good PowerPoint slides. So if you know how to do PowerPoint slides that do not suck, then I'm extremely interested."
+
+**14:29-14:30 (Krisp)**
+Luca: "Another thing that I'm looking into seriously. One thing is to record meetings. So I saw one tool. Krisp with a K. And it's sort of geared towards meetings. I went into a couple of meetings with a guy for a project and this guy records all meetings with Krisp. So he basically opens the app on his phone and lets the app record the meeting. And after the meeting, it sends the transcription and a summary. It has more useful meeting notes. And I have to say, they are pretty useful. So I'm considering whether to... And I'm thinking also about some kind of tool for interviews, for research, in which you automatically get transcription and summary after the interview. That is also something that I would probably find very interesting. But there are a lot of issues with that. So for now it's a very low priority for me."
+
+**14:33-14:40 (Quarto demo + afsluiting)**
+*[Interviewer demonstreert Quarto: research proposal gegenereerd via Claude, PowerPoint vanuit tekstbestand, website.]*
+Luca: "But how do you pull from the different AI? Is that through the API?"
 Luca: "No, it sounds extremely interesting. Thanks a lot. Have a nice day."
 
 ## Gestructureerde Q&A
@@ -75,13 +118,13 @@ Luca: "No, it sounds extremely interesting. Thanks a lot. Have a nice day."
 
 > "Waar was je deze week het meest tijd aan kwijt?"
 
-Antwoord: Tijdrovende werkzaamheden: schrijfprocessen (traag), intensieve data-analyse (moeilijk te automatiseren), jaarverslagenanalyse (gedeeltelijk geautomatiseerd maar nog steeds pijnlijk), literatuurreviews bij papers schrijven.
+Antwoord: Meeste tijd gaat naar schrijven: papers en proposals. Niet vanuit een leeg document, maar een complex proces met meerdere mensen en versies. Literatuurreviews schrijven is extreem tijdrovend en niet leuk. Proposals: gevoel dat er veel te automatiseren valt maar nog geen goede workflow. Jaarverslagenanalyse eerder ook grote tijdsinvestering.
 
 ### 2. Drill-down
 
 > "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
 
-Antwoord: Outreach/reach-out bij het Munich-event was de meest tijdrovende activiteit. E-mail overload algemeen: te veel massaberichten, heeft een heuristiek nodig om persoonlijke verzoeken van massaberichten te onderscheiden. Alleen reageren op persoonlijk gerichte e-mails.
+Antwoord: Jaarverslagenanalyse (annual reports). Stappen: (1) Handmatige batch-downloads uit Refinitiv (geen API via Windesheim, 4-5 batches). (2) Python-script extraheert tekst uit PDFs. (3) Script stuurt paragrafen naar ChatGPT API voor evaluatie op criteria. (4) Veel fine-tuning nodig van prompt. (5) Uiteindelijk toch 200-300 paragrafen handmatig gecheckt omdat errors niet uit prompt te filteren waren. (6) Excel met resultaten. (7) Data-analyse handmatig gedaan wegens tijdgebrek. Conclusie: volledig automatiseerbaar in theorie, maar Refinitiv API-toegang ontbreekt en prompt-optimalisatie was flessenhals.
 
 ### 3. Workaround
 
@@ -99,7 +142,7 @@ Antwoord: *Niet vastgelegd (transcript ontbreekt).*
 
 > "Gebruik je zelf al AI-tools, voor werk of privé?"
 
-Antwoord: Ja, ChatGPT actief voor Python en JavaScript. Claude geprobeerd voor code via GitHub, gestopt na frustratie (werkte niet goed). Overweegt Note AI voor interview- en vergadertranscriptie maar privacybezwaren houden het tegen.
+Antwoord: Ja, ChatGPT actief voor: (1) schrijfhulp (gepersonaliseerd, maar vraagt het niet om te schrijven - wel om te verbeteren), (2) Python code, (3) JavaScript voor Qualtrics. Claude geprobeerd voor code via GitHub, gestopt na 2 frustraties. Overweegt Krisp voor vergader- en interviewtranscriptie (collega gebruikt het), maar privacybezwaren houden adoptie tegen. ChatGPT en Claude zijn "garbage" voor PowerPoint slides.
 
 ### 6. Eerder geprobeerd en gestopt?
 
@@ -111,7 +154,7 @@ Antwoord: Ja twee: (1) Claude voor code via GitHub, gestopt na twee frustraties.
 
 > "Wat doe je als je haast hebt? Wat laat je dan weg?"
 
-Antwoord: *Niet vastgelegd (transcript ontbreekt).*
+Antwoord: Data-analyse uitbesteden aan intern/stagiair is realistisch. Annual report research kan volledig uitbesteed worden. Survey maken met instructies. Data collectie. LinkedIn outreach naar duizenden mensen (handmatig, "can be automated for sure" maar moet menselijk klinken anders geen reactie).
 
 ### 8. Samenwerking en schaal
 
@@ -148,12 +191,14 @@ Antwoord: *Niet vastgelegd (transcript ontbreekt).*
 | Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
 |---|---|---|---|---|---|---|
 | Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
 | Python-code schrijven | ChatGPT genereert, handmatig in VS Code | Tekstprompt | Werkende Python-code | Intern | Herhaling, workaround | Al opgelost, maar workflow omslachtig |
 | JavaScript voor Qualtrics | ChatGPT genereert JS voor surveys | Tekstprompt | Werkende Qualtrics-survey | Intern | Was weken, nu minuten | Sterk voorbeeld van AI als force multiplier |
-| Outreach/reach-out | Automatiseren personalisatie van uitnodigingen | Contactenlijst + context | Gepersonaliseerde e-mails | Intern/persoonsgegevens | "Screaming for automation" (Munich event) | Hoog volume, tijdrovend |
-| E-mail filtering | Automatisch prioriteren van inkomende verzoeken | E-mail | Gefilterde actielijst | Intern | Te veel massaberichten | Heeft al handmatige heuristiek |
-| Interview- en vergadertranscriptie | Note AI-achtige tool | Audio | Transcriptie + samenvatting | Persoonsgegevens | Gezien bij collega, overweegt zelf | Privacybezwaren houden adoptie tegen |
-| Jaarverslagenanalyse | Volledig automatiseren data-extractie | PDF jaarverslagen | Gestructureerde data | Publiek | Te pijnlijk om te herhalen | Gedeeltelijk geautomatiseerd, nog onvoldoende |
+| LinkedIn/e-mail outreach | Gepersonaliseerde berichten op schaal | Contactenlijst + profiel | Menselijk klinkende uitnodigingen | Persoonsgegevens | "Screaming for automation" | Hoog volume, handmatig; mag niet detecteerbaar geautomatiseerd zijn |
+| Jaarverslagenanalyse | Volledige pijplijn automatiseren | PDF jaarverslagen via Refinitiv | Geëvalueerde paragrafen in Excel | Publiek | Te tijdrovend om te herhalen | Flessenhals: geen Refinitiv API + prompt-fouten vereisten 200-300 handmatige checks |
+| PowerPoint slides maken | AI-gegenereerde slides met goede opmaak | Tekst/structuur | Professionele presentatie | Intern | "Complete garbage" bij ChatGPT en Claude | Collega in Spanje had indrukwekkende AI-slides |
+| Vergader- en interviewtranscriptie | Krisp of vergelijkbaar | Audio | Transcriptie + samenvatting + notities | Persoonsgegevens | Gezien bij collega (Krisp) | Privacybezwaren remmen adoptie |
+| Papers en proposals schrijven | AI-ondersteund reviewen en verbeteren | Concept tekst | Verbeterde versie | Intern | Traag, complex, meerdere mensen | Vraagt ChatGPT niet om te schrijven, wel om te verbeteren |
 
 ## Letterlijke signalen
 
@@ -162,16 +207,20 @@ Antwoord: *Niet vastgelegd (transcript ontbreekt).*
 - "The reach out was the activity that took the most time." (over Munich-event)
 - "Every part of the data process was screaming for automation."
 - "I cannot really do it again, even though I automated it partially, but it was still painful."
-- "There are a lot of issues with that. So for now it's a very low priority for me." (over Note AI voor interviews)
+- "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails."
+- "Right now, ChatGPT is useless in this sense. It's complete garbage." (over PowerPoint)
+- "I do not ask ChatGPT to write stuff because it's pretty bad at it still, especially scientific stuff."
 
 ## Nog niet oplossen
 
 Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
 
 - Directe VS Code-integratie met AI (Copilot, Continue.dev)
-- Whisper lokaal voor interviewtranscriptie (GDPR-proof alternatief voor Note AI)
-- ASReview of Elicit voor literatuurreview
-- Outreach-automatisering via AI + contactenlijst
+- Whisper lokaal voor interviewtranscriptie (GDPR-proof alternatief voor Krisp)
+- Elicit of ASReview voor literatuurreview
+- Outreach-automatisering met gepersonaliseerde berichttemplates
+- Refinitiv API-toegang regelen via Windesheim voor jaarverslagenpijplijn
+- Quarto PowerPoint template voor het team
 
 ---
 
@@ -181,15 +230,15 @@ Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
 
 **Rol/context collega:** Onderzoeker
 
-**In het kort:** Actieve en pragmatische AI-gebruiker. Schrijft geen Python of JavaScript meer zelf, maar gebruikt ChatGPT volledig voor code. Grootste pijnpunten zijn outreach-processen (Munich-event was "screaming for automation") en data-analyse van jaarverslagen die te tijdrovend blijft om regelmatig uit te voeren. Overweegt transcriptietool voor onderzoeksinterviews maar ziet privacybezwaren.
+**In het kort:** Pragmatische AI-gebruiker die ChatGPT al intensief inzet voor code (Python en JavaScript) en schrijfverbetering. Grootste onopgeloste pijnpunten zijn outreach op schaal, jaarverslagenanalyse (gedeeltelijk geautomatiseerd maar niet herhaalbaar), en het ontbreken van een goede AI-oplossing voor slides. Overweegt vergader- en interviewtranscriptie via Krisp maar privacyvraag blokkeert.
 
 **Kleine radartjes:**
 
-- Outreach/uitnodigingen: hoog volume, tijdrovend, al beschreven als "screaming for automation"
-- Jaarverslagenanalyse: gedeeltelijk geautomatiseerd maar niet schaalbaar, wil volledige automatisering
-- Interview- en vergadertranscriptie: interesse in Note AI-achtige tool, geblokkeerd door privacyvraag
-- JavaScript voor Qualtrics: al opgelost via ChatGPT, van weken naar minuten
+- LinkedIn/e-mail outreach op schaal: hoog volume, handmatig, "screaming for automation", maar moet menselijk klinken
+- Jaarverslagenanalyse: gedeeltelijk geautomatiseerd, flessenhals is Refinitiv API-toegang en prompt-kwaliteit
+- PowerPoint slides: actieve frustratie, collega in Spanje had indrukwekkende AI-slides, ChatGPT en Claude schieten tekort
+- Vergadertranscriptie: interesse in Krisp, geblokkeerd door privacy
 
-**Al in gebruik:** ChatGPT (Python + JavaScript), Visual Studio Code, Qualtrics, LaTeX
+**Al in gebruik:** ChatGPT (code + schrijfverbetering), Visual Studio Code, Qualtrics, Stata, Mendeley, Obsidian, Clockify, Overleaf
 
-**Sterkste signaal:** "Every part of the data process was screaming for automation."
+**Sterkste signaal:** "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails."
