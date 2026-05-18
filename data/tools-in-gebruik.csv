@@ -1,6 +1,4 @@
 datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
-2026-05-11,Sara,Onderzoeksondersteuner,ChatGPT,AI/LLM,Teksten herschrijven,Incidenteel,Middel,Niet structureel - meer als er haast is
-2026-05-11,Sara,Onderzoeksondersteuner,Google Scholar,Literatuur,Literatuur zoeken,Wekelijks,Hoog,Standaardtool voor literatuuronderzoek
 2026-05-12,Christiaan,Lid lectoraat,Claude,AI/LLM,Schrijven en programmeren,Dagelijks,Hoog,Intensief gebruik - primaire AI-tool
 2026-05-12,Christiaan,Lid lectoraat,Ollama,AI lokaal,Lokale modellen draaien,Incidenteel,Middel,Minder frequent dan Claude
 2026-05-12,Christiaan,Lid lectoraat,Agent of Empires,Automatisering,AI-agents schedulen via TMUX,Dagelijks,Middel,Werkt maar reviewlast is hoog (4u/dag)
@@ -9,3 +7,18 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-05-12,Christiaan,Lid lectoraat,Quarto,Documenten,Publicaties en rapporten maken,Dagelijks,Hoog,Gecombineerd met GitHub Pages
 2026-05-12,Christiaan,Lid lectoraat,n8n,Automatisering,Workflows automatiseren,Niet werkend,Laag,Infrastructuurprobleem blokkeert adoptie
 2026-05-12,Christiaan,Lid lectoraat,OpenWebUI,AI lokaal,Lokale AI-interface,Niet werkend,Laag,Infrastructuurprobleem blokkeert adoptie
+2026-05-18,Luca,Onderzoeker,ChatGPT,AI/LLM,Code genereren (Python + JS) en teksten verbeteren,Dagelijks,Hoog,Gepersonaliseerd; primaire AI-tool
+2026-05-18,Luca,Onderzoeker,Claude,AI/LLM,Code via GitHub,Geprobeerd gestopt,Laag,GitHub-integratie werkte niet; na 2 frustraties terug naar ChatGPT
+2026-05-18,Luca,Onderzoeker,Visual Studio Code,Ontwikkeling,Python schrijven en uitvoeren,Dagelijks,Hoog,
+2026-05-18,Luca,Onderzoeker,Stata,Andere,Statistiek,Regelmatig,Hoog,
+2026-05-18,Luca,Onderzoeker,Qualtrics,Andere,Surveys maken,Regelmatig,Middel,Vereist JavaScript maatwerk; vroeger weken per taak
+2026-05-18,Luca,Onderzoeker,Mendeley,Literatuur,Wetenschappelijke papers beheren,Regelmatig,Hoog,Most useful one that I know
+2026-05-18,Luca,Onderzoeker,Obsidian,Andere,Notities en tracking,Regelmatig,Hoog,Breed gebruik
+2026-05-18,Luca,Onderzoeker,Clockify,Andere,Tijdregistratie dagelijkse taken,Dagelijks,Hoog,Gratis webapp; denkt als enige in team het te gebruiken
+2026-05-18,Luca,Onderzoeker,Overleaf,Documenten,LaTeX samen met collega's,Regelmatig,Middel,
+2026-05-18,Luca,Onderzoeker,Word,Documenten,Papers en proposals schrijven,Dagelijks,Hoog,Meeste werk gaat hier naartoe
+2026-05-18,Luca,Onderzoeker,Excel,Documenten,Data en analyse,Regelmatig,Hoog,
+2026-05-18,Luca,Onderzoeker,PowerPoint,Documenten,Presentaties,Regelmatig,Middel,Wil betere AI-ondersteuning voor slides
+2026-05-18,Luca,Onderzoeker,Draw.io,Andere,Diagrammen (wat PowerPoint niet kan),Regelmatig,Hoog,Windesheim betaalt
+2026-05-18,Luca,Onderzoeker,Microsoft Teams,Communicatie,Samenwerking Windesheim,Dagelijks,Laag,I kind of hate it but that's what it is
+2026-05-18,Luca,Onderzoeker,Krisp,AI/LLM,Vergader- en interviewtranscriptie,Overweging,Niet van toepassing,Collega gebruikt het; Luca overweegt maar ziet privacybezwaren
