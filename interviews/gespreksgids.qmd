@@ -18,18 +18,24 @@ Mensen weten niet wat een goed AI-gebruik is. Directe vragen daarover leveren cl
 
 Let op deze signalen:
 
-- "Ik doe altijd...": herhaling, mogelijk automatiseerbaar
-- "Dat kost me echt uren...": tijdskosten
-- "Ik heb zelf een trucje bedacht...": workaround, sterkste pijnsignaal
-- "Eigenlijk lees ik dat niet helemaal...": kwaliteitscompromis
-- "Ik moet dat steeds weer opzoeken...": retrieval
-- "Ik stuur dan altijd hetzelfde soort bericht...": templating
+- "Ik doe altijd..." (herhaling, mogelijk automatiseerbaar)
+- "Dat kost me echt uren..." (tijdskosten)
+- "Ik heb zelf een trucje bedacht..." (workaround, sterkste pijnsignaal)
+- "Eigenlijk lees ik dat niet helemaal..." (kwaliteitscompromis)
+- "Ik moet dat steeds weer opzoeken..." (retrieval)
+- "Ik stuur dan altijd hetzelfde soort bericht..." (templating)
 
 ---
 
 ## Opening
 
 > "Ik ben bezig met een inventarisatie van kleine AI-toepassingen binnen het team. Geen grote strategie, gewoon ophalen wat er speelt. Ik stel je een paar vragen en luister. Er zijn geen goede of foute antwoorden."
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -47,11 +53,19 @@ Let op:
 - "Niet werkend" of "geprobeerd en gestopt" is ook relevante informatie
 - Noteer ook frequentie en tevredenheid per tool
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 1. Opener: recente taak
 
-> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen: wat je écht deed."
+> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen, maar wat je écht deed."
 
 Concreet en klein. Ze hoeven geen dag te reconstrueren, alleen iets recents te noemen.
 
@@ -59,6 +73,14 @@ Gebruik als ze stoppen of vaag worden:
 
 - "Hoe lang was je daar globaal mee bezig?"
 - "Hoe begint dat precies?"
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -69,6 +91,14 @@ Kies het meest tijdrovende of herhalende onderdeel en ga er dieper op in.
 > "Je zei dat je [X] doet. Hoe begint dat precies, wat doe je stap voor stap, en hoe eindigt het?"
 
 Gebruik hun eigen woorden, niet jouw interpretatie. Nooit invullen.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -83,6 +113,14 @@ Doorvragen:
 - "Hoe ziet dat trucje eruit?"
 - "Waarom doe je het zo en niet anders?"
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 4. Volume
@@ -90,6 +128,14 @@ Doorvragen:
 > "Hoeveel van dit soort [X] doe je per week, globaal?"
 
 Volume maakt een radartje concreet. Zonder volume weet je niet of het ertoe doet.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -108,9 +154,17 @@ Zo nee:
 
 Daarna altijd:
 
-> "Als je kijkt naar [X dat ze net noemden]: denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
+> "Als je kijkt naar [X dat ze net noemden], denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
 
 Laat ze zelf de verbinding maken. Niet invullen.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -120,6 +174,14 @@ Laat ze zelf de verbinding maken. Niet invullen.
 
 Sterk signaal. Iemand die al iets probeerde en opgaf heeft een echte drempel: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 7. Kwaliteitscompromis
@@ -127,6 +189,14 @@ Sterk signaal. Iemand die al iets probeerde en opgaf heeft een echte drempel: ad
 > "Wat doe je als je haast hebt? Wat laat je dan weg?"
 
 Dit onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de kans.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -141,6 +211,14 @@ Doorvragen:
 - "Doen jullie het allemaal op dezelfde manier?"
 - "Is er iemand die het efficiënter doet dan anderen?"
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 9. Foutkosten
@@ -148,6 +226,14 @@ Doorvragen:
 > "Wat gaat er mis als [X] niet goed gaat?"
 
 Bepaalt hoe kritisch het radartje is. Een fout in een intern werkdocument is anders dan een fout in een publicatie of subsidieaanvraag.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -157,6 +243,14 @@ Bepaalt hoe kritisch het radartje is. Een fout in een intern werkdocument is and
 
 Bepaalt integratie-vereisten. Een oplossing die buiten bestaande systemen werkt heeft een hogere drempel.
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 11. De magische stagiairvraag
@@ -165,6 +259,14 @@ Bepaalt integratie-vereisten. Een oplossing die buiten bestaande systemen werkt 
 
 Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
 
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
 ---
 
 ### 12. Succescriterium
@@ -172,6 +274,14 @@ Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
 > "Stel het werkt. Hoe merk je dat het beter gaat?"
 
 Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om te weten of een tool daadwerkelijk helpt.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
 
 ---
 
@@ -198,11 +308,16 @@ Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om te wete
 |---|---|---|---|
 | | | | |
 | | | | |
+| | | | |
+| | | | |
+| | | | |
 
 **Kleine radartjes:**
 
 | Werkproces | Radartje | Volume | Privacyniveau |
 |---|---|---|---|
+| | | | |
+| | | | |
 | | | | |
 | | | | |
 | | | | |
