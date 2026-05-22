@@ -1,5 +1,44 @@
 # Interviews
 
+## Interviewoverzicht
+
+| Datum | Naam | Rol | Radartjes | Sterkste signaal | Downloads |
+|---|---|---|---|---|---|
+| 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) · [Word](downloads/2026-05-12-christiaan.docx) |
+| 2026-05-18 | Luca | Onderzoeker | LinkedIn outreach, jaarverslagenanalyse, PowerPoint slides, vergadertranscriptie | "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails." | [PDF](downloads/interview-2026-05-18-luca-gelisimo.pdf) · [Word](downloads/2026-05-18-luca-gelisimo.docx) |
+| 2026-05-22 | Hendryk | Docent/onderzoeker | Studentvragen FAQ, studiehandleiding naar one-pager, taalcorrectie subsidieteksten, interviewanalyse lokaal | "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." | [PDF](downloads/interview-2026-05-22-hendryk-dittfeld.pdf) · [Word](downloads/2026-05-22-hendryk-dittfeld.docx) |
+
+Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
+
+## Geplande interviews
+
+| Naam | Rol |
+|---|---|
+| Maxime Bouillon | — |
+
+## Wat een klein radartje is
+
+Een goed radartje is:
+
+- **Klein**: één concreet onderdeel van een werkproces, niet het hele proces
+- **Herhalend**: iets wat meerdere keren per week of maand terugkomt
+- **Afgebakend**: duidelijke input en gewenste output
+- **Gevoeligheid bekend**: zodat de juiste tool gekozen kan worden (cloud of lokaal)
+
+Voorbeelden van goede radartjes:
+
+- Vergadernotities omzetten naar een actielijst
+- Literatuur samenvatten op basis van een onderzoeksvraag
+- Telkens hetzelfde soort e-mail opstellen met andere details
+- Papers screenen op relevantie voor een review
+- AI-agent output beoordelen op volledigheid
+
+Voorbeelden van slechte radartjes (te groot of te vaag):
+
+- "AI inzetten voor onderzoek"
+- "Alles sneller maken"
+- "Slimmer communiceren"
+
 ## Wat zijn de interviews?
 
 De inventarisatie verloopt via één-op-één gesprekken met collega's. Geen vragenlijst die rondgestuurd wordt, geen groepssessie, geen enquête. Eén gesprek per persoon, mondeling, doorvragend.
@@ -109,29 +148,6 @@ Sterkste vraag van het gesprek. Omzeilt het AI-frame volledig. Mensen noemen ech
 
 Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om later te beoordelen of een tool daadwerkelijk geholpen heeft.
 
-## Wat een klein radartje is
-
-Een goed radartje is:
-
-- **Klein**: één concreet onderdeel van een werkproces, niet het hele proces
-- **Herhalend**: iets wat meerdere keren per week of maand terugkomt
-- **Afgebakend**: duidelijke input en gewenste output
-- **Gevoeligheid bekend**: zodat de juiste tool gekozen kan worden (cloud of lokaal)
-
-Voorbeelden van goede radartjes:
-
-- Vergadernotities omzetten naar een actielijst
-- Literatuur samenvatten op basis van een onderzoeksvraag
-- Telkens hetzelfde soort e-mail opstellen met andere details
-- Papers screenen op relevantie voor een review
-- AI-agent output beoordelen op volledigheid
-
-Voorbeelden van slechte radartjes (te groot of te vaag):
-
-- "AI inzetten voor onderzoek"
-- "Alles sneller maken"
-- "Slimmer communiceren"
-
 ## Interview-template
 
 Elk gesprek wordt vastgelegd in een gestandaardiseerd bestand met drie lagen:
@@ -141,22 +157,6 @@ Elk gesprek wordt vastgelegd in een gestandaardiseerd bestand met drie lagen:
 3. **Samenvatting voor weekupdate** — geanonimiseerd, dit is het enige dat gedeeld wordt
 
 De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews volgen het naamformaat `interviews/DATUM-NAAM.qmd`.
-
-## Interviewoverzicht
-
-| Datum | Naam | Rol | Radartjes | Sterkste signaal | Downloads |
-|---|---|---|---|---|---|
-| 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) · [Word](downloads/2026-05-12-christiaan.docx) |
-| 2026-05-18 | Luca | Onderzoeker | LinkedIn outreach, jaarverslagenanalyse, PowerPoint slides, vergadertranscriptie | "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails." | [PDF](downloads/interview-2026-05-18-luca-gelisimo.pdf) · [Word](downloads/2026-05-18-luca-gelisimo.docx) |
-| 2026-05-22 | Hendryk | Docent/onderzoeker | Studentvragen FAQ, studiehandleiding naar one-pager, taalcorrectie subsidieteksten, interviewanalyse lokaal | "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." | [PDF](downloads/interview-2026-05-22-hendryk-dittfeld.pdf) · [Word](downloads/2026-05-22-hendryk-dittfeld.docx) |
-
-Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
-
-## Geplande interviews
-
-| Naam | Rol |
-|---|---|
-| Maxime Bouillon | — |
 
 ## Volgende stap
 
