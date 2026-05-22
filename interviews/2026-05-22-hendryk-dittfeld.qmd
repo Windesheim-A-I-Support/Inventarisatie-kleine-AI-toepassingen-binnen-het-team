@@ -1,0 +1,251 @@
+---
+title: "Interview: Hendryk Dittfeld"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Hendryk Dittfeld
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-22 |
+| Collega | Hendryk Dittfeld |
+| Rol | Docent/onderzoeker (lectoraat) |
+| Gespreksvorm | Mondeling, online (Teams) |
+| Duur | ca. 45 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Outlook | Communicatie | E-mail Windesheim | Dagelijks | Neutraal | |
+| Word | Documenten | Verslagen lezen en becommentariëren, subsidieteksten | Dagelijks | Positief | |
+| PowerPoint | Documenten | Presentaties | Regelmatig | Neutraal | |
+| Excel | Documenten | Data | Regelmatig | Neutraal | |
+| Power BI | Analyse | Inschrijfstatistieken opleiding bekijken | Incidenteel | Neutraal | Gebruikt als informatietool, niet voor eigen analyse |
+| SPSS | Analyse | Kwantitatieve data-analyse | Incidenteel | Positief | Zou dit gebruiken bij statistische analyse |
+| ChatGPT | AI/LLM | Rapportoutlines, taalcorrectie Nederlands, data-analyse | Incidenteel | Positief | Episodisch gebruik, hoog rendement per inzet |
+| Gemini | AI/LLM | Divers | Incidenteel | Neutraal | Minder prominent |
+| NotebookLM | AI/LLM | Kwalitatieve analyse van geanonimiseerde interviewdata | Incidenteel | Positief | Resultaat soms "te gelikt", maar bruikbaar |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Transcriptie via Teams automatisch gegenereerd (automatische Teams-transcriptie, fouten in eigennamen en accenten). Handgeschreven aantekeningen op formulier als aanvulling.
+
+**13:55-16:00 (intro + context)**
+Gesprek begint in het Engels, daarna overgegaan op Nederlands. Hendryk is Duitser, spreekt vloeiend Nederlands. Chris legt doel uit: welke tools zijn handig voor het lectoraat, niet per se AI, "whatever works".
+
+**16:00-17:00 (opener)**
+Hendryk: "Deze week was ik het meeste tijd kwijt aan feedback geven aan studenten die in de afrondende fase van hun afstudeerproject zijn en in gesprek gaan, zeg maar laatste intervisiesessies met deze studenten en groepen."
+Hendryk: "Ik had van paar vanochtend de hele ochtend zat ik met minogroepen in feedbacksessies en ik had dinsdag de feedbacksessie twee uur lang met de AP studenten."
+[Voor het lectoraat]: "Ik heb bedrijfsbezoek gehad dinsdag... gisteren heb ik contact met de RUG en met een praktijkpartner gehad over een project wat we in september op willen starten. En ik heb een voorzet aan een voorzet gewerkt... een rapportage van een project waar ik in werk wat nu tot einde komt."
+
+**17:00-21:50 (drill-down: feedbackproces)**
+Hendryk: "Laten we wat met de AP beginnen. Ik heb dinsdag ochtend AP begeleidingsintervisie gehad. Daar zitten 4 studenten in en ik heb ze gevraagd om hun werk aan mij... de working progress van de laatste versie op tot maandag 12 uur in de middag te sturen, zodat ik nou de middag geblokt om te lezen."
+Hendryk: "Dan heb ik een uur per verslag voor mezelf geblokt om de inhoud tot me te nemen, om te kijken van hé, wat zit zoal op niveau, missen dat nog, vanuit de beoordelingsformulier die we hebben, aspecten die ze echt nog moeten oppakken. En ik zet ook comments in voor hun. Dat is mijn voorbereiding voor de coaching moment."
+Hendryk: "Tijdens het moment heeft iedereen een half uur. Eerste 20 minuten: update geven, vragen bespreken. Laatste 5-10 minuten: ik koppel de dingen terug die mij opgevallen zijn bij het lezen."
+Hendryk: "De minorprojecten doe ik net zo, dus copy paste eigenlijk."
+Hendryk: "Via e-mail aan mij" [over hoe studenten werk aanleveren].
+
+**21:50-24:50 (workaround + volume)**
+Chris: "Heb jij voor deze feedback geven [...] zelf al manieren bedacht om het makkelijker te maken?"
+Hendryk: "Ik wil in de toekomst eigenlijk vanuit een document waar ik zeg: dat zijn 4-5 aspecten waar ik op let. Die is eigenlijk het feedback geven standaardiseren."
+Hendryk: "Ik heb een uur per rapport. Nou moet het klaar zijn, dus dat geeft ook ergens ja... ik heb in het verleden gezegd van nee."
+[Volume] Hendryk: "Maar deze week toevallig 7... normaal doe ik dat misschien 7 keer 2, misschien 14 keer [per semester]."
+
+**24:37-26:30 (lectoraat + AI-gebruik)**
+Hendryk: "Voor het lectoraat zag de week er anders uit... bedrijfsbezoek... en voor een eindrapport maken... ben ik wel met ja hier aan de gang gegaan om daar een structuur in te maken... van hé, dit is ons doelgroep, dit is wat we hebben, wat zijn slimme manieren om structuur aan te geven. Dus daar heb ik wel met een [ChatGPT] gewerkt."
+
+**26:29-28:45 (AI-gebruik verdieping)**
+Hendryk: "Ik heb een subsidieaanvraag in januari uitgewerkt en ingediend. Daar heb ik eigenlijk de hele tekst spelling, omdat ik geen Nederlander ben en dat zie je ook altijd als ik Nederlands spreek, dus ik heb eigenlijk alles geanonimiseerd in die AI gegooid met de vraag van: hé, kan je me helpen om het scherp te formuleren, de foute Nederlandstalige fouten eruit te halen. Dus dit heeft me echt geholpen."
+Hendryk: "Ik heb voor data-analyse van interviews... ik heb die interviews geanonimiseerd, bedrijf en namen en context eruit gehaald. En daar heb ik NotebookLM gebruikt. Alle stukken die ik had, zeggen van: wat zijn de data-analyse eigenlijk? En daar ben ik ook redelijk tevreden mee. Waar het soms op... gaat het soms te oppervlakkig of zo... dat klinkt allemaal heel mooi, maar ja, de diepgang... het is gewoon iets te gelikt."
+Hendryk: "De dingen die ik doe, daar komt echt iets uit waar ik denk van: ja, dat heb ik echt versneld en dat helpt de kwaliteit beter te maken."
+
+**28:45-30:15 (samenwerking + privacy)**
+Chris: "Ken je veel collega's die het op dezelfde manier doen?"
+Hendryk: "Ik hoop dat de meesten het wel op dezelfde manier doen... waar we mee zitten is dat ons afstuderen bij bedrijven is en daar zit data in vanuit bedrijven die wij niet willen voeden aan, zeg maar."
+Hendryk: "Als ik hem, zeg maar decentraal bij mezelf zou kunnen runnen en daar ook controle over hebt wat aan de deur uitgaat, is dat een ander verhaal. Als je daarvoor iets hebt, ja... door datasecurity overwegingen en dat we echt met externe partijen werken durf ik dat niet in een online tool te gooien."
+
+**30:15-34:15 (samenwerking subsidies + foutkosten)**
+Hendryk: "Ik heb twee smaken. Ik heb nu in januari een project, daar was ik de lead en dat was ook een persoonsgebonden subsidie, dus dat heb ik alleen gedaan... en in al die grote aanvragen die dit lectoraat doet, ben ik een meeloper. Dat betekent dat iemand in de lead is, dat is of Ronald of Chris. Op heel kleine onderdelen in dat grote werk schrijf ik mee of denk ik mee."
+[Foutkosten] Hendryk: "Het is een interactief project, als wie dan ook dingen aanlevert, dan komt er een feedback-cirkel overheen... nooit het gevoel gehad dat wat ik aanlever fout is, maar toch komen daar cirkels overheen... nooit in één keer klaar."
+Hendryk: "Dat wordt wel eens afgewezen, ja... een commissie constateert dat wij niet voldoen aan de criteria."
+
+**34:40-36:05 (bestaande tools)**
+Hendryk: "Outlook, PowerPoint, Word, Excel, PDF... Power BI, maar dat gebruik ik als informatietool, voor de inschrijfstatistieken van ons opleiding... ChatGPT en Gemini, SPSS [als hij data analyseert]."
+
+**36:05-40:00 (stagiairvraag)**
+Chris: "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+Hendryk: "Je krijgt best wel vragen binnen via e-mail van studenten dan vooral. Als ik daar iemand voor heb die de makkelijkste vragen zou kunnen pakken en dan zou kunnen reageren zonder dat ik daar zelf over na moet denken of op moet zoeken... nou, dat zou wel heel erg helpen."
+Hendryk: "De afspraken plannen, dat valt wel mee... niet het grote werk."
+[Subsidies] Hendryk: "Dat zou ik niet doen, omdat... om zo een project rond te draaien, moet je ook weten waar je mee bezig bent."
+Hendryk: "Onderwijs-coördinatiewerk... studiehandleiding naar het proces-omschrijvingen, gewoon een heldere vertaling van dat naar concrete one-pager. Ja, dat zijn allemaal aspecten. Daar is AI supergoed in en daar ga ik ook toepassen om het gewoon duidelijker, beter richting studenten te kunnen communiceren wat gecommuniceerd moet worden."
+
+**40:00-40:25 (reflectie)**
+Hendryk: "Ik ben iemand die niet wekelijks heel actief met AI bezig is... maar toch besef ik nu als ik met jou spreek, dat altijd als ik het gebruikt heb voor grotere taken die echt veel tijd kosten, dat die grote taken echt veel sneller weg kan zetten. Ik heb volgens mij nog niet de kunst geleerd... hoe ga ik het ook in mijn wekelijks dagelijks doen eigenlijk makkelijker integreren."
+
+**40:25-48:30 (demo Quarto + Claude Code)**
+*[Chris demonstreert zijn Claude Code setup, OpenRouter, Quarto dashboard. Hendryk vraagt hoe het werkt.]*
+Hendryk: "Ik denk dat jij het met heel next level geïntegreerd hebt in je werkwijze."
+Hendryk: "Bij de chat GPT, dat vind ik ook vervelend, als dan dat je 10 keer vraagt van: specificeer, specificeer... eigenlijk is dat een mens al gespecificeerd en toch blijft die doorvragen."
+
+**48:30-57:45 (beer game + afsluiting)**
+*[Gesprek over beer game / bullwhip effect voor supply chain design vak. Hendryk heeft tweedejaars vak 'Supply Chain Design', wil beer game inzetten voor les over samenwerking en bullwhip effect.]*
+Hendryk: "Die moet eigenlijk de basis goed begrijpen... als dit heel complex uitbouwt, dan wordt het realistischer, maar dan heb je er meer tijd voor nodig... binnen twee uur... dan is het leermoment niet."
+Hendryk: "Misschien moeten we daar een keer vervolg afspraak maken om te kijken wat daar de opties zijn."
+
+---
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Antwoord: Twee werelden. Onderwijs: feedback geven aan studenten in afrondende fase afstudeerproject, laatste intervisiesessies (zowel AP-groep als minorgroepen). Voor het lectoraat: bedrijfsbezoek, contact met RUG en praktijkpartner over nieuw project, rapportage-indeling maken voor aflopend project.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Antwoord: Studenten leveren work-in-progress in voor maandag 12:00 via e-mail. Hendryk blokkeert maandagmiddag: 1 uur per verslag lezen, comments plaatsen in Word of PDF. Dinsdagochtend: 2 uur intervisie (4 studenten, 30 min per student). Eerste 20 min: update + vragen vanuit student. Laatste 5-10 min: Hendryk koppelt observaties terug vanuit zijn leesnotities. Minor-procedure is identiek ("copy paste").
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Antwoord: Harde tijdblokken: maximaal 1 uur per rapport, daarna klaar. Toekomstplan (nog niet uitgevoerd): feedback standaardiseren tot 3-4 vaste aspecten zodat hij altijd hetzelfde kader gebruikt per studenttype. Studenten leveren via e-mail aan, geen gedeelde drive.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+Antwoord: Deze week toevallig 7 (piekperiode). Normaal per semester 2 rondes van 6-7, dus ca. 14 keer per semester.
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Antwoord: Ja, episodisch maar effectief. Drie concrete toepassingen:
+1. Rapportoutline/structuur maken: ChatGPT voor indeling eindrapport lectoraatproject.
+2. Nederlandse taalkorrectie subsidietekst: alles geanonimiseerd in ChatGPT, gevraagd om formulering aan te scherpen en taalfouten te verwijderen (is niet-native spreker).
+3. Kwalitatieve analyse geanonimiseerde interviewdata: NotebookLM, redelijk tevreden, resultaat soms "te gelikt/oppervlakkig".
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Antwoord: Nee. Alles wat hij geprobeerd heeft, werkte. "De dingen die ik doe, daar komt echt iets uit." Niet een heavy user, maar selectief en succesvol.
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Antwoord: Niet expliciet beantwoord. Impliciet: de tijdblocking (1 uur per rapport) is zelf al het kwaliteitscompromis. Als een rapport zo slecht is dat hij er niet doorheen komt, is dat al feedback op de structuur.
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Antwoord: Feedback geven: altijd alleen. Subsidies: twee smaken. Persoonsgebonden aanvraag: alleen. Grote lectораatsaanvragen: meeloper (Ronald of Chris in de lead), schrijft of denkt mee op deelonderdelen. Benoemt dat collega's student-data waarschijnlijk ook niet in externe AI-systemen stoppen, maar heeft er nooit expliciet naar gevraagd.
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Antwoord: Bij feedback/subsidies: altijd meerdere feedbackrondes, nooit in één keer klaar. Subsidie afgewezen: commissie vond dat criteria niet gehaald werden. Bij feedback aan studenten: opvolging ziet hij pas bij eindlevering (10 dagen later).
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Antwoord: Outlook, Word, PowerPoint, Excel, PDF. Power BI als informatietool (inschrijfstatistieken). ChatGPT, Gemini. NotebookLM. SPSS voor kwantitatieve analyse. Teams voor vergaderen.
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+Antwoord: Drie dingen:
+1. Standaard studentvragen per e-mail beantwoorden: vragen over regels, procedures, deadlines. "Als ik daar iemand voor heb die de makkelijkste vragen zou kunnen pakken... dat zou heel erg helpen."
+2. Studiehandleiding en procesomschrijvingen vertalen naar heldere one-pager voor studenten. "Daar is AI supergoed in."
+3. Niet: agenda-afspraken plannen (te veel overhead om stagiair in te werken). Niet: subsidieteksten schrijven (moet zelf inzicht houden).
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Antwoord: Niet expliciet beantwoord.
+
+---
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Studentvragen beantwoorden | FAQ-bot voor standaard regelvragen per e-mail | E-mailvraag student | Antwoord op maat | Laag (procedures zijn publiek) | "Zou heel erg helpen" | Duidelijkste radartje; wil zelf niet nadenken over standaardvragen |
+| Onderwijs-communicatie | Studiehandleiding/procesomschrijving → heldere one-pager voor studenten | Beleidsdocument / studiegids | Concrete one-pager | Laag | "Daar is AI supergoed in" | Zegt dit zelf al te willen toepassen |
+| Rapportoutline schrijven | Structuur/indeling genereren voor eindrapport | Doelgroep + beschikbaar materiaal | Document-outline | Intern | Al in gebruik | Eerste keer AI voor lectoraatswerk |
+| Taalcorrectie Nederlands | Geanonimiseerde tekst door AI voor spellings- en formuleringscheck | Geanonimiseerde subsidietekst | Gecorrigeerde tekst | Intern (na anonimisering) | Niet-native spreker | Al in gebruik; bewust anonimiseringsstap |
+| Kwalitatieve interviewanalyse | Geanonimiseerde transcripten naar NotebookLM voor thematische analyse | Geanonimiseerde tekstfragmenten | Thema's en patronen | Intern (na anonimisering) | Al in gebruik | Resultaat "soms te gelikt"; wil liever lokale optie |
+| Feedback standaardiseren | Vaste aspectenlijst per studenttype genereren en bijhouden | Beoordelingsformulier + eigen notities | Checklist met 3-4 feedbackaspecten | Intern | Nog niet gedaan, wel gewenst | Tijdwinst én consistentie voor student |
+
+---
+
+## Letterlijke signalen
+
+- "Als ik hem decentraal bij mezelf zou kunnen runnen en daar ook controle over hebt wat aan de deur uitgaat, is dat een ander verhaal."
+- "Door datasecurity overwegingen en dat we echt met externe partijen werken, durf ik dat niet in een online tool te gooien."
+- "Dat zijn allemaal aspecten. Daar is AI supergoed in en daar ga ik ook toepassen om het gewoon duidelijker, beter richting studenten te kunnen communiceren."
+- "Altijd als ik het gebruikt heb voor grotere taken die echt veel tijd kosten, dat die grote taken echt veel sneller weg kan zetten."
+- "Ik heb volgens mij nog niet de kunst geleerd hoe ik het ook in mijn wekelijks dagelijks doen makkelijker integreer."
+- "Het is gewoon iets te gelikt voor mijn idee wat eruit komt." (over NotebookLM)
+
+---
+
+## Nog niet oplossen
+
+Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
+
+- Lokaal Whisper of vergelijkbare tool voor interviewtranscriptie (GDPR-proof, sluit aan op privacy-attitude)
+- Lokaal LLM (Ollama o.i.d.) voor kwalitatieve analyse van bedrijfsdata uit afstudeeropdrachten
+- Geautomatiseerde FAQ-respons voor studenten (bijv. via kennisbank + RAG op studiegids)
+- Feedback-standaardisatie met AI: rubric genereren per type verslag, checklist afdwingen
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Docent en onderzoeker binnen het lectoraat, vakgebied supply chain management en logistiek.
+
+**In het kort:** Episodische maar bewuste AI-gebruiker: gebruikt AI alleen bij grote taken en heeft er elke keer concreet resultaat van gezien. Sterk privacybewustzijn rondom bedrijfsdata van studenten; wil liever een lokale oplossing. Duidelijkste behoefte: standaard studentvragen automatiseren en studiehandleiding vertalen naar heldere communicatie richting studenten.
+
+**Kleine radartjes:**
+
+- Studentvragen per e-mail: standaard FAQ's over regels en procedures automatisch afhandelen zonder eigen tussenkomst
+- Onderwijs-communicatie: studiehandleiding en procesomschrijvingen omzetten naar begrijpelijke one-pager voor studenten ("AI supergoed in")
+- Kwalitatieve interviewanalyse: al in gebruik via NotebookLM (geanonimiseerd), maar wil liever lokale oplossing vanwege bedrijfsdata van studenten
+- Taalcorrectie en structuurhulp bij subsidieteksten: al in gebruik, werkt goed
+
+**Al in gebruik:** ChatGPT (rapportoutlines, taalcorrectie), NotebookLM (interviewanalyse geanonimiseerd), Outlook, Word, PowerPoint, Power BI, SPSS, Gemini
+
+**Sterkste signaal:** "Als ik hem decentraal bij mezelf zou kunnen runnen en daar ook controle over hebt wat aan de deur uitgaat, is dat een ander verhaal."
