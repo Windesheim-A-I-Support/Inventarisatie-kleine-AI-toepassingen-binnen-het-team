@@ -30,16 +30,16 @@ Een tool scoort hoog als:
 5. **Direct inzetbaar**: gratis basisversie beschikbaar, geen lange onboarding
 6. **Privacy acceptabel**: data niet gebruikt voor modeltraining, bij voorkeur verwerkersovereenkomst beschikbaar
 
-## De longlist: 70 onderzochte tools
+## De longlist: meer dan 75 onderzochte tools
 
 | Tool | Type | Gebruikers | Universiteiten (NL vet) | Waarom wel / niet |
 |------|------|-----------|------------------------|-------------------|
-| [Consensus](https://consensus.app) | Literatuurreview | 5M+ | 10.000+ (Princeton, Stanford, Harvard) | **Top 5.** Sterkste universitaire adoptie. Zoekt alleen peer-reviewed, evidence-score per claim. |
+| [Consensus](https://consensus.app) | Literatuurreview | 5M+ | 10.000+ (Princeton, Stanford, Harvard) | Afgevallen: overlappend met Elicit. Elicit heeft gepubliceerde Cochrane-recall-scores; Consensus mist zelfstandige literatuurselectie. |
 | [Elicit](https://elicit.com) | Literatuurreview | 2M+ | 10+ (Oregon State, Ohio State) | **Top 5.** Enige tool met gepubliceerde Cochrane recall-scores (95-99%). GDPR-compliant. |
 | [Scite](https://scite.ai) | Citatie-analyse | 2M+ | 5+ (Oregon State, Kansas, Clemson) | **Top 5.** Uniek: classificeert citaties als supporting/contrasting/mentioning. |
 | [ASReview](https://asreview.nl) | Screening | onbekend | 20+ (**UU maker**) | **Top 5.** Nederlands, open source, lokaal draaien, gepubliceerd in Nature Machine Intelligence. |
 | [Whisper (lokaal)](https://github.com/openai/whisper) | Transcriptie | onbekend | 1+ (**RUG gratis dienst**) | **Top 5.** Enige privacyveilige transcriptieoptie. Volledig lokaal, GDPR-proof. |
-| [SURF AI-hub / EduGenAI](https://surf.nl) | NL infrastructuur | 14 NL instellingen | 14 NL | **Veelbelovend.** Alle NL universiteiten en hogescholen, sovereign hosting, DPIA gepubliceerd. Breed beschikbaar eind 2026. |
+| [SURF AI-hub / EduGenAI](https://surf.nl) | NL infrastructuur | 14 NL instellingen | 14 NL | **Top 5.** Alle NL universiteiten en hogescholen, sovereign hosting, DPIA gepubliceerd. Breed beschikbaar eind 2026. |
 | [Semantic Scholar](https://semanticscholar.org) | Zoekmachine | 7M+/mnd | 1.000+ | Sterk als databron (205M papers), non-profit. Minder stuurbaar dan Elicit op een specifieke vraag. |
 | [Litmaps](https://litmaps.com) | Visuele kaart | 2M+ | 16.000+ | Sterke visualisatie, maar overlappend met ResearchRabbit (dat het overnam). |
 | [ResearchRabbit](https://researchrabbit.ai) | Literatuurontdekking | 1M+ | 50+ | Overgenomen door Litmaps (mei 2025). Minder stabiel voor langetermijngebruik. |
@@ -104,20 +104,27 @@ Een tool scoort hoog als:
 | [GeoAI](https://opengeoai.org) | AI geospatiale analyse (Python / QGIS) | geo-wetenschappers, universiteiten | Harvard (Center for Geographic Analysis), Penn State, George Washington University | Python-bibliotheek + QGIS-plugin voor AI-gestuurde geospatiale analyse. No-code bruikbaar. MIT-licentie. Aanvulling op IntelliGeo. |
 | [Resilinc EventWatchAI](https://resilinc.ai) | Supply chain risico-monitoring AI | bedrijven, defensie | Naval Postgraduate School (CRADA-partnership) | Real-time monitoring van 104M+ bronnen in 100+ talen op supply chain verstoringen. Meest geavanceerde tool in dit segment. Commercieel. |
 | [Everstream Analytics](https://everstream.ai) | Supply chain risico-intelligence AI | enterprise, logistiek, procurement | geen NL gevonden | Gartner Magic Quadrant Leader 2026 voor leveranciersrisicobeheer. Voorspellende risicomodellering via NLP + real-time data. Commercieel. |
+| [Gamma](https://gamma.app) | Presentaties | 70M+ | Breed onderwijs (geen inst. cijfers) | Sterkste AI-presentatietool. Interviewvalidatie: ChatGPT en Claude leveren slechte slides. Geen institutionele NL adoptie gevonden. |
+| [Writefull](https://writefull.com) | Academisch schrijven | Niet bekend | 100+ (Montclair State, Overleaf-integratie) | Getraind op peer-reviewed artikelen. Interviewvalidatie: Hendryk (niet-native) gebruikt ChatGPT voor taalcorrectie; Writefull is hiervoor specifieker. Aandachtspunt: minder relevant voor Nederlandstalig schrijven. |
+| [Ollama](https://ollama.com) | Lokale LLM-deployment | 169K GitHub stars | Breed enterprise en research | Open source platform voor lokale LLMs. Interviewvalidatie: Christiaan gebruikt het al. Infrastructuurtool, geen eindgebruikerstool. Aanvullend op SURF AI-hub. |
+| [STORM](https://github.com/stanford-oval/storm) | Kenniscuratie / rapportgeneratie | 28K GitHub stars | Stanford OVAL (maker) | Genereert complete literatuurrapporten met citaties via multi-agent dialogen. Complementair aan Elicit voor synthese-fase. Te technisch voor directe eindgebruikersadoptie. |
+| [DeepL Write](https://deepl.com/write) | Taalverbetering | Niet bekend (DeepL: 100M+) | Breed, GDPR-compliant | Interviewvalidatie: Hendryk gebruikt ChatGPT voor taalcorrectie subsidieteksten; DeepL Write is hiervoor specifieker. GDPR-compliant, verwerkersovereenkomst beschikbaar. |
+| [MeetGeek](https://meetgeek.ai) | Vergaderingsassistent | Niet bekend | Breed enterprise | Automatische transcriptie + samenvatting + actiepunten. Alternatief voor Whisper voor niet-privacygevoelige meetings; makkelijker te adopteren dan lokale installatie. |
+| [MinerU](https://github.com/opendatalab/MinerU) | PDF-extractie | 60K GitHub stars | Breed research | Open source extractie van wetenschappelijke PDFs naar Markdown. Interviewvalidatie: Luca's handmatige jaarverslagenanalyse kan worden geautomatiseerd. Technisch maar direct inzetbaar. |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
 ## Top 5 selectie
 
-### 1. Consensus
+### 1. ASReview
 
-**[consensus.app](https://consensus.app)**: Gratis basisversie
+**[asreview.nl](https://asreview.nl)**: Volledig gratis, open source
 
-Consensus beantwoordt onderzoeksvragen met uitsluitend peer-reviewed bronnen en geeft per bewering een evidence-score. Het zoekt in 220 miljoen+ papers en toont wetenschappelijke consensus op een manier die direct bruikbaar is voor zowel onderzoekers als beleidsmedewerkers.
+ASReview screent grote hoeveelheden literatuur voor systematische reviews via active learning AI. De AI leert van de keuzes van de reviewer en plaatst steeds relevantere papers naar voren. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
 
-**Waarom geselecteerd:** Sterkste universitaire adoptie van alle onderzochte tools. Meer dan 5 miljoen gebruikers, universiteitsbrede abonnementen bij meerdere instellingen, gepubliceerd in PMC (2025). Het zoekt uitsluitend in peer-reviewed bronnen: geen Wikipedia, geen blogs. Uniek ten opzichte van andere tools op de lijst.
+**Waarom geselecteerd:** Enige tool op de lijst die eigendom is van een Nederlandse universiteit. Gepubliceerd in *Nature Machine Intelligence*. Volledig open source (Apache 2.0), lokaal te draaien, geen data naar externe servers. Maximale privacybescherming.
 
-**Gebruikt bij:** Princeton, Stanford, Harvard, UCLA, Northwestern en meer dan 10.000 andere universiteiten wereldwijd.
+**Gemaakt door:** Universiteit Utrecht, afdeling Methodology and Statistics.
 
 ### 2. Elicit
 
@@ -139,25 +146,31 @@ Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *men
 
 **Gebruikt bij:** Oregon State, University of Kansas, Clemson, Albert Einstein College of Medicine, University of Arizona.
 
-### 4. ASReview
+### 4. Whisper (lokaal)
 
-**[asreview.nl](https://asreview.nl)**: Volledig gratis, open source
+**[github.com/openai/whisper](https://github.com/openai/whisper)**: Volledig gratis, open source
 
-ASReview screent grote hoeveelheden literatuur voor systematische reviews via active learning AI. De AI leert van de keuzes van de reviewer en plaatst steeds relevantere papers naar voren. Versie 2.0 (mei 2025) ondersteunt samenwerking door meerdere experts tegelijk.
+Whisper is het open source spraakherkenningsmodel van OpenAI. Het draait volledig lokaal: geen data naar externe servers. Transcribeert vergaderingen en interviews zonder privacyrisico.
 
-**Waarom geselecteerd:** Enige tool op de lijst die eigendom is van een Nederlandse universiteit. Gepubliceerd in *Nature Machine Intelligence*. Volledig open source (Apache 2.0), lokaal te draaien, geen data naar externe servers. Maximale privacybescherming.
+**Waarom geselecteerd:** Enige privacyveilige transcriptieoptie op deze lijst. Interviewvalidatie: drie collega's signaleren behoefte aan transcriptie. Luca overweegt Krisp maar ziet privacybezwaren. Hendryk gebruikt NotebookLM voor interviewanalyse maar wil een lokale oplossing voor bedrijfsdata van studenten: "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." Whisper is het GDPR-proof antwoord.
 
-**Gemaakt door:** Universiteit Utrecht, afdeling Methodology and Statistics.
+**Lokale dienst:** Universiteit Groningen biedt Whisper gratis aan voor alle medewerkers en studenten.
 
-### 5. Semantic Scholar
+### 5. SURF AI-hub / EduGenAI
 
-**[semanticscholar.org](https://semanticscholar.org)**: Volledig gratis
+**[surf.nl](https://surf.nl)**: In pilotfase, breed beschikbaar eind 2026
 
-Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties via AI-gestuurde zoekfuncties. Het is de onderliggende databron voor ResearchRabbit, Connected Papers, SciSpace en Litmaps.
+SURF biedt alle 14 Nederlandse universiteiten en hogescholen toegang tot veilige LLM-omgevingen waarbij data in Nederland blijft. Een DPIA is gepubliceerd. Pilots lopen bij Universiteit Twente en Universiteit Utrecht.
 
-**Waarom geselecteerd:** Non-profit van Allen Institute for AI. Meer dan 7 miljoen maandelijkse gebruikers. Geen commercieel verdienmodel op gebruikersdata. De sterkste vrij beschikbare wetenschappelijke database, direct bruikbaar als zoekmachine en via open API. Integreert Crossref, PubMed en Unpaywall.
+**Waarom geselecteerd:** Structurele oplossing voor het privacyobstakel dat meerdere collega's noemden. Hendryk wil AI inzetten voor kwalitatieve interviewanalyse met bedrijfsdata van studenten, maar wil niet dat data naar externe servers gaat. SURF AI-hub lost dit op. Alle 14 NL hogescholen en universiteiten zijn aangesloten. Data blijft in Nederland. DPIA gepubliceerd.
+
+**Breed beschikbaar:** Eind 2026. Nu al toegankelijk via pilotaanvraag bij UT of UU.
 
 ## Afgevallen tools: waarom niet
+
+**Consensus**: Sterke tool met meer dan 5 miljoen gebruikers en universitaire adoptie bij Princeton, Stanford en Harvard. Afgevallen omdat Elicit op dezelfde use case sterker presteert: Elicit heeft gepubliceerde Cochrane-recall-scores en een verwerkersovereenkomst. Consensus mist zelfstandige literatuurselectie.
+
+**Semantic Scholar**: Sterke databron (205M+ papers, non-profit Allen Institute). Afgevallen als eindgebruikerstool: geen directe interface voor literatuurreview. Functioneert als onderliggende database voor Elicit, ASReview en andere tools op de lijst.
 
 **Litmaps**: Sterke tool voor visualisatie van citatienetwerken, maar overlappend met Connected Papers en ResearchRabbit. Na de overname van ResearchRabbit in mei 2025 de sterkste in dit segment, maar niet onderscheidend genoeg ten opzichte van de top 5.
 
@@ -168,10 +181,6 @@ Semantic Scholar biedt toegang tot 205 miljoen+ wetenschappelijke publicaties vi
 **Perplexity AI**: Mixt wetenschappelijke en niet-wetenschappelijke bronnen. Minder geschikt voor onderzoek dat uitsluitend op peer-reviewed literatuur wil steunen.
 
 **Zotero en Mendeley**: Referentiemanagers, geen AI-zoekmachines. Aanvullend aan de top 5 maar ander type tool. Zotero is open source en sterk aanbevolen als aanvulling.
-
-**SURF AI-hub / EduGenAI**: Veelbelovend voor de langere termijn (data in Nederland, DPIA gepubliceerd, alle 14 NL universiteiten en hogescholen), maar nog in pilotfase. Breed beschikbaar eind 2026.
-
-**Whisper (lokaal)**: Ander type tool (transcriptie). Sterk aanvullend voor vergaderingen en interviews, maar buiten scope van literatuurreview.
 
 **OpenAlex**: Database en API, geen directe eindgebruikersinterface. Relevant voor bibliometrische analyse maar niet direct inzetbaar zonder technische kennis.
 
