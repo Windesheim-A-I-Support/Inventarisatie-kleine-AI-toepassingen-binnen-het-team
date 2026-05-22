@@ -148,6 +148,7 @@ De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews vol
 |---|---|---|---|---|---|
 | 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) · [Word](downloads/2026-05-12-christiaan.docx) |
 | 2026-05-18 | Luca | Onderzoeker | LinkedIn outreach, jaarverslagenanalyse, PowerPoint slides, vergadertranscriptie | "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails." | [PDF](interviews/2026-05-18-luca-gelisimo.pdf) |
+| 2026-05-22 | Hendryk | Docent/onderzoeker | Studentvragen FAQ, studiehandleiding naar one-pager, taalcorrectie subsidieteksten, interviewanalyse lokaal | "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." | |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -155,7 +156,6 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
 | Naam | Rol |
 |---|---|
-| Hendryk Dittfeld | — |
 | Maxime Bouillon | — |
 
 ## Volgende stap
