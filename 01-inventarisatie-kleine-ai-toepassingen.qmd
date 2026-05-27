@@ -8,6 +8,7 @@
 | 2026-05-18 | Luca | Onderzoeker | LinkedIn outreach, jaarverslagenanalyse, PowerPoint slides, vergadertranscriptie | "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails." | [PDF](downloads/interview-2026-05-18-luca-gelisimo.pdf) · [Word](downloads/2026-05-18-luca-gelisimo.docx) |
 | 2026-05-22 | Hendryk | Docent/onderzoeker | Studentvragen FAQ, studiehandleiding naar one-pager, taalcorrectie subsidieteksten, interviewanalyse lokaal | "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." | [PDF](downloads/interview-2026-05-22-hendryk-dittfeld.pdf) · [Word](downloads/2026-05-22-hendryk-dittfeld.docx) |
 | 2026-05-27 | Ritsaart | Docent/onderzoeker (data science & logistiek) | Slides automatiseren, toetsen aanmaken ANS/Brightspace, student follow-up, nakijken | "Automatische tools voor Powerpoints maken" | [PDF](downloads/interview-2026-05-27-ritsaart-bergsma.pdf) · [Word](downloads/2026-05-27-ritsaart-bergsma.docx) |
+| 2026-05-27 | Stefan | Key Account Manager NextGen Resilience (Involvation, extern) | Uren brieven, partner meeting planning, post-meeting follow-up, nieuwsbrief | "Mira is heel veel tijd kwijt aan de jongens achterna zitten met uren brieven." | [PDF](downloads/interview-2026-05-27-stefan-hoogervorst.pdf) · [Word](downloads/2026-05-27-stefan-hoogervorst.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -16,7 +17,7 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Naam | Status |
 |---|---|
 | Maxime Bouillon | Geboekt |
-| Stefan Hoogervorst | Geboekt |
+| Stefan Hoogervorst | Afgerond (zie boven) |
 | Richard Holman | Geboekt |
 | Ritsaart Bergsma | Afgerond (zie boven) |
 
