@@ -13,11 +13,30 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
 ## Geplande interviews
 
-| Naam | Rol |
+| Naam | Status |
 |---|---|
-| Maxime Bouillon | — |
-| Stefan Hoogervorst | — |
-| Richard Holman | — |
+| Maxime Bouillon | Geboekt |
+| Stefan Hoogervorst | Geboekt |
+| Richard Holman | Geboekt |
+| Ritsaart Bergsma | Afgerond (zie boven) |
+
+## Nog uit te nodigen
+
+| Naam |
+|---|
+| Mira Benes |
+| Bart Ras |
+| Christiaan de Goeij |
+| Corné de Ruijt |
+| Greg Cronie |
+| Monique Mensen |
+| Mounia Belmamoune |
+| Paulien de Graaf-Muller |
+| Rea Vaz |
+| Ronald de Boer |
+| Yolanda Beenen |
+| Henri Grolleman |
+| Michiel Steeman |
 
 ## Wat een klein radartje is
 
