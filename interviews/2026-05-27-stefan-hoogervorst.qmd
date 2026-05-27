@@ -1,0 +1,231 @@
+---
+title: "Interview: Stefan Hoogervorst"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Stefan Hoogervorst
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-27 |
+| Collega | Stefan Hoogervorst |
+| Rol | Key Account Manager NextGen Resilience consortium, Involvation (extern partner) |
+| Gespreksvorm | Mondeling, online (Teams) |
+| Duur | ca. 40 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | |
+| Excel | Documenten | Deelnemers bijhouden, overzichten | Dagelijks | Neutraal | "Groen vakje rood vakje" — functioneert maar bewerkelijk |
+| PowerPoint | Documenten | Presentaties partner meetings | Regelmatig | Neutraal | |
+| Power BI | Andere | ResilienceScan dashboard (benchmark per bedrijf) | Regelmatig | Neutraal | Handmatig ingevoerd; geen AI |
+| ChatGPT | AI/LLM | Bedrijfssamenvattingen voor gesprekken, opzetjes | Incidenteel | Middel | "Vraagbaken" — minimaal gebruik |
+| SurveyMonkey / Forms | Andere | Post-meeting evaluaties | Incidenteel | Neutraal | Niet geautomatiseerd; handmatig verstuurd |
+| Microsoft Teams | Communicatie | Vergaderen | Dagelijks | Neutraal | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie, bestand `IT-ondersteuning - Stefan Hoogervorst.docx`. Interview begint op ca. 16:12.
+
+**16:12 — Opener: tijdsbesteding**
+Stefan: "Aangezien mijn rol ben ik eigenlijk heel veel tijd kwijt aan het plannen van bijvoorbeeld partner meetings en dan geschikte data locatie vinden daar. Daar gaat over het algemeen heel veel tijd in zitten. Ja dat, dat is het gros en het contact onderhouden met alle partners, want dat is als één van de KPIs eigenlijk een beetje geformuleerd dat we gezegd hebben omdat de resilience project levend te houden, moeten we de partners veel meer betrekken en dat consortium van partners wat we gebouwd hebben, want het is blijkbaar in de eerste versie een beetje ingeslapen zijn de partners afgehaakt."
+
+"En dan ook meteen kijken van goh, hebben jullie in het komende half jaar bijvoorbeeld weer plaats voor een student, dus dat. Dus het ja dat het contactonderhouden plannen van de meetings en dan moet er ook content komen, dus het programma van wat gaan we doen? Want we willen niet elke keer hetzelfde doen."
+
+"En daarnaast begeleid ik ook twee studenten. En dat is meer, daar zit niet super veel tijd in, maar dat is meer met je vinger aan de pols houden."
+
+**Proactief signaal: uren brieven**
+Stefan brengt zelf de uren-brief-problematiek ter sprake:
+"Ik weet dat Mira heel veel tijd kwijt is aan de jongens achterna zitten met uren brieven. Als daar een beetje, ja, een soort automatisch... dat die studenten maandelijkse mailtje in krijgen met een ingevulde urenbrief, want feitelijk zitten ze daar 4 weken per maand, 5 dagen in de week, 8 uur per dag, hè, dus 4 keer 40 uur. Dat die eigenlijk automatisch dat stuurt en zegt joh, laat het tekenen. Het bedrijfsbegeleider en terugsturen. Als dat makkelijk zou kunnen, ik denk dat dat een hoop frustratie, een hoop werk en tijd scheelt. Wat eigenlijk niet heel veel toegevoegde waarde heeft."
+
+"Het moet wel gebeuren, want het is de voorwaarde voor TKI Dinalog om subsidie toe te kennen dat jij die cofinanciering inbrengt in de vorm van uren. Maar er zit volgens mij heel veel manueel werk achter."
+
+**21:01 — Drill-down: partner meetings**
+Stefan: "Wij hebben eigenlijk gezegd en houden ons niet helemaal aan, maar dat we elk kwartaal een partner meeting willen hebben. Dus dan moeten we een geschikte datum vinden. Nou, dat is altijd heel ingewikkeld. Met al die verschillende agenda's. Al intern hè? Zorgen? Als eigenlijk moeten zowel Ronald, Hendrik als ik bij die meetings erbij zijn. Nou, dat is al heel lastig. Dan moeten we zoveel mogelijk bedrijven aan laten sluiten en we willen het ook in plaats van alleen een meeting, zeg maar in de ruimte willen we graag ook altijd een bedrijfsbezoek eraan koppelen bij één van de partners."
+
+"En dan is de bedoeling dat één van de partners een rondleiding organiseert door productie of door distributie, dus dat even afstemmen van ja kan dat bij jou kan dat bij jou? En ja, dat kan dan niet altijd op de datum die wij bedacht hadden."
+
+**26:56 — Documentatie en follow-up**
+Christiaan: "Hoe wordt het nu gedocumenteerd?"
+Stefan: "Ja, meestal maak ik en een paar maken aantekeningen. Die leggen we bij elkaar, die worden wel opgeslagen, maar... ja op basis daarvan verdelen we vaak wel even taken. Nou Koen die zei dat hij misschien wel student nodig heeft. Nou ja, ik ga er dan achteraan om met Koen even dat scherp te krijgen en dan ga ik schuiven wij door naar Hendrik en die zet het dan weer bij studenten uit. Maar dat is niet een heel vast proces."
+
+"Ik denk dat dat wel zou helpen als dat misschien iets meer gestroomlijnd en iets minder persoon afhankelijk is."
+
+**31:29 — Workaround: geen**
+Christiaan: "Welke workarounds heb je nu al gevonden?"
+Stefan: "Niet, we doen heel veel handmatig. Handmatig moet je voorstellen dat we na elke partner meeting een nieuwsbrief maken. Dan moeten ze handmatig een tekstje in een format, handmatig een fotootje in die we dan op de partner meeting gemaakt hebben. Een korte update van studenten. Dat sturen we dan uit. En ook daar bestaat geen geautomatiseerd proces, dat zeg maar de deelnemers na het deelnemen aan de partner meeting een mailtje krijgen: dank dat je er was, een evaluatie eventueel."
+
+"Er moet allemaal iemand een mail, al die adressen ergens in kopiëren en dat uitsturen en een keer gaan kijken. Mensen eventueel reminden. Ja, dat is allemaal handmatig werk... wat we vaak hebben is na een partner meeting dan is die op vakantie, dan duurt het vaak 3-4 weken eerder dan een soort follow-up is en het duurt gewoon te lang."
+
+**34:13 — Datumprikker geprobeerd en gestopt**
+Stefan: "Nee, dat hebben we in het begin wel gedaan, maar met zoveel verschillende mensen is dat... We hebben op een gegeven moment gezegd, dat gaan we niet meer doen."
+
+**35:55 — AI-gebruik**
+Stefan: "Heel weinig. Ik gebruik eigenlijk alleen ChatGPT om af en toe wat voorwerk te doen. Ik vraag het ding dan van joh als ik in een resiliance case wil hebben over dit thema, maak eens een opzetje bedrijf X. Ik gebruik het meer als een soort vraagbaken."
+
+"We gaan bijvoorbeeld vrijdag naar Interface toe... dan zet ik erin, geef ik maar even een samenvatting van 5 pagina's wat Interface hun missie, visie, wat doen ze precies op circulariteit, en dat ik het niet allemaal bij elkaar hoef te googlen en dan spuugt dat ding gewoon een samenvatting uit."
+
+**37:00 — ResilienceScan dashboard**
+Stefan: "We hebben wel op die resilience een dashboard gebouwd. Maar dat moet ook handmatig ingevoerd worden. Bij mijn weten wordt daar ook geen AI bij gebruikt. Wat wel zo interessant zou zijn, maar ik geloof niet dat we dat al doen, dat AI misschien daar eens een keer bepaalde patronen of dingen uithaalt."
+
+Beschrijving dashboard: "Bedrijf X scoort op die 5 elementen... dan kan je hem benchmarken met jouw industrie gemiddelde of jouw sector... of benchmark hem met de best in class."
+
+**39:27 — Stagiairvraag**
+Christiaan: "Er zit een redelijk slimme stagiair een week naast je. Wat laat je hem doen?"
+Stefan: "Ik zou diegene dan alle afspraken laten plannen."
+
+Foutkosten: "Repareerbaar. Dan vindt er een keer geen partner meeting plaats. Maar dat zijn allemaal dingen die terug te draaien zijn. Het afbreukrisico is vrij laag."
+
+---
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je de laatste tijd de meeste tijd aan kwijt?"
+
+Partner meetings plannen (datum, locatie, agenda, bedrijfsbezoek koppelen) en contactonderhoud met de 16 consortium-partners. Daarnaast begeleiding van 2 studenten (procesmatig, niet inhoudelijk). Stefan werkt 1 dag per week voor het lectoraat, vanuit zijn rol als key account manager voor het NextGen Resilience consortium.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Partner meeting organiseren: datum vinden (intern: Ronald, Hendrik én Stefan + extern: zoveel mogelijk van de 16 bedrijven) + bedrijfsbezoek koppelen bij één van de partners (rondleiding productie/distributie) + afstemmen wie kan ontvangen + uitnodigingen versturen + programma maken. Tijdens de meeting: update van Ronald, rondleiding, break-out sessies over resilience-thema's. Na de meeting: aantekeningen samenleggen, taken verdelen, nieuwsbrief versturen — alles handmatig.
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Nee. Datumprikker geprobeerd en losgelaten (werkt niet bij 16 bedrijven + vaste onsite-bezoek-wens). Nu pragmatischer: datum gewoon vastprikken 3 maanden vooruit. Follow-up na meetings (dankje, evaluatie, presentatie delen) bestaat wel, maar is volledig handmatig en traag (3-4 weken vertraging).
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+Gemiddeld 1 dag per week. Rondom partner meetings meer, tussendoor minder.
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Minimaal. ChatGPT als vraagbaken: bedrijfssamenvattingen maken (5 pagina's missie/visie comprimeren voor een gesprek) en opzetjes genereren voor cases. Houdt daar ook mee op.
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Datumprikker (Doodle-achtig) geprobeerd voor partner meetings, gestopt. Was te complex met 16 bedrijven en de eis voor een onsite bezoek maakt het sowieso niet planbaar ver vooruit.
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Niet expliciet beantwoord. Impliciet: documentatie na meetings wordt al minimaal gedaan, follow-up loopt al te lang.
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Grotendeels alleen (1 dag/week). Mira doet uren brieven. Hendrik zet opdrachten uit bij studenten. Ronald geeft inhoudelijke updates. Geen gedeeld proces of systeem.
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Laag. "Repareerbaar" — partner meeting valt uit of vertraging, maar te herstellen. Grotere risico: partners haken opnieuw af als het contact te lang inslaapt (was eerder al gebeurd).
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Outlook, Excel (deelnemers), PowerPoint, Teams, ChatGPT, Power BI (ResilienceScan dashboard), SurveyMonkey/Forms.
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+"Alle afspraken laten plannen."
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Niet expliciet beantwoord. Impliciet: minder tijd kwijt aan planning, snellere follow-up na meetings, minder afhankelijkheid van personen.
+
+---
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Uren brieven | Automatisch urenbrief genereren en versturen aan studenten voor handtekening | Studentenlijst + startdatum + 40u/week formule | Ondertekende urenbrief terug bij TKI Dinalog | Laag | "Mira is heel veel tijd kwijt aan de jongens achterna zitten met uren brieven" | Proactief door Stefan zelf benoemd; TKI Dinalog subsidie-eis; formule is standaard (4x40 uur) |
+| Partner meeting planning | Vergadering + bedrijfsbezoek coördineren over 16 bedrijven met interne + externe agenda's | Beschikbaarheden + locatiewensen | Bevestigde meeting + programma | Laag | Stagiairvraag: "Alle afspraken laten plannen" | Datumprikker al geprobeerd en gestopt; onsite-eis maakt het extra complex |
+| Post-meeting follow-up | Automatisch: dankje-mail + evaluatie-link + presentatie delen direct na meeting | Deelnemerslijst + materiaal | Gepersonaliseerde follow-up e-mail | Laag | "Het duurt vaak 3-4 weken voor een soort follow-up" | Nu volledig handmatig; vertraging door vakantie/drukte |
+| Nieuwsbrief | Nieuwsbrief genereren na partner meeting op basis van aantekeningen en foto's | Aantekeningen + foto + student-update | Verstuurklare nieuwsbrief | Laag | "Handmatig een tekstje in een format, handmatig een fotootje erin" | Template bestaat al; vulling is het werk |
+| Meeting documentatie | Breakout-output structureren en gemeenschappelijke thema's identificeren | Ruwe aantekeningen uit break-out sessies | Gestructureerd overzicht per thema + taakverdeling | Laag | "Ik denk dat we nog wel wat slagen kunnen maken om echt net even wat beter te documenteren" | Nu ad hoc; leidt tot persoonlijke afhankelijkheid |
+| ResilienceScan patronen | AI laten zoeken naar patronen in benchmark-data over bedrijven heen | Power BI data ResilienceScan | Inzichten en patronen per sector of thema | Laag | "Dat AI misschien daar eens een keer bepaalde patronen of dingen uithaalt" | Zijn eigen suggestie; data wordt nu handmatig ingevoerd |
+
+---
+
+## Letterlijke signalen
+
+- "Ik denk dat dat een hoop frustratie, een hoop werk en tijd scheelt. Wat eigenlijk niet heel veel toegevoegde waarde heeft." (over uren brieven)
+- "Het moet wel gebeuren, want het is de voorwaarde voor TKI Dinalog om subsidie toe te kennen."
+- "We doen heel veel handmatig."
+- "Het duurt vaak 3-4 weken eerder dan een soort follow-up is en het duurt gewoon te lang."
+- "Ik zou diegene dan alle afspraken laten plannen." (stagiairvraag)
+- "Dat AI misschien daar eens een keer bepaalde patronen of dingen uithaalt." (eigen suggestie ResilienceScan)
+- "Iets minder persoon afhankelijk." (over documentatie en procesborging)
+
+---
+
+## Nog niet oplossen
+
+- Uren brieven automatisering: koppeling met studentgegevens + automatische generatie + digitale handtekening (bijv. via DocuSign of simpelweg reply-to-sign)
+- Agenda-assistent voor multi-stakeholder meetings met onsite-bezoekeis
+- Post-meeting workflow: transcript → dankje + evaluatie → actielijst → nieuwsbrief in één stap
+- Nieuwsbriefgeneratie uit aantekeningen + foto's
+- AI-patroonherkenning op ResilienceScan benchmark-data
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Key account manager van een consortium van 16 bedrijven rondom een onderzoeksproject. Werkt 1 dag per week vanuit een externe partnerorganisatie.
+
+**In het kort:** Bijna alles handmatig: partner meetings plannen, follow-up versturen, nieuwsbrieven schrijven, uren bijhouden. Weinig tot geen AI in gebruik. Sterkste pijnpunt is de uren-briefadministratie voor subsidievereisten — hier benoemde hij zelf spontaan dat automatisering veel frustratie zou schelen. Stagiairvraag leidde direct tot: alle afspraken plannen.
+
+**Kleine radartjes:**
+
+- Uren brieven automatiseren: studenten maandelijks automatisch een ingevulde urenbrief sturen ter ondertekening (TKI Dinalog subsidievereiste, formule is standaard)
+- Partner meeting planning: AI-ondersteunde agenda-coördinatie over 16 bedrijven + intern team
+- Post-meeting follow-up: automatisch dankje + evaluatie + gedeelde presentatie direct na afloop
+- Nieuwsbrief genereren vanuit aantekeningen en foto's van de meeting
+- Patroonherkenning in ResilienceScan benchmark-data (zijn eigen idee)
+
+**Al in gebruik:** ChatGPT (bedrijfssamenvattingen voor gesprekken, vraagbaken), Outlook, Excel, PowerPoint, Power BI (ResilienceScan)
+
+**Sterkste signaal:** "Mira is heel veel tijd kwijt aan de jongens achterna zitten met uren brieven — als dat automatisch zou kunnen, scheelt dat een hoop frustratie en werk. Wat eigenlijk niet heel veel toegevoegde waarde heeft."
