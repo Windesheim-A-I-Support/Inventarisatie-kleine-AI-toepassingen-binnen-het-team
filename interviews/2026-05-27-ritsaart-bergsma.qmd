@@ -1,0 +1,223 @@
+---
+title: "Interview: Ritsaart Bergsma"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Ritsaart Bergsma
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-05-27 |
+| Collega | Ritsaart Bergsma |
+| Rol | Docent/onderzoeker (data science & logistiek) |
+| Gespreksvorm | Mondeling, één op één |
+| Duur | ca. 20 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Visual Studio Code | Ontwikkeling | Programmeren in Python en C++ | Dagelijks | Hoog | Primaire ontwikkelomgeving |
+| Python | Ontwikkeling | Onderzoek, modellering, simulaties | Dagelijks | Hoog | |
+| C++ | Ontwikkeling | Performancekritische berekeningen | Regelmatig | Hoog | |
+| Excel | Documenten | Data en analyse | Regelmatig | Hoog | |
+| Power BI | Andere | Data-visualisatie | Regelmatig | Middel | |
+| KNIME | Andere | Data workflows | Regelmatig | Middel | Analytisch platform |
+| Claude Code | AI/LLM | Programmeerondersteuning | Regelmatig | Hoog | Primaire AI-tool voor code |
+| Gemini | AI/LLM | Slides genereren | Regelmatig | Middel | Gemini Slides als workaround voor PowerPoint |
+| NotebookLM | AI/LLM | Notities en analyse | Incidenteel | Middel | "NotebookLM kan veel beter" dan Canva voor slides |
+| Canva | Andere | Presentaties aanpassen | Incidenteel | Laag | Alleen voor tekstwijzigingen; te beperkt |
+| PowerPoint | Documenten | Presentaties | Regelmatig | Neutraal | Tijdrovend; wil automatisering |
+| LaTeX | Documenten | Wetenschappelijke documenten | Incidenteel | Neutraal | Meer moeite om aan te passen |
+| Brightspace | Andere | Leeromgeving studenten | Regelmatig | Neutraal | LMS Windesheim |
+| ANS | Andere | Toetsen aanmaken en nakijken | Regelmatig | Neutraal | Import/upload-workflow arbeidsintensief |
+| Microsoft Teams | Communicatie | Vergaderen en samenwerken | Dagelijks | Neutraal | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Notities opgenomen tijdens gesprek (dictaatstijl). Zie ook bestand `IT-ondersteuning - Ritsaart.docx` in de interviews-map.
+
+**Opener: tijdsbesteding**
+Tijd bezig was met programmeren, onderwijsontwikkeling en onderzoek.
+
+**Drill-down: onderzoek**
+Toegepast wiskundig onderzoek: testen en programmeren, lokaal of op server. Heel erg een loepje en teruglopenpatroon - precies hetzelfde werk als modelbouwen zelf.
+Logistieke processen, projecten, wachtrij modellen, nieuwe techniek: reinforcement model, gesimuleerde acties, optimal policy.
+Agentic AI programmeren - hoeft niet hardcore te programmeren, maar raakt wel veel programmeren.
+
+**Onderwijsontwikkeling**
+Combinatie van drie dingen: ideeën uitwerken, vergaderen (veel tijd kwijt), powerpoints maken.
+
+**Workaround: presentaties**
+Was bezig met idee: automatische tools voor PowerPoints maken.
+Canva: enige gebruik is om tekst te veranderen.
+NotebookLM kan veel beter.
+Gemini Slides.
+LaTeX is meer moeite om aan te passen.
+Claude Code voor programmeren.
+
+**Toolkit aanvullend**
+Work Excel, Power BI, KNIME (https://www.knime.com/), Visual Studio Code, Python en C++.
+
+**Volume**
+2 dagen per week onderzoek (ca. 16 uur), 1 dag onderwijs (ca. 8 uur), soms lectoraatdag.
+Projecten: Kennes Clip (kansen met data), Scania (trainingsdag A.I.-upscaling medewerkers).
+
+**Kwaliteitscompromis**
+Niet (meer) tijd aan powerpoints.
+Brightspace en ANS (toetsen aanmaken): instelling, import, upload - kan enorm verbeterd worden.
+"Als ik een code een tabel, we zouden een model met mooie instructie maken voor een mooie leeromgeving."
+Wat schiet erbij in: nieuwe toetsen maken, nakijken.
+"Laat iemand anders dat maar lekker testen." (over nakijken)
+Leeromgevingen maken.
+
+**Stagiairvraag**
+Bepaalde studenten achter de broek aanzitten - of ze dingen ingeleverd hebben, follow-up with stakeholders.
+Corne: operations support, enquêtes uitzetten, sociaal onderzoek, proces, windkundige processen.
+
+---
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Drie dingen: programmeren (onderzoek), onderwijsontwikkeling en onderwijs zelf.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Onderzoek: toegepast wiskundig werk met logistieke processen en wachtrij modellen. Patroon is iteratief - code schrijven, testen, aanpassen (lokaal of op server). Werkt ook aan reinforcement learning en agentic AI, waarbij het programmeerwerk intensief blijft ondanks hogere abstractieniveau.
+
+Onderwijsontwikkeling: ideeën uitwerken, veel vergaderen, veel PowerPoints maken. Die drie lopen door elkaar.
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Ja - voor presentaties: bezig geweest met Gemini Slides als alternatief voor PowerPoint. Canva gebruikt hij al, maar alleen voor kleine tekstwijzigingen. Stelt dat NotebookLM beter is voor deze taak. Zat al actief te zoeken naar automatisering van dit proces.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+Onderzoek: ca. 2 dagen (16 uur). Onderwijs: ca. 1 dag (8 uur). Lectoraatdag incidenteel. Twee actieve projecten: Kennes Clip en Scania-trainingsdag.
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Ja. Claude Code voor programmeren (primaire AI-tool). Gemini voor slides. NotebookLM incidenteel. Geen Copilot.
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Het presentatieverhaal is "zo-zo" - Canva voldoet niet echt. Meer energie gestoken in de onderwijsontwikkelingsaspecten. Actief op zoek naar betere oplossing.
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Laat powerpoints zitten. Brightspace en ANS-werk (toetsen aanmaken, leeromgeving inrichten) schiet er ook bij in - terwijl daar juist winst te behalen is. Bij nakijken: "Laat iemand anders dat maar lekker testen."
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Grotendeels alleen. Noemt Corné als collega met vergelijkbaar soort werk (operations support, enquêtes).
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Niet expliciet beantwoord.
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Excel, Power BI, KNIME, Visual Studio Code, Python, C++, Gemini, NotebookLM, Canva, Claude Code, PowerPoint, LaTeX, Brightspace, ANS, Teams.
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+Studenten achter de broek aanzitten: controleren of ze iets ingeleverd hebben en follow-up verzorgen met stakeholders.
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Niet expliciet beantwoord.
+
+---
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Presentaties maken | Automatisch slides genereren vanuit tekst of structuur | Tekstinhoud + structuur | Professionele presentatie (PowerPoint/slides) | Laag | "Automatische tools voor Powerpoints maken" | Workaround al aanwezig (Gemini Slides); duidelijkste signaal in gesprek |
+| Toetsen aanmaken | AI-assistentie bij aanmaken toetsen en leeromgeving in ANS/Brightspace | Cursusinhoud, instructies | Gestructureerde toets of leeromgeving | Laag (intern materiaal) | "Dat kan enorm verbeterd worden" | Import/upload-workflow kost onnodig veel tijd |
+| Student follow-up | Automatisch opvolgen of studenten ingeleverd hebben + reminder sturen | Studentenlijst + deadlines | Geautomatiseerd bericht of overzicht | Laag | Stagiairvraag: "Bepaalde studenten achter de broek aanzitten" | Combinatie met Brightspace-integratie mogelijk |
+| Nakijken | AI-ondersteund nakijken van toetsen | Studentantwoorden | Beoordeeld werk + feedback | Intern | "Laat iemand anders dat maar lekker testen" | Pijn aanwezig maar passief; nakijken ziet hij als iets dat weg gedelegeerd kan worden |
+
+---
+
+## Letterlijke signalen
+
+- "Automatische tools voor Powerpoints maken"
+- "NotebookLM kan veel beter"
+- "Laat iemand anders dat maar lekker testen." (over nakijken)
+- "Dat kan enorm verbeterd worden." (over ANS/Brightspace-workflow)
+
+---
+
+## Nog niet oplossen
+
+- Slide-generatie: Gemini Slides of vergelijkbaar koppelen aan bestaande cursusstof
+- ANS/Brightspace-integratie voor automatisch aanmaken toetsvragen
+- Student-opvolgautomatisering via Brightspace-notificaties of Teams-bot
+- AI-ondersteund nakijken open vragen (hoge tijdwinst bij schaal)
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Docent en onderzoeker binnen het lectoraat, vakgebied data science, logistiek en AI (reinforcement learning, optimalisatie, agentic AI).
+
+**In het kort:** Technisch sterke gebruiker die al actief AI inzet voor programmeerwerk (Claude Code) en presentaties (Gemini Slides). De grootste tijdvreters zitten in onderwijsontwikkeling: PowerPoints maken, toetsen aanmaken in ANS/Brightspace, en studenten opvolgen. Hij was zelf al bezig een workaround te bouwen voor slides, wat het sterkste signaal van het gesprek is.
+
+**Kleine radartjes:**
+
+- Slides automatiseren: vanuit tekstinhoud automatisch een presentatie genereren (workaround al aanwezig met Gemini Slides)
+- Toetsen aanmaken in ANS/Brightspace: AI-ondersteuning bij de import/upload-workflow voor leeromgevingen
+- Student follow-up: automatisch controleren of studenten iets ingeleverd hebben en reminders sturen
+- Nakijken: AI-ondersteund nakijken van toetsen ("laat iemand anders dat maar lekker testen")
+
+**Al in gebruik:** Claude Code (programmeren), Gemini Slides (presentaties), NotebookLM (analyse), Visual Studio Code, Python, C++, KNIME, Excel, Power BI, Brightspace, ANS
+
+**Sterkste signaal:** "Automatische tools voor Powerpoints maken" - hij was hier al actief mee bezig via Gemini Slides en Canva, maar geen van beide voldoet.

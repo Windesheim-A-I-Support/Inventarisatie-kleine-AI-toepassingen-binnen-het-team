@@ -32,3 +32,18 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-05-22,Hendryk,Docent/onderzoeker,Power BI,Andere,Inschrijfstatistieken opleiding bekijken,Incidenteel,Neutraal,Gebruikt als informatietool; niet voor eigen analyse
 2026-05-22,Hendryk,Docent/onderzoeker,SPSS,Andere,Kwantitatieve data-analyse,Incidenteel,Positief,Gebruikt wanneer hij statistische analyse doet
 2026-05-22,Hendryk,Docent/onderzoeker,Microsoft Teams,Communicatie,Vergaderen,Dagelijks,Neutraal,
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Visual Studio Code,Ontwikkeling,Programmeren in Python en C++,Dagelijks,Hoog,Primaire ontwikkelomgeving
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Python,Ontwikkeling,Onderzoek en modellering (logistiek / reinforcement learning),Dagelijks,Hoog,
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),C++,Ontwikkeling,Performancekritische berekeningen,Regelmatig,Hoog,
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Claude Code,AI/LLM,Programmeerondersteuning,Regelmatig,Hoog,Primaire AI-tool
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Gemini,AI/LLM,Slides genereren (Gemini Slides),Regelmatig,Middel,Workaround voor PowerPoint-automatisering
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),NotebookLM,AI/LLM,Notities en analyse,Incidenteel,Middel,"NotebookLM kan veel beter" dan Canva voor slides
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Canva,Andere,Presentaties aanpassen,Incidenteel,Laag,Alleen voor kleine tekstwijzigingen; te beperkt
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Excel,Documenten,Data en analyse,Regelmatig,Hoog,
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Power BI,Andere,Data-visualisatie,Regelmatig,Middel,
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),KNIME,Andere,Data workflows,Regelmatig,Middel,Analytisch platform (knime.com)
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),PowerPoint,Documenten,Presentaties,Regelmatig,Neutraal,Tijdrovend; wil automatisering
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),LaTeX,Documenten,Wetenschappelijke documenten,Incidenteel,Neutraal,Meer moeite om aan te passen
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Brightspace,Andere,Leeromgeving studenten,Regelmatig,Neutraal,LMS Windesheim
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),ANS,Andere,Toetsen aanmaken en nakijken,Regelmatig,Neutraal,Import/upload-workflow arbeidsintensief
+2026-05-27,Ritsaart,Docent/onderzoeker (data science & logistiek),Microsoft Teams,Communicatie,Vergaderen en samenwerken,Dagelijks,Neutraal,
