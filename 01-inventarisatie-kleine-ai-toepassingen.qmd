@@ -7,6 +7,7 @@
 | 2026-05-12 | Christiaan | Lid lectoraat | Agent-output reviewen, infrastructuur monitoren, agendabeheer | "Ik zou wel een goede secretaresse willen." | [PDF](downloads/interview-2026-05-12-christiaan.pdf) · [Word](downloads/2026-05-12-christiaan.docx) |
 | 2026-05-18 | Luca | Onderzoeker | LinkedIn outreach, jaarverslagenanalyse, PowerPoint slides, vergadertranscriptie | "It has to be automated in a way that is not easily noticeable because people don't reply to automated emails." | [PDF](downloads/interview-2026-05-18-luca-gelisimo.pdf) · [Word](downloads/2026-05-18-luca-gelisimo.docx) |
 | 2026-05-22 | Hendryk | Docent/onderzoeker | Studentvragen FAQ, studiehandleiding naar one-pager, taalcorrectie subsidieteksten, interviewanalyse lokaal | "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." | [PDF](downloads/interview-2026-05-22-hendryk-dittfeld.pdf) · [Word](downloads/2026-05-22-hendryk-dittfeld.docx) |
+| 2026-05-27 | Ritsaart | Docent/onderzoeker (data science & logistiek) | Slides automatiseren, toetsen aanmaken ANS/Brightspace, student follow-up, nakijken | "Automatische tools voor Powerpoints maken" | [PDF](downloads/interview-2026-05-27-ritsaart-bergsma.pdf) · [Word](downloads/2026-05-27-ritsaart-bergsma.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -15,6 +16,8 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Naam | Rol |
 |---|---|
 | Maxime Bouillon | — |
+| Stefan Hoogervorst | — |
+| Richard Holman | — |
 
 ## Wat een klein radartje is
 
