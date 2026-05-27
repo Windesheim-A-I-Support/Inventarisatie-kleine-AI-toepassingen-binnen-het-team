@@ -14,27 +14,25 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
 ## Geplande interviews
 
-| Naam | Status |
-|---|---|
-| Maxime Bouillon | Geboekt |
-| Stefan Hoogervorst | Afgerond (zie boven) |
-| Richard Holman | Geboekt |
-| Ritsaart Bergsma | Afgerond (zie boven) |
+| Naam | Datum | Tijd |
+|---|---|---|
+| Maxime Bouillon | 2 juni | 10:00 |
+| Richard Holman | 2 juni | 14:00 |
+| Christiaan de Goeij | 1 juni | 09:00 |
+| Bart Ras | 1 juni | 10:30 |
+| Ronald de Boer | 1 juni | 11:05 |
+| Mira Benes | 1 juni | 12:00 |
 
 ## Nog uit te nodigen
 
 | Naam |
 |---|
-| Mira Benes |
-| Bart Ras |
-| Christiaan de Goeij |
 | Corné de Ruijt |
 | Greg Cronie |
 | Monique Mensen |
 | Mounia Belmamoune |
 | Paulien de Graaf-Muller |
 | Rea Vaz |
-| Ronald de Boer |
 | Yolanda Beenen |
 | Henri Grolleman |
 | Michiel Steeman |
