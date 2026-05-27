@@ -52,45 +52,99 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 
 *Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
 
-Notities opgenomen tijdens gesprek (dictaatstijl). Zie ook bestand `IT-ondersteuning - Ritsaart.docx` in de interviews-map.
+Teams-transcriptie van vergadering `IT-ondersteuning - Ritsaart-20260527`. Totale duur: 1u 12m. Eerste ca. 22 minuten: IT-gesprek over laptop RAM (niet relevant voor interview). Interview begint op 22:46. Na ca. 1:02 volgt demo van Christiaan's eigen werkwijze (Claude Code, Agent of Empires, eigen server).
 
-**Opener: tijdsbesteding**
-Tijd bezig was met programmeren, onderwijsontwikkeling en onderzoek.
+**22:46 — Opener: tijdsbesteding**
+Christiaan: "Als jij de afgelopen week kijkt naar jouw tijdsbesteding in alle dingen die jij doet, waar was jij de afgelopen week de meeste tijd aan kwijt?"
+Ritsaart: "Ik ben er ook al best wel veel tijd bezig was met programmeren nou ja, laat ik zeggen met je hoofd onderwijsontwikkeling en mijn onderzoek, zeg maar, en daar binnen ben ik dan dingen aan het programmeren en daar gebruik ik nu ook [AI]. Dat is wordt eigenlijk. In die zin heb ik dat al geautomatiseerd, Maar dat is niet echt geautomatiseerd. Want ja, Ik ben er ook nog heel veel tijd mee bezig."
 
-**Drill-down: onderzoek**
-Toegepast wiskundig onderzoek: testen en programmeren, lokaal of op server. Heel erg een loepje en teruglopenpatroon - precies hetzelfde werk als modelbouwen zelf.
-Logistieke processen, projecten, wachtrij modellen, nieuwe techniek: reinforcement model, gesimuleerde acties, optimal policy.
-Agentic AI programmeren - hoeft niet hardcore te programmeren, maar raakt wel veel programmeren.
+**23:48 — Drill-down: onderzoek**
+Christiaan: "Nou, Laten we inzoomen op het stukje onderzoek wat wat, wat doe je dan? Hoe begint het?"
+Ritsaart: "Ja onderzoek begint gewoon... ik doe echt toegepast wiskundig onderzoek, dus dan probeer je een idee te vertalen naar een bepaald... Dan probeer je te testen en Als je dat wil testen, dan moet je dingen voor programmeren. En die test en die programmeer programmeren dat zijn experimenten en die worden uitgevoerd, ofwel lokaal of op een server Als het groter zijn. Dus je bent heel erg zo een loepje elke keer aan doorlopen van. Iets testen kijken of het werkt. Komt er staat terug naar het werk, niet OK, moet wat aanpassingen doen."
 
-**Onderwijsontwikkeling**
-Combinatie van drie dingen: ideeën uitwerken, vergaderen (veel tijd kwijt), powerpoints maken.
+Christiaan: "Waar wat voor dingen ben je dan wel mee bezig als ze die taalmodellen zijn?"
+Ritsaart: "Nou, Ik ben bezig met logistieke processen, dus Dat is. Ik ben nu bezig met een project over queuing. Dat is een wachtrij modellen en dan kijk ik van ja, wat zijn nou de optimale beslissingen... En ja, daar zijn heel veel ideeën over. Daar is heel veel literatuur al over, Maar ik kijk specifiek naar nu naar nieuwe techniek en Dat is een reinforcement learning model. Hiervoor een learning model die probeert te kijken In de gesimuleerde omgeving."
 
-**Workaround: presentaties**
-Was bezig met idee: automatische tools voor PowerPoints maken.
-Canva: enige gebruik is om tekst te veranderen.
-NotebookLM kan veel beter.
-Gemini Slides.
-LaTeX is meer moeite om aan te passen.
-Claude Code voor programmeren.
+**26:08 — Agentic AI in onderzoek**
+Ritsaart: "Ik ben dus dit jaar overgeswitcht echt naar het Agentic AI programmeren, dus daarin zie je gewoon wel echt een tijdje winst, Omdat je niet de hele tijd hoeft te... Dan maak je heel veel tijd kwijt aan. Het komt er weer promten en wachten op je prompt en dat ding te rijden. Het is een beetje het ouderwets programmeren van [voorheen]. Dan moet je je programma compileren en dat duurt 10 minuten. Ga maar even een kopje koffie halen."
 
-**Toolkit aanvullend**
-Work Excel, Power BI, KNIME (https://www.knime.com/), Visual Studio Code, Python en C++.
+**27:39 — Onderwijsontwikkeling**
+Christiaan: "Bij onderwijsontwikkeling, dan was je ook heel erg veel tijd aan kwijt. Waar ben jij dan het meest tijd aan kwijt?"
+Ritsaart: "De combinatie van eigenlijk... is moeilijk om een exacte ranking te maken, maar is eigenlijk beetje 3 dingen. Één is gewoon puur ideeën, dus meer van hé, Je moet iets bedenken wat studenten gaan doen... dan ben je ook best wel veel tijd dan kwijt aan van die ja dan... powerpoints maken, daar heb ik wat hekel aan en daar ben ik ook veel tijd kwijt. Dus ja, daar zie ik nog wel wat dingen voor AI."
 
-**Volume**
-2 dagen per week onderzoek (ca. 16 uur), 1 dag onderwijs (ca. 8 uur), soms lectoraatdag.
-Projecten: Kennes Clip (kansen met data), Scania (trainingsdag A.I.-upscaling medewerkers).
+**28:59 — Workaround: presentaties**
+Christiaan: "OK, wat voor dingen heb je nu al bedacht voor jezelf? Laten we dan de eerste... om het makkelijker voor jezelf te maken."
+Ritsaart: "Nou, Ik was dus wel bezig met het idee van hé, zijn er ook automatische tools die powerpoints maken. Dus Ik was al bezig met bijvoorbeeld NotebookLM. En Ik was ook bezig, maar NotebookLM had als nadeel. Die maakt plaatjes geen presentaties en dus Als je dan dingen wil corrigeren zit je meteen mee van ****, Ik heb allemaal plaatjes, weet je wel, en dus heb ik toen Canvas gevonden, maar daar moet ik dus als weer een apart abonnement... En het enige waar ik voor gebruik is gewoon letterlijk om gewoon tekst te veranderen. Dat is het enige wat dit voor me doet. Dat is een beetje beetje bullshit. Want die NotebookLM kan veel beter slides maken. Je kan eigenlijk alles behalve dat."
 
-**Kwaliteitscompromis**
-Niet (meer) tijd aan powerpoints.
-Brightspace en ANS (toetsen aanmaken): instelling, import, upload - kan enorm verbeterd worden.
-"Als ik een code een tabel, we zouden een model met mooie instructie maken voor een mooie leeromgeving."
-Wat schiet erbij in: nieuwe toetsen maken, nakijken.
-"Laat iemand anders dat maar lekker testen." (over nakijken)
-Leeromgevingen maken.
+**33:19 — Toolkit: AI**
+Christiaan: "Nee, maar wat voor tools in het algemeen voor je onderzoek."
+Ritsaart: "Nou in het algemeen? Ja, dus Claude Code. En, Dat is dus agentic, hè? Dat is niet per prompt, maar je gaat echt. Die gaat op zichzelf naar de codebase, weet je?"
+[Over GitHub Copilot]: "Nee, ik geloof het allemaal niet, denk ik, Ik heb wel GitHub Copilot, Maar dat ben ik mee gestopt, want dat... Claude Code is beter."
 
-**Stagiairvraag**
-Bepaalde studenten achter de broek aanzitten - of ze dingen ingeleverd hebben, follow-up with stakeholders.
-Corne: operations support, enquêtes uitzetten, sociaal onderzoek, proces, windkundige processen.
+**35:39 — Toolkit: overige tools**
+Ritsaart: "Ja alle programma's binnen Office, dus... Word Excel. Ik gebruik nog Power BI. Ik gebruik nog... KNIME. Dat is een open source platform waarmee je... data analyse... Komt van de Universiteit van Zwitserland. Dat is open source data analyse tool."
+[Aanvullend]: "Verder nog Visual Studio Code en Visual Studio. Dat zijn nog twee voor het programmeer tools... Python en C++."
+
+**40:15 — Volume**
+Ritsaart: "Gemiddeld twee dagen In de week [onderzoek]. Ja 16 uur dan gewoon 2 keer 8 uur."
+Christiaan: "En voor onderwijsontwikkeling?"
+Ritsaart: "Doe ik één dag In de week. Denk ik. Ongeveer. Ja doe ik toch één dag onderwijs zelf, zeg maar, en dan doe ik nog een lectoraat dagje."
+
+[Over lectoraat]: "Bijvoorbeeld ga ik nog een kennisclip opnemen voor het kansen met data project... Maar ik ga nu ook die Scania dag doen, dan gaan we ook weer een trainings iets opzetten voor binnen Scania... specifiek trouwens over AI upscaling van de mensen."
+
+**42:13 — AI-gebruik: hoe**
+Christiaan: "OK voor je AI tools, op welke manier gebruik je ze nu? Dus heb je gewoon een desktop app waar je tegenaan praat, is dat wat je doet?"
+Ritsaart: "Ja."
+[Claude Code manier van werken]: "Wat ik nu gewoon doe is... Dit is gewoon Claude Code. Dit is het model. Hij kijkt In de hele folder van dit project, dus alle code ziet hij en dan zeg ik gewoon. Ga gewoon even wat veranderen. Ga even wat bouwen, dan gaat hij gewoon wat bouwen. En dan past het zich hier automatisch aan. En ja, vaak hoef ik het vaak. Als ik eerlijk ben, vaak lees ik het niet eens na wat hij gedaan heeft... Ik test het gewoon en dan zie ik wel."
+
+[Over Claude extensie VS Code]: "Nee, daar was ik wel mee begonnen, Maar dat werkte niet. Dat dat heeft te maken volgens mij met de Windesheim [IT] dat dat je lockt dat."
+
+[Over declareren]: Declareert maandelijkse kosten bij Windesheim. "Dat krijg je niet officieel, want Het is niet van Windesheim."
+
+**50:08 — Eerder geprobeerd en gestopt**
+Christiaan: "Kan je dingen herinneren wat je geprobeerd hebt om iets makkelijker te maken in je onderzoek en het niet gelukt is?"
+Ritsaart: "Nee, tools hebben wel verbeterd. Op zekere hoogte... nou ja, Ik vind het wel een klein beetje dat powerpoint verhaal is een beetje zo-zo vind ik toch... Ben je dan meer tijd zelfs aan kwijt bent, want je gaat dan weer dingen lopen promten en dan. Dat is vooral een beetje de valkuil van die AI."
+
+**52:13 — Kwaliteitscompromis**
+Christiaan: "Stel dat je haast hebt, wat doe je dan niet?"
+Ritsaart: "Nou bij die powerpoints? Ik doe sowieso, Maar ik ben er sowieso een beetje op tegen... dan gewoon niet teveel tijd aan de powerpoints besteden."
+
+[Spontaan toevoeging over Brightspace en ANS]:
+Ritsaart: "Er zit een keer iets te binnen. Welke tools ik gebruik die je wel moeten benoemen. Dat zijn de tools namelijk Brightspace en tools ANS toetsen maken. Er zijn twee taken die gewoon volgens mij... want Ik heb gekeken bij Brightspace en ook bij ANS. Als je dan klikt op instellingen of zo en dan kom je bij import upload. Weet je wel, dan kan je dus cursussen inladen, weet je wel? En het vullen van zo'n Brightspace-omgeving kost heel veel tijd van docenten."
+
+Ritsaart: "Dat wil ik zeggen van wat gaat er misschien bij inschieten... Dus een mooie leeromgeving maken, dat gaat er bij inschieten... dat er een pagina is dat de studenten door die leeromgeving komen in plaats van dat ze bijvoorbeeld weer moeten klikken op het document... En Als de leeromgeving weer eens verandert, zoals het altijd doet... Maar dat is allemaal Als we dat iets goed kunnen automatiseren."
+
+**55:16 — ANS upload-formaat (concreet signaal)**
+Ritsaart: "Maar dat is ook ANS trouwens toetsen maken. Ook wat schiet er bij in bij toetsen maken. Als mensen heel veel haast hebben, gewoon toetsen recyclen, gaan ze geen nieuwe vraag bedenken. Als je nou twee taken hebt waarvan Ik denk dat zijn dus van die klusjes. Eigenlijk nakijken ook, Maar dat mag niet, Maar dat zou echt fantastisch zijn."
+
+Later: "Hé, Als je een beetje Windesheim-breed kijkt... Ik heb al gezien in ANS zit zo'n upload knop, Dat is gewoon een bepaald gestandaardiseerde machine format van hoe dat geüpload moet worden. En dan heb je ineens je hele toets gevuld met vragenantwoorden en alles. En nu zitten Mensen dat gewoon in te klikken in een interface."
+
+**55:42 — Nakijken**
+Ritsaart: "Eigenlijk nakijken ook, Maar dat mag niet, Maar dat zou echt fantastisch zijn. Ben je al helemaal goed? Dat mag niet verboden... Als je zo'n model lokaal... maar het is ook dat ik ook niet de volumes nu en meer heb. Gelukkig... er wordt nu ook al mee gepilot... Als Hogeschool dus juist niet in vooroplopen. Wil je gewoon een beetje laten zo van jij, laat iemand lekker testen."
+
+**56:34 — Kwaliteitscompromis onderzoek**
+Christiaan: "Enqua onderzoek."
+Ritsaart: "Ja, die vind ik wel wat lastiger... onderzoek doe je totdat het af is ofzo... Misschien mooie visualisatie maken, misschien nog even wat extra papers lezen."
+Christiaan: "Niet de simulaties."
+Ritsaart: "Nou simulaties ja... Ja, nee, dat klopt." [beaamt dat hij soms minder rigoureus is in aantal simulaties]
+
+**57:42 — Benchmark reproduceren (sterk signaal)**
+Ritsaart: "Je moet jouw model vergelijken met andermans modellen. Die modellen zijn allemaal gepubliceerd In de literatuur, maar je zal je wel verbazen erover. Hoeveel tijd je dat soms kost om dat te implementeren, wat in een paper staat? Ik verzin het niet. Ik ben 1 keer een half jaar bezig geweest. Toen moest ik op het einde nog, want die professor die code gelukkig nog gepubliceerd staan ergens, Maar dat was een code gepubliceerd in de programmeertaal SAS."
+
+Ritsaart: "Met AI kost dat niet meer een half jaar ben ik er wel van overtuigd. Gemiddeld genomen hè? Soms niet, maar je kan je benchmarks modellen kun je Natuurlijk wel makkelijker uitbreiden."
+
+**59:29 — Samenwerking**
+Christiaan: "Je onderzoek, doe je dat altijd Alleen of zijn de collega's die eigenlijk hetzelfde doen?"
+Ritsaart: "Nee, dat doe ik al echt Alleen... Corné en ik, die zitten echt In de Operations Research... En dat is gewoon wat anders dan Supply Chain algemeen onderzoek dan ga je bijvoorbeeld vragen van enquêtes uitvragen bij bedrijven."
+
+**1:00:57 — Stagiairvraag**
+Christiaan: "Stel, je hebt een slimme stagiair naast je. En die wat, wat zou je hem als eerste Laten doen?"
+Ritsaart: "Oh, voor mijzelf even denken... Want Ik wil gewoon... Vandaag gewoon allemaal fatsoenlijke gewoon met studenten dat je dus even achter de boeken moet zitten ofzo, weet je wel... Heb je het al ingeleverd? Heb je al?"
+Christiaan: "Follow up with stakeholders, right?"
+Ritsaart: "Ja."
+
+**1:10:57 — Afsluiter: vervolgafspraak (buiten eigenlijk interview)**
+Ritsaart brengt zelf ANS opnieuw ter sprake: "Ik heb het echt gewoon over heel praktische dingen. Gewoon een aantal taken van Ik denk, hé, daar zouden we binnen Windesheim-breed meer dan één persoon heel veel tijd mee kunnen besparen. Als wij daar een paar tools voor neerzetten of zo, hè? Bijvoorbeeld het maken van toetsen in ANS, want ik heb al gezien in ANS zit zo'n upload knop, Dat is gewoon een bepaald gestandaardiseerde machine format van hoe dat geüpload moet worden."
 
 ---
 
@@ -178,28 +232,36 @@ Niet expliciet beantwoord.
 
 | Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
 |---|---|---|---|---|---|---|
-| Presentaties maken | Automatisch slides genereren vanuit tekst of structuur | Tekstinhoud + structuur | Professionele presentatie (PowerPoint/slides) | Laag | "Automatische tools voor Powerpoints maken" | Workaround al aanwezig (Gemini Slides); duidelijkste signaal in gesprek |
-| Toetsen aanmaken | AI-assistentie bij aanmaken toetsen en leeromgeving in ANS/Brightspace | Cursusinhoud, instructies | Gestructureerde toets of leeromgeving | Laag (intern materiaal) | "Dat kan enorm verbeterd worden" | Import/upload-workflow kost onnodig veel tijd |
-| Student follow-up | Automatisch opvolgen of studenten ingeleverd hebben + reminder sturen | Studentenlijst + deadlines | Geautomatiseerd bericht of overzicht | Laag | Stagiairvraag: "Bepaalde studenten achter de broek aanzitten" | Combinatie met Brightspace-integratie mogelijk |
-| Nakijken | AI-ondersteund nakijken van toetsen | Studentantwoorden | Beoordeeld werk + feedback | Intern | "Laat iemand anders dat maar lekker testen" | Pijn aanwezig maar passief; nakijken ziet hij als iets dat weg gedelegeerd kan worden |
+| Presentaties maken | Automatisch slides genereren vanuit tekst of structuur | Tekstinhoud + structuur | Professionele presentatie (PowerPoint/slides) | Laag | "Automatische tools voor Powerpoints maken" | Workaround al aanwezig (NotebookLM/Canva); duidelijkste signaal, zelf al mee bezig |
+| Toetsen aanmaken ANS | ANS upload-formaat benutten: toets genereren en inladen via gestandaardiseerd machine-formaat | Cursusdoelen + vragen | Ingevulde ANS-toets via import | Laag | "In ANS zit zo'n upload knop, dat is gewoon een bepaald gestandaardiseerde machine format" | Concreet: upload-knop bestaat al, mensen klikken nu handmatig in |
+| Brightspace leeromgeving | Leeromgeving-content genereren en inladen zodat studenten door een gestructureerde omgeving lopen | Cursusmateriaal + structuur | Gevulde Brightspace-module | Laag | "Het vullen van zo'n Brightspace-omgeving kost heel veel tijd van docenten" | Schaalbaar: geldt voor vrijwel elke docent |
+| Student follow-up | Automatisch controleren of studenten ingeleverd hebben + reminder sturen | Studentenlijst + deadlines | Geautomatiseerd bericht of overzicht | Laag | Stagiairvraag: "Heb je het al ingeleverd?" | Combinatie met Brightspace-notificaties mogelijk |
+| Nakijken | AI-ondersteund nakijken van toetsen | Studentantwoorden | Beoordeeld werk + feedback | Intern | "Dat zou echt fantastisch zijn. Maar dat mag niet." | Duidelijke pijn, actief bewust van regelgeving; wacht op pilotresultaten |
+| Benchmark reproduceren | AI inzetten om gepubliceerde modellen uit papers snel te implementeren voor vergelijking | Paper + beschrijving algoritme | Werkende implementatie in gewenste taal | Laag | "Ik ben 1 keer een half jaar bezig geweest [met één paper]" | Sterk signaal; met AI overtuigd dat dit niet meer een half jaar kost |
 
 ---
 
 ## Letterlijke signalen
 
-- "Automatische tools voor Powerpoints maken"
-- "NotebookLM kan veel beter"
-- "Laat iemand anders dat maar lekker testen." (over nakijken)
-- "Dat kan enorm verbeterd worden." (over ANS/Brightspace-workflow)
+- "Automatische tools voor Powerpoints maken" — zelf al actief mee bezig
+- "Die NotebookLM kan veel beter slides maken. Je kan eigenlijk alles behalve dat." (over Canva)
+- "In ANS zit zo'n upload knop, Dat is gewoon een bepaald gestandaardiseerde machine format van hoe dat geüpload moet worden. En dan heb je ineens je hele toets gevuld met vragenantwoorden en alles. En nu zitten Mensen dat gewoon in te klikken in een interface."
+- "Het vullen van zo'n Brightspace-omgeving kost heel veel tijd van docenten."
+- "Ik ben 1 keer een half jaar bezig geweest." (benchmark-implementatie uit paper)
+- "Met AI kost dat niet meer een half jaar ben ik er wel van overtuigd."
+- "Dat zou echt fantastisch zijn. Maar dat mag niet." (over nakijken)
+- "Als Hogeschool wil je gewoon een beetje laten zo van: laat iemand lekker testen."
 
 ---
 
 ## Nog niet oplossen
 
-- Slide-generatie: Gemini Slides of vergelijkbaar koppelen aan bestaande cursusstof
-- ANS/Brightspace-integratie voor automatisch aanmaken toetsvragen
+- Slide-generatie: Quarto/Reveal.js of dedicated tool koppelen aan bestaande cursusstof
+- ANS upload-formaat: genereer vragenbank in machine-formaat, importeer in één stap (knop bestaat al)
+- Brightspace-module genereren vanuit cursusmateriaal
 - Student-opvolgautomatisering via Brightspace-notificaties of Teams-bot
-- AI-ondersteund nakijken open vragen (hoge tijdwinst bij schaal)
+- Benchmark reproduceren: AI inzetten om papers te implementeren (halfjaar naar uur?)
+- Claude Code extensie VS Code werkt niet via Windesheim-IT: mogelijk op te lossen
 
 ---
 
@@ -209,15 +271,17 @@ Niet expliciet beantwoord.
 
 **Rol/context collega:** Docent en onderzoeker binnen het lectoraat, vakgebied data science, logistiek en AI (reinforcement learning, optimalisatie, agentic AI).
 
-**In het kort:** Technisch sterke gebruiker die al actief AI inzet voor programmeerwerk (Claude Code) en presentaties (Gemini Slides). De grootste tijdvreters zitten in onderwijsontwikkeling: PowerPoints maken, toetsen aanmaken in ANS/Brightspace, en studenten opvolgen. Hij was zelf al bezig een workaround te bouwen voor slides, wat het sterkste signaal van het gesprek is.
+**In het kort:** Technisch sterke gebruiker die al actief AI inzet voor programmeerwerk (Claude Code, agentic) en zelf al bezig was workarounds te bouwen voor slides. De grootste tijdvreters: PowerPoints, toetsen aanmaken in ANS/Brightspace en studenten opvolgen. Bijzonder concreet signaal: hij heeft het ANS-uploadformaat al onderzocht en ziet dat mensen handmatig intypen wat geautomatiseerd kan. In onderzoek: ooit een half jaar kwijt aan implementatie van één gepubliceerd model — met AI ziet hij dit als oplosbaar.
 
 **Kleine radartjes:**
 
-- Slides automatiseren: vanuit tekstinhoud automatisch een presentatie genereren (workaround al aanwezig met Gemini Slides)
-- Toetsen aanmaken in ANS/Brightspace: AI-ondersteuning bij de import/upload-workflow voor leeromgevingen
-- Student follow-up: automatisch controleren of studenten iets ingeleverd hebben en reminders sturen
-- Nakijken: AI-ondersteund nakijken van toetsen ("laat iemand anders dat maar lekker testen")
+- Slides automatiseren: vanuit tekstinhoud automatisch een presentatie genereren (workaround al aanwezig maar onbevredigend)
+- ANS upload: toetsvragen genereren in gestandaardiseerd machine-formaat en in één stap importeren (upload-knop bestaat al)
+- Brightspace leeromgevingen: content genereren en inladen zodat studenten door gestructureerde module lopen
+- Student follow-up: automatisch controleren of studenten ingeleverd hebben en reminders sturen
+- Nakijken: AI-ondersteund nakijken ("fantastisch maar mag nog niet")
+- Benchmark reproduceren: gepubliceerde modellen uit papers implementeren met AI-hulp (halfjaar-probleem)
 
-**Al in gebruik:** Claude Code (programmeren), Gemini Slides (presentaties), NotebookLM (analyse), Visual Studio Code, Python, C++, KNIME, Excel, Power BI, Brightspace, ANS
+**Al in gebruik:** Claude Code (programmeren, agentic), Gemini (slides, oriënterend), NotebookLM (oriënterend), Visual Studio Code, Python, C++, KNIME, Excel, Power BI, Brightspace, ANS
 
-**Sterkste signaal:** "Automatische tools voor Powerpoints maken" - hij was hier al actief mee bezig via Gemini Slides en Canva, maar geen van beide voldoet.
+**Sterkste signaal:** "In ANS zit zo'n upload knop, dat is gewoon een bepaald gestandaardiseerde machine format — en nu zitten mensen dat gewoon in te klikken in een interface."
