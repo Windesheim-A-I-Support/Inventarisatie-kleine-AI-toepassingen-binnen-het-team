@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="slides-format" content="viewport">
+<title>Manukura</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f7f5f0;
+  --ink: #1a1a16;
+  --muted: #6b6b5e;
+  --faint: #b0ae a6;
+  --accent: #2d6a4f;
+  --rule: #dddbd4;
+  --serif: 'Instrument Serif', Georgia, serif;
+  --sans: 'Work Sans', system-ui, sans-serif;
+}
+
+html, body {
+  height: 100%; width: 100%;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  overflow: hidden;
+}
+
+.deck { width: 100vw; height: 100vh; position: relative; }
+
+.slide {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; justify-content: center;
+  padding: clamp(3rem, 8vw, 6rem) clamp(3rem, 10vw, 8rem);
+  opacity: 0; pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+.slide.active { opacity: 1; pointer-events: all; }
+
+/* Layout variants */
+.slide.center { align-items: center; text-align: center; }
+
+/* Typography */
+.label {
+  font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 1.4rem;
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  font-weight: 400; font-style: italic;
+  line-height: 1.1; color: var(--ink);
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+  font-weight: 400; font-style: italic;
+  line-height: 1.2; color: var(--ink);
+  margin-bottom: 1.2rem;
+}
+
+.sub {
+  font-size: clamp(0.9rem, 1.4vw, 1.05rem);
+  font-weight: 300; color: var(--muted);
+  line-height: 1.75; max-width: 56ch;
+}
+
+.sub strong { font-weight: 500; color: var(--ink); }
+
+hr { border: none; border-top: 1px solid var(--rule); margin: 1.75rem 0; }
+
+/* Grid layouts */
+.cols-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; }
+.cols-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2rem; align-items: start; }
+
+.col-head {
+  font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 0.6rem;
+}
+
+.col-body {
+  font-size: 0.88rem; font-weight: 300;
+  color: var(--muted); line-height: 1.7;
+}
+.col-body strong { font-weight: 500; color: var(--ink); }
+
+.rule-left {
+  border-left: 2px solid var(--accent);
+  padding-left: 1.25rem;
+}
+
+/* Factor Zero */
+.factor {
+  font-family: var(--serif);
+  font-size: clamp(5rem, 14vw, 10rem);
+  font-style: italic; color: var(--accent);
+  line-height: 1; margin-bottom: 1rem;
+}
+
+/* Timeline */
+.timeline { display: flex; flex-direction: column; gap: 0; }
+.tl-item { display: flex; gap: 2rem; padding: 0.9rem 0; border-top: 1px solid var(--rule); }
+.tl-item:last-child { border-bottom: 1px solid var(--rule); }
+.tl-year { font-size: 0.78rem; font-weight: 600; color: var(--accent); min-width: 70px; padding-top: 2px; letter-spacing: 0.05em; }
+.tl-text { font-size: 0.88rem; font-weight: 300; color: var(--muted); line-height: 1.6; }
+.tl-text strong { font-weight: 500; color: var(--ink); }
+
+/* Nav */
+.nav {
+  position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 1.5rem;
+  font-size: 0.75rem; color: var(--muted); z-index: 10;
+}
+.nav button {
+  background: none; border: 1px solid var(--rule); color: var(--muted);
+  width: 32px; height: 32px; border-radius: 50%; cursor: pointer;
+  font-size: 1rem; display: flex; align-items: center; justify-content: center;
+  transition: border-color 0.2s, color 0.2s;
+}
+.nav button:hover { border-color: var(--accent); color: var(--accent); }
+#counter { font-weight: 300; letter-spacing: 0.08em; }
+
+/* Slide number top-right */
+.slide-num {
+  position: absolute; top: 2rem; right: 2.5rem;
+  font-size: 0.72rem; font-weight: 300; color: var(--rule);
+  letter-spacing: 0.1em;
+}
+</style>
+</head>
+<body>
+
+<div class="deck">
+
+  <!-- 1. TITLE -->
+  <div class="slide center active" data-slide="1">
+    <span class="slide-num">1 / 10</span>
+    <div class="label">Groningen Region · 2026</div>
+    <h1>Manukura</h1>
+    <p class="sub" style="max-width:44ch;">Stewardship infrastructure<br>for the living economy.</p>
+    <hr style="width:40px;border-top:2px solid var(--accent);margin:2rem auto;">
+    <p class="sub" style="font-size:0.82rem;color:#b0ae a6;">Pilot Hub · Hanzeweg 5 · Open for Custodianship</p>
+  </div>
+
+  <!-- 2. WHAT THE FIELD KNOWS -->
+  <div class="slide" data-slide="2">
+    <span class="slide-num">2 / 10</span>
+    <div class="label">What the Field Already Knows</div>
+    <h2>The evidence is documented.<br>The gap is structural.</h2>
+    <hr>
+    <div class="cols-2">
+      <div class="rule-left">
+        <div class="col-head">Circular Economy Literature</div>
+        <p class="col-body">Research consistently identifies the absence of <strong>social trust infrastructure</strong> as the primary failure point — not technology, not policy, not product design.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">System Dynamics Research</div>
+        <p class="col-body">Closed-loop systems fail at the <strong>return interface</strong> — the moment users must choose to re-enter the loop. No framework has addressed this as a designed stewardship function.</p>
+      </div>
+      <div class="rule-left" style="margin-top:1.25rem;">
+        <div class="col-head">Transition Management</div>
+        <p class="col-body">Niche innovations stall without <strong>anchor institutions</strong> that hold community relationships over time.</p>
+      </div>
+      <div class="rule-left" style="margin-top:1.25rem;">
+        <div class="col-head">Commons Theory — Ostrom</div>
+        <p class="col-body">Governing the commons requires <strong>clearly defined stewardship roles</strong> with accountability. This role does not yet exist as a formal institution in circular practice.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. FACTOR ZERO -->
+  <div class="slide center" data-slide="3">
+    <span class="slide-num">3 / 10</span>
+    <div class="label">The Missing Condition</div>
+    <div class="factor">Factor 0</div>
+    <h2 style="font-size:clamp(1.3rem,2.5vw,1.9rem);max-width:600px;">Before a circular system can function,<br>someone must hold the relationship.</h2>
+    <p class="sub" style="margin-top:1.25rem;max-width:54ch;">Circular models account for product design, logistics, and incentives. None account for Factor 0: the <strong>trusted steward</strong> whose presence makes people willing to return — without whom no loop closes.</p>
+    <p style="margin-top:1.5rem;font-size:0.85rem;font-style:italic;color:var(--accent);">Manukura is the institutional design of Factor 0.</p>
+  </div>
+
+  <!-- 4. WHAT MANUKURA IS -->
+  <div class="slide" data-slide="4">
+    <span class="slide-num">4 / 10</span>
+    <div class="label">What Manukura Is</div>
+    <h2>Not a product. Not a platform.<br>A stewardship institution.</h2>
+    <hr>
+    <div class="cols-3">
+      <div class="rule-left">
+        <div class="col-head">The Hub</div>
+        <p class="col-body">A physical node where products return and relationships are held. Named stewards, accountable to the community, maintain the loop.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">RTS — Return to Steward</div>
+        <p class="col-body">Reusable containers for certified household products. Collected, refilled, re-entered. Every return is a transaction of trust, not just logistics.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">The Circularity Compass</div>
+        <p class="col-body">An orientation instrument — not a static metric, but a <strong>map-making process</strong>. The territory is alive. The CC measures how close the hub is to symbiosis.</p>
+      </div>
+    </div>
+    <hr>
+    <p class="sub" style="font-size:0.88rem;"><strong>Joint custodianship</strong> — the hub is not owned by one entity. It is held jointly by participating institutions, each with governance proportional to their stewardship role.</p>
+  </div>
+
+  <!-- 5. THE COMPASS -->
+  <div class="slide" data-slide="5">
+    <span class="slide-num">5 / 10</span>
+    <div class="label">The Circularity Compass</div>
+    <div class="cols-2">
+      <div>
+        <h2>The map is a<br>map-making process.</h2>
+        <p class="sub">The territory — community, ecology, economy — is alive and always changing. A static metric would be an artifact of last year's territory.</p>
+        <p class="sub" style="margin-top:1rem;">The CC is a tool for <strong>traversing the territory using the map</strong> — orienting the hub toward symbiosis as an asymptote: always approached, never fully arrived.</p>
+      </div>
+      <div>
+        <div class="col-head" style="margin-bottom:1rem;">What it measures</div>
+        <div class="timeline">
+          <div class="tl-item"><div class="tl-year">Trust</div><div class="tl-text">Depth of return relationships over time</div></div>
+          <div class="tl-item"><div class="tl-year">Loops</div><div class="tl-text">Loop closure rates — returns per custodian cohort</div></div>
+          <div class="tl-item"><div class="tl-year">Material</div><div class="tl-text">Reduction in virgin material demand, by category</div></div>
+          <div class="tl-item"><div class="tl-year">Stewards</div><div class="tl-text">Accountability indicators — named, auditable</div></div>
+          <div class="tl-item"><div class="tl-year">Wellbeing</div><div class="tl-text">Community signals — qualitative and quantitative</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. PILOT -->
+  <div class="slide" data-slide="6">
+    <span class="slide-num">6 / 10</span>
+    <div class="label">First Hub — Hanzeweg 5, Groningen</div>
+    <div class="cols-2">
+      <div>
+        <h2>The territory is specific.<br>The model is replicable.</h2>
+        <div class="rule-left" style="margin-bottom:1.1rem;">
+          <div class="col-head">Starting Product Category</div>
+          <p class="col-body">NATRUE Organic and Ecocert / Cradle to Cradle Gold certified personal care products. Zero synthetic chemical inputs. Shea, mango, almond, squalane-based formulations.</p>
+        </div>
+        <div class="rule-left" style="margin-bottom:1.1rem;">
+          <div class="col-head">Water System Co-benefit</div>
+          <p class="col-body">Eliminating synthetic chemicals from household cycles reduces contamination at source — directly supporting <strong>EU Water Framework Directive</strong> compliance in the Groningen catchment.</p>
+        </div>
+        <div class="rule-left">
+          <div class="col-head">Container System</div>
+          <p class="col-body">RTS containers collected, sanitised, refilled and re-entered at the hub. Each return is a measurable loop closure event.</p>
+        </div>
+      </div>
+      <div>
+        <div class="col-head" style="margin-bottom:0.75rem;">Operational Milestones</div>
+        <div class="timeline">
+          <div class="tl-item"><div class="tl-year">Q3 2026</div><div class="tl-text">Hub operational. First custodian cohort active. RTS cycles running.</div></div>
+          <div class="tl-item"><div class="tl-year">Q1 2027</div><div class="tl-text">First CC orientation report published. Loop closure data available.</div></div>
+          <div class="tl-item"><div class="tl-year">Q3 2027</div><div class="tl-text">Second product stream enters RTS protocol. Category expansion.</div></div>
+          <div class="tl-item"><div class="tl-year">2028</div><div class="tl-text"><strong>Operational surplus generated.</strong> Hub 2 pre-seed begins.</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. DOUBLED IMPACT -->
+  <div class="slide center" data-slide="7">
+    <span class="slide-num">7 / 10</span>
+    <div class="label">The Doubled Impact</div>
+    <h2 style="max-width:700px;margin:0 auto 1.5rem;">Generating demand for circular systems<br>is simultaneously withdrawing demand<br>from linear ones.</h2>
+    <hr style="width:40px;border-top:2px solid var(--accent);margin:0 auto 1.5rem;">
+    <div class="cols-2" style="max-width:800px;margin:0 auto;text-align:left;">
+      <div class="rule-left">
+        <div class="col-head">Circular demand created</div>
+        <p class="col-body">Every return builds the loop. Every refill funds the steward. Every trusted relationship deepens the infrastructure that makes the next return more likely.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">Linear demand withdrawn</div>
+        <p class="col-body">The same household no longer purchases single-use packaging. Virgin material demand drops. Synthetic chemical loads in water systems reduce — without requiring any behaviour change campaign.</p>
+      </div>
+    </div>
+    <p style="margin-top:1.75rem;font-size:0.85rem;color:var(--muted);max-width:58ch;font-style:italic;">No existing circular initiative was designed for both effects simultaneously. Manukura's stewardship architecture makes this dual movement structurally inevitable.</p>
+  </div>
+
+  <!-- 8. CUSTODIANSHIP -->
+  <div class="slide" data-slide="8">
+    <span class="slide-num">8 / 10</span>
+    <div class="label">Governance</div>
+    <div class="cols-2">
+      <div>
+        <h2>Joint custodianship,<br>not investment.</h2>
+        <p class="sub">The hub is not a startup seeking equity. It is a shared institution held in trust. Participating organisations become co-custodians — with governance rights proportional to their stewardship role.</p>
+        <p class="sub" style="margin-top:1rem;">This is not a vendor relationship. Not a grant. It is the circular infrastructure of the region, jointly stewarded.</p>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:1.25rem;">
+        <div class="rule-left">
+          <div class="col-head">NOM / SNN</div>
+          <p class="col-body">Regional economic development mandate. Manukura is infrastructure — it generates the conditions for circular enterprise at regional scale, not a one-off subsidy.</p>
+        </div>
+        <div class="rule-left">
+          <div class="col-head">CPNL / Municipal</div>
+          <p class="col-body">Community wellbeing and sustainability mandates. The hub is a civic stewardship institution — it builds the social trust that policy cannot legislate.</p>
+        </div>
+        <div class="rule-left">
+          <div class="col-head">Institutional Funders</div>
+          <p class="col-body">Patient capital that stays in generates early compounding returns — every year of operational surplus accelerates the path to Hub 2 and federation.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 9. FINANCIAL ARCHITECTURE -->
+  <div class="slide" data-slide="9">
+    <span class="slide-num">9 / 10</span>
+    <div class="label">The Compounding Architecture</div>
+    <h2>Return within 5 years.<br>Self-replication by year 7.</h2>
+    <p style="font-size:0.82rem;font-style:italic;color:var(--accent);margin-bottom:1.5rem;">The more institutional capital stays in, the earlier the federation begins.</p>
+    <div class="timeline">
+      <div class="tl-item"><div class="tl-year">Yr 1–2</div><div class="tl-text">Hub operational. Custodian base growing. RTS cycles running. CC baseline established.</div></div>
+      <div class="tl-item"><div class="tl-year">Yr 3</div><div class="tl-text">Operational surplus begins accumulating. Loop closure data published. Proof of model.</div></div>
+      <div class="tl-item"><div class="tl-year" style="color:var(--ink);font-weight:600;">Yr 4–5</div><div class="tl-text"><strong>Institutional custodians have full principal returned via operational revenue.</strong> Hub self-sustaining.</div></div>
+      <div class="tl-item"><div class="tl-year">Yr 5–6</div><div class="tl-text">Hub 1 surplus funds Hub 2 pre-seed. Federation architecture begins.</div></div>
+      <div class="tl-item"><div class="tl-year">Yr 7+</div><div class="tl-text">Hub 2 operational. Generates its own surplus → Hub 3. No new institutional capital required.</div></div>
+    </div>
+    <hr>
+    <p class="sub" style="font-size:0.85rem;"><strong>Patient capital logic:</strong> capital that stays in past Year 5 doesn't exit — it becomes the seed of the next hub. Withdrawal is always available. Staying in is the multiplier.</p>
+  </div>
+
+  <!-- 10. THE INVITATION -->
+  <div class="slide center" data-slide="10">
+    <span class="slide-num">10 / 10</span>
+    <div class="label">The Invitation</div>
+    <h1 style="font-size:clamp(2rem,4.5vw,3.8rem);">Become a founding custodian<br>of the first hub.</h1>
+    <p class="sub" style="max-width:50ch;margin-top:1rem;">This is not a call for funding. It is a call for custodianship — institutional presence in a governance structure designed to outlast any single organisation's participation.</p>
+    <hr style="width:40px;border-top:2px solid var(--accent);margin:2rem auto;">
+    <div class="cols-3" style="max-width:780px;text-align:left;">
+      <div class="rule-left">
+        <div class="col-head">Co-custodian seat</div>
+        <p class="col-body">Governance participation proportional to stewardship role and capital held.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">Live CC data</div>
+        <p class="col-body">The first institutional circularity dataset of its kind in the Netherlands.</p>
+      </div>
+      <div class="rule-left">
+        <div class="col-head">Federation priority</div>
+        <p class="col-body">Founding custodians hold first-right in Hub 2 and 3 as the federation self-funds.</p>
+      </div>
+    </div>
+    <p style="margin-top:2rem;font-size:0.82rem;color:var(--muted);">Hanzeweg 5, Groningen &nbsp;·&nbsp; manukura.org</p>
+  </div>
+
+</div>
+
+<div class="nav">
+  <button onclick="changeSlide(-1)">&#8249;</button>
+  <span id="counter">1 / 10</span>
+  <button onclick="changeSlide(1)">&#8250;</button>
+</div>
+
+<script>
+let current = 1;
+const total = document.querySelectorAll('.slide').length;
+document.getElementById('counter').textContent = '1 / ' + total;
+
+function goToSlide(n) {
+  document.querySelector('.slide.active').classList.remove('active');
+  document.querySelector('.slide[data-slide="' + n + '"]').classList.add('active');
+  current = n;
+  document.getElementById('counter').textContent = n + ' / ' + total;
+}
+function changeSlide(dir) {
+  let n = current + dir;
+  if (n < 1) n = total;
+  if (n > total) n = 1;
+  goToSlide(n);
+}
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); changeSlide(1); }
+  if (e.key === 'ArrowLeft') { e.preventDefault(); changeSlide(-1); }
+});
+let tx = 0;
+document.addEventListener('touchstart', e => { tx = e.touches[0].clientX; });
+document.addEventListener('touchend', e => { const d = tx - e.changedTouches[0].clientX; if (Math.abs(d) > 50) changeSlide(d > 0 ? 1 : -1); });
+</script>
+
+</body>
+</html>

@@ -34,9 +34,9 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 
 ---
 
-## Ruwe transcript
+## Aantekeningen
 
-*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
 
 [transcript hier]
 

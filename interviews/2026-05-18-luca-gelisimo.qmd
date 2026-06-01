@@ -52,9 +52,9 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 
 ---
 
-## Ruwe transcript
+## Aantekeningen
 
-*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
 
 **14:03-14:08 (toolkit)**
 Luca: "Actually, the first thing I do is that I use an app called Clockify and I register how I spent my time the day before. That's free to use. The web app. And I'm pretty sure I'm the only one that uses it, but I find it very useful."

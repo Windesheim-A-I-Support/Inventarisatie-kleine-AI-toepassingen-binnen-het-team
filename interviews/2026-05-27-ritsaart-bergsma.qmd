@@ -48,9 +48,9 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 
 ---
 
-## Ruwe transcript
+## Aantekeningen
 
-*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
 
 Teams-transcriptie van vergadering `IT-ondersteuning - Ritsaart-20260527`. Totale duur: 1u 12m. Eerste ca. 22 minuten: IT-gesprek over laptop RAM (niet relevant voor interview). Interview begint op 22:46. Na ca. 1:02 volgt demo van Christiaan's eigen werkwijze (Claude Code, Agent of Empires, eigen server).
 

@@ -40,9 +40,9 @@ Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, 
 
 ---
 
-## Ruwe transcript
+## Aantekeningen
 
-*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
 
 Teams-transcriptie van vergadering `Interview voorstel; Survey Digitalisering mira Benes-20260601_120150`. Totale duur: 31 minuten 6 seconden. Gestart op 1 juni 2026, 10:01. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
 
