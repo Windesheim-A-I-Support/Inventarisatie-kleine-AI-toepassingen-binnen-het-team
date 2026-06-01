@@ -2,3 +2,18 @@
 /_site/
 
 **/*.quarto_ipynb
+
+# LibreOffice lock files
+**/.~lock.*#
+
+# R history
+**/.Rhistory
+
+# Rendered PDFs in interviews/ (GitHub Actions genereert deze)
+interviews/*.pdf
+
+# Losse HTML-bestanden in interviews/
+interviews/*.html
+
+# Tijdelijke EML-bestanden (niet committen)
+updates/*.eml
