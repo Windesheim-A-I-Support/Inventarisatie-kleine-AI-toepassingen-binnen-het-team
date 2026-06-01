@@ -1,25 +1,55 @@
 # Email aan Bart Ras na interview
 
-**Aan:** Bart Ras
-**Onderwerp:** Bedankt voor het gesprek
+**Aan:** b.ras@windesheim.nl
+**Onderwerp:** Bedankt voor het gesprek -- transcriptie + een paar tools voor jou
 
 ---
 
 Bart,
 
-Dankjewel voor je tijd vanmorgen -- heel waardevol gesprek.
+Dankjewel voor je tijd vanmorgen. Fijn gesprek.
 
-Zoals beloofd: de transcriptie en een samenvatting van je radartjes staan klaar. Ik stuur die apart toe zodra alles verwerkt is.
+Hier alvast je transcriptie en samenvatting:
 
-Drie dingen die ik je wou meegeven:
+- [Transcriptie als PDF](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/downloads/interview-2026-06-01-bart-ras.pdf)
+- [Transcriptie als Word](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/downloads/2026-06-01-bart-ras.docx)
 
-1. **Agent of Empires** (de tmux-terminal manager die ik liet zien): [https://github.com/dnakov/agent-of-empires](https://github.com/dnakov/agent-of-empires) -- letterlijk een tmux wrapper, verder niks. Maar stelt je in staat om meerdere AI agents in aparte vensters te draaien en ze via de terminal te aansturen.
+Je radartjes staan ook live in het dashboard -- inclusief iedereen die ik al gesproken heb:
 
-2. **CLAUDE.md**: maak een bestand met die naam in je project-root. Claude leest het automatisch bij elke sessie. Zet er in wie je bent, wat het project doet, hoe je wilt dat hij werkt. Dan hoef je dat niet elke keer opnieuw uit te leggen.
+- [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html)
 
-3. **Claude Code** (voor je Python-werk): in plaats van code copy-pasten, kan Claude direct in je codebase werken. Hij ziet alle bestanden, past aan, runt tests. Bespaart de hele copy-paste cyclus. Installeren via: `npm install -g @anthropic-ai/claude-code`.
+---
 
-Mocht je vragen hebben -- stuur gerust een berichtje.
+Zoals beloofd drie concrete dingen die je workflow direct verbeteren:
+
+**1. Claude Code**
+In plaats van code copy-pasten naar VS Code: Claude werkt dan direct in je codebase. Ziet alle bestanden, past aan, runt. Installeren via terminal: `npm install -g @anthropic-ai/claude-code`, daarna `claude` typen in je projectmap.
+
+**2. CLAUDE.md**
+Maak een bestand met de naam `CLAUDE.md` in je projectmap. Claude leest dit automatisch aan het begin van elke sessie -- je hoeft context dus niet meer elke keer opnieuw uit te leggen.
+
+Wat je erin zet: wie je bent, wat het project doet, welke stijl je wil, welke tools beschikbaar zijn, wat hij absoluut niet mag doen. Eén keer schrijven, altijd actief.
+
+Voorbeeld voor jouw legal agent:
+```
+# Legal agent
+Ik ben CFO van vlastuin, een MKB-bedrijf in winkelinrichtingen.
+Review inkomende NDAs op basis van de historische NDAs in /docs/ndas/.
+Standaard NDA staat in /docs/standaard-nda.pdf.
+Geef altijd: (1) must-haves, (2) nice-to-haves, (3) advies per tegenpartijtype.
+```
+
+**3. Claude Skills (voor je agents)**
+Een lijst met kant-en-klare skills die je direct kunt installeren: [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
+
+Skills zijn instructiebestanden die Claude vertellen hoe hij zich moet gedragen in een bepaalde rol. Vergelijkbaar met je CLAUDE.md, maar herbruikbaar over projecten heen -- je legal agent, Python agent, presentation agent kunnen elk hun eigen skill krijgen.
+
+**Bonus: Caveman-modus**
+Misschien het meest praktische trucje voor dagelijks gebruik. Claude praat normaal in lange beleefde zinnen die veel tokens kosten. Met caveman-modus vraag je hem kort en bondig te antwoorden -- geen "Zeker! Ik help je graag met..." maar gewoon de inhoud.
+
+Vraag hem: *"Activeer caveman modus"* of installeer de caveman skill via de lijst hierboven. Scheelt tot 90% van je tokengebruik bij werkende sessies.
 
 Groet,
 Chris
+
+*P.S. Deze e-mail, je transcriptie, je samenvatting en het dashboard zijn allemaal gegenereerd door AI agents -- als kleine demonstratie van wat er mogelijk is.*
