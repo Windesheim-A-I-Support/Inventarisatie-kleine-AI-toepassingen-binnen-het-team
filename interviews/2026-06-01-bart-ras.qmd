@@ -242,3 +242,402 @@ NDA review: "Mijn turnaround time is 3 minuten." Externe advocaat belde omdat hi
 **Al in gebruik:** Claude (intensief), ChatGPT (parallel), Python, VS Code, Microsoft 365, Visma, Vision Planner
 
 **Sterkste signaal:** "Bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim -- ik merk dat er bijna een soort anti is om het daar te mogen gebruiken."
+
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie. Sprekers zijn geïdentificeerd door Teams.*
+
+Interview Survey-20260601_103000-Transcriptie van vergadering
+
+1 juni 2026, 08:29a.m.
+
+41m 6s
+
+Chris Verhoef heeft de transcriptie gestart
+
+**Bart Ras** (0:03): Hawaï shirt aan.
+
+**Spreker 1** (0:05): Nou, ik zit ook in een beetje vakantie achtige omgeving.
+
+**Bart Ras** (0:10): Waar ben je?
+
+**Spreker 1** (0:10): Dus ik, Ik ben in Zuid Frankrijk nu.
+
+**Bart Ras** (0:13): Ja lekker.
+
+**Spreker 1** (0:14): Eerlijk, ja, en jij niet en jij?
+
+**Bart Ras** (0:14): Nou goed zo.Ik zit in Hilversum.
+
+**Spreker 1** (0:21): Ja nou ja, wat ik mooi mooi staan een beetje Hollandse kleur.
+
+**Bart Ras** (0:23): Ja absoluut ja ja in plaats van 30 april doe ik gewoon 30 mei en dan een beetje ja zoiets ja.
+
+**Spreker 1** (0:33): Gaaf nou, Ik ben hier vandaag met jou om een interview te doen. Wij doen deze interviews om te kijken van waar zit de de kleine winsten op het gebied van digitalisering binnen ons lectoraat?
+
+**Bart Ras** (0:36): Vertel.Ja.
+
+**Spreker 1** (0:47): En Ik vind het ook heel erg interessant om gewoon te weten wat je allemaal doet.En ja, hoe we van elkaar kunnen leren en dat soort dingetjes.Na afloop krijg je ook een transcriptie van het hele hele interview en dat soort dingetjes en het wordt opgenomen in een dashboard. En nou, Misschien dat je het allemaal interessant vindt of niet, ja.
+
+**Bart Ras** (0:56): Super.Super.
+
+**Spreker 1** (1:10): OK.Perfect.Ja, Ik ga verder.En.Voor deüberhaupt een beetje begin. Jij werkt volgens mij niet Alleen voor lectoraat minder zijn, toch?
+
+**Bart Ras** (1:30): Nee, één dag In de week.En.De rest van de tijd werk ik bij een MKB bedrijf in Baarn.
+
+**Spreker 1** (1:39): Jij werkt bij een MKB bedrijf in Baarn?
+
+**Bart Ras** (1:42): Ja.
+
+**Spreker 1** (1:43): Oh wow In de MKB bedrijf, is dat dan?
+
+**Bart Ras** (1:46): Ja vlastuin dat zit op de guldenhofslaan.
+
+**Spreker 1** (1:49): Past.
+
+**Bart Ras** (1:50): Dat vlastuin.
+
+**Spreker 1** (1:52): Glastuin.
+
+**Bart Ras** (1:53): Ja en allemaal winkelinrichtingen en dat soort zaken.
+
+**Spreker 1** (2:00): Want ik woon in Baarn.
+
+**Bart Ras** (2:02): Dat weet ik. Ja, ik snap wel dat jij in Zuid Frankrijk zit.
+
+**Spreker 1** (2:14): Science Packaging, wat leuk, wat leuk interessant.
+
+**Bart Ras** (2:15): Precies.Maar als jij bij weet ik veel wat bij een rituals of de Hema of dat soort winkels binnenloopt, dan komt er heel veel van het meubilair bij ons vandaan.Ja.
+
+**Spreker 1** (2:32): Nou.Laten we beginnen, je werkt maar maar één dag In de In de, maar je werkt een dag In de week voor een rectoraat zijn.
+
+**Bart Ras** (2:41): Ja.
+
+**Spreker 1** (2:43): Wat, wat zou jij zeggen dat jouw rol hier is bij bij winnen zijn?
+
+**Bart Ras** (2:49): Nou ja, je hebt Natuurlijk de officiële titel, Hè? Research fellow In de praktijk, wat ik het meeste doe is afstudeerders begeleiden en meewerken met bepaalde projecten. Vooral als er een externe connectie is met bedrijven.Dat dat Natuurlijk toch ook hoofdzakelijk meer Achtergrond is gewoon corporate smit sized large super large.Dus vanuit de hoedanigheid?En dan komt Natuurlijk mijn mijn. Wat is het 25 plus jaar ervaring met?
+
+**Spreker 1** (3:16): OK.
+
+**Bart Ras** (3:23): Werkkapitaal voor het beheer treasury eigenlijk het hele waar het hele stuk waar lectoraat voor staat en Financial flows data flows goed Samen.
+
+**Spreker 1** (3:38): OK graag.En Als je dan dan denkt, zeg maar, dus je bent bezig voor dit zijn de afgelopen paar weken waar, waar ben je dan het meeste tijd aan kwijt geweest?Zelf nieuwe inschatting?
+
+**Bart Ras** (3:53): Ja Er is op dit moment begrijp ik één afstudeerder die bij Scania zit en Ik ben bezig met de voorbereiding om. Dat is dan toevallig morgen naar iets mee te gaan om te kijken of dat een een echte klant kan worden van het lectoraat.In de lijn van Scania Misschien niet zo groot, maar wel in dezelfde richting.Om te zien, ja dus ik doe een stukje acquisitie aan de ene kant en aan de andere kant dus dat zijn de twee tijdsbestedingen geweest.De afgelopen periode.
+
+**Spreker 1** (4:26): En en kan je kan je proberen inzoomen wat gedeelte van Van dat proces jouw meeste tijd kost.
+
+**Bart Ras** (4:34): Ook puurqua operationaliteit wat wat tijd kost ja dus Als ik met de afstudeerder zit, is het gewoon een kwestie van zijn stukken. Lezen zijn vragen beantwoorden, kijken of Ik vind dat het product wat hij oplevert genoeg waarde toevoegt. Forscania uiteindelijk hij wil afstuderen, maar wij willen Natuurlijk ook als lectoraat dat er een studeerscriptie ligt waar Scania wat aan heeft.
+
+**Spreker 1** (4:38): Ja, wat wat kost jouw tijd?
+
+**Bart Ras** (4:59): Dus Dat is eigenlijk gewoon pure begeleiding.Dus Dat is weinig digitaliserend, behalve dat we via teams werken en dat soort dingen, Maar dat is gewoon een kwestie van lezen. Praten uitschrijven, nakijken enzovoort en het stuk voor iets meer is gedeeltelijk een beetje analyse, maar toch ook vooral goed begrijpen wat een businessmodel is, zoals zodat Als we daar morgen zitten.Dat we niet een fantastische oplossing voor een niet bestaand probleem over de bune proberen te krijgen voor een.
+
+**Spreker 1** (5:32): En Als je dus, dus ik zoek me een beetje in op de acquisitie gedeelte, zeg maar dan hè, wij willen een goede scriptie neerzetten en dat soort dingetjes.
+
+**Bart Ras** (5:38): Ja.
+
+**Spreker 1** (5:43): Hoe weet jij of dat of dat goed gaat?Of of dat of Scania er iets aan heeft.
+
+**Bart Ras** (5:48): Ja doordat zij.Als je dus naar het voor het iets misstuk voor die nieuwe acquisitie bedoelde je of niet?
+
+**Spreker 1** (5:55): Bijvoorbeeld.
+
+**Bart Ras** (5:56): Ja, Ik weet dat dat goed gaat als hij na afloop zeggen.Hier willen we mee verder.Welke documenten moeten wij tekenen om lid te worden van de binnenzwem fanclub en?En actiever onderdeel te worden van? Nou ja, van ons lectoraat dan Alleen maar af en toe eens een opdrachtje.Misschien is bedenken, wat vinden jullie hiervan?Dus Dat is gewoon puur puur puur puur klanten binding in wezen.
+
+**Spreker 1** (6:21): OK.Ja ja en Het is een hele slimme, hè? Dus je stuurt de student, zeg maar lekker naar binnen, zeg maar om een mond van hè, Ik ben Alleen maar legende en en dat soort dingetjes help me alsjeblieft nou, Mensen zijn heel geneigd om elkaar te helpen, zeg maar en dan.
+
+**Bart Ras** (6:29): Ja ja.Precies precies ja ja.
+
+**Spreker 1** (6:40): Dan trek je hem, zeg maar via die hoek naar binnen toe.
+
+**Bart Ras** (6:43): Ja.
+
+**Spreker 1** (6:47): Om het jezelf daarin makkelijk te maken. Wat?Doe je daar al iets mee?
+
+**Bart Ras** (6:53): Ja, maar eigenlijk doe ik bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim. Ook Omdat ik merk slash vind. Dus Ik weet niet precies waar het één begint en het andere ophoudt.
+
+**Spreker 1** (7:00): OK.
+
+**Bart Ras** (7:11): Weet je co pilot staat bijvoorbeeld uitgeschakeld op al je Windesheim spullen.Ik doe zelf erg veel met met chat, maar ook met close.Niet Alleen maar even maakte e mail even wat fraai jaar. Dat doe ik soms ook wel, Omdat het gewoon makkelijk is Omdat ze uiteindelijk gewoon goed gestructureerd verhaaltjes kunnen kunnen schrijven. Maar ik gebruik het ook veel voor Research voor Python code.En en dat soort zaken dus echt wel serieuze projecten.Geplaatst voor een analyse gemaakt voor 1 1 1 vriendje van mij in Engeland voor voor hondenhospitalen.Daar dus dus dus eigenlijk grote. Hoe heet dat een keten van?Huisdierenpraktijken.Verschillende supply chain modellen in opgeladen kijken hoeveel weten waar? Waar zit, hoeveel wachttijden Er zijn, wat de beperking is, wat de correlaties zijn. Nou dat soort analyses draaien eigenlijk een Digital twin bouwen.Dat doe ik allemaal met AI.En niet, niet, niet, niet simpelweg de vraag of in dumpen, maar weet je, ik krijg, ik krijg 400 Lines of byton terug in 38 seconden. Zo snel gaat het mij never nooit lukken. Plus ik maak veel te veel programmeerfouten, Maar ik snap wel wat er in moet, hoe het erin moet. Dan komt het terug, dan run ik het kom ik terug met mijn feedback, dus Dat is echt een een h.
+
+**Spreker 1** (8:26): Nee zeker.
+
+**Bart Ras** (8:42): Snelle wisselwerking.Dus ik gebruik het vooral eigenlijk als spanningspartner.En als agents om van mij taakjes te doen, die zei 1000 keer sneller en beter kunnen dan ik ooit zelf zou kunnen.
+
+**Spreker 1** (8:58): OK, Laten we daar, Laten we daar anders een beetje op meer op inzoomen.
+
+**Bart Ras** (8:59): Ja.Ja ja, want maar en en Dat is dat gebruik ik dus amper voor mijn Windesheim Omdat ik merk dat er bijna een soort anti is om het daar te mogen gebruiken.
+
+**Spreker 1** (9:12): Ja.Het niet de eerste, Dat is echt.
+
+**Bart Ras** (9:15): Nee, nee en en Misschien zijn er hele goede redenen voor, maar maar ja, dat dat Dat is een beetje zwart wit mijn gevoel.
+
+**Spreker 1** (9:17): Dus.Ja oh, voorstel.En.Als je dan kijkt wel naar de rest van je van je werk, zeg maar, en je gebruikt dus heel actief daar AI in.
+
+**Bart Ras** (9:35): Ja.
+
+**Spreker 1** (9:37): Waar ben jij daar dan nog het meest tijd in kwijt?
+
+**Bart Ras** (9:44): Uiteindelijk is het nog niet allemaal MEGA gelinkt, dus het zijn nog silo's.Ook al nu met de laatste cloth kan je het over je je Office dingen heen zetten dat het zeg maar live in Excel zit in plaats van dat je het heen en weer sleept, maar dus Ik ben nog wel een soort van oppasser die.Een opdracht je hier doet?Oh, heb ik dat eigenlijk wel goed? Hoe heet het ze hebben? Heb ik wel de goede quote gegeven. Hoe heet dat?
+
+**Spreker 1** (10:16): Komt.
+
+**Bart Ras** (10:16): Ja precies ook wel de goede promptink gedaan.Hoe kan ik dat slimmer doen? OK, dan heb ik dat nu klaar, dan sleep ik dat daar naartoe.Oh, ja, je hebt het bijna begrepen, maar je had het wel de presentatie even In de Company colors moeten zetten en niet in een algemeen iets.Dus eigenlijk bijna als een soort huiswerkmoeder. Het huiswerk controleren van al mijn kleine agents.Ik denk dat dat de beste samenvatting is.
+
+**Spreker 1** (10:43): Kan ik dat? Ja doe ik ook heel erg veel, dus dat kan ik heel erg herkenbaar.Je zegt iets heel vluchtigs, dat vind ik heel interessant en de komt van die percentation. Dus jij maakt ook presentatie met Y.En en en en hoe, hoe doe je dat dan?
+
+**Bart Ras** (10:58): Ja.Nou weet je bijvoorbeeld, Ik ben dan de CFO bij dit MKB bedrijf. De hele pensioenregeling gaat in Nederland op de schop. Daar heb ik heel veel.E mail wisselingen.Met mijn pensioenverstrekker over over welke modellen We gaan doen, hoe we het gaan aanbieden. Nou, dat er zit heel veel in, Maar de rest van het MT moet daar wel van snappen en We moeten ook een keus gemaakt worden van Van.Wat gaan we aanbieden en en keuzes hebben consequentiesqua kosten.Qua marktpositie Als je een goede pensioenregeling hebt, hoor je dan inderdaad attractiever voor een potentiële werknemer allemaal dat soort zaken.Je, Ik wil dat op je niveau hebben dat ik in een MT, zeg maar in 20 minuten.Het genoeg over de bühne kan krijgen dat Mensen in ieder geval die met totaal geen enkele kennis van zaken omtrent pensioenen. Want Laten we wel wezen, de meeste Mensen snappen geen bal van hun pensioen.Om daar in ieder geval een soort awareness te krijgen, dus dan schrijf ik omschrijf ik de situatie. We zijn MKB bedrijf, Dit is het niveau van de Mensen. Dit is hun opleidingsniveau. Dit is hun leeftijd, dus de meeste zijn nog helemaal niet bezig met een pensioen.Hoe kan ik ze in wezen in 20 minuten van nul naar? Nou ja, 80 km per uur krijgen niet naar 160, want dat gaat niet lukken en dat hoeven ze ook niet in eerste instantie.En dan vraag ik dat letterlijk, hoe zou ik dat aanpakken?OK, Maar ik vertel ook In de opleidingsniveau niet zo, maar ook om om de wiskunde en de terminologie die ik daarin gebruik laat aansluiten, dat Als ik met allemaal mooie financiële termen ga doen van gedisconteerde waarden over, weet je Als het ze niks zegt, dan ziet Iedereen ja te knikken, dus daarvoor eigenlijk om mijn script voor mijn 20 minuten.
+
+**Spreker 1** (12:46): Ja precies.
+
+**Bart Ras** (12:52): Presentatie te geven en dan ga ik vervolgens om daar de goede slides bij te maken en dan maak ik vaak joh, maak twee decks, één deck waar ik doorheen praat en één dek voor de Mensen die niet bij zijn met.De extra teksten bij nou dat dat gaat 100 keer zo snel.
+
+**Spreker 1** (13:06): En dat lukte.
+
+**Bart Ras** (13:07): Oh, want dat gaat super goed. Ja ja ja absoluut. Ja ja ja ja ja.
+
+**Spreker 1** (13:09): Oké.Ben je de eerste die die die zegt dat Claude daadwerkelijk goede prestaties kan balen?
+
+**Bart Ras** (13:17): Ja, en dat gebruik ik wel, de de de de hoe Het is de de 4.8 voor dus ik doe vaak het voorwerk met 4.6 om niet teveel credits te verstoken. En Als het dan één keer goed moet.En ja dus dat werkt goed, dan lees ik het uiteraard door en dus Ik ga op pagina, dat wil ik dat nog aangepast hebben. Dat is niet helemaal waar in onze situatie, want we zitten al bij een verzekeraar nou top.Is dat dat dan? Zeg maar zo een heel proces van.Praten.Wat ik wel merk Cloth kan nu nog geen Nederlands verstaan, dus hij kan wel in het Engels tegen hem praten. Dus ik doe veel via microfoon, zeg maar, Het is in plaats van al die promte tikken zit ik gewoon te kwebelen.In het Engels, want hij verstaat nog in het Nederlands en dan zeg ik wel, het moet Nederlandse presentatie worden.Nee, Ik vind dat uiterst goed werken.
+
+**Spreker 1** (14:12): En zijn er dingen waarvan jij denkt van, Oh, dit dit probeer, maar dit werkt echt niks.
+
+**Bart Ras** (14:18): Nog niet werkt echt niet.Ik merk dat de transcripties net zo goed wat je nu doet met teams werkt vrij goed. Dan weet hij ook wie er praat en dan kan je Als je Als je daar zelf van bewust bent en je zorgt dat op het einde van de meeting nog even een re cap komt van Chris Ja dadat Bart, jij doet dat, Dat is de datum, dat kan hij heel goed werklijstjes maken. Ik merk wel.Voor een live meeting. Als je gewoon met zijn vieren in een Kamer zit en je zet er in in en je neemt het op.Hij heeft geen flauw idee wie de praat, dus hij wijst allerlei dingen toe aan de verkeerde Mensen.
+
+**Spreker 1** (14:51): Ja.
+
+**Bart Ras** (14:52): En, en dat vind ik wel jammer, want ik geloof heel erg in face to face meetings Omdat je veel meer ziet dan Alleen maar dit wat wij nu doen weet je. We kennen elkaar dan gelukkig en Dit is niet. Het is al veel beter dan Alleen de telefoon, maar in zo'n Kamer bemerk je veel meer en veel veel van onze klanten meetings. Ook die zijn allemaal face to face en daar heb.We vind Ik heb ik nog geen goede oplossing voor dat ik daar dus eigenlijk gewoon een AI.Een ja no taker heb.Die ook snapt, hé Dit is Bart, Dit is die Dat is die Dat is die die heeft dat gezegd, zeker als ze door elkaar heen gepraat wordt, wordt het gewoon onmogelijk op dit tenminste, Ik heb, dat zou ik heel graag willen dat dat goed opgelost is.Dus Als je daar wat voor weet, let me nou.
+
+**Spreker 1** (15:40): Ik mag nog niet van Michiel, maar oplossingen toe gaan. Ik moet eerst.
+
+**Bart Ras** (15:42): OKOK, heel goed, heel goed, heel goed. Dat vind ik helemaal prima. Ja, dus dat dat zou ik. Ja en dan zou ik dus eigenlijk willen dat het dan vervolgens gewoon de notulen meteen worden uitgestuurd. De actiepunten dat de dingen In de agenda's verschijnen, Maar dat kan allemaal. Maar ik merk dus dat de recording Als het niet over teams is dat dat dat dat Ik heb nog geen tool gev.Die Mensen goed uit elkaar kan houden?
+
+**Spreker 1** (16:08): OK.Zijn herken je dat veel collega's dezelfde dingen doen zoals jij ze doet en de processors ook op dezelfde manier aan banden hebben gelegd, zoals jij dat wilt?
+
+**Bart Ras** (16:20): Nee, nee wat ik merk is dat er Er is een groep in ons bedrijf niet helemaal niet gebruikt. Er is een groep die het zeg maar thuis gebruikt als een soort veredelde Google.En de meeste, Maar dat geldt niet Alleen voor ons bedrijf, maar eigenlijk In de hele wereld zien AI als een verlengstuk van.Laat ik het maar zo zeggen, één dimensionaal automatiseren.Dus die zien het als soort van toen Excel kwam. Toen word kwam Toen ik ik bemerkte dat zij niet doorhebben dat dit een hele andere dimensie geeft aan productiviteitsverhoging.Wat ik bijvoorbeeld een creditcard, alle oude NDAS die ons bedrijfje ooit heeft getekend. In de afgelopen 100 jaar na niet 100 jaar, maar wel 60 jaar heb ik. Heb ik allemaal aan mijn legal agent gegeven.Ik heb gezegd, Dit is onze standaard NDA als wij het voor het zeggen hebben, sturen we dit uit mutual Single Sided ND as en Dit is wat wij in het verleden allemaal hebben getekend. Heb ik hem ook gevraagd om rekening te houden dat als wij een India met 1 grote organisatie teken dat wij vaak hun wording moeten accepteren en ook verder willen gaan.Met accepteren Omdat het ja soms mooi gewoon gearm result in bepaalde dingen toezeggen. Nou, Als ik nu een NDA krijg, is mijn turnaround time ongeveer 3 minuten om hem gered line terug te sturen.Hij, hij kijkt naar, hé, wie is de tegenpartij? Is dat een groot bedrijf? Is dat een Hema? Is dat een rituals is dat een Albert Heijn of is dat een lokale leverancier? Hij snapt ook is het een leverancier, dan zijn wij meer in control Als het een klant is, moeten wij wat meer toe kunnen geven en dan komt hij eigenlijk meteen terug met.Deze dingen zijn Nice to haves en dit zijn de de de dingen waar je echt over na moet denken, want die wil je waarschijnlijk niet weggeven.Met, zelfs als gevolg dat onze externe legal partij die belde op een gegeven moment Waarom die nooit meer werk van ons kreeg.Want die merkte wat nou tussen onze externe legal. Wij hebben geen internal legal, daar zijn we te klein voor, dus onze externe juridische adviezen bureau die kwam die belde me op gegeven moment op of wij naar een ander waren gegaan, want hij kreeg nooit meer werk van ons of zelden meer werk, want hij kreeg vroeger vaak de NDS ter review.
+
+**Spreker 1** (18:23): Van.Ja.
+
+**Bart Ras** (18:43): Ja, ik zeg dat hoeft niet meer.Waarop zijnantwoord was, Oh, Dat is wel heel oneerlijk toen zei ik ja, dat weet ik niet. Of dat oneerlijk is of dat het goede woord is.
+
+**Spreker 1** (18:54): Ja, nou ja, maar wat pijnlijk voor die man kan ik me voorstellen.
+
+**Bart Ras** (18:57): Ja ja dus dus Ik denk dat ik het veel meer gebruik niet als een simpel verlengstuk. Ik denk echt In de vorm van agents, dus ik bouw teampjes van agents die ik zie als werknemers.Dus Ik heb nu opeens mijn internal legal agent, terwijl ik vroeger Alleen bij een external legalal consultant had.Ik heb nu in Internal Pyiten agent.En Ik heb, dus ik zie ze echt als werknemertjes die ik train die ik opleid die ik ook in mijn eigen cloth en chat omgeving.Zeg maar goed, structureer dus ik niet gewoon elke keer maar weer kletsen, gewoon bedenken OK en welk project hoort dit? Waar hoort dit bij? Ook aangegeven dit project is voor dit bedrijf. Dit project is voor mijn penningmeesterschap van de Van de vereniging.Dit is dus dat hij ook snapt waar het zit, dat hij niet dingen door mekaar gooit dat hij niet opeens in Als ik penningmeester ben voor voor de vereniging.Dat hij dan opeens met met vlastuin opmerkingen er doorheen gaat komen.Dus ik structureer het echt. Ik maak tempjes aan mijn agents, zijn mijn werknemers, dus Ik heb nu 2022 werknemers.
+
+**Spreker 1** (20:11): Netjes, en gebruik jij dit dan?Ja welk welke tools dus je je hebt clot, je hebt Misschien open. Nee, je gebruikt.
+
+**Bart Ras** (20:22): Ja.
+
+**Spreker 1** (20:24): Gebruik je fysiostudio code Python in te doen of hoe zit het eruit?
+
+**Bart Ras** (20:27): Ja ja ja ja dus inderdaad dat doe ik meestal en wat ik eigenlijk daarna? Ja, ik doe en en niet Omdat ik nou aanhanger ben van Visual Stud Koop, maar die ken ik nou eenmaal en de en dit werkt voor mij. Maar wat ik daar eigenlijk niks anders mee doe, is ik copy paste mijn code die gegenereerd wordt.Erin.Dus ik doe.
+
+**Spreker 1** (20:55): Oh je gebruik nog niet. Gebruik je de inleiding nog niet.
+
+**Bart Ras** (20:57): Nee, daar heb ik wel grappig, hij hij gegeven moment kwam hij zelf joh, is dat niet handiger?Dus daar heb ik nog niet naar gekeken, hij. Hij adviseerde het wel om het te gaan gebruiken, Maar ik doe nu gewoon nog OK.
+
+**Spreker 1** (21:08): Ik heb, Ik heb Misschien. Ik heb iets heel kleins voor jou.En jij gaat denken ik. Ik denk dat jij gaat. Nou, Ik denk dat jij dat heel erg mooi gaat vinden.
+
+**Bart Ras** (21:14): OK nou.Nou leuk, nee dus het interessante, want Ik was gisteren met iets bezig en toen kwam die daar mee van. Joh, wil je dit niet installeren? Want Dat is Misschien handiger.
+
+**Spreker 1** (21:24): Ja, ik, Ik heb een paar kleine gebruik je de instructies al de cloth MD paal.
+
+**Bart Ras** (21:29): Nee nee.
+
+**Spreker 1** (21:30): Gebruik je skills al?Ja, Het is bellen, ja smullen.
+
+**Bart Ras** (21:34): OK nou superleuk nee dus dus ik ik. Ik denk dat ik voor een wat is het? Ik ben hier ondertussen 57. Ik denk dat ik voor het zevenenvijftigjarige het lekker gebruikt ten opzichte van veel van mijn piers, Maar dat ik nog geen 3% gebruik van wat er kan. En Ik ben nu al wat ik zeg. Ik heb nu al een typje van 2022 werknemers en.Wat ik doe is Als ik echt met belangrijke taken ben, dan run ik het parallel in clot en in chat.
+
+**Spreker 1** (22:01): Ja.
+
+**Bart Ras** (22:01): En ik wissel het uit.
+
+**Spreker 1** (22:03): Maar wat ik dan nog niet snap, dus ik ken jeans, maar die maak je dan In de cloud interface.
+
+**Bart Ras** (22:09): Ja.Dus op ja.
+
+**Spreker 1** (22:11): En draaien ze ook Zonder jou interventie?
+
+**Bart Ras** (22:14): Ik heb dat ooit één keer gedaan dat Ik heb ik een beurshandel programma gebouwd, Omdat ik vroeger beurshandelaar ben geweest, snap ik daar ook wel wat van.En ik snap ook dat mijn eigen kleine programmaatje nooit zo goed kan zijn Als de grote boze buitenwereld. Maar wat ik daarin wilde is dat hij bepaalde signalen ging meten en gebaseerd daarop, zeg maar acties ondernam en daar had ik hem zelf lerend element in zitten. Dus als die merkte dat hij niet.Zijn zijn zijn forecast, zeg maar.Niet goed was.Dat die zelf zijn code ging aanpassen om morgen het beter te doen en dat runde ik in in beide om van elkaar te leren van wat chat aanpaste, gaf ik dan een cloth en wat cloton paste en dan moesten ze Samen zich mee eens worden over wat de volgende versie zou zijn. En soms deed ik ook wensing, dan ging ik gewoon meteen de ene kant op een andere andere kant.Maar dat is puur, hobbymatig en gewoon freaky, Maar dat leer ik wel van Van hoe dingen kunnen.
+
+**Spreker 1** (23:16): Oké.Ga ik hier de laatste vraag?Jij gaat als een malle door al die vragen heen en ik krijg overal al antwoord op, dus heerlijk.
+
+**Bart Ras** (23:26): Nou super ja.
+
+**Spreker 1** (23:29): Kan je mij een lijstje en dan gaan we dan laat ik je even toolst to sing hoe ik het doe. Kan jij mij een lijstje geven van de tools die je gebruikt? En dan Microsoft is ook een tool.
+
+**Bart Ras** (23:31): Ja.OK dus dus uiteindelijk Microsoft een suite heet dat dat denk ik hè, want Dat is gewoon de hele ja. De 3 6 5 familie.
+
+**Spreker 1** (23:42): Ja nu is het 5 ja.
+
+**Bart Ras** (23:46): Dan dus klald en chat allebei mijn $ 20 Euro home subscription achtig niveautje. Ik zit nu wel te denken om naar dat heet teams geloof ik bij Clos dat je ook projecten onderling kan gaan uitwisselen. Dan krijg je zeg maar 5 subscripties voor 100.Die kan je onderling delen, maar dan kan je ook veel makkelijker samenwerken op projecten, dus dat ga ik waarschijnlijk nu wel kijken of ik dat wil en dan pyten.Die wat is het die fysio ding?En.Ja voor de rest.Zit het hem.Dat kom ik tools tegen me, dus Ik denk dat dit wel de de corders van wat ik gebruik.
+
+**Spreker 1** (24:35): Bij de Powerbi I.
+
+**Bart Ras** (24:37): Nee, Ik vind power eigenlijk, 2010.
+
+**Spreker 1** (24:42): Gebruik je iets anders voor dashboarding?
+
+**Bart Ras** (24:44): Ja nou in mijn werk gebruikelijk als EHP visma, Dat is een soort. Ja, Dat is ook van het fietsteam, hè? Maar dat is zeg maar voor midden en kleinbedrijf, dus dat lijkt heel erg op exactqua functionaliteit.
+
+**Spreker 1** (24:48): Pisma.
+
+**Bart Ras** (24:56): Dus dat kan alles van een heel klein bedrijf. Philips zou nooit naar visma gaan. Unilever zou niet naar visma gaan, dus waar waar SAP te heftig is, Omdat dat zeg je dat wat die ERP systemen of is, ben je dat oké. Dus Het is zeg maar voor en visma zegt Natuurlijk dat we ook hele grote Philips kan ook op visma nou dat denk ik niet, dus dus dat.Gebruik ik, en daarin heb ik een dashboarding tool en die vind ik wel aardig.Dat is een aanzienlijk betere God. Dan moet ik even kijken hoe die heet, want die zit gewoon geïntegreerd.Die adverteert nu ook los op de radio hoor ik hem steeds vaker bij BNR en bij radio twee, die heet Vision Planner.
+
+**Spreker 1** (25:40): Exemplaar niet kijken we niet?
+
+**Bart Ras** (25:40): Ja nee.Dus Ik heb in mijn visa dashboard heb ik Vision plannen geïntegreerd, maar ook Numbers, Maar dat is een HR systeem. Dat is allemaal niet zo spannend, maar die maakt gewoon het werk lichter. Maakt gewoon handiger. Dan weet je. Dan hoef ik niet in een Excel sheets erbij te houden. Wie wanneer op vakantie is.Maar dat zijn Region planner.Zegt dat ze zeg maar, de verbeterde versie van Power BEE I zijn met forecasting en en dat soort zaken. Of ik daar helemaal.Of zij.Het echt op je niveau doen van, zeg maar in Digital twin en goede scenario's draaien dat durf ik nog niet te zeggen, maar voorlopig is het afdoende waarvoor ik het nodig heb.Maar Als ik dit bijvoorbeeld voor een vereniging doe ik. Ik doe ook dat werk voor de oudere studenten roeivereniging Omdat ze net een nieuw gebouw hebben. Die moeten een beetje slim omgaan met hun cashflow, Omdat het opeens allemaal gekragen door die verbouwing er doorheen lopen.Dat doe ik eigenlijk allemaal met mijn simulatorsoftware in pyton.Dus dan bouw ik gewoon in Python een een voor een cashflow forecaastingmodel.En en.
+
+**Spreker 1** (26:59): BW deze programma's ook met met met met andere Mensen.
+
+**Bart Ras** (27:03): Delen.
+
+**Spreker 1** (27:04): Ja.
+
+**Bart Ras** (27:06): Bedoel je van Van?
+
+**Spreker 1** (27:08): Zo'n voorcasting model?
+
+**Bart Ras** (27:09): Oh ja, maar die zijn vaak zo specifiek en Het is helemaal niks bijzonders, hè, want wat ik gewoon doe, ik pak gewoon de bankstanden van de afgelopen zoveel jaar.En de items die dat veroorzaken en dan vraag ik dan, bouw ik een een eigenlijk een terugkijkend model en een forecast model en dan zeg je, hé, ik zie dat de contributies. Dit is de curve van hoe de contributies binnen komen. Er komt altijd een hele blob binnen in november.En, Het is niet twee keer jaar betalen betalen ook nog een keer in mei. Oh dan weet ik wanneer. Nou ja, voor een vereniging is contributies de grote cashflow, dan hebben ze nog af en toe wat BTW uitgaven en inkomsten. Dus ik ik en daarmee voorspel ik de seanalysity going forward is dat 100% mee Natuurlijk niet, Maar dat en die bouw ik dan uiteindelijk gewoon zoveel sneller in een.Python model en wat ik dan wel doe is, dan heb ik de harde data in pyte nou, dat ziet er vaak visueel niet leuk uit.En dan vraag ik of hij daar een hart in ML ding van maakt, waardoor het een leuk grafiekje wordt en noem maar op en die deel ik dan. Het is niet zozeer dat die code geheim is, maar Mensen.
+
+**Spreker 1** (28:10): Nee, ik zeg het meer voor Ik denk dat Roland of Ritzwaard dit ik praat nu met Iedereen in in over dit soort dingetjes. En ik merk gewoon heel erg hoe sommige dingen dat we heel erg doen. Maar wat één trend die overal Iedereen aanwezig is, is Iedereen is een silo.
+
+**Bart Ras** (28:14): Ja ja de.Ja.Ja.
+
+**Spreker 1** (28:27): Dus we we werken heel weinig met elkaar Samen en dat vind ik jammer.
+
+**Bart Ras** (28:30): Ja ja nee en en Ik weet dat.Hoe heet het?Ronald heeft Natuurlijk wel eens aangegeven, van joh, zou je niet hiermee willen hebben wat ik wel merk met al die simulatiemodelletjes?Je moet verdomd goed snappen wat je wil simuleren, want anders simuleer je.Iets heel leuks, maar wat niks met de werkelijkheid te maken heeft.En Toen ik bijvoorbeeld begon met die met hoeveel honden en katten er opgenomen kunnen worden in die klinieken, kwam die er al heel snel achter dat die behavioral terrorists de beperking zijn. Want sommige honden zijn zo compleet gestoord in hun hoofd dat ze veel te veel tijd absorberen. Maar in het begin wat hij deed, dan stopte die honderden gewoon hun hokken. Maar ze hebben maar 80 plekken op één bepaalde locatie nou.Voor ik het wist, had mijn model gezegd dat er 250 honden.Bleef logeren, want hij wist niet dat dat beperkend was.Dus waar je heel erg mee moet oppassen met al die simulatiemodellen is dat je extreem veel correcte data erin moet zetten, want anders krijg je in prachtig iets gesimuleerd. Wat helemaal niet waar is en dat vind ik het gevaar van tooltjes, want of een tooltje doet helemaal niks Omdat ze zo algemeen zijn dat Iedereen roept. Ja, dat had ik zelf ook wel kunnen verzinnen. Of op het moment dat hij zegt dat.Hij specifiek wordt, moet je zorgen dat hij echt specifiek is.Maar dan moet je ook echt wel wat van de situatie snappen, want anders is het een soort half away House en en en is je advies slaat nergens op.
+
+**Spreker 1** (30:02): Ja, Dat is echt heel erg waar. Ik wilde jou nog even, want ik Ik denk dat ik. Ik heb weinig tijd, Maar ik wilde toch wel eventjes Laten zien, want Ik denk van nou, dan laat ik je toch met iets achter waar jij ook iets aan hebt? Niet Alleen je eet jij die mij geeft?
+
+**Bart Ras** (30:03): Nee.
+
+**Spreker 1** (30:18): Waar ik heel veel gebruik is een tool genaamd Agent of Empire genaamd achter the agents achter de agents empiders.
+
+**Bart Ras** (30:19): Ja ja.Wacht even dan ga ik.
+
+**Spreker 1** (30:28): Natuurlijk dat soort dingetjes, wat is dat? Dat is niks anders dan een een tmox model window-manager. Niks anders dan dat, Maar het stelt me toch in staat om AI agents in een eigen kleine containertje te gooien.En hier een via de terminal tegenaan te praten. Ik kan het zelfs via mijn telefoon kan ik dit doen.
+
+**Bart Ras** (30:51): Ja ja.
+
+**Spreker 1** (30:53): En dan kan ik zeggen welke provider ik er tegenaan wil gooien, dus Als je Als je meerdere subscripties aan het jeuken bent zoals ik dat al is, dat net zoals ik dan doen Mensen, dan kan je dat heel snel tussen tussen dingen heen, switchen en het mooie is is Natuurlijk Omdat het letterlijk tekstverhaal zijn op je computer kan je ze dus in elkaars werken.
+
+**Bart Ras** (31:01): Yes.Ja.
+
+**Spreker 1** (31:14): Dus je kan een soort van shoarm intelligence gaan gaan maken. Nou, dan heb ik bijvoorbeeld nou, Dit is een automatisering om mijn c VS te maken en en mijn sollicitatie te doen op mijn op op bedrijven, zodat ik Misschien niet meer werk kan krijgen en dat soort dingetjes.
+
+**Bart Ras** (31:17): Ja.Ja.
+
+**Spreker 1** (31:33): Nou en, hoe ziet het dan eruit? In een aan de binnenkant is? Als dan had ik het erover de cld dot md file.En nou klopt denk hoofdletters die en.
+
+**Bart Ras** (31:48): En en die maak je in die en die maak je in die agents of empirisch.
+
+**Spreker 1** (31:53): De ageas of empirisch is niks anders dan een een terminal window immulator, dus Het is een heel simpel programma, Alleen om meerdere terminaltjes in uit te gaan, dus je kan met control B. Ik ben namelijk D ga ik nou ga ik weer terug naar mainscherm en dan zou ik willen een nieuwe druk ik op n Ik wil waar je in in welke plaatsing zit en wat ook heel handig is, is hij.
+
+**Bart Ras** (31:57): OK ja.Ja.
+
+**Spreker 1** (32:14): Kan stof dat je hele kritiek is, je wilt je app bouwen, bijvoorbeeld.En, je bent bang dat hij Misschien?De hele database gaat verwijderen of zoiets of je doet iets met de iets met de productie. Dat is altijd heel erg met AI, want hij kan ineens besluiten van nou weet je wat ik op die database niet nodig, dus ik gooi gewoon weg.
+
+**Bart Ras** (32:27): Ja.
+
+**Spreker 1** (32:34): Dus wat je kan doen is je kan zeggen van Ik wil dat je in een dokter runt, dus dan maakt hij een nieuwe computer in je computer aan om daarin dan een AI te gooien met jouw code base erbij. En als daar goede dingen uitkomen, dan zeg je van nou, OK, push maar weer terug naar de main branch.Dus je in combinatie met github, hè? Dus Dat is niks anders dan zo'n software uitwisselingsprogramma.
+
+**Bart Ras** (32:49): Yes.Nee.Oh, daar maak ik ook gebruik van. Ook Alleen ben ik daar nog een beetje een sukkeltje in merk ik.
+
+**Spreker 1** (32:57): En.De AI snap het wel dus, dus Dat is het. Dat is het mooie, maar wat kan je nou doen met Er zijn twee fout die jou denk ik heel erg aan pow charger. Dat is de klok dat MD file dat klopt dat MD file is een instructief file voor de AI agent, dus elke keer Als je de Als je de repository laat Als je de de file l.
+
+**Bart Ras** (33:23): Ja.
+
+**Spreker 1** (33:24): Dan laat je kijkt is Er is er een klod in die file is er een clord in dividend, dan heeft hij dan, snapt hij wat hij moet doen.Dus jij bent een leraar, of je bent een supply chain agent, of jij bent. Ja, mijn agenda controleren. Hier zijn de wachtwoorden van de computer, hier kan je dit vinden. Hier kan je dat vinden en dan hoef je dat niet elke keer uit te leggen. Opnieuw opnieuw.
+
+**Bart Ras** (33:47): En, maar hij leert, hij leert dan toch zelf ook steeds meer nu of valt dat nog?
+
+**Spreker 1** (33:47): En.Ja en nee ja.En nee, hij verliest heel snel, dus als jij je vast wel gemerkt op een gegeven moment verliest hij zijn context.
+
+**Bart Ras** (33:57): Ja.
+
+**Spreker 1** (33:58): Dus hij. Hij moet het zien als een kind met een heel groot, met een met een tafel en heel veel boeken achter zijn neus. Zeg maar. En en op het moment dat je me vraagt stelt, dan gooit je gewoon alle boeken op tafel. En op een gegeven moment is de tafel vol, dus dan heeft hij hele andere keuze dan gewoon de helft van zijn tafel af te gooien en maar te pro.
+
+**Bart Ras** (34:04): Ja ja.Ja ja.
+
+**Spreker 1** (34:15): Te begrijpen waar je het ook weer over had, maar ja, in in dat moment verliest hij dus heel erg veel.
+
+**Bart Ras** (34:17): Ja.En en en waar waar waar maak je die close m defel?
+
+**Spreker 1** (34:26): Groningen, mee folder.Dus AI is niks anders dan tekstbestanden plus elkaar niks anders dan dat en je alles alles waar tekstbestanden op zit. Dus alle programma's die werken met tekstbestanden dus Python is ook 1 1 1 tekstversie zeg maar daar is daar zijn nais heel goed. Alles wat niet Dat is zoals je net al zelf zei, Voice Transcribrengen en dat soort dingetjes, dan wordt al heel erg veel moeilijker. Dat is nog steeds wel.
+
+**Bart Ras** (34:41): Ja ja.
+
+**Spreker 1** (34:52): Tekst maar.Anders.Zeg maar, dat video is hij ook slechter in, zeg maar.Dat je daar een specialistisch model hebt en die heeft dan, die kan Alleen dat dan, zeg maar maar oké, dus de cloud een default. Dat heeft hem instructie, dan kan je zeggen, schrijf memories, dan ga dan maak je er bovenop de *****.Een dierfouil maakt die kleine bestandjes met herinneringen voor zichzelf van. Oh ja, Ik heb een fout gemaakt in het verleden Omdat ik dit deed en mijn gebruiker wil dat ik altijd op deze manier doe.OK en dan voegt hij dat toe aan zijn zoon, window.
+
+**Bart Ras** (35:30): Dus Dat is eigenlijk dat je je eigen agents verder harnest.
+
+**Spreker 1** (35:30): En de laatste.Juist en de laatste zou ik zeggen, Kithip Owom Clad Skills.Ja gebruik ik Misschien wel het meeste a even tot nu toe van Iedereen hoor dus dat je dat even weet Daarom dat je dit geeft. Maar Dit is de cloud skills en hij kan hiermee, weet hij hoe het programma werkt dus en en en werkt hij In de context van dat programma.Dus Ik wil dat jij een front time designer bent. Ik wil dat je een een doc X doet, Alleen PDF maakt.
+
+**Bart Ras** (36:06): Ja ja ja ja ja.Yes.
+
+**Spreker 1** (36:11): Dat soort dingetjes nou dit toevoegen, nou krijg je in één keer in één één oneshot, zoals we dat noemen. In één keer proberen gewoon het juiste resultaat in plaats van dat hij er 300 keer over doet.Nou en het laatste wat ik je zou geven, het laatste wat ik je zou geven en dan moet ik gaan is een een Edition en Dat is voor je token gebruik om massief te reducen, want jij komt achter je je je op een gegeven moment de limieten en Dat is heel erg irritant. Dat heet een extensie genaamd Cave man en dan moet je gewoon vragen aan ***** kan je case man in.
+
+**Bart Ras** (36:24): OK.Ja.
+
+**Spreker 1** (36:44): En, Dat is, dan gaat hij praten als als hij een hobewoner is.In plaats van dat hij de hele tijd zegt, van, oh, wat een geweldig idee. Ja, Ik wil dat gaan we doen, hoor, ja, zo. Je zei het voor bla bla bla.En daarvoor speelt hij zoveel tijd mee, zeg maar in plaats van, zegt hij van oké, Ik ga het doen. Geen probleem. Pay in powerpoint maken ik doe klik, klik, klik.
+
+**Bart Ras** (36:57): Ja.
+
+**Spreker 1** (37:08): En, dat scheelt Misschien wel 90% van mijn token op TYPE.
+
+**Bart Ras** (37:11): Oh wow.
+
+**Spreker 1** (37:13): Dus Het is wel heel. Het is heel erg extreem.
+
+**Bart Ras** (37:13): Hoe kan ik trouwens?OK top dan dan dan nog de laatste. Je hebt het de hele tijd over clold en niet over chat is dat bewust.Als je er maar één kan gebruiken, dan zou jij close gebruiken.
+
+**Spreker 1** (37:26): Ja.Chatb t is.Nou, kijk, het ligt aan wat je use cases chat open AI is veel meer General en cloth is gemaakt voor vitamine programma's voor software developers, voor dingen en die en hun filosofie daarin ook is. Maak agents maak, maak instructiefiles en die die werken veel meer aan. Hoe kan ik dit gebruiken in plaats van een grappige zoekmachines zijn open A is ik gebruik het ook nog wel.Maar ik heb mijn scriptie daar van toegezegd opgezegd, want ik klot is gewoon gewoon 30 keer beter en Ik kan veel makkelijker werken via de terminal met cloth dan Ik kan doen met open AI.
+
+**Bart Ras** (38:03): Ja.Oké.
+
+**Spreker 1** (38:12): Maar ik gebruik ook. Ik gebruik ook lokale modellen, hè? Dus op mijn computer zelf gewoon ter ondersteuning, zeg maar voor voor de hele. Dus ik vraag ook gewoon ***** soms van hé dit werk wat ik nu wil dat je het doet.
+
+**Bart Ras** (38:13): Nou super.
+
+**Spreker 1** (38:27): Kan je dat niet?Kan je niet een instructiefaal geven voor dit andere model en wie gaat het dan doen? En dan dan mag jij klopt, jij mag jij mag hem beheren, dus hier heb jij dan verander je dus van de de de ja de de wat jij net zei, hè, de schoolmeester soort van.Die de AIN nakijkt, dan laat je close de andere a ijes nakijken en dan ben jij de uitbaas.
+
+**Bart Ras** (38:46): Maar, maar welke modellen kan jij dan?En welk welke AI modellen kan je dan lokaal draaien?
+
+**Spreker 1** (38:52): Ja, het ligt Natuurlijk een beetje aan je machine en zo, maar diep ziek is is is best wel goed. Diep ziek r one dus is Ik ga naar olama hier zie je alle AI modellen.Models, deze kan je allemaal olamp.
+
+**Bart Ras** (39:09): Sorry, waar waar zit jij nu?Nee.
+
+**Spreker 1** (39:17): Ik moet graag. Ja, oké.
+
+**Bart Ras** (39:17): En.
+
+**Spreker 1** (39:20): Hier zijn, Ik kan je alle lokale modellen vinden en kan je ze draaien op je eigen hardware.En, Ik heb niet zo'n hele zware computer. Ik heb er ook eentje van Van inmiddels al 4 jaar geleden, zeg maar.Die die ja 8 gigabyte aan virtual hamgeheugen heeft en Dat is genoeg.Om kleine.
+
+**Bart Ras** (39:43): En en Waarom en Waarom zou je het lokaal doen? Waarom zou niet alles gewoon een call doen?
+
+**Spreker 1** (39:47): Token musage.
+
+**Bart Ras** (39:48): Ja ja ja.
+
+**Spreker 1** (39:50): En je wilt shoarm intelligence toepassen voornamelijk Als ik ga over simulaties en dat soort dingetjes.Hè dus vaak ik.Ik word toch wel echt teleurgesteld, soms Als ik, Als ik hem helemaal met rust laat, zeg maar wat voor rare zijbegetjes die in loopt en gewoon door zichzelf te bevragen met andere AI modellen van weet je het zeker en dat soort dingetjes of zelfs die kleinere modellen die vragen we verduidelijking van. Ik snap niet wat je bedoelt.Kan je het beter uitleggen wat je bedoelt? Ik snap het gewoon niet.Daardoor wordt die gedwongen om zichzelf te reflecteren en hoe meer shots die heeft, zeg maar hoe meer kansen die kan schieten op hetzelfde probleem. Hoe duidelijker en accurater het antwoord?
+
+**Bart Ras** (40:33): Super hé, dankjewel voor je tijd. Wij gaan sowieso verder nerd, want Ik weet merk wel. Dat wist ik ook wel.
+
+**Spreker 1** (40:33): Nou.
+
+**Bart Ras** (40:42): Dat jij weer 10 keer verder bent dan ik.Ja.
+
+**Spreker 1** (40:46): Jij bent het hé, hé kroon op jezelf kroon op jezelf beet verder dan verder dan rits daar zelfs.
+
+**Bart Ras** (40:46): Altijd plaats, maar verbaasd, hè?Nee, Maar het is toch prima, hè, maar is toch super? Ja.Interessant.Ja, maar dit vind ik ja.
+
+**Spreker 1** (40:58): En die gebruik ik ook heel, heel hoor, dus nou mooi hé. Ik ga later.
+
+**Bart Ras** (41:02): Super hé hoi.
+
+Chris Verhoef heeft de transcriptie gestopt

@@ -232,3 +232,328 @@ Niet expliciet beantwoord.
 **Al in gebruik:** Claude + ChatGPT (incidenteel, vragenlijsten), Perplexity (verlopen), Outlook, Word, Excel, Teams, Unit4
 
 **Sterkste signaal:** "Al die urenbrïefjes -- huppakee, hier heb je delen." -- en zij is de verbindende factor voor iedereen in het team.
+
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie. Sprekers zijn geïdentificeerd door Teams.*
+
+Interview voorstel; Survey Digitalisering-20260601_120150-Transcriptie van vergadering
+
+1 juni 2026, 10:01a.m.
+
+31m 6s
+
+Chris Verhoef heeft de transcriptie gestart
+
+**Mira Benes** (0:03): Veel, heel veel.
+
+**Spreker 1** (0:04): Ja veel.
+
+**Mira Benes** (0:05): Ja.
+
+**Spreker 1** (0:06): Nou.Ja, Ik wil Natuurlijk uit mijn Natuurlijk zeggen van kan ik je helpen maar.
+
+**Mira Benes** (0:12): Nee, Maar dat dat lukt ook niet en dat nee, nee.
+
+**Spreker 1** (0:14): Dat is waarschijnlijk waarschijnlijk. Nee.
+
+**Mira Benes** (0:19): Nee wouden jullie hier zitten. Oh.
+
+**Spreker 1** (0:25): Moet je verplaatsen? Nee.
+
+**Mira Benes** (0:26): Nee, nee, nee, nee, nee is goed.Is goed.Maar start waar, waar gaan we het over hebben?
+
+**Spreker 1** (0:35): Ja, dus mij is mij gevraagd om te kijken waar mogelijke digitaliseringsoplossingen liggen voor binnen het lectoraat en ik doe dus hier een heel onderzoek in. Nou en Ik vind het eigenlijk ook wel. Ja, in het begin dacht ik van, nou ja, Dat is een beetje soort van simpele taak ofzo maar.
+
+**Mira Benes** (0:45): Ja.Ja.Ja.
+
+**Spreker 1** (0:58): Ja, uiteindelijk wordt het toch steeds interessanter, want ik kon heel veel te weten over mijn mede collega's, dus Ik vind het hartstikke leuk eigenlijk.
+
+**Mira Benes** (1:02): OK.Ja ja ja.
+
+**Spreker 1** (1:05): Dus dat blijkt, blijkt blijkt, blijkt best leuk te zijn. Eigenlijk vind ik.
+
+**Mira Benes** (1:08): Ja.
+
+**Spreker 1** (1:10): Dus wat Ik ga doen is, Ik ga met jou een interview afnemen. Deze ga ik krijg je een hele transcriptierapport van teruggestuurd ook dus je kan ook zien wat hoe ik dat dan zelf zou aanpakken, zeg maar en Ik heb er een online dashboard bij gebouwd. Ziet er een automatische rankering doet en nou hele hele mikmakken Misschien.Ik dacht, ik dacht van aan de aan de Tweede kant van de aan de ene kant doe ik het leuke interview met een rapportage erachter.
+
+**Mira Benes** (1:31): Ja.
+
+**Spreker 1** (1:37): En dat wat is wat giel wil zeggen maar en de andere kant laat ik zien van kijk, Ik kan ook gewoon zelf automatiseren. Ik bedoel, Dit is Dit is wat er allemaal mogelijk al is. Zeg maar ja, ik dacht van.
+
+**Mira Benes** (1:39): Ja.Ja.Oh, leuk nou, Ik ben benieuwd hoe dat eruit gaat zien.
+
+**Spreker 1** (1:48): Ja.
+
+**Mira Benes** (1:49): Ja.
+
+**Spreker 1** (1:50): Dus met jouw toestemming transcrip ik alles wat we hier doen en nou, OK.
+
+**Mira Benes** (1:53): Ja ja ja ja ja prima ja.
+
+**Spreker 1** (1:58): En vooraf gegaan wilde ik zeggen van Het gaat, ja, Ik weet dat.Michiel wil graag dat richting hè? Hoe kunnen we AI inzetten? Graaf maar.
+
+**Mira Benes** (2:08): Ja.
+
+**Spreker 1** (2:10): Algemeen digitalisering vind ik eerder het oogpunt, hè? Sommige dingen zijn kunnen heel basaal zijn, maar als andere collega's daar heel veel gebruik van kunnen maken.
+
+**Mira Benes** (2:20): Ja.
+
+**Spreker 1** (2:21): Waarom zouden we dat dan niet doen, hè? Dus waar ik voornamelijk heel veel achter kom is, Mensen werken toch heel erg silo en. Ja, we doen wel allemaal unieke dingen, maar sommige lijken ook heel erg verdacht te veel op elkaar en we delen niet, zeg maar. En dan denk ik, van Waarom delen we niet?
+
+**Mira Benes** (2:23): Ja.Ja.Ja.Nee.Ja.
+
+**Spreker 1** (2:40): Nou, OK, dus dat kunnen we allemaal leuke dingetjes aan terugkrijgen, oké?Dus ook Works en Office en en dat soort dingen, dat zijn ook tools. Niet Alleen AI zijn tools.Oké nou als als eerste vraag?
+
+**Mira Benes** (2:54): Nee.Ja.
+
+**Spreker 1** (2:58): Als je kijkt naar afgelopen week en alles wat je moest doen voor het hectoraat, waar was je dan het meeste tijd dan kwijt?
+
+**Mira Benes** (3:03): Ja.Waar was ik het meeste tijd aan kwijt?Even kijken.Ik heb gesprekken gevoerd.Voor een nieuwe het aanhaken van nieuwe nieuwe zorginstellingen. Dat heeft dat tijd gekost.Waar was ik mijn meeste tijd mee kwijt?Ja, Het is, was zo versnipt. Het was wel hectisch. Ja, sorry, daar heb jij niks aan.Waar was ik mijn meeste tijd aan kwijt? Wacht even, want Het was.Ja, Ik heb aan de ene kant ben ik bezig geweest met het schrijven van werkpakket van een werkpakket.Daar ben ik mee bezig geweest.Voor een nieuwe aanvraag en aan de andere kant ben ik bezig geweest om een vragenlijst op te stellen voor het incontinentieproject en het herschrijven. Dat gaat over zorgpaden inzichtelijk met data.Dus het zijn verschillende.Verschillende dingen geweest.Dus aan de ene kant aan een werkpakket werken, wat hebben we daar ingezet? Hoe heb ik dan weet ik nog wel een leuke voor, want daar heb ik zitten zoeken naar eigenlijk.Een goed.Een goed subsidievoorstel waarin actie onderzoek genoemd is en wat dus toegekend is door de subsidies.Schrijver, schrijver dus.Dat kan ik zelf niet vinden, want het kan zijn dat dat bij een ander domein vandaan komt. Maar in principe staan al die.Subsidievoorstellen staan allemaal in in unit voor, Maar ik kan niet in unit voor de quote geven, Hé joh, geef mij eens eventjes een goedgekeurd voor subsidievoorstel waar dit of dat in staat dus eigenlijk lerend vermogen tussen de verschillende domeinen tussen de verschillende lectoraten is uiterst klein.
+
+**Spreker 1** (5:36): Ja.
+
+**Mira Benes** (5:37): Dit probeer ik nu bij de subsidieadviseur op te halen en die geeft mij dan, hé, Mira, hier heb je een subsidieverslag of je hebt het. Het voorstel moet wel voorzichtig mee doen. Mag je niet de algemeen delen terwijl ik als project coördinator gewoon unit voor de hele rambam bij Iedereen kan kan ophalen, hè?Dus Ik kan erbij, Maar ik weet niet Omdat ik niet weet waar ik moet zoeken, kan ik er weer niet bij.
+
+**Spreker 1** (6:09): Interessant.
+
+**Mira Benes** (6:09): Dus daar zit ik, daar zit ik mee van, Hey.Hoe delen wij?Hoe, hoe maken wij elkaar sterker binnenwindesheim op subsidiegebied?Want daar is nog denk ik heel veel winst te behalen.
+
+**Spreker 1** (6:29): Ja interessant.Maar werkpakket is geen subsidie, of wel?
+
+**Mira Benes** (6:34): Nee, een webpakket is een sorry je werdpakket is. Je moet op een gegeven moment moet je je subsidievraag uitwerken in hoofdvraagdeelvragen en dan ga je werkpakketten maken en zo subsidieverstrekker die wil waarschijnlijk. Ja, dat zo gebeurt het vaak per deelvraag en werkpakket of dat je zegt nee, ik doe het werkpakket.
+
+**Spreker 1** (6:52): OK, dus Dit is dit was deel van een subsidiavraag.
+
+**Mira Benes** (6:55): Dit was deel van een subsidieaanvraag. Ja.
+
+**Spreker 1** (6:57): OK, en Als je dan denkt aan algemeen wat jij doet voor het lectoraat en Misschien wel het meest belang.
+
+**Mira Benes** (7:02): Langs de waarde? Oh ja, Ik ben met Chris hier gesprek. Ja, ik zit heerlijk. Ja.Krijgt Michiel, nee, die zitten.
+
+**Spreker 1** (7:12): Dag Michiel, afspraak boeken Michiel.
+
+**Mira Benes** (7:14): Ik zit, nee, je ziet het niet, Maar ik zit hier met een stoel voor me en Ik heb mijn voeten eroverheen gegooid, dus ik zit dus hij vroeg al ben je lang stoel?
+
+**Spreker 1** (7:27): Leuk, leuk.
+
+**Mira Benes** (7:28): Ja en aan de andere kant ben ik bezig geweest met het opstellen van een vragenlijst.En daar heb ik uiteraard eventjes clot en chat bij gebruikt.Gewoon aangeven, hé, OK, ik doe onderzoek naar.Incontinentie bij zorginstellingen voor ouderen voor gehandicapten Ik doe een bedrijfskundig onderzoek en.Help mij eens even met mijn vragenlijst. Ik heb hem heel algemeen gehouden.Maar ik heb er toch weer heel mooie dingen uit kunnen halen dat ik dacht, Hey, nira tik tik tik tik tik en dan verdieping zoeken.Hoe hoog moet die toiletpot zijn?
+
+**Spreker 1** (8:14): Leuk.Leuk, leuk, leuk.
+
+**Mira Benes** (8:17): Ja.
+
+**Spreker 1** (8:19): En Als je dan denkt voor voor het lijkt de Raad zijnde is is is, is het subsidie schrijven een groter of een meer belangrijk gedeelte van het werk wat jij doet of of deze vragenlijst te maken of of of.
+
+**Mira Benes** (8:22): Ja.Nee, ja dat hangt van de periode af. Dat verschilt als jij voor een subsidie deadline zit, dan gaat er heel veel tijd en dat merk ik ook bij bij Chris de goeij bij Ronald. Dan wordt er een hele hap weggenomen doordat je tegen die deadline er zit en Je moet zorgen dat die subsidie voor dat versubsidievoorstel goed is.Gedaan.
+
+**Spreker 1** (8:55): OK en, kan jij mij Misschien?
+
+**Mira Benes** (8:55): Ja.Hé en en Misschien zit ik nog eventjes, want jij zit ook wel AI dingen te bedenken.Of je vanuit subsidie voorstel en je hebt dus dan maak je een werkpakket. Daar moet je ook al uren aan hangen en dergelijke, want daar zit je cofinanciering ook in hè? En daar moeten we straks ook een begroting opgeleverd worden.
+
+**Spreker 1** (9:13): Ja.Ja.
+
+**Mira Benes** (9:19): Of daar weet je, nu zit je daar, daar is dat zijn twee losse dingen, je snapt je, hier word ik heel blij van.
+
+**Spreker 1** (9:20): Ja.
+
+**Mira Benes** (9:27): Of dat je je begint met kijk. Je begint vaak met je voorstel en dan komt die en iedere keer dat Oh hé verdikke. Die partner doet niet mee, maar je hebt hem al wel in je voorstel bedacht voor zoveel uur en voor zo. En dan moet dat in dat die begroting en dat matcht niet met dan moet je het daar weer handmatig gaan uithalen. Hoe vaak wij wel niet handmatig dingen heb.Moeten aanpassen?Tussen begroting en voorstel en dan heb je ook nog een tabbladje met.Wie doet er mee?Dus dat zijn, Dat is heel erg bij CIA hoor, waar ik nu over zit de daar heb je ook nog weer een apart Excel documentje. Wie je dat je dan moet invullen, hé. Bij binnen winterheim zijn die en die betrokken binnen partner X zijn is die naam betrokken binnen die is dat betrokken.Dus daar zie ik ook wat koppelingen, daar zie ik makkelijker.
+
+**Spreker 1** (10:19): Als jij?Ja ja ja, en Ik heb ook. Ik heb ook gesproken met Hendrik en en die heeft mij ook heel veel dingetjes gegeven en die heeft ook dingetjes gegeven over waar jij waarschijnlijk al meezit. Zeg maar dus Het is heel erg interessant hoe hoe je dingen hoort, zeg maar, maar Laten we even inzoomen op dat subsidieschijfproces Als je het kan, want jij, Ik ben de één van de meest vaardige hier in ben.
+
+**Mira Benes** (10:41): Ja ja.Nou? Nee, Dat is daar daar wat?
+
+**Spreker 1** (10:45): Kan jij me?Jij snapt het meeste van het proces?Zou ik zeggen, want jij hè, dus kan jij Misschien langzaam met mij door zo'n proces? Hoe komt het tot stand en wat wordt er dan gedaan ongeveer en hoe wordt het ingeleverd? Hoe gaat het de deur uit?
+
+**Mira Benes** (10:51): Ja.Ja.Ja.Ja ja.Ja, nou, kijk, je zit Natuurlijk. Je begint met een inleiding en met een.
+
+**Spreker 1** (11:10): Begint het daar ook echt of begint het niet bij bij gesprekken met.
+
+**Mira Benes** (11:13): Nee, het begint beetje eigenlijk met gesprekken met het begint met gesprekken met bedrijven met hé wat?Op een gegeven moment heb je het idee van, hé, hier zit iets, dus dan ga je met die gesprekken met die bedrijven in gesprek. Daar vult je dingen bij en dan op een gegeven moment zeg je, Hey, nou OK, dan doe je zo zo. Doen wij dat dan een vraagarticulatiesessie met een paar bedrijven. We hebben er bijvoorbeeld, ik noem maar wat voor incontinentie hebben we gezegd. Nee voor zorgpadanalyse.Hebben we met nou 5 bedrijven aan tafel gezeten. Die komen allemaal met input. Die komen ook met hoor je mij nog of niet?
+
+**Spreker 1** (11:47): Ja je bent.
+
+**Mira Benes** (11:56): Je hebt top is bijna leeg.Je wil even hangen en mijn laptop is bijna leeg, dus ik ik praat, wacht even hoor ik. Ik pak even een sorry, ik moet even een snol hebben.
+
+**Spreker 1** (12:04): Hoi.OK ja.Nee, doe dat alsjeblieft.Ik wil graag.
+
+**Mira Benes** (12:34): Maar ik heb echt een half uur hoor, Chris, want ik.Ik kan niet uitlopen.
+
+**Spreker 1** (12:42): OK.
+
+**Mira Benes** (12:44): Dus je begint daarmee. Je hebt die gesprekken met die met die dingen.
+
+**Spreker 1** (12:47): Laten we even wacht even. Laten we eerst even kijken waar, want ik ik haperde eventjes en je was even weg, dus dus er was.
+
+**Mira Benes** (12:51): Ja, ja ja, waar waar ik mee zit is Als ik je vraag artikelen Als ik er even snel doorheen ga.Vraagarticulatie is iets wat Natuurlijk dondersgoed de AI opgepakt kan worden, want Je moet het allemaal staven en aangeven waar het kennishaat zit, dus daar zie ik echt een een minderwaardig voor AI.En ook wel gewoon in het schrijven daarvan.Kijk, Als je een goed rapport hebt Als je een goed rapport hebt en je gooit een paar van die rapporten bij elkaar.
+
+**Spreker 1** (13:21): Ja dus dus.
+
+**Mira Benes** (13:29): Wat de schrijfstaal is hé een checklist jongens je je krijgt, want je krijgt. Na die tijd krijg je dus ook weer allemaal feedback hè? Je krijgt in twee rondes, je mag nog een keertje zelf een, je hebt een Hoorn en een wederhoor, dus daar krijg je een stukje tekst van de.Van de bepaalde Commissie, hè, joh, je hebt nu niet genoeg aandacht besteed aan de rol van de lector aan weet ik veel. Nou ja, het kan van alles zijn. Wie doet er nu precies mee aan verpleegkundige? Daar heb je helemaal niet goed beschreven of.Dus daar zie ik een trechter, waar kan ik? Waar kan ik? Waar heb ik het precies geschreven en hoe kan ik het verder brengen? Want je mag dan niks mee toevoegen. Je mag het Alleen maar zeggen, hé, het staat hier en het staat daar en het staat daar.Dus daar zie ik echt wel een rol voor AI.En uiteindelijk.Op de schijf staan heel veel commentaren. Hier moet je opletten, daar moet je op letten. Sussen moet je op letten. Zo moet je op letten Als je dat allemaal bij elkaar voegt.Van al van raak publiek raak MKB kiem maar ook tken I wallet TKI op, waar krijgen zij?Feedback op wat goed is of niet goed is.Daar zie ik heel veel toegevoegde waarde.
+
+**Spreker 1** (14:56): OKOK, dankjewel sowieso en.
+
+**Mira Benes** (14:58): Ja.
+
+**Spreker 1** (15:01): Ik, ik zou het toch heel erg waarderen Als we heel rustig door die pijplijn heen lopen, want dat hebben we de grootste kans dat we de meeste winst hebben, vind Ik denk ik dan, hè?
+
+**Mira Benes** (15:02): Ja.Ja.Ja.Ja ja.Ja.
+
+**Spreker 1** (15:14): We je, je hebt interviews met die Mensen. Je hebt een vragenlijstje uitgelegd of je hebt een server uitgegooid. Nou, daar komen een, komt een mooie bevinding uit. Hee, We hebben een nieuw idee, daar kunnen we Misschien iets mee en dan.
+
+**Mira Benes** (15:20): Ja.Ja.Ja.En dan.Nou, dan heb je. Dan moet je die formats heb je nodig, hè? Dus waar moet het allemaal inkomen? Daar zit de richtlijnen voor. Daar zit de handleidingen bij.Hoe en wat je dat moet invullen?
+
+**Spreker 1** (15:47): Dus dat zijn dat zijn document templates die je download van de website af.
+
+**Mira Benes** (15:49): Ja template ja die hou je van de website af.
+
+**Spreker 1** (15:53): OK.OK.
+
+**Mira Benes** (15:55): Nou ja, en dan ga ik gewoon beginnen.Ja dan ga je door.Even kijken hoor, ik zal je.Even kijken hoor, nou, Wij zijn nu bezig met zorg. Even kijken, dan pak ik die er even bij zorgpaden. Dat is een rijk publiek.Nou vind ik hem dan niet?Publiek.Indiening.Projectvoorstel.Dan ga ik even mijn scherm met je delen, want Dat is denk ik het meest handige.Kijk, wat moet je doen? Je hebt dus een een vraagarticulatie. Dat is wat ik net al zei is.Dat is in lijn dat waarin Natuurlijk die inleiding kan je Natuurlijk destilleren uit hetgeen wat je allemaal eigenlijk al hebt staan, hè?Of daar kan je dingen uithalen en dan heb je de vraag articulatie, nou, dan wordt je aangegeven, hé joh, je hebt maar Dit is een specifieke format, hè?Ik heb maar 1400 woorden, inclusief tekst en tabellen waar ik alles in moet doen, dus hier heb ik.Inderdaad ja, waar komt dit vandaan? Dus dit komt uit een eerder project met wie wanneer?Dit, schrijf je.Die vraagarticulatie.Dus hier heb je eigenlijk. Dit is met name wat je in al die gesprekken met die bedrijven en organisaties hebt gedaan.Dan is de vraag, neem je die dingen op die die?Vraag articulatie ja of nee?Ja, dat proberen wij wel, want dan kunnen we de quotes uithalen, want Dat is wat ook een subsidieverstrekker graag wil weten, want die wil dat het echt vanuit de.Praktijk komt.Ja en dan schrijf je inderdaad, hé, wat wordt dan je je hoofdvraag en?Maatschappelijke relevantie dus hier moet je dan kijken. OK, dit komt uit het uit het uit de handleiding en de handleiding staat. Je mag je richten op dit dit of dit dus dan ga je hier aangeven, hé, waar gaan we ons precies op richten?Dus ook daar. Ja, ik zie eigenlijk wel heel veel aanknopingspunten voor AI, zoals je ziet bij mij.Dus hier zie ik ook wel mogelijkheden in, want We hebben hier heel erg moeten uitsnuffelen. Van hé, waar staat dit nu precies? Wat houdt het nou precies in? Dan ga je denken van, hé, waar past het nu het beste bij?
+
+**Spreker 1** (19:09): Ja, dus Je moet verbanden leggen tussen wat het onderzoek doet voor de maatschappij en wat de al die termen betekenen.
+
+**Mira Benes** (19:12): Ja ja.Ja ja wat valt daar precies onder Omdat MMIP 3?
+
+**Spreker 1** (19:18): En.
+
+**Mira Benes** (19:23): Ik kan het je nu niet meer precies. Nou, dat vertrouwen gedrag en acceptatie zoals ik hier heb staan. Maar ja, weet je, Dat is nog heel uitgeravond in andere dingen, dus daar zit je te snuffelen van hé, nou, welke moet ik nu precies hebben allemaal?En Dit is gebeurt wel vaker hoor dat je ergens aan moet voldoen aan een ja, hoe noemen ze dat dan aan een kya?Dat komt eigenlijk wel vaak voor. Volgens mij bij TKI ook wel weet ik niet helemaal zeker. Zou je hendrick moeten vragen, Ronald?
+
+**Spreker 1** (19:50): OKOK, dus je hebt een een kia, dus een KIA, een kia die die je voorschrijft wat waar het document aan moet voldoen jij maakt.
+
+**Mira Benes** (19:54): Ja ja.Nee, nee nee, die die, Dat is een richtlijn.Moet je even zoeken, want in Kia is Dat is waar de regering naartoe wil. Kia is een nee, Dat is geen auto kia.
+
+**Spreker 1** (20:17): Subsidieregeling ja.
+
+**Mira Benes** (20:18): Ja en Kia is een.
+
+**Spreker 1** (20:21): Kleinschaligheid, investeringsaftrek, OK?
+
+**Mira Benes** (20:25): Even kijken hoor, nee, Dat is, Dat is niet.Dat is het niet kennis en innovatieagenda.
+
+**Spreker 1** (20:30): Nee oh.Kennis en innovatie agenda.
+
+**Mira Benes** (20:34): Innovatie agenda Dat is een Kia, dus Je moet in die stukken moet je eenmaal zitten zoeken. OK waar, sluit dit nou het beste bij aan?
+
+**Spreker 1** (20:36): Ook.OK, dus je hebt die richtlijnen. Jij maakt een eerste document voor. Dat gaat dan door een aantal rondes van reviews.
+
+**Mira Benes** (20:42): Dus.Ja de reviews ja dus ja met met je collega's ga je er doorheen.
+
+**Spreker 1** (20:51): Met met.Met je collega's of met met de externe.
+
+**Mira Benes** (20:56): Nee met collega's Als je subsidies Drijver hebt, dan gaat die er nog doorheen. Subsidiebureau hang je eraan, want dan gaat Anna ronda kijkt er ook nog weer in aan.Die geeft dan opmerkingen van, Hé joh, dit kan je beter anders schrijven, geeft opmerkingen maar geen oplossingen.Niet In de zin van, hé joh.Let hier op en doet dit maar hoe je dat dan precies doet. Dat zegt ze dus niet. Of dat dat doet ze niet.En bij een subsidieverstrekker die pakt hem op en die bouwt hem om naar subsidietaal naar wat subsidieverstrekkers willen horen.
+
+**Spreker 1** (21:41): OK.
+
+**Mira Benes** (21:43): Waar nadrukken te leggen?
+
+**Spreker 1** (21:46): En er worden dus?Bedrijven, je had het over begrotingen en bedrijven die erin, wanneer komen die dan naar binnen?
+
+**Mira Benes** (21:51): Ja.Ja, die zitten, die komen dus later.Dus even kijken hoor, dan heb je even kijken dat onderzoeksplan, dus daar kom je dan terecht en in dat onderzoeksplan heb je een State of art. Dit is eigenlijk je literatuuronderbouwing, dus hier kan je met AI echt een heleboel ook doen.En dan kom je, ja, dat doe ik ook zeker.
+
+**Spreker 1** (22:18): En, doe je dat ook?OK.
+
+**Mira Benes** (22:21): Die tive dingen zoeken en nu heb ik eigenlijk nog iets liggen en Ik heb geen. Ik heb geen. Ik heb niks meer over, dus Ik kan geen diep tive meer doen, dus ik daar zat ik al een beetje mee dat ik dacht, ****, hoe ga ik dit nu doen?
+
+**Spreker 1** (22:35): Per manier omheen maar rek.Niks niks ik mag geen oplossing. Mag ik niet met oplossingen hebben.
+
+**Mira Benes** (22:41): Nee, Maar ik ga jou dat Misschien even sturen zodat jij voor mij, Maar dat hangt vanaf hoeveel snelheid we daarvoor hebben. Dan maak je dus weer een klein samenvattinkje. Dan heb je dus die onderzoeksvragen en de deelvragen en dan heb je ga je je onderzoeksmethode verder uitwerken, hoe doe je dat dan?En in die onderzoeksmethode ga je dus uiteindelijk zeggen, Hé, hier heb ik mijn werkpakketten.Die komen dan hier. Auw ****, die heb ik hier Natuurlijk niet in zitten. Dan kom ik inderdaad in mijn werkpakketten.
+
+**Spreker 1** (23:12): Nou, Ik ga, Ik ga, ik geloof, Ik ga ik las.
+
+**Mira Benes** (23:14): Ja dus bewikpakketten en dan komen dus ook kijk dan komen dus ook al die partijen komen weer tevoorschijn en daar moet je uren aan hangen. En dan heb je een apart begrotingsformat waarin je eigenlijk al deze uurtjes weer moet.
+
+**Spreker 1** (23:19): Ja.Dus ik zie hier, ik zie geen tabel met daarin een aantal partijen en die krijgen dan uren gealloceerd.
+
+**Mira Benes** (23:40): Ja.
+
+**Spreker 1** (23:41): En die uren dat zijn in kaart uren of hoe?
+
+**Mira Benes** (23:45): Ja, dit zijn in kind, maar voor Windesheim zijn het dus de uren om het project uit te voeren.
+
+**Spreker 1** (23:53): OK.Nou weet ik Omdat ik gepraat heb met Hendrik en ook een beetje gelukkig op de tijd is dat jij ook heel, heel erg veel tijd aan bij krent om achter studenten aan te lopen om uren schema's in te vullen of zoiets.
+
+**Mira Benes** (23:58): Ja.Ik ja, Maar dat heeft hier dus niks mee te maken.Dat is dus Als je project gestart bent, dan ben je tijd kwijt inderdaad om al je uren al deze in gind uren.Die moeten. Je moet uiteindelijk uit de ja uit agenda meetings en dergelijke moet je eigenlijk een totaal. Het aantal uren per partner moet je.Bij elkaar krijgen.Voor CIA, stuur je gewoon een mailtje en zeg je, oh, beste partner. Je hebt onderwerppakket één, twee en 3 heb je zoveel uren besteed door bijvoorbeeld je stagiair ben je het er niet mee eens?Dan hoor ik binnen twee weken graag.Dat je het er niet mee eens bent, is dit je hoe heet dat je prima je verantwoording.Maar voor TKI moet alles ondertekend worden. Hebben we een Excel heel strak en strikt ingeregeld en al die studenten moeten.Hun handtekening zette de begeleider.De studiebegeleider moet hun handtekening zetten en de projectleider van het Windesheim moet hun handtekening zetten.
+
+**Spreker 1** (25:25): OK, dus laat, laat ik het proberen nog één keer even een beetje visualiseren voor mezelf ook hè? Dus OK, jullie krijgen in het begin hebben jullie een paar vragen uit jullie hebben gesprekken gehad met bedrijven. Nou, er zitten Misschien een mogelijke nieuwe opdracht ergens naar binnen. Nou, jullie staan een document op In de dat document moeten we voldoen aan allerlei voorwaardes door de subsidievertrekken, gratis en door de regering wor.
+
+**Mira Benes** (25:28): Ja.Ja.Ja.Ja.Ja.Ja.
+
+**Spreker 1** (25:49): Verstrekt.Dan vervolgens.Maak je ook nog eens 1 keer 1 begroting.Door middel van werkpakketten naar wat Iedereen gaat doen per in dat programma.
+
+**Mira Benes** (26:06): Ja.Ja.
+
+**Spreker 1** (26:14): Yes oh nee, als en dan begint de riedel van het uitvoeren en het uitvoeren is dus dan nog meerdere documenten maken en voornamelijk die uren vellen inleveren en later ondertekenen. Opnieuw, zeg maar, Er is werk gedaan, er moet werken nog komen gedaan worden.
+
+**Mira Benes** (26:23): Ja.Ja.Ja.Ja.
+
+**Spreker 1** (26:34): Hier moet er een handtekening op gezet worden. En wat is dan de afronding? Hoe ziet dat eruit?
+
+**Mira Benes** (26:36): Ja.Oh die afronding ja, dan moet het kijk en dat hangt ervan af.
+
+**Spreker 1** (26:41): Mis ik nog een stap trouwens.
+
+**Mira Benes** (26:44): Hoe strikt je collega's zijn? Laten we dat even vooropstellen. Ik heb ook en eigenlijk mag dat Natuurlijk niet, Maar dat gebeurt wel. Ik heb ook studenten die zeggen, joh, moet ik voor 5 maanden invullen? Nou, ik vult het in één keer voor je in en klaar of ik vul het na die tijd voor je in in één keer, Maar dat hangt er vanaf. Hoe strikt je projectleider is? En als die zeg.Nee, Ik wil het per maand hebben.Dat betekent ook voor mij heel veel werk voor mij, heel veel werk en voor de studenten heel veel werk.Want die moeten iedere maand moeten zij met dat velletje die kant op lopen? Dat betekent dat ik heel veel verschillende PDF losse PDF do Excel PDFJP bestandjes heb krijgt op alle manieren binnen. Dat moet eigenlijk per bedrijf per project moet dat allemaal weer samengebracht worden tot een document.
+
+**Spreker 1** (27:35): OK, ik zie een heel systeem ontstaan hierin.
+
+**Mira Benes** (27:37): Ja.
+
+**Spreker 1** (27:39): OK gaaf en en waar gebruik jij nu al AI in?
+
+**Mira Benes** (27:45): Nou hier nergens in. Ik heb je aangegeven dat ik voor voor die studenten gebruik ik geen AI.
+
+**Spreker 1** (27:52): Nee, maar ook bij in in deze hele pipeline, dus je.
+
+**Mira Benes** (27:55): In deze in deze nou bij de vraagarticulatie wat ik je aangaf bij het het maken van een vragenlijst heb ik aan je gebruikt en ik zit dus heel erg. Ik loop dus tegen. Ja, wat kan ik?Wat kan ik zomaar de wereld in slingeren en wat kan ik niet de wereld in slingeren? En daar ben ik heel voorzichtig mee.
+
+**Spreker 1** (28:16): Ja dus Dat is Misschien wel en en wat is de? Wat is de? En als dat dan fout gaat, wat gaat, is het wel eens fout gegaan. Wat is de consequentie daarvan?
+
+**Mira Benes** (28:19): Dat is de allergrootste bottleneck.Nee, nee, want ik moet net zeggen, ik doe dat ik toen in mijn analyse doe ik het dus niet.Ja consequenties ja weet je, je wilt toch niet dat sowieso heb je nee privacy dat? Dat kan niet.Dus vanwege privacy ben ik heel strikt en kan dat echt niet?
+
+**Spreker 1** (28:46): Nee, Maar dat er iets iets geproduceerd is en.
+
+**Mira Benes** (28:54): Dat heb je afgesproken met je partners. Dat doe je niet.Dus je hoopt ook dat de studenten die voor je werken dat ook niet doen.
+
+**Spreker 1** (29:04): OK nou, Ik weet dat je maar een halfuur hebt. Heb je nog tijd om één vraag te doen? Één vraag OK stel je hebt 1 1 1 stagiair en deze stagiair heeft geen specifieke opdracht behalve.
+
+**Mira Benes** (29:07): Ja.Één vraag ja.Één vraag.
+
+**Spreker 1** (29:19): Jou ten dienste zijn en jouw werk opnemen, dus je kan hem niet 100% vertrouwen, want Het is ja maar je je. Het is wel nog steeds een dossier, dus Misschien kan het wat dingetjes van je doen. Wat zou je hem als eerste Laten doen?
+
+**Mira Benes** (29:20): Ja.Nou al die hure briefjes huppaté hier heb je delen delen ************.
+
+**Spreker 1** (29:39): Nou, Dat is toch een hele makkelijke. Dat is een hele mooie.
+
+**Mira Benes** (29:40): Dat.
+
+**Spreker 1** (29:44): Ik zal het heel erg leuk. Ik weet dat je. Ik weet dat jij heel erg druk bent. Maar ja, Ik vind het wel heel erg leuk om hier meer met jou over te praten. Nog.
+
+**Mira Benes** (29:48): Ja.Ja dat kan maar dan naast 16 ja eigenlijk na 16 juni na 16 juni, ja.
+
+**Spreker 1** (29:57): Nou.Na 16 juli oh nou dat Dat is al heel snel.
+
+**Mira Benes** (30:02): Ja.Ja, dus weet je, ik schiet er even een nieuwe in, niet op de donderdag of vrijdagen.Want dan en niet op de woensdagmiddag, want dan zit ik ook. Maar weet je na de set en ook niet op de 16e zelf, want dan lig ik zo.
+
+**Spreker 1** (30:10): Nou, Dat is goed. We werken nog niet.Maar OK, en als laatste wil ik je meegeven. Ik weet nu wel een beetje gesproken hebben met andere Mensen.
+
+**Mira Benes** (30:25): Ja.
+
+**Spreker 1** (30:29): Jij bent echt een knelpunt in het team, dus.
+
+**Mira Benes** (30:304): .Ja, weet ik dat weet ik, dat weet ik.
+
+**Spreker 1** (30:35): Bij andere collega's zie ik heel veel dat ze echt gewoon op zichzelf werken en en en Alleen zijn.
+
+**Mira Benes** (30:35): Ja.Ja.Ja.
+
+**Spreker 1** (30:42): En jij werkt met Iedereen, dus nou.
+
+**Mira Benes** (30:44): Ja ja, Maar de vraag is Chris, want dat pakketje wil ik dus kwijt.Wat ik doe, die masten Natuurlijk niet voor niks.Dus je mag nu even de opname stoppen Als je wilt.
+
+**Spreker 1** (31:01): Ja de transcriptie Ik heb, ik doe Alleen transcriptie niet opname.
+
+Chris Verhoef heeft de transcriptie gestopt
