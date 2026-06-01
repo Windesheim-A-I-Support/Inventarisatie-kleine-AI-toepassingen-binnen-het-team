@@ -69,3 +69,12 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-06-01,Mira,Projectcoördinator,Unit4,Andere,Projectadministratie en urendossiers,Regelmatig,Neutraal,Kan ophalen maar niet gericht op inhoud doorzoeken
 2026-06-01,Mira,Projectcoördinator,Claude / ChatGPT,AI/LLM,Vragenlijsten opstellen,Incidenteel,Positief,Gebruikt voor zorgpad-vragenlijst; "heel mooie dingen uit kunnen halen"
 2026-06-01,Mira,Projectcoördinator,Perplexity,AI/LLM,Literatuuronderzoek (State of the Art),Gestopt,Neutraal,Credit verlopen; wil dit kunnen blijven gebruiken
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Outlook,Communicatie,E-mail en agenda,Dagelijks,Neutraal,"Met mail kan ik niks" -- zoeken ontoereikend; Copilot uitgeschakeld
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Excel,Projectmanagement,Urenregistratie + projectopvolging + data bijhouden,Dagelijks,Middel,Diverse sheets voor projecten en interns
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,OneNote,Documenten,Vergadernotities,Regelmatig,Middel,Primair aantekeningentool in meetings
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,PowerPoint,Documenten,Presentaties maken,Regelmatig,Hoog,Maakt vaker dan geeft
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Word,Documenten,Schrijven en rapporteren,Regelmatig,Middel,
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,ChatGPT,AI/LLM,Vragen stellen + samenvatten + documenten doorzoeken + genereren,Regelmatig,Middel,"Hallucineerde peer-reviewed artikelen die niet bestonden: ""levensgevaarlijk"""
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Claude,AI/LLM,Administratieve taken + data-analyse + uren,Regelmatig,Hoog,Steeds meer; gebruikt met gepseudonimiseerde data; ook voor benchmarking visualisaties
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Perplexity,AI/LLM,Literatuuronderzoek en bronverificatie voor bedrijfspresentaties,Regelmatig,Hoog,"Echt veel betrouwbaarder dan ChatGPT voor bronnen"
+2026-06-01,Ronald,Projectmanager / onderzoeker / docent,NotebookLM,AI/LLM,Boeken als podcast beluisteren + vragen stellen aan document,Incidenteel,Hoog,"Heel leuk" -- man en vrouw die over boek praten; kan inbreken met vragen

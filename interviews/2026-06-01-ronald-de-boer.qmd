@@ -1,0 +1,439 @@
+---
+title: "Interview: Ronald de Boer"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Ronald de Boer
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-01 |
+| Collega | Ronald de Boer |
+| Rol | Projectmanager / onderzoeker / docent (4 dagen/week Windesheim) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 26 minuten 18 seconden |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | "Met mail kan ik niks" -- zoeken werkt niet goed |
+| Excel | Projectmanagement | Urenregistratie, projectopvolging, data bijhouden | Dagelijks | Middel | Diverse sheets voor projecten en interns |
+| OneNote | Documenten | Vergadernotities | Regelmatig | Middel | Primair aantekeningentool in meetings |
+| PowerPoint | Documenten | Presentaties maken en geven | Regelmatig | Hoog | Maakt vaker dan geeft |
+| Word | Documenten | Schrijven en rapporteren | Regelmatig | Middel | |
+| ChatGPT | AI/LLM | Vragen stellen, samenvatten, documenten doorzoeken, genereren | Regelmatig | Middel | Hallucineerde volledig verzonnen peer-reviewed artikelen: "levensgevaarlijk" |
+| Claude | AI/LLM | Administratieve taken, urenregistratie, data-analyse | Regelmatig | Hoog | Steeds meer; gebruikt met gepseudonimiseerde/geanonimiseerde data |
+| Perplexity | AI/LLM | Literatuuronderzoek, bronnen zoeken voor presentaties | Regelmatig | Hoog | "Echt veel betrouwbaarder" dan ChatGPT voor bronnen |
+| NotebookLM | AI/LLM | Boek als PDF instoppen, podcastgesprek genereren, vragen stellen | Incidenteel | Hoog | "Dat is heel leuk, man en vrouw die praten" -- kan zelfs inbreken met vragen |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Gestructureerde aantekeningen van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `IT-ondersteuning - R. de Boer - 20260601_145213`. Totale duur: 26 minuten 18 seconden. Gestart op 1 juni 2026, 14:52. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Ronald zit op 4 dagen/week bij Windesheim. Daarnaast vrijwilligerswerk voor de kerk en een eigen bedrijfje (1-2 uur/week). Blij verrast dat het gesprek getranscribeerd wordt: "Ik had het eigenlijk ook niet anders kunnen verwachten. Natuurlijk van jou."
+
+**2:07 -- Rol bij Windesheim**
+Projectmanagement, onderzoek, onderwijs. Werkt samen met Christiaan de Goeij op Raak-projecten en vergelijkbare projecten.
+
+**3:30 -- Tijdsbesteding afgelopen week**
+1. Meetings (meeste tijd)
+2. Projectmanagement (contact leggen, opvolgen, bijhouden, registreren)
+3. Presentaties maken (vaker maken dan geven)
+4. Studentbegeleiding
+
+Wil meer tijd aan echt onderzoek besteden, maar komt er nauwelijks aan toe.
+
+**4:38 -- Projectmanagement werkwijze**
+"Diverse excelsheets om dingen bij te houden." Regelen via e-mail, telefoontjes en overleg. Subsidieaanvragen: combinatie van PowerPoint en creatief nadenken. Ideeën moeten "geboren worden" -- vindt AI daarvoor beperkt.
+
+**7:35 -- AI voor ideeën genereren**
+Soms idee in PowerPoint opgetekend, dan in AI gestopt als extra input. "Dan komt er iets beters uit." Maar nieuwe ideeën genereren: "Nee, dat vind ik heel matig." Vindt AI sterk voor gerichte vragen aan documenten: "Wat is het maximale cofinancieringspercentage zonder kansverklaring?" -- PDF erin, antwoord eruit.
+
+**8:16 -- Digitale toolkit**
+Outlook, Excel, OneNote, PowerPoint, Word. ChatGPT voor opzoeken, samenvatten en genereren. Claude voor administratief en data-analyse (altijd met geanonimiseerde data). Perplexity voor literatuuronderzoek en bronverificatie bij presentaties voor bedrijven. NotebookLM voor boeken als podcast.
+
+**9:19 -- Hallucinaties ChatGPT**
+Vroeger literatuur gezocht via ChatGPT: "Welke artikelen gaan over resilience in relatie tot sustainability?" Kreeg mooie peer-reviewed titels, zocht ze op -- bestonden niet. "Levensgevaarlijk dus, dat werkte niet." Perplexity: "echt veel betrouwbaarder."
+
+**10:04 -- Workarounds in projectmanagement**
+Grootste ergernis: uren- en reiskostenregistratie. "Dat staat in je agenda en dan moet ja, hoeveel uren je werkt en hoeveel vakantiedagen je dan hebt en welke uren welk project en dan die reiskosten." Wil dit automatisch uit de agenda kunnen halen.
+
+**11:00 -- Partner scouting met AI**
+Al gedaan: nieuwe bedrijvenlijst gemaakt op basis van oude projecten. Claude maakte excelsheet van welke bedrijven eerder benaderd waren, welke nieuw konden worden benaderd, hoeveel budget er nog openstond. "Dan heb je een hele goede voorzet en dan moet je Natuurlijk dat later gewoon even checken."
+
+**14:25 -- Wat werkt niet**
+Vluchten en hotels zoeken: "Ik heb toch niet gevonden hoe het met AI kan." Chris legt uit waarom (scraping-geblokkeerde APIs, DDoS-achtig effect). Ronald: "Dat is ook de reden waarom je nu veel van die sites niet kunt benaderen."
+
+**15:52 -- NotebookLM**
+Leuk gebruik: PDF van boek instoppen. NotebookLM maakt podcast van 26 minuten (man + vrouw). "Je kunt zelfs nog inbreken in die podcast met een vraag en dan beantwoord die." Chris wist dit nog niet.
+
+**17:06 -- Rapportage vanuit excelsheet**
+Ziet mogelijkheden voor rapportage: vanuit publicatiefolder of excelsheet een overzicht maken van wat er gedaan is in een project (tabel, rapport, PowerPoint). "Voor rapportage kan het wel handig zijn, denk ik ja." Nog aan het spelen.
+
+**19:23 -- Wat zou je anderen willen geven?**
+Visualisaties met Claude: benchmarking radar gemaakt. "Dat kun je zelf in Excel of in Python wel maken maar dan ben je echt een hele week bezig en dat tijd heb ik dus niet. En dat kan dan wel echt heel gaaf met Claude." Wil andere collega's laten zien wat Claude met data kan.
+
+**24:49 -- Magische stagiair**
+Sterkste wens: e-mailbeheer. "Iets wat me helpt om al een beetje voorsorteren van nou, wat zijn nou belangrijke mails? Welke mails kan ik snel doorheen?" En antwoord voorzetten. "Met mail kan ik niks" -- semantisch zoeken in eigen inbox ontbreekt. Vermoedt dat Copilot dat kan maar die staat uitgeschakeld.
+
+---
+
+## Gestructureerde Q&A
+
+**Tijdsbesteding deze week:**
+Meetings (meeste), projectmanagement, presentaties maken, studentbegeleiding.
+
+**Digitale toolkit:**
+Outlook, Excel, OneNote, PowerPoint, Word. ChatGPT, Claude, Perplexity, NotebookLM.
+
+**Wat werkt goed:**
+- Perplexity voor literatuur en bronverificatie
+- Claude voor administratief en data
+- NotebookLM voor boeken als podcast
+- Vragen stellen aan PDF (documentnavigatie)
+- Partner scouting via AI (al gedaan)
+
+**Wat werkt niet:**
+- ChatGPT voor literatuurbronnen (hallucinaties, "levensgevaarlijk")
+- AI voor echt nieuwe ideeën genereren
+- Vluchten en hotels boeken via AI
+
+**Gedeelde workarounds:**
+Deelt tips met Christiaan de Goeij. Doet soms elkaars werk als iets makkelijk en snel gedaan is.
+
+---
+
+## Radartjes
+
+| # | Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid |
+|---|---|---|---|---|---|---|
+| 1 | Urenregistratie | Uren en reiskosten automatisch invullen vanuit agenda | Outlook-agenda + projectenlijst | Ingevuld urenformulier + reiskostenoverzicht | Maandelijks | Laag |
+| 2 | E-mailbeheer | E-mail prioriteren, semantisch doorzoeken, antwoord voorbereiden | Inbox | Gesorteerde prioriteitenlijst + conceptantwoorden | Dagelijks | Laag |
+| 3 | Projectaanvraag | Bedrijfscontacten scouten op basis van bestaande projecten | Excelsheets eerder benaderde bedrijven | Nieuwe lijst kansrijke partners met budget-indicatie | Per aanvraag | Laag |
+| 4 | Projectrapportage | Overzicht genereren van wat er in een project gedaan is | Publicatiefolder of excelsheet | Tabel / rapport / PowerPoint-overzicht | Per project | Laag |
+| 5 | Data-analyse | Benchmarking radar of visualisatie maken | Benchmarkdata (Excel of CSV) | Radar of visualisatie | Per project | Laag |
+
+---
+
+## Letterlijke signalen
+
+- "Dat staat in je agenda... waarom moet ik dat allemaal nog nalopen zoeken?" (uren + reiskosten)
+- "Met mail kan ik niks." (zoeken in Outlook)
+- "Levensgevaarlijk." (ChatGPT-hallucinaties bij literatuurbronnen)
+- "Perplexity... echt veel betrouwbaarder."
+- "NotebookLM heel leuk."
+- "Dat vind ik heel matig." (AI voor nieuwe ideeën genereren)
+- "Dan heb je een hele goede voorzet." (partner scouting met AI)
+
+---
+
+## Nog niet oplossen
+
+- Vluchten en hotels zoeken (geblokkeerde APIs)
+- Volledig nieuwe ideeën genereren (nog te karig)
+- Copilot in Outlook (uitgeschakeld door Windesheim-beleid)
+
+---
+
+## Samenvatting voor weekupdate
+
+**Ronald de Boer** is projectmanager, onderzoeker en docent (4 dagen/week). Zijn grootste frustratie is administratieve last: uren- en reiskostenregistratie die hij handmatig uit zijn agenda moet overtypen, en een Outlook-inbox waar hij "niks" mee kan qua zoeken. Hij gebruikt Claude al voor data-analyse en administratief werk, Perplexity voor betrouwbaar literatuuronderzoek (ChatGPT hallucineerde hem ooit peer-reviewed titels die niet bestonden: "levensgevaarlijk"), en NotebookLM om boeken als podcast te beluisteren. Hij heeft zelf al een keer partner scouting gedaan met AI en ziet kansen voor projectrapportage en data-visualisatie. Sterkste radartje: uren en reiskosten automatisch uit de agenda.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie uit Teams-opname. Spreker 1 = Chris Verhoef.*
+
+**Spreker 1 (0:03):** Ja lekker.
+
+**Ronald de Boer (0:04):** Ja mooi.
+
+**Spreker 1 (0:05):** Ik ben ik zit in Zuid Frankrijk nu, dus Het is lekker, lekker stil.
+
+**Ronald de Boer (0:08):** Kijk. Dat is altijd goed.
+
+**Spreker 1 (0:11):** En kan in Turkije gewoon lekker op een focus vinden wanneer ik dat wil, ja dan niet.
+
+**Ronald de Boer (0:17):** Goed zo.
+
+**Spreker 1 (0:19):** Ja wel heel fijn. En dit doen is eigenlijk best wel grappig, moet ik eerlijk zeggen. Ik vind het best wel interessant eigenlijk om een beetje te praten met mensen en zeg maar, en uren gaan zo. Dus ik doe goed mijn best.
+
+**Ronald de Boer (0:48):** Goed zo. Goed zo. Maar je had een aantal vragen.
+
+**Spreker 1 (0:52):** Ja ja ja, dus ik wat ik mij gevraagd zoek nou eens de mooiste oplossingen voor digitalisatie. Rond het hele team, dus Ik heb een hele interviewproces. Je krijgt er na afloop van dit interview de hele transcriptie en wat we daarna uit leren. En nou krijg je er allemaal naar je toegestuurd met een dashboard erbij. Als je dat allemaal interessant vindt, misschien vind je dat lekker kijken maar. Maar het is dus het idee om te kijken van waar liggen nou de makkelijkste oplossingen om met elkaar eens aan te werken?
+
+**Ronald de Boer (1:31):** Ja.
+
+**Spreker 1 (1:32):** Dus het is belangrijk. Ik weet dat het heel erg naar dingen ook het inzetten van artificial intelligence gaat, maar het hoeft niet per se. Het gaat gewoon eigenlijk over digitalisering in zijn algemeen.
+
+**Ronald de Boer (1:47):** Nou ja, alles wat ik doe is digitaal zo een beetje dus.
+
+**Spreker 1 (1:49):** Ja precies ja genoeg te automatiseren precies.
+
+**Ronald de Boer (1:51):** Toch?
+
+**Spreker 1 (1:54):** OK nou, laten we beginnen. Dus dat gaat over de algemene digitalisering. Jij bent nu werkzaam bij Windesheim. Hoeveel dagen in de week doe je dit of ongeveer?
+
+**Ronald de Boer (2:07):** 4.
+
+**Spreker 1 (2:08):** 4. En jij werkt buiten Windesheim nog voor de ResilienceScan toch, dat is de moederaanvraag.
+
+**Ronald de Boer (2:16):** Nou ja, het hoofdwerk is Windesheim. Ik heb daarnaast nog ja, ik werk nog voor de kerk, maar dat is vrijwilligerswerk en ik werk voor mijn eigen bedrijfje.
+
+**Spreker 1 (2:18):** OK.
+
+**Ronald de Boer (2:27):** Maar dat is. Één of twee uur per week of zo, dat is niet veel.
+
+**Spreker 1 (2:33):** OK en, waar ben jij dan? Wat is jouw rol?
+
+**Ronald de Boer (2:40):** Nou, projectmanagement en onderzoek. En onderwijs.
+
+**Spreker 1 (2:46):** Nee, weet je bij alles dus OK?
+
+**Ronald de Boer (2:48):** Hoef je geen aantekeningen te maken?
+
+**Spreker 1 (2:50):** Jawel, ik heb een heel formulier en alles wordt getranscribeerd hier aan de rechterkant van het scherm zie je toch?
+
+**Ronald de Boer (2:58):** Oh, nee, zie ik niet. Moet ik even zien. Is dat een Teams.
+
+**Spreker 1 (3:02):** Ja, ik ga lekker met tien transcripties in.
+
+**Ronald de Boer (3:03):** Ja oké, had ik niet gezien. Oh, vandaar nee, prima perfect helemaal goed.
+
+**Spreker 1 (3:07):** Dus en dat gebruik hij zo -- opeens krijg je een hele rapportage terug van mij.
+
+**Ronald de Boer (3:11):** Nee, helemaal goed. Ja, ik had het eigenlijk ook niet anders kunnen verwachten. Natuurlijk van jou.
+
+**Spreker 1 (3:15):** Nee nee precies precies. Ik moet het automatiseren. Ik kan niet anders. Maar het is zo ook leuk om te zien van hè, wat is er allemaal wel mogelijk.
+
+**Ronald de Boer (3:28):** Nou.
+
+**Spreker 1 (3:30):** OK, als jij kijkt naar de afgelopen week. Met alle functies die je moet doen voor Windesheim specifiek. Waar ben jij dan ongeveer het meeste tijd aan kwijt?
+
+**Ronald de Boer (3:46):** Afgelopen week.
+
+**Spreker 1 (3:47):** Ja.
+
+**Ronald de Boer (3:48):** Nou, ik zal hem er even bij pakken maar gaat maken. Ik kan u het beste zien. Nou vooral meetings. Meetings en daarna? Ja projectmanagement zou ik zeggen. En e-mail.
+
+**Spreker 1 (4:08):** En je zegt projectmanagement.
+
+**Ronald de Boer (4:09):** Dat. Ja.
+
+**Spreker 1 (4:12):** Kun je dat wat meer uitklappen, wat doe je dan ongeveer?
+
+**Ronald de Boer (4:16):** Ja zorgen dat dingen gebeuren en geadviseerd worden, dus. Contact leggen met mensen en kijken van of dingen goed lopen of dingen opstarten, dingen corrigeren, dingen monitoren of dingen afsluiten. Dingen registreren vooral ook.
+
+**Spreker 1 (4:34):** Waar haal je dat bij?
+
+**Ronald de Boer (4:38):** Nou ja, het regelen is niet zo bijhouden. Maar ik gebruik diverse excelsheets om dingen bij te houden. Regelen gaat via e-mail, gaat via telefoontjes in overleg. Ja. Dat.
+
+**Spreker 1 (4:56):** OK en. Hoeveel uur -- dus je zegt voornamelijk e-mailen en projectmanagement, toch?
+
+**Ronald de Boer (5:04):** Ja en ik denk het andere is dat was deze week niet zoveel, maar normaal ben ik ook wel bezig met presentaties voorbereiden of maken of geven. Ja onderzoek doen.
+
+**Spreker 1 (5:15):** En, ben je nou het meeste tijd aan het maken of aan het geven van de presentaties.
+
+**Ronald de Boer (5:19):** Maken. Tenzij je dezelfde presentaties herhaalt. Want meestal maken.
+
+**Spreker 1 (5:24):** Ja. OK en. Dus de drie dingen waar je het meeste tijd hebt kwijt -- herhaal je even voor de zekerheid hè? Is dus presentaties maken, e-mailverkeer heen en weer en projectafspraken maken correct.
+
+**Ronald de Boer (5:43):** Ja en en OK vergeet er nog één en het begeleiden van studenten.
+
+**Spreker 1 (5:47):** En begeleiding voor studenten OK.
+
+**Spreker 1 (5:52):** Even inzoomend op het projectwerk. Hoe gaat dat ongeveer in zijn werking?
+
+**Ronald de Boer (5:58):** Want ik zou ook meer met onderzoek bezig moeten zijn, maar de afgelopen week ben ik er nou niet aan toegekomen bijvoorbeeld. En dat is eigenlijk wel heel vaak.
+
+**Spreker 1 (6:03):** Omdat je te veel tijd kwijt bent aan de andere taken.
+
+**Ronald de Boer (6:05):** Gewoon met de regeldingen. Ja, ja, maar ik zou meer tijd willen kwijt zijn met onderzoek. Gewoon echt met analyse, dus ik probeer er tussendoor wel eens her en der wat te doen. Maar ja, dat is lastig. Schrijven van nieuwe proposals was ook altijd, hè, dat is ook -- ik zie dat het projectmanagement maar.
+
+**Spreker 1 (6:18):** Oh OK dus laten we dan maar even inzoomen op projectmanagement. Wat doe je dan? Je zegt excelsheets.
+
+**Ronald de Boer (6:28):** Ja dus proposals schrijven komt ook veel bij kijken en veel overleg. Veel bedrijven, contacten, bedrijven met mensen afstemmen. Wie doet wat, dingen op papier krijgen, nadenken over hoe kunnen we.
+
+**Spreker 1 (6:34):** Subsidie schrijven zeker.
+
+**Ronald de Boer (6:50):** Mooi framework stoppen of een model. Of weet je dat en dat -- vaak is dat een beetje een combinatie van PowerPoint en creatief nadenken en. Ideeën genereren. Ja.
+
+**Spreker 1 (7:00):** OK en. Hoe gaat dat ongeveer in zijn werk? Hoe moet ik dat zien?
+
+**Ronald de Boer (7:12):** Ja, dat is heel fussy. Dat laatste vooral is heel fussy proces. Dat moet echt geboren worden, dus soms zit ik met pen en papier of achter PowerPoint wat op te tekenen. En dan ja, dat moet geboren worden. Ik had laatst voor de kwadrant en dan.
+
+**Ronald de Boer (7:35):** In één keer heb ik hem, stop ik hem even in de AI ook. En dan overleg je dat en dan komt er iets beters uit. Maar vaak wordt een idee geboren worden. Maar dat is dan echt specifiek iets als het gaat over nieuwe dingen. Projectmanagement is veel meer gewoon alle routinedingetjes erbij houden, uurtjes, eurootjes registreren, taken opvolgen, mails opvolgen, vragen die je krijgt beantwoorden, zorgen dat de mensen dingen doen, als je het niet gedaan hebt het opvolgen, dat soort dingen.
+
+**Spreker 1 (7:47):** OK. En welke tools gebruik jij hier voornamelijk voor?
+
+**Ronald de Boer (8:16):** Nou ja, Outlook. Excel, OneNote, aantekeningen van meetings enzo. Even nadenken -- PowerPoint, veel Word. En dan ChatGPT om dingen op te zoeken in documenten of samenvatting te maken, vragen te stellen of dingen te genereren. Laatste tijd gebruik ik Claude voor administratieve dingen steeds meer, uren en dat soort dingen, maar ook data-analyse gebruik ik het voor, maar dan wel met gepseudonimiseerde of geanonimiseerde data. Ik gooi niet zomaar iets van een klant erin.
+
+**Ronald de Boer (9:02):** En Perplexity voor onderzoek, voor dingen opzoeken van wat zou er in de literatuur zijn -- ook echt goed voor literatuur, goede bronnen als je een presentatie maakt voor bedrijven. Dan wil je zeker weten wat je vertelt klopt. Dat.
+
+**Spreker 1 (9:19):** Heb je wel eens gehad dat je iets vertelde wat niet klopte en dat dat erge gevolgen had?
+
+**Ronald de Boer (9:25):** Nee, want ik check het altijd. Ik heb wel gehad dat ChatGPT met dingen kwam die helemaal niet klopte, dus je moet dat echt wel checken. Ik zie dat wel bij studenten die het klakkeloos overnemen. Je gaat er nooit van op aan, maar je moet echt zeker met ChatGPT heel kritisch zijn. En ChatGPT is niet zo geschikt voor het zoeken van bronnen, maar Perplexity -- dat is echt veel betrouwbaarder. Dus dat is echt een toegevoegde waarde. Het is een beetje jammer dat je dan veel tools nodig hebt.
+
+**Spreker 1 (9:56):** We hebben een combinatie van tools, hè, specialisering.
+
+**Ronald de Boer (10:00):** Ja.
+
+**Spreker 1 (10:04):** Nou ja je mentioned dat projectmanagement dat kan best aan banden gelegd worden. Heb je zelf daar al dingen voor bedacht om shortcuts, om het jezelf makkelijker te maken?
+
+**Ronald de Boer (10:19):** Ja. Nou ja, ik ben een beetje aan het kijken. Wat ik met name irritant vind, zijn al die dingen voor jezelf. Weet je, urenregistratie, reiskosten. Daar ben ik nu toevallig mee bezig. Dat is zo'n gedoe dat ik denk, dat moet toch gewoon makkelijker kunnen, want het staat in je agenda en dan moet ja, hoeveel uren je werkt en hoeveel vakantiedagen je dan hebt en welke uren welk project en dan die reiskosten, weet je? Dat vind ik ook wel een gedoe. Want het is ja, je gaat heen en weer en hoeveel dagen heb je thuis gewerkt? Hoeveel dagen heb je bij Windesheim gewerkt? Dat zou je eigenlijk allemaal gewoon uit je kalender moeten kunnen gaan, dan zou ik denken maar. Waarom moet ik dat allemaal nog nalopen zoeken? Maar dat is Natuurlijk, dat is één keer per maandje, maar dat is gewoon vervelend werk.
+
+**Ronald de Boer (10:19 vervolg):** Even kijken verder. Ja dan. Al die excelsheets van de publicaties en interns en vooral dan al die uren bij studenten. Ja, het is gewoon heel veel registratie en administratiewerk. Welke bedrijven moeten we benaderen voor het nieuwe RECAP-2 project? Nou, daar heb ik dan wel AI voor gebruikt om een nieuwe excelsheet te maken op basis van de oude projecten. Van welke bedrijven hadden we allemaal benaderd? En welke nieuwe kunnen we benaderen? En ja, hoeveel staat er nog open qua budget en wat zouden ze kunnen vragen? Dan heb je een hele goede voorzet en dan moet je dat later gewoon even checken en langslopen maar. Dat scheelt altijd.
+
+**Spreker 1 (12:04):** OK. Dus nou hiervoor heb je dus al wat workarounds gemaakt. Hoe?
+
+**Ronald de Boer (12:13):** Wat was de vraag ook weer sorry, ik ben even.
+
+**Spreker 1 (12:16):** Welke workaround heb je voor jezelf gemaakt om de dingen die je doet, voornamelijk lastige dingen, makkelijker voor jezelf te maken?
+
+**Ronald de Boer (12:19):** Efficiënter. Ja. Nee, maar kijk literatuuronderzoek. Dat is geweldig met Perplexity of zo. Dan ja, dat scheelt heel veel tijd. Dat hoef je eigenlijk niet meer te doen. Tuurlijk, je moet het nog wat checken en de context lezen enzovoort maar. Ja goed literatuuronderzoek gaat geweldig. Als het gaat om nieuwe ideeën genereren, vind ik het nog wel heel beperkt. Je zou het eigenlijk mooi zijn als je na AI zegt, van joh. Deze projecten hebben we. Nee, dat vind ik in de praktijk heel matig. Je moet echt zelf nieuwe ideeën bedenken. Maar wat wel heel goed werkt, is joh. Ik heb hier de aanvraagtekst. Wat is het maximale cofinancieringspercentage dat je mag inbrengen zonder de kansverklaring? Die vraag wil ik stellen, PDF stop je erin en CTRL-F eruit -- dat zijn hele handige dingen ja, zoeken in documenten, vragen stellen.
+
+**Spreker 1 (13:22):** Heb je ook dingen eerder geprobeerd die niet goed werkten en dat je daarmee gestopt bent.
+
+**Ronald de Boer (13:33):** Nou ja, ik heb wel eens literatuur gezocht met ChatGPT en dan komt hij met hele goede artikelen en dan denk ik, welke artikelen gaan over resilience in relatie tot sustainability? Dan komen de artikelen uit, de top titels hè dus peer reviews, en dan denk je, oh, dat is een goed antwoord. En dan ga ik dat artikel opzoeken en dat bestaat helemaal niet. Is gewoon gehallucineerd. Levensgevaarlijk dus, dat werkte niet. Ja, ik zeg heel veel dingen die niet werken. Ik denk 50% van mijn dingen die ik met ChatGPT doe, heb ik eigenlijk niet veel anders. Niks aan. Een andere vraag van wat heb ik wat aan of veel aan? Ja.
+
+**Spreker 1 (14:18):** Zou, zou je dat kunnen opnoemen? Welke dingen heb je wel wat aan en waar heb je niks aan?
+
+**Ronald de Boer (14:25):** Ik doe maar wat, bijvoorbeeld de reis naar Zuid-Afrika, daar wil je even de goedkoopste optie hebben qua ticket. Dan denk ik van ja, dat zou toch mooi met AI moeten kunnen. Ik heb toch niet gevonden hoe het met AI kan. Misschien kan het wel hoor, dat kun je me misschien wel vertellen, maar.
+
+**Spreker 1 (14:40):** Mag niet.
+
+**Ronald de Boer (14:40):** Mag niet aan, OK, dat lukt me dan net niet. Dat vind ik toch weer irritant, want dat verwacht ik dan eigenlijk wel. Booking dot com, zo weet je wel. Dat werkt niet. Ja, je moet echt de juiste tool voor de juiste opdracht hebben. Ik zit even na te denken wat niet werkt. Kijk wat wel heel goed werkt, even snel wat opzoeken van. Wat betekent dit? Trouwens, wat ik ook al eens gedaan heb, nog niet heel veel, maar dat vond ik wel heel leuk. NotebookLM -- dan stop je er een boek in. Je moet wel een PDF hebben van het boek, maar dat kun je vaak wel vinden als je het boek zelf hebt, kun je een PDF ergens downloaden. En dan stop je die in NotebookLM en dan maakt hij een podcast van 26 minuten over dat boek. Dat is heel leuk, man en een vrouw die praten met elkaar en die vertellen op een hele leuke manier wat de belangrijkste dingen uit dat boek zijn. En je kunt zelfs nog inbreken in die podcast met een vraag en dan beantwoord die.
+
+**Spreker 1 (15:52):** Oh, wat leuk.
+
+**Ronald de Boer (16:02):** Dat zijn leuke dingen.
+
+**Spreker 1 (16:03):** Wist ik niet eens, dit wist ik niet.
+
+**Ronald de Boer (16:04):** Nou ja NotebookLM heel leuk. Ja.
+
+**Spreker 1 (16:09):** Leuk, leuk hoe andere mensen het gebruiken.
+
+**Spreker 1 (16:13):** Stel dat je haast hebt, wat doe je dan niet? Stel, je hebt een project met een subsidieaanvraag. Wat valt weg?
+
+**Ronald de Boer (16:24):** Nou ja, de dingen waar je typisch niet aan toekomt is ik moet bijvoorbeeld een datamanagementplan maken. En zelfs tot het vorige project nog wat dingen corrigeren die nog niet helemaal waterdicht zijn. Ja, dat zijn dingen die blijven gewoon liggen. Ik wil heel graag echt onderzoek doen, dus nieuwe tools ontwikkelen. Dat moet ook eigenlijk wel nodig. Nu een self-assessment tool voor een project dat loopt, ja, dat kom ik nu gewoon niet aan toe. Dat zijn typisch wel belangrijke dingen. Maar daar heb ik dan nu gewoon net te weinig tijd voor. Ja.
+
+**Spreker 1 (17:06):** OKOK. Doe jij je projectmanagement vaak alleen of zie jij heel veel collega's die hetzelfde doen?
+
+**Ronald de Boer (17:18):** Nou, niet heel veel. Christiaan de Goeij doet ook hetzelfde veel. Rapportage is ook zo'n dingetje -- rapportage. Dat is trouwens ook eentje die heel goed werkt, dus vanuit de publicatiefolder -- sorry, excelsheet -- kun je nu dus met Claude heel makkelijk een overzicht maken van joh, van dit project laat zien wat er allemaal geprobeerd is, wat we allemaal gedaan hebben in academische literatuur. Of maak een tabel van wat we allemaal gedaan hebben of maak een PowerPoint. En zelfs ik heb dat niet echt gebruikt, maar ik heb het wel even meegespeeld. Je kunt de PowerPoint van maken van alles wat er gedaan is. Daar zie ik wel meer mogelijkheden. Maar voor rapportage kan het wel handig zijn, denk ik ja.
+
+**Spreker 1 (18:06):** Deel jij ook deze werkwijze die jij hebt, voor projectmanagement? Wil je dat eens met andere collega's?
+
+**Ronald de Boer (18:15):** Ja met Christiaan de Goeij praat ik regelmatig over, dan geef ik hem wel tips ook. Kijk, hij heeft bepaalde tools weer niet. Ik heb die dan wel zelf moeten betalen. Dus die heeft hij dan niet, dus ik weet ook niet of hij dat al doet. Maar soms als ik iets heel makkelijk kan doen, dan doe ik het even voor hem. En soms doet hij wat voor mij. Weet dat werkt dan wel zo, maar wij doen heel erg hetzelfde. We werken allebei op Raak-projecten en dat soort projecten.
+
+**Spreker 1 (18:54):** Ik weet niet hoe je in je tijd zit trouwens, maar ik vind het wel heel erg interessant.
+
+**Ronald de Boer (19:00):** Ik heb niet zoveel tijd helaas. Nee.
+
+**Spreker 1 (19:04):** Maar een vraag die bij mij heel erg oppopt in dit gesprek, wat zou als jij één ding zou moeten geven van jouw werkmethodes aan andere collega's? Welke zou dat zijn?
+
+**Ronald de Boer (19:23):** Oh om anderen te helpen. Ja oh ja, trouwens, wat ik ook nog doe. Wat ik ook nog doe, is met die data. Ik ben aan het kijken van kan ik een leuke overzicht maken van bijvoorbeeld de benchmark data. Ik heb nu een hele leuke benchmarking radar gemaakt. Ja, dat kun je zelf in Excel of in Python ook maken, maar dan ben je echt een hele week bezig en dat tijd heb ik dus niet. En dat kan dan wel weer echt heel gaaf met Claude. Dus ja, en dat soort dingen zou ik wel anderen willen laten zien. Welke dingen je met Claude allemaal makkelijker en sneller kunt maken. Ja, ik kan zelf nog wel een beetje leren, denk ik, maar het kan wel echt tijd opleveren en echt hele leuke inzichten.
+
+**Spreker 1 (20:19):** Wil je een paar snelle tips van mij ontvangen?
+
+**Ronald de Boer (20:24):** Ja.
+
+**Spreker 1 (20:25):** Krijg je dat in de volgende e-mail, want je hebt niet veel tijd, zeg je dus, maar dan krijg je paar kleine dingetjes die het significant heel erg veel beter maken.
+
+**Ronald de Boer (20:36):** Oh leuk.
+
+**Spreker 1 (20:37):** Instructiefiles en hoe Claude beter omgaat met zijn tokens en dat soort dingetjes.
+
+**Ronald de Boer (20:44):** Ja, maar als je dat zoeken naar een hotel of een vlucht, kan dat echt met AI.
+
+**Spreker 1 (20:54):** Ja ja en nee. Van alle moderne vliegmaatschappijen kan je -- je hebt een API nodig hè? Hij moet ergens mee kunnen praten. En als dat er is, dan kan hij erin kijken, maar anders tegenwoordig schermen ze dat allemaal af.
+
+**Ronald de Boer (21:10):** Ja. Ja precies, dat bedoel ik.
+
+**Spreker 1 (21:21):** Want anders niet -- niet omdat ze misschien niet willen dat gegevens geïndexeerd worden in zo een machine, maar omdat ze teveel verzoeken krijgen tegelijkertijd. Ik heb een vriend van mij en die heeft de git repository van heel Frankrijk. Die heeft een eigen versie daarvan en alle grote regeringen uploaden hun software naar zijn software toe. En sinds AI naar binnen gekomen is, is hij bijna failliet gegaan. Omdat het aantal verzoeken naar zijn website van ongeveer 100 tot 120 per dag tot naar 10 tot 20.000 per dag gingen.
+
+**Ronald de Boer (22:10):** Ja ja ja.
+
+**Spreker 1 (22:12):** En het liep alleen maar op, want al die AI's die schrijven scrapen het hele internet gewoon weer opnieuw nog een keer, nog een keer, nog een keer. Ja en dat wordt zoveel keer aankloppen, die machines houden het niet eens bij.
+
+**Ronald de Boer (22:28):** Zo, dat is als een aanvaller dan?
+
+**Spreker 1 (22:30):** Ja, het is een soort DDoS aanval bij na, en dat merken heel veel websites.
+
+**Ronald de Boer (22:33):** Ja OK, maar is dus en dat is ook de reden waarom je nu veel van die sites niet kunt benaderen.
+
+**Spreker 1 (22:38):** Yes. Je kan heel veel workarounds leren daar omheen bouwen. Er zijn manieren hoe je dan je AI kan instellen en dan maak je een screening bot zoals je dat noemt, en dat is gewoon één programma wat dan expliciet alleen maar bedoeld is om één keer één screenshot te maken daarvan. En, die kan dan verantwoordelijk omgaan met zo'n website -- niet dat hij 29 keer dezelfde webpagina blijft opvragen. Die verantwoordelijk omgaan met een file genaamd robots.txt -- die vertelt andere computers wat ze wel en niet mogen doen op zo'n website. Nou een AI die heeft daar gewoon laks aan.
+
+**Ronald de Boer (23:36):** Heel graag.
+
+**Spreker 1 (23:40):** Dus één van de dingen van Claude is je kan hem skills geven en dan kan hij ineens iets wel. Dus ik kan hem heel snel iets geven.
+
+**Ronald de Boer (23:43):** Helder.
+
+**Spreker 1 (23:57):** Als je hem dan vraagt -- kijk eventjes in deze link en pak daar skills uit die goed zijn voor dit specifieke project. Dan gaat hij door die lijst heen, dan ziet hij, oh, ik moet de PowerPoint maken. Nou, hier is de PowerPoint skill -- nou, staat hij PowerPoint, nou snapt hij wat PowerPoint is en hoe een PowerPoint werkt. En in plaats van dat hij dat on the fly een beetje moet verzinnen.
+
+**Ronald de Boer (24:19):** Ja ja. Begrijp ik ja oké hé, ik moet wel verder, want ik heb zo weer wat meer. Ik moet nog een paar dingen ervoor doen.
+
+**Spreker 1 (24:28):** En dan kan ik in een keer wel. Één laatste vraag, misschien?
+
+**Ronald de Boer (24:33):** Ja.
+
+**Spreker 1 (24:33):** Één laatste vraag, stel dat jij een magische stagiair had die expliciet bedoeld was om jou te helpen? Hij heeft geen expliciete opdracht of zoiets gekregen van school, maar hij moet alleen jou helpen. Wat laat je hem doen?
+
+**Ronald de Boer (24:49):** Nou ja, wat heel fijn zou zijn, wat ik echt mis is in Outlook, iets wat me helpt om al een beetje voorsorteren van nou, wat zijn nou belangrijke mails? Welke mails kan ik snel doorheen? En als ik antwoord dat hij al een klein beetje voorzet doet of zo, weet je wel, ik wil het wel aan de hand houden. Waarschijnlijk is dat Copilot, wat wij niet kunnen gebruiken, vermoed ik.
+
+**Spreker 1 (25:04):** Ja.
+
+**Ronald de Boer (25:09):** Maar ik, als ik ook ook zoek in e-mail ben ik gewoon heel lang mee bezig. Weet je, als ik echt weet van wie het is, kan ik het wel vinden. Maar ik heb een mailtje gehad, ging ongeveer daarover, het was waarschijnlijk van die organisatie, weet je wel. Ik ben -- met PDF kan ik alles hè? Met mail kan ik niks, dat vind ik vervelend, want ik doe alles met mail. Er moet meer mogelijk zijn en misschien is daar wat voor.
+
+**Spreker 1 (25:32):** Is, dat is het ook.
+
+**Ronald de Boer (25:33):** Misschien ook wel binnen Windesheim, dat zou mooi zijn.
+
+**Spreker 1 (25:36):** Dat misschien niet, maar OK, nu krijg je zometeen van mij geautomatiseerd mailtje met daarheen en dus kan je het zien.
+
+**Ronald de Boer (25:38):** Nee, maar wat ik mag gebruiken, laat ik het zo zeggen.
+
+**Spreker 1 (25:46):** Dat kan.
+
+**Ronald de Boer (25:47):** Maar hoe kan dat dan? Wat gebruik je daarvoor dan?
+
+**Spreker 1 (25:49):** Ja, dat mag ik nog niet zeggen van Michiel. Nee, nee, verschrikkelijk.
+
+**Ronald de Boer (25:54):** Wat flauw.
+
+**Spreker 1 (25:57):** Verschrikkelijk.
+
+**Ronald de Boer (25:59):** Leuk, nou ja, dus dat gaat ook wat opleveren. Dit is wel heel leuk, want er zitten hier weer mensen waarschijnlijk.
+
+**Spreker 1 (26:00):** Maar dat is deel van de opdracht, denk ik. Ja. Ja zeker.
+
+**Ronald de Boer (26:07):** Goed zo.
+
+**Spreker 1 (26:09):** OK hé al dankjewel voor dit gesprek, doei.
+
+**Ronald de Boer (26:10):** Succes, beetje onderzoek en bedankt, oké doei.
+
+**Spreker 1 (26:13):** Doei.
+
+*Chris Verhoef heeft de transcriptie gestopt.*
