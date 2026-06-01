@@ -1,0 +1,234 @@
+---
+title: "Interview: Mira Benes"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Mira Benes
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-01 |
+| Collega | Mira Benes |
+| Rol | Projectcoördinator (subsidieaanvragen, urenverantwoording, partnercoördinatie) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 31 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | |
+| Word | Documenten | Subsidiedocumenten schrijven | Dagelijks | Neutraal | |
+| Excel | Documenten | Begrotingen en urenregistratie | Dagelijks | Neutraal | Losse bestanden per partner per project |
+| Microsoft Teams | Communicatie | Vergaderen en samenwerken | Dagelijks | Neutraal | |
+| Unit4 | Andere | Projectadministratie (urendossiers) | Regelmatig | Neutraal | Kan wel ophalen maar niet gericht doorzoeken op inhoud |
+| Claude / ChatGPT | AI/LLM | Vragenlijsten opstellen | Incidenteel | Positief | "Heel algemeen gehouden maar toch mooie dingen uit kunnen halen" |
+| Perplexity | AI/LLM | Literatuuronderzoek (State of the Art) | Gestopt | Neutraal | Credit verlopen; wil dit kunnen blijven gebruiken |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Interview voorstel; Survey Digitalisering mira Benes-20260601_120150`. Totale duur: 31 minuten 6 seconden. Gestart op 1 juni 2026, 10:01. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Mira is zichtbaar druk ("veel, heel veel"). Ze heeft maar een half uur. Haar laptop is bijna leeg halverwege het gesprek (korte pauze bij ~12:00).
+
+**2:58 -- Tijdsbesteding afgelopen week**
+Drie dingen: (1) gesprekken met nieuwe zorginstelling voor aanhaken, (2) werkpakket schrijven voor nieuwe subsidieaanvraag, (3) vragenlijst opstellen voor incontinentieproject (zorgpaden met data). "Het was zo versnipt. Het was wel hectisch."
+
+**3:53 -- Subsidieproces: kennisdeling als knelpunt**
+Mira zoekt een goedgekeurd subsidievoorstel met actieonderzoek als referentie. Weet dat die in Unit4 staan maar weet niet waar. Subsidieadviseur haalt ze handmatig op. "Lerend vermogen tussen de verschillende domeinen is uiterst klein."
+
+**7:28 -- Vragenlijst + AI gebruik**
+Voor vragenlijst incontinentieproject heeft ze Claude en ChatGPT gebruikt. "Heel algemeen gehouden, maar toch mooie dingen uit kunnen halen." Voorbeeld: hoe hoog moet de toiletpot zijn.
+
+**9:13 -- Begroting vs. voorstel: synchronisatieprobleem**
+Als een partner tussentijds uitvalt, moeten begroting en voorstel handmatig gesynchroniseerd worden. "Hoe vaak wij wel niet handmatig dingen hebben moeten aanpassen?" Drie losse documenten: voorstel, begroting, partnerlijst (apart Excel).
+
+**10:41 -- Subsidieproces in detail (pijplijn)**
+Chris vraagt door; Mira deelt scherm en legt stap voor stap uit:
+1. Gesprekken met bedrijven → idee
+2. Vraagarticulatiesessie (bijv. 5 bedrijven aan tafel)
+3. Vraagarticulatiedocument schrijven: max 1400 woorden, includes inleiding, kennishiaat, maatschappelijke relevantie, hoofdvraag
+4. KIA (Kennis en Innovatie Agenda) matching: uitsnuffelen welke categorie past. "Je zit te snuffelen van hé, welke moet ik nu precies hebben?"
+5. Onderzoeksplan: State of the Art (literatuuronderbouwing), onderzoeksmethode, werkpakketten
+6. Begroting: apart format, uren per partner
+7. Reviewrondes: collega's + subsidieadviseur Anna + subsidieverstrekker. Hoor en wederhoor: mag alleen verwijzen naar bestaande tekst, niet toevoegen.
+8. Uitvoering: urenverantwoording per maand of per project (afhankelijk van projectleider).
+   - CIA: mailtje met akkoord volstaat
+   - TKI: alles ondertekend (student + studiebegeleider + projectleider Windesheim)
+
+**13:00 -- Mira ziet zelf AI-aanknopingspunten**
+"Vraagarticulatie is iets wat dondersgoed de AI opgepakt kan worden, want je moet het allemaal staven en aangeven waar het kennishiaat zit." Ziet ook State of the Art als AI-kans.
+
+**13:29 -- Hoor en wederhoor navigatie**
+Na reviewronde krijg je feedback van commissie: "Hé joh, je hebt niet genoeg aandacht besteed aan de rol van de lector." Reactie mag alleen verwijzen naar bestaande tekst. "Waar heb ik het precies geschreven en hoe kan ik het verder brengen?" Mira ziet hier duidelijk een rol voor AI.
+
+**13:29 -- Feedback-patronen op schijf**
+Jarenlange feedback op subsidievoorstellen staat opgeslagen. "Op de schijf staan heel veel commentaren." Als je dat samenvoegt per subsidieverstrekker (NWO, TKI, etc.) weet je waar je op moet letten. "Daar zie ik heel veel toegevoegde waarde."
+
+**22:18 -- Perplexity verlopen**
+Gebruikt Perplexity voor State of the Art literatuurzoeken. "Ik heb geen Perplexity meer over, dus ik kan geen deep dive meer doen."
+
+**27:39 -- AI gebruik in subsidieproces**
+Gebruikt AI nergens in de urenverantwoording. Wel bij vraagarticulatie en vragenlijsten. Privacy is de grootste rem: "Wat kan ik zomaar de wereld in slingeren en wat kan ik niet?"
+
+**29:19 -- Stagiairvraag**
+Chris: "Wat zou je hem als eerste laten doen?" Mira, zonder aarzeling: "Al die urenbrïefjes -- huppakee, hier heb je delen." Sterkste en directste signaal van het hele gesprek.
+
+**30:29 -- Chris: "Jij bent een knelpunt in het team"**
+Mira bevestigt. Ze werkt als verbindende schakel met iedereen. "Wat ik doe, die masten natuurlijk niet voor niks." Vraagt de opname te stoppen voor verdere toelichting (buiten scope transcript).
+
+---
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Drie dingen door elkaar: aanhaken zorginstelling (gesprekken), werkpakket schrijven voor subsidieaanvraag, vragenlijst opstellen voor zorgpadonderzoek. "Het was zo versnipt."
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Subsidieproces is een lange pijplijn: gesprekken → vraagarticulatie → onderzoeksplan → begroting → reviewrondes → uitvoering → urenverantwoording. Elk stap heeft eigen document, eigen format, eigen stakeholders. Veel handmatige synchronisatie tussen losse documenten.
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Voor vragenlijst: Claude/ChatGPT gebruikt. Voor State of the Art: Perplexity (maar verlopen). Voor de rest: geen workarounds, alles handmatig.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+Wisselt sterk per deadline-periode. Rond subsidiedeadlines gaat alles naar het schrijven. "Dan wordt er een hele hap weggenomen." Urenverantwoording: continue last, maandelijks per project.
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Ja, incidenteel: Claude + ChatGPT voor vragenlijsten. Perplexity voor literatuur (verlopen). Privacy is de grootste drempel: "Wat kan ik zomaar de wereld in slingeren?"
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Perplexity gestopt (credential verlopen, niet bewust stopgezet).
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Niet expliciet beantwoord -- gesprek was te kort.
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Werkt met iedereen samen: Ronald, Chris de Goeij, Hendryk, studenten, partners, subsidieadviseur Anna. Ze is de verbindende schakel. "Jij bent een knelpunt in het team."
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Privacy-schending als meest genoemde risico. "Dat kan niet." Verder: begroting-voorstel mismatch kost veel tijd bij partnerwisselingen.
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Outlook, Word, Excel, Teams, Unit4, Claude/ChatGPT (incidenteel), Perplexity (verlopen).
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+Zonder aarzeling: "Al die urenbrïefjes -- huppakee, hier heb je delen."
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Niet expliciet beantwoord.
+
+---
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Urenverantwoording (TKI) | Urenbrïefjes per student automatisch genereren en versturen ter ondertekening | Studentenlijst + projectgegevens + uren | Ondertekend urenbriefje terug | Laag | Stagiairvraag: "Al die urenbrïefjes, huppakee" | Sterkste signaal; bevestigt Stefan-radartje; TKI vereist student + begeleider + projectleider handtekening |
+| Vraagarticulatie schrijven | Gesprekken + rapporten destilleren naar vraagarticulatiedocument (max 1400 woorden) | Gespreksverslagen + eerdere rapporten | Vraagarticulatiedocument passend bij subsidieformat | Intern | "Vraagarticulatie is iets wat dondersgoed de AI opgepakt kan worden" | Mira ziet dit zelf al; privacy-check nodig voor input |
+| State of the Art | Literatuur zoeken en samenvatten voor onderbouwing subsidieaanvraag | Onderzoeksvraag + domein | Literatuuroverzicht met bronnen | Laag | Perplexity gebruikt maar verlopen; "daar kan je met AI echt een heleboel doen" | Blokkade: geen actief Perplexity-account |
+| KIA/richtlijn matching | Automatisch bepalen welke Kennis en Innovatie Agenda-categorie bij het onderzoek past | Onderzoeksomschrijving + KIA-documentatie | Aanbevolen categorie + onderbouwing | Laag | "Je zit te snuffelen van hé, welke moet ik nu precies hebben?" | Terugkerend per aanvraag; tijdrovend uitsnuffelwerk |
+| Hoor en wederhoor navigatie | In eigen document zoeken waar iets staat om te verwijzen in hoor-en-wederhoor reactie | Subsidiedocument + commissiefeedback | Verwijzingen naar bestaande tekst | Intern | "Waar heb ik het precies geschreven en hoe kan ik het verder brengen?" | Alleen verwijzen mag, niet toevoegen; goede RAG-use case |
+| Feedback-patronen subsidieverstrekkers | Jarenlange reviewfeedback per subsidieverstrekker samenvoegen tot checklist | Archieffeedback op schijf | Checklist per subsidieverstrekker | Intern | "Op de schijf staan heel veel commentaren. Daar zie ik heel veel toegevoegde waarde." | Data is al aanwezig; systematiseren = winst |
+
+---
+
+## Letterlijke signalen
+
+- "Lerend vermogen tussen de verschillende domeinen is uiterst klein."
+- "Vraagarticulatie is iets wat dondersgoed de AI opgepakt kan worden."
+- "Op de schijf staan heel veel commentaren. Hoe hoog moet die toiletpot zijn?" (over AI-vragenlijst-suggestie)
+- "Waar heb ik het precies geschreven en hoe kan ik het verder brengen?" (hoor en wederhoor)
+- "Al die urenbrïefjes -- huppakee, hier heb je delen." (stagiairvraag)
+- "Jij bent echt een knelpunt in het team, dus." (Chris over haar rol)
+- "Wat kan ik zomaar de wereld in slingeren en wat kan ik niet? Dat is de allergrootste bottleneck."
+- "Ik heb geen Perplexity meer over, dus ik kan geen deep dive meer doen."
+
+---
+
+## Nog niet oplossen
+
+- Urenverantwoording automatisering: genereer brief op basis van studentenlijst + projectdata + uren, stuur ter ondertekening (digitale handtekening workflow?)
+- Vraagarticulatie-assistent: geanonimiseerde gesprekken + rapporten destilleren naar format
+- State of the Art tool: vervanger voor verlopen Perplexity (bijv. Elicit of ASReview)
+- KIA matching: RAG op KIA-documentatie + onderzoeksomschrijving
+- Hoor en wederhoor navigator: zoektool in eigen subsidiedocumenten
+- Subsidiekennis ontsluiten: goedgekeurde voorstellen doorzoekbaar maken binnen Windesheim
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Projectcoördinator bij het lectoraat. Verbindende schakel tussen onderzoekers, studenten, externe partners en subsidieverstrekkers. Schrijft subsidieaanvragen, coördineert urenverantwoording en begeleidt het hele projectproces van idee tot afronding.
+
+**In het kort:** Druk en veelzijdig. Ze weet precies waar de pijn zit en benoemt zelf de AI-kansen. Grootste bottleneck is privacy: ze is voorzichtig met wat ze de cloud in gooit. De subsidieproces-pijplijn is lang en documentintensief -- veel handmatig synchronisatiewerk tussen losse bestanden. De urenverantwoording voor TKI is bevestigd als knelpunt (ook Stefan noemde dit al).
+
+**Kleine radartjes:**
+
+- Urenverantwoording automatiseren: briefjes per student genereren en versturen ter ondertekening (directste signaal -- stagiairvraag)
+- Vraagarticulatie schrijven: gesprekken en rapporten destilleren naar subsidieformat (ziet dit zelf al als kans)
+- State of the Art: literatuur zoeken en samenvatten (Perplexity verlopen; wil dit kunnen blijven doen)
+- KIA richtlijn matching: automatisch bepalen welke subsidiecategorie het beste past
+- Hoor en wederhoor navigatie: in eigen document zoeken waar iets staat
+- Feedback-patronen: archieffeedback van subsidieverstrekkers samenvoegen tot checklist
+
+**Al in gebruik:** Claude + ChatGPT (incidenteel, vragenlijsten), Perplexity (verlopen), Outlook, Word, Excel, Teams, Unit4
+
+**Sterkste signaal:** "Al die urenbrïefjes -- huppakee, hier heb je delen." -- en zij is de verbindende factor voor iedereen in het team.

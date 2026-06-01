@@ -10,6 +10,7 @@
 | 2026-05-27 | Ritsaart | Docent/onderzoeker (data science & logistiek) | Slides automatiseren, toetsen aanmaken ANS/Brightspace, student follow-up, nakijken | "Automatische tools voor Powerpoints maken" | [PDF](downloads/interview-2026-05-27-ritsaart-bergsma.pdf) · [Word](downloads/2026-05-27-ritsaart-bergsma.docx) |
 | 2026-05-27 | Stefan | Key Account Manager NextGen Resilience (Involvation, extern) | Uren brieven, partner meeting planning, post-meeting follow-up, nieuwsbrief | "Mira is heel veel tijd kwijt aan de jongens achterna zitten met uren brieven." | [PDF](downloads/interview-2026-05-27-stefan-hoogervorst.pdf) · [Word](downloads/2026-05-27-stefan-hoogervorst.docx) |
 | 2026-06-01 | Bart | Research fellow (1d/week); CFO MKB | Presentaties met context, NDA review (legal agent), face-to-face diarization, Python simulaties | "Bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim." | [PDF](downloads/interview-2026-06-01-bart-ras.pdf) · [Word](downloads/2026-06-01-bart-ras.docx) |
+| 2026-06-01 | Mira | Projectcoördinator | Urenverantwoording TKI, vraagarticulatie schrijven, State of the Art, KIA matching, hoor en wederhoor navigatie | "Al die urenbrïefjes -- huppakee, hier heb je delen." | [PDF](downloads/interview-2026-06-01-mira-benes.pdf) · [Word](downloads/2026-06-01-mira-benes.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -21,7 +22,6 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Richard Holman | 2 juni | 14:00 |
 | Christiaan de Goeij | 1 juni | 09:00 |
 | Ronald de Boer | 1 juni | 11:05 |
-| Mira Benes | 1 juni | 12:00 |
 
 ## Nog uit te nodigen
 
