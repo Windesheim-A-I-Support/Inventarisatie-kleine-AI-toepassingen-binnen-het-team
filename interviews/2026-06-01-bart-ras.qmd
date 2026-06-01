@@ -1,0 +1,244 @@
+---
+title: "Interview: Bart Ras"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Bart Ras
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-01 |
+| Collega | Bart Ras |
+| Rol | Research fellow (1 dag/week); CFO MKB bedrijf vlastuin, Baarn |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 41 minuten |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Claude | AI/LLM | Presentaties, code genereren, agents, NDA review | Dagelijks (buiten Windesheim) | Hoog | Primaire AI-tool; betaald abonnement |
+| ChatGPT | AI/LLM | Parallel verificatie van resultaten | Regelmatig | Middel | Parallel aan Claude voor kruiscontrole |
+| Python | Ontwikkeling | Simulaties, cashflow forecasting, digital twins | Regelmatig | Hoog | Genereert code via AI; voert lokaal uit |
+| Visual Studio Code | Ontwikkeling | Python code schrijven en uitvoeren | Regelmatig | Hoog | Copy-paste van AI-gegenereerde code |
+| Microsoft 365 | Documenten | Office suite (Word, Excel, Teams, PowerPoint) | Dagelijks | Neutraal | Copilot uitgeschakeld op Windesheim-devices |
+| Visma | Andere | ERP en boekhouding MKB | Dagelijks | Hoog | MKB-variant van ERP; eigen dashboarding |
+| Vision Planner | Andere | Dashboarding en forecasting | Regelmatig | Middel | Geïntegreerd in Visma; geadverteerd als Power BI-alternatief |
+| GitHub | Ontwikkeling | Versiebeheer | Incidenteel | Middel | Eigen woorden: "Nog een beetje sukkeltje daarin" |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Ruwe transcript
+
+*Woordelijk verslag van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Interview Survey-20260601_103000`. Totale duur: 41 minuten 6 seconden. Gestart op 1 juni 2026, 08:29. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
+
+**0:00 -- Opener: wie is Bart**
+Bart werkt 1 dag/week als research fellow bij Windesheim. Rest van de tijd CFO bij vlastuin (MKB, Baarn -- winkelinrichtingen voor Hema, Rituals, Albert Heijn e.d.).
+
+**2:41 -- Rol bij Windesheim**
+"Research fellow. In de praktijk: afstudeerders begeleiden en meewerken met projecten, vooral als er een externe connectie is met bedrijven." 25+ jaar ervaring in werkkapitaalbeheer, treasury, financial flows, data flows.
+
+**3:53 -- Tijdsbesteding**
+Twee dingen: begeleiding afstudeerder bij Scania (lezen, nakijken, terugkoppelen) + acquisitie (morgen bezoek potentiële nieuwe klant in lijn van Scania). Begeleiding = "pure begeleiding, weinig digitaliserend."
+
+**6:53 -- AI-gebruik: kloof Windesheim vs. MKB**
+"Bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim." Reden: "Copilot staat uitgeschakeld op al je Windesheim-spullen." En: "Ik merk dat er bijna een soort anti is om het daar te mogen gebruiken."
+
+**7:11 -- AI-gebruik buiten Windesheim**
+Gebruikt Claude en ChatGPT. Niet alleen voor emails mooier maken, maar ook voor research en Python code. Voorbeeld: digital twin voor keten van huisdierenpraktijken in Engeland (supply chain modellen, wachttijden, correlaties). "400 lines of Python in 38 seconden." Wisselwerking: code ontvangen, runnen, feedback geven, opnieuw. "Ik gebruik het als sparringpartner en als agents om van mij taakjes te doen, die 1000 keer sneller en beter kunnen dan ik ooit zelf zou kunnen."
+
+**10:58 -- Presentaties maken (uitgewerkt voorbeeld)**
+CFO bij MKB. Pensioenregeling gaat op de schop. MT moet een keuze maken. Bart beschrijft de situatie: bedrijfsgrootte, MT-niveau, gemiddelde leeftijd medewerkers, opleidingsniveau. Vraagt Claude: "Hoe breng ik dit in 20 minuten van nul naar 80 km/u?" Claude genereert script. Vervolgens maakt Bart twee decks: één presenter deck en één lees-deck voor mensen die er niet bij zijn. "Dat gaat 100 keer zo snel." Voert invoer in via microfoon (Engels), output Nederlands. "Ik vind dat uiterst goed werken."
+
+**13:17 -- Claude vs. ChatGPT voor presentaties**
+"Ik doe vaak het voorwerk met 4.6 om niet teveel credits te verstoken. En als het dan één keer goed moet..." Parallel runnen in Claude en ChatGPT voor kruiscontrole bij belangrijke taken.
+
+**14:18 -- Wat werkt niet: face-to-face meeting diarization**
+Teams transcriptie werkt goed (herkent sprekers). Maar bij fysieke meetings met meerdere mensen: "Hij heeft geen flauw idee wie er praat." Wens: AI die sprekers uit elkaar houdt, notulen maakt, actiepunten naar agenda stuurt. "Dat zou ik heel graag willen dat dat goed opgelost is."
+
+**16:20 -- AI-adoptie in het MKB-bedrijf**
+Drie groepen: (1) gebruikt het helemaal niet, (2) gebruikt als veredelde Google, (3) Bart zelf. "De meeste Mensen bemerken niet dat dit een hele andere dimensie geeft aan productiviteitsverhoging."
+
+**17:11 -- Legal agent (NDA review)**
+Alle historische NDAs ingevoerd (60+ jaar bedrijfshistorie). Standaard NDA als referentie. Claude beoordeelt tegenpartij (groot vs. klein bedrijf), adviseert must-haves vs. nice-to-haves. Turnaround 3 minuten. Externe advocaat belde op omdat hij geen werk meer kreeg. "Ik zeg: dat hoeft niet meer." Bart: "Ik denk echt in de vorm van agents... ik bouw teampjes van agents die ik zie als werknemers." "Ik heb nu internal legal agent, internal Python agent... ik zie ze als werknemertjes die ik train."
+
+**19:35 -- Structurering van agents**
+Projecten en contexts scheiden zodat agents niet door elkaar gaan: vlastuin, penningmeesterschap roeivereniging, persoonlijk. "Ik maak teams aan. Mijn agents zijn mijn werknemers. Ik heb nu 22 werknemers."
+
+**20:27 -- Python + VS Code**
+Genereert code in Claude/ChatGPT, copy-paste naar VS Code. "Niet omdat ik aanhanger ben van Visual Studio, maar die ken ik nu eenmaal." Claude stelde voor om Claude Code te proberen maar hij is er nog niet op ingegaan.
+
+**21:29 -- Demo Chris: CLAUDE.md, skills, caveman**
+Chris toont Agent of Empires (tmux), CLAUDE.md, Claude Skills, caveman-extensie voor tokenreductie.
+
+**22:01 -- Parallel runnen**
+"Als ik echt met belangrijke taken ben, dan run ik het parallel in Claude en in ChatGPT." Vergelijkt resultaten.
+
+**23:46 -- Tools**
+Claude ($20/maand), ChatGPT ($20/maand), Python, VS Code, Microsoft 365. Overweegt Claude Teams (5 subscripties voor 100, samenwerken op projecten).
+
+**24:37 -- Dashboarding**
+Geen Power BI ("Power BI is 2010"). Gebruikt Vision Planner (geïntegreerd in Visma), ook los beschikbaar, adverteert zichzelf als "verbeterde Power BI met forecasting." Verder: Numbers (HR) voor verlofbeheer.
+
+**25:40 -- Python voor MKB en vereniging**
+Cashflow forecasting voor roeivereniging (nieuw gebouw, verbouwingsschuld, seizoenspatroon contributies). Genereert simulatiemodel in Python met AI, vraagt AI om visualisaties. Deelt resultaat als grafiek, niet als code.
+
+**28:14 -- Silo-probleem (herkenning)**
+Chris constateert dat iedereen een silo is. Bart bevestigt. Ronald heeft al eens gevraagd mee te doen. Bart: "Je moet verdomd goed snappen wat je wil simuleren, want anders simuleer je iets leuks wat niks met de werkelijkheid te maken heeft."
+
+**30:18 -- Demo Chris vervolgt**
+Chris laat Agent of Empires, CLAUDE.md en skills zien. Bart enthousiast. Chris legt Ollama (lokale modellen) en swarm intelligence uit. Reden lokaal: token usage en AI-zelf-bevragen.
+
+**37:13 -- Claude vs. ChatGPT voorkeur**
+Bart: "Als je er maar één kan gebruiken, zou jij Claude gebruiken?" Chris: "Ja. Claude is gemaakt voor software developers en agents. Open AI is meer general." Bart heeft ChatGPT-abonnement opgezegd (maar blijkt dit andersom te zijn in transcript -- Chris zegt dat hij zijn ChatGPT-abonnement heeft opgezegd).
+
+**40:33 -- Afsluiter**
+Bart: "Dankjewel voor je tijd. Ik merk wel dat jij weer 10 keer verder bent dan ik." Chris: "Jij bent het ver-der dan Ritsaart zelfs."
+
+---
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Twee dingen: afstudeerder bij Scania begeleiden (lezen, feedback, nakijken) en acquisitie (voorbereiding bezoek potentiële nieuwe klant). Weinig digitalisering in begeleiding. Acquisitie = begrijpen wat businessmodel is en geen fantastische oplossing voor een niet-bestaand probleem presenteren.
+
+### 2. Drill-down
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?"
+
+Acquisitie: student als ingang gebruiken. Klant helpt student, binding ontstaat, daarna formaliseren als lid van lectoraat. "Puur klantenbinding in wezen."
+
+### 3. Workaround
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Ja -- maar bijna uitsluitend buiten Windesheim. Presentaties: context beschrijven (doelgroep, niveau, situatie) + AI genereert script en 2 decks. NDA review: legal agent op basis van historische NDAs. Simulaties: Python genereren via AI. Allemaal al in gebruik.
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week?"
+
+1 dag/week Windesheim, rest CFO bij vlastuin. AI-gebruik bijna uitsluitend bij MKB.
+
+### 5. AI-gebruik
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Ja, intensief. Claude (primair), ChatGPT (parallel). Python voor simulaties. 22 agents als "werknemers." Copilot niet beschikbaar op Windesheim; voelt anti-sfeer. "Ik gebruik nog geen 3% van wat er kan."
+
+### 6. Eerder geprobeerd en gestopt?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?"
+
+Face-to-face meeting transcriptie werkt niet goed (diarization mislukt bij fysieke vergaderingen). "Ik heb nog geen tool gevonden die mensen goed uit elkaar kan houden."
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Niet expliciet beantwoord.
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Silo. Ronald heeft gevraagd mee te doen maar tot nu toe niet opgepakt. Simulatiemodellen zijn vaak te specifiek om zomaar te delen.
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Simulatiemodellen: "Je moet verdomd goed snappen wat je wil simuleren, want anders simuleer je iets leuks wat niks met de werkelijkheid te maken heeft." Voorbeeld: hondenhospitaal-model plaatste 250 honden terwijl capaciteit 80 was.
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]?"
+
+Claude, ChatGPT, Python, VS Code, Microsoft 365, Visma, Vision Planner, GitHub.
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?"
+
+Niet expliciet gesteld.
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+NDA review: "Mijn turnaround time is 3 minuten." Externe advocaat belde omdat hij geen werk meer kreeg.
+
+---
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| Presentaties maken | Context beschrijven (doelgroep, niveau, situatie), AI genereert script + 2 decks (presenter en leesdeck) | Tekstprompt / spraakinvoer | Script + 2 PowerPoint-decks | Laag (indien geanonimiseerd) | "100 keer zo snel" | Al volledig in gebruik bij MKB; bewezen use case |
+| NDA/contract review | Legal agent beoordeelt inkomend contract op basis van historische NDAs + standaard | Inkomend NDA-document | Advies: must-haves vs. nice-to-haves, per tegenpartijtype | Intern | Externe advocaat belde dat hij geen werk meer kreeg | Al geïmplementeerd bij MKB; turnaround 3 min vs. uren |
+| Face-to-face meeting notulen | AI-diarization bij fysieke vergaderingen: sprekers herkennen, notulen maken, actiepunten naar agenda sturen | Opname fysieke meeting | Gestructureerde notulen per spreker + actiepunten | Intern | "Hij heeft geen flauw idee wie er praat" bij fysieke meetings | Sterk gewenst, nog niet opgelost; online (Teams) werkt wel |
+| Python simulaties via AI | Simulatiemodellen en cashflow forecasting bouwen via AI-gegenereerde Python code | Tekstprompt | Werkend Python simulatiemodel + visualisaties | Laag | "400 lines of Python in 38 seconden" | Al in gebruik; mist nog Claude Code integratie (copy-paste workaround) |
+
+---
+
+## Letterlijke signalen
+
+- "Bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim."
+- "Copilot staat uitgeschakeld op al je Windesheim-spullen."
+- "Ik merk dat er bijna een soort anti is om het daar te mogen gebruiken."
+- "Ik gebruik het als sparringpartner en als agents om van mij taakjes te doen, die 1000 keer sneller en beter kunnen dan ik ooit zelf zou kunnen."
+- "Ik zie ze echt als werknemertjes die ik train die ik opleid."
+- "Ik heb nu 22 werknemers."
+- "Dat gaat 100 keer zo snel." (presentaties)
+- "Hij heeft geen flauw idee wie er praat." (face-to-face transcriptie)
+- "Ik denk dat ik voor een zevenenvijftigjarige het lekker gebruik ten opzichte van veel van mijn peers, maar ik gebruik nog geen 3% van wat er kan."
+- "Je moet verdomd goed snappen wat je wil simuleren, want anders simuleer je iets leuks wat niks met de werkelijkheid te maken heeft."
+
+---
+
+## Nog niet oplossen
+
+- Face-to-face diarization: AI-tool die meerdere sprekers in een fysieke ruimte uit elkaar houdt en automatisch notulen + actiepunten genereert
+- Claude Code koppeling: copy-paste vervangen door directe integratie (Claude stelde dit zelf voor tijdens gesprek)
+- Windesheim-restricties: Copilot uitgeschakeld, perceptie van anti-AI-sfeer -- mogelijke aanleiding voor bredere gesprek
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** Research fellow bij Windesheim (1 dag/week). CFO bij MKB bedrijf (winkelinrichtingen). 25+ jaar ervaring in werkkapitaalbeheer, treasury, financial en data flows.
+
+**In het kort:** Meest geavanceerde AI-gebruiker tot nu toe in dit project. Gebruikt Claude intensief buiten Windesheim -- bijna niet bij Windesheim zelf, vanwege uitgeschakelde Copilot en een gevoel van anti-sfeer rondom AI-gebruik. Denkt in agents ("werknemers"), bouwt legal agents, Python-simulaties en presentaties. De kloof tussen wat hij privé/MKB doet en wat hij op Windesheim doet is opvallend groot.
+
+**Kleine radartjes:**
+
+- Presentaties maken met context: doelgroep, niveau en situatie beschrijven, AI genereert script + 2 decks (al volledig in gebruik, werkt uitstekend)
+- NDA/contract review: legal agent op basis van historische documenten adviseert over inkomende contracten in 3 minuten (al volledig in gebruik)
+- Face-to-face meeting diarization: AI die sprekers herkent bij fysieke vergaderingen, notulen maakt, actiepunten naar agenda stuurt (sterk gewenst, nog niet opgelost)
+- Python simulaties via AI: cashflow modellen, digital twins, forecasting (al in gebruik; mist Claude Code integratie)
+
+**Al in gebruik:** Claude (intensief), ChatGPT (parallel), Python, VS Code, Microsoft 365, Visma, Vision Planner
+
+**Sterkste signaal:** "Bij far het meest met automatisering in al mijn andere dingen en het minst op Windesheim -- ik merk dat er bijna een soort anti is om het daar te mogen gebruiken."

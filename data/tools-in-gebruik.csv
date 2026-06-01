@@ -54,3 +54,11 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-05-27,Stefan,Key Account Manager NextGen Resilience (Involvation extern),ChatGPT,AI/LLM,Bedrijfssamenvattingen voor gesprekken en opzetjes,Incidenteel,Middel,Vraagbaken - minimaal gebruik
 2026-05-27,Stefan,Key Account Manager NextGen Resilience (Involvation extern),SurveyMonkey / Forms,Andere,Post-meeting evaluaties,Incidenteel,Neutraal,Niet geautomatiseerd; handmatig verstuurd
 2026-05-27,Stefan,Key Account Manager NextGen Resilience (Involvation extern),Microsoft Teams,Communicatie,Vergaderen,Dagelijks,Neutraal,
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Claude,AI/LLM,Presentaties + code genereren + agents + NDA review,Dagelijks (buiten Windesheim),Hoog,Primaire AI-tool; betaald abonnement; Copilot uitgeschakeld op Windesheim
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,ChatGPT,AI/LLM,Parallel verificatie van resultaten bij belangrijke taken,Regelmatig,Middel,Parallel aan Claude voor kruiscontrole
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Python,Ontwikkeling,Simulaties + cashflow forecasting + digital twins,Regelmatig,Hoog,Code gegenereerd via AI; lokaal uitgevoerd
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Visual Studio Code,Ontwikkeling,Python code uitvoeren,Regelmatig,Hoog,Copy-paste van AI-gegenereerde code; Claude Code nog niet geprobeerd
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Microsoft 365,Documenten,Office suite (Word / Excel / Teams / PowerPoint),Dagelijks,Neutraal,Copilot uitgeschakeld op Windesheim-devices
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Visma,Andere,ERP en boekhouding MKB,Dagelijks,Hoog,MKB-alternatief voor SAP; bevat Vision Planner
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,Vision Planner,Andere,Dashboarding en forecasting,Regelmatig,Middel,Geïntegreerd in Visma; noemt zichzelf verbeterd Power BI-alternatief
+2026-06-01,Bart,Research fellow (1d/week) / CFO MKB,GitHub,Ontwikkeling,Versiebeheer (basics),Incidenteel,Middel,"Nog een beetje sukkeltje daarin"
