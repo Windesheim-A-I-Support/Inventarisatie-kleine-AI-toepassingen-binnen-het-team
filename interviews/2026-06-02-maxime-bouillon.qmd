@@ -1,0 +1,330 @@
+---
+title: "Interview: Maxime Bouillon"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Maxime Bouillon
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-02 |
+| Collega | Maxime Bouillon |
+| Rol | Senior researcher Business Design / PhD-kandidaat Supply Chain Management |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 27 minuten 36 seconden |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Claude | AI/LLM | Rewriting, parafraseren, feedback verwerken, brainstormen -- via zelfgemaakte modes | Regelmatig | Hoog | Custom modes: Reviewer 2 (harsh), Brainstorm, Supervisor/Socratic, Coach |
+| Word | Documenten | Papers en proposals schrijven | Dagelijks | Hoog | Primair schrijfinstrument voor PhD |
+| Obsidian | Andere | Notities tijdens meetings | Regelmatig | Hoog | Naast Notion voor taken |
+| Draw.io | Andere | Mapping en diagrammen maken | Regelmatig | Hoog | Wanneer hij dingen visueel wil uitwerken |
+| Zotero | Literatuur | Bibliografie bijhouden met auto-fill extensie | Regelmatig | Hoog | "Saves me hours and hours" -- automatische bibliografieinvoer |
+| Notion | Projectmanagement | Taken bijhouden | Dagelijks | Middel | Voor taken; Obsidian voor notities |
+| Firefox | Browser | Standaard browser | Dagelijks | Neutraal | |
+| Microsoft Office | Documenten | Office suite (Word, Teams) | Dagelijks | Neutraal | Standaard Windesheim |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Interview-20260602_100517`. Totale duur: 27 minuten 36 seconden. Gestart op 2 juni 2026, 10:05. Spreker 1 = Chris. Interview in het Engels (Maxime is Franstalig).
+
+**0:03 -- Opener en rol**
+Senior researcher Business Design voor Supply Chain. Contractueel 40u/week, feitelijk 36u. Drie dagen (24u) voor PhD-project. Rest verdeeld over VCH Hackers project (andere universiteiten), onderwijs (master system transition) en mentoring GPCM.
+
+**1:33 -- Tijdsbesteding afgelopen twee weken**
+Reizen (ook echt werk: interviews in person bij boeren in Flevoland/Assen). Daarna: het reviewen van documenten -- eigen teksten en studentteksten. Twee richtingen: (1) studentdocumenten ontvangen en beoordelen/feedback geven, (2) eigen research-documenten schrijven, naar supervisors sturen (bijv. Luca), feedback terugkrijgen en verwerken.
+
+**3:16 -- Schrijfproces PhD**
+Zeer iteratief, niet lineair. Eerste paper: 2 jaar werk. Caseselectie, 30 interviews bij boerenbedrijven, parallel literatuurverkenning (operations en SCM, diverse subfields). Kern van het paper: theorie zegt dat dominante partij strategie uitrolt naar leveranciers, maar in zijn netwerk is er geen dominante partij -- grote diversiteit in duurzaamheidsdefinities per bedrijf. Proces is voortdurend heen en weer tussen data en literatuur.
+
+**7:16 -- Toolkit**
+Word, Obsidian voor notities, Draw.io voor mapping, Claude voor rewriting/parafraseren/draften.
+
+**8:00 -- AI-gebruik (Claude met custom modes)**
+Heeft in system prompt modes gedefinieerd. Bij start van elke sessie vraagt Claude welke mode. Modes:
+- **Reviewer 2**: zeer kritisch, kijkt naar structuur van hele tekst -- naam is ironie (beruchte harde reviewer bij academic journals)
+- **Brainstorm**: idee inbrengen, feedback vragen
+- **Supervisor/Socratic**: dialoog om zelf dingen uit te werken, niet dat Claude antwoordt maar dat hij zelf nadenkt
+- **Coach**: sportprogramma begeleiding (nieuw)
+
+**9:57 -- Feedback verwerken met Claude**
+Concreet voorbeeld van workaround: document ontvangen met twee soorten commentaar (detailcommentaar per zin + sectiecommentaar). Als ontvanger heel onoverzichtelijk. Aanpak: document naar PDF exporteren, PDF in Claude gooien, vragen om supervisor mode en feedback samenvatten + opdelen in chunks om samen doorheen te werken.
+
+**10:00 -- Tijdsinvestering per stap**
+Moeilijk te kwantificeren. Proces is niet-efficiënt by design (PhD = leerproces). 30 interviews gedaan: voor elk interview meerdere e-mails, scheduling, soms cancellation + herplannen, persoonlijk naar bedrijf reizen (boerderijen), gesprek doen (30-60 min), transcript doorwerken. Kwalitatieve codering nog niet volledig gedaan -- werkt exploratief: patronen herkennen, quotes verzamelen, voorlopige conclusies.
+
+**13:35 -- Wat niet werkt**
+Grote stukken tekst laten schrijven -- AI houdt context niet goed bij, pakt één woord of zin en maakt het hele document daarover. "It's not consistent." Lesson learned: nooit AI iets laten doen wat je zelf ook niet kunt doen, anders zie je fouten niet.
+
+**15:52 -- Bewust minder AI gebruiken**
+Gebruikt AI soms te veel. Herinnert metafoor: bodem van meer met kliffen. AI gooit water in het meer zodat je de kliffen niet meer ziet. Maar als AI weg is, staan de kliffen er nog en kun je er niet meer mee omgaan. Schrijven en onderzoeken is dat leerproces van kliffen overwinnen. "I'm in the process of trying to use less of AI."
+
+**17:07 -- Kwaliteitscompromis bij tijdsdruk**
+Concreet voorbeeld: Euroma conference proposal -- te weinig tijd voor feedback van supervisors. Stap overgeslagen. Acceptabel voor conferentiepaper, niet voor hoofdpaper. "That's deadline and expectation management."
+
+**21:16 -- Wat gaat er fout**
+AI inconsistent met sessiehistorie. Specifiek gevaar: presentaties voorbereid met AI, stof niet goed doorgenomen, dan kon hij vragen niet beantwoorden. "This was a moment where I could have done it myself better and faster."
+
+**23:19 -- Magische stagiair**
+Sterkste antwoord: data-collectie voor zijn volgende paper. Prospects zoeken, benaderen, relaties opbouwen, interviews afspreken op basis van zijn agenda, masterfile bijhouden. "From October/November until February" -- dat kostte het meeste tijd. En: voor persoonlijke interviews naar Flevoland rijden voor één boer.
+
+**25:18 -- Toolkit check**
+Claude, Word, Obsidian, Draw.io, Zotero (met auto-fill extensie -- "saves hours and hours"), Notion voor taken.
+
+---
+
+## Gestructureerde Q&A
+
+**Tijdsbesteding:**
+Reviewen van documenten (eigen werk + studentwerk). Reizen voor PhD-interviews.
+
+**Digitale toolkit:**
+Claude (met custom modes), Word, Obsidian, Draw.io, Zotero, Notion.
+
+**Wat werkt goed:**
+- Custom Claude-modes voor verschillende soorten feedback
+- PDF met commentaar in Claude voor gestructureerde verwerking
+- Zotero met auto-fill extensie (bibliografie)
+- Exploratief patronen herkennen in transcripten
+
+**Wat werkt niet:**
+- AI voor grote stukken tekst (inconsistent, houdt één woord vast)
+- AI voor iets wat je zelf niet kunt beoordelen
+- Presentaties met te veel AI-input -- dan kun je vragen niet beantwoorden
+
+**Bewust terughoudend:**
+Maxime is actief bezig om AI minder te gebruiken. Metafoor: AI als water in meer met kliffen -- je leert de kliffen niet meer navigeren.
+
+---
+
+## Radartjes
+
+| # | Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid |
+|---|---|---|---|---|---|---|
+| 1 | Data-collectie PhD | Prospects zoeken, benaderen, afspreken en masterfile bijhouden voor interview-dataverzameling | Onderzoeksdomein + doelgroepomschrijving + agenda | Contactenlijst + ingesplande afspraken + bijgewerkte masterfile | Projectmatig (intensief: okt -- feb) | Laag |
+| 2 | Feedback verwerken | PDF met reviewcommentaar samenvatten en opsplitsen in werkbare chunks per sectie | PDF document met supervisor-opmerkingen | Gestructureerd overzicht van feedback per sectie | Per draft cycle | Intern |
+| 3 | Interview scheduling | E-mails voor inplannen, herplannen en bevestigen van interviews + reiscoördinatie | Agenda + contactgegevens respondenten | Bevestigde afspraken in agenda | Per interview (x ~30) | Laag |
+| 4 | Kwalitatieve transcriptanalyse | Patronen en betekenisvolle fragmenten destilleren uit interviewtranscripten | Interviewtranscript | Gestructureerde fragmenten per thema + voorlopige observaties | Per interview | Intern |
+
+---
+
+## Letterlijke signalen
+
+- "The data collection for my next paper -- finding prospects, reaching out to them, building relations, setting up interviews." (magische stagiair)
+- "I try to never have AI do something that I couldn't do myself, because then I can see what's wrong."
+- "Sometimes it will even be slower to do the entire process with AI than to just do it yourself."
+- "If AI does too much, then you can't answer questions in real life."
+- "I'm also in the process of trying to unuse, to use less of AI in those days."
+- "You do not see some of these cliffs and you do not learn -- which is what writing and researching is about." (over boot/meer-metafoor)
+- Over Zotero: "I would say that saves me like hours and hours."
+
+---
+
+## Nog niet oplossen
+
+- Persoonlijk reizen naar respondenten (boerenbedrijven) -- bewuste keuze, Maxime vindt het waardevol om bedrijf te zien
+- Volledig kwalitatief coderen van interviews -- doet hij intentioneel exploratief
+- AI voor grote schrijftaken -- bewust terughoudend vanwege leerdoelen PhD
+
+---
+
+## Samenvatting voor weekupdate
+
+**Maxime Bouillon** is senior onderzoeker en PhD-kandidaat Business Design / Supply Chain. Meeste tijd kwijt aan de iteratieve schrijfcyclus van zijn eerste paper: reviewen, feedback verwerken, herschrijven. Hij is geavanceerder met Claude dan de meeste collega's: heeft zelfgemaakte modes in zijn system prompt (Reviewer 2, Brainstorm, Supervisor/Socratic, Coach) en gebruikt Claude om reviewcommentaar uit PDF-exports te structureren. Sterkste radartje: de administratieve last rondom zijn interviewdatacollectie (30 interviews voor PhD -- prospects zoeken, outreach, scheduling, masterfile bijhouden kostte hem van oktober tot februari). Opvallend: Maxime is bewust bezig om AI minder in te zetten na de les dat je kliffen niet meer leert navigeren als AI altijd het water erbij gooit. "I'm in the process of trying to use less of AI."
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie uit Teams-opname. Spreker 1 = Chris Verhoef. Interview gevoerd in het Engels.*
+
+**Spreker 1 (0:03):** This is a test. Yeah, it works. Good. All right. So hello, Maxime. So the objective of today is to find possible digitalization options, not just AI options, but possible new digitalization options for the entire lecture. And I'm interviewing everybody to see what they're doing and how there could be possible small, small innovations that could really power charge us as a group. So considering that, could you tell me a little bit about your role and how many days you actually work for the Electronat?
+
+**Maxime Bouillon (0:55):** Maxime, I'm a senior researcher for business design for the supply chain. I work. Factual, like contractually 40 hours a week, factual leave 36 hours. Three days of which, so 24 hours of which are for my research, my PhD project, and the rest being spread out around the version hackers. A project with other universities and teaching times, like the master system transition and mentoring that I do for GPCM.
+
+**Spreker 1 (1:33):** Okay. And if you look at the last, let's say, two weeks, looking back at what you've done, could you then tell me what did cost you the most amount of time? In real world, real world hours.
+
+**Maxime Bouillon (1:56):** Traveling.
+
+**Spreker 1 (2:00):** Traveling, yes, but for the actual work. Okke.
+
+**Maxime Bouillon (2:06):** I go to interviews, so travelling is actually work to me, sorry. The last two weeks of time, that will have to be reviewing documents.
+
+**Spreker 1 (2:10):** Okke.
+
+**Maxime Bouillon (2:22):** That I wrote, or that people wrote. And giving feedback on these documents or processing the feedback on the documents that I wrote. So either I receive documents like thesis from students and I have to go through it and grade it or give feedback to it or I write stuff and people comment it and based on this comment I have to adapt it, change it, rewrite it, whatever.
+
+**Spreker 1 (2:51):** Okay, but these are not documents that you write.
+
+**Maxime Bouillon (2:53):** Yeah, some of the like the first are documents that students write that I have to give feedback on and grades. The second are the ones that I write, like for my research, like research proposal, article, whatever, and then I send it to my supervisors like Luca and he gives feedback on it and I have to then go through the feedback and see, okay, what do I need to change? That's most of my time.
+
+**Spreker 1 (3:16):** Okke. If we can zoom in on the documents that you write, how does that look?
+
+**Maxime Bouillon (3:22):** Yeah. How does what look?
+
+**Spreker 1 (3:27):** How does the process look to forming that document?
+
+**Maxime Bouillon (3:37):** Uh, you have to be a bit more specific here, like...
+
+**Spreker 1 (3:38):** Okay, okay, so you do research, right? These are research documents that you're writing. It's for your PhD, right? So could you go a little bit like steps through what you actually do?
+
+**Maxime Bouillon (4:07):** Yeah, it's not really a linear process. It's a very exploratory process because, I mean, first and foremost, there's not one way of doing research. And even in my approach, I take different ways at different times.
+
+**Maxime Bouillon (4:26):** Um... The paper that I'm writing right now, my first paper, it's the result of like two years of work almost, with many iterations. On the one hand, a lot of data collection. So like we picked a case and we figure out is this case good? Yes, so then I started doing interviews on it. Now I have about 30. And next to picking the case, you start gathering data and then you're asking yourself, okay, so what are these data saying that is interesting to me? And what is there that is intriguing about it? What is there that we don't understand that theory says something about it, but we see something else. Which means that in parallel, what we did is that we also read a lot of different theories.
+
+**Maxime Bouillon (5:26):** Or different articles, papers, mostly in one field, but like the fields of operations and supply chain management, but then like a lot of different subfields within this field, trying to understand what is everybody saying about the kind of topics and themes. And based on what we could make of the current discourse, then we are able to say, okay, current theories or current discourse is a, like, for example, when a business decides to make an impact, it should devise its strategy and spread it around to its suppliers. That's one current discourse. What we see is that in our network, there is no such thing because there is no one party that is dominant. And every single little business has its own strategy. Or its own definition of what being sustainable means. So then what we see is that there is a big diversity in sustainability across the network. So then right now we have to make an argument of this is what we see. And the process is basically, all right, so based on the data that we've collected, what kind of result could we write? Based on the result that we have, what kind of literature review do we have? It's very back and forth, and also not even back and forth because you don't even go back to the same steps all the time. But it's a very iterative process.
+
+**Spreker 1 (7:01):** Okay, very good. And this data analysis and gathering of sources, you do mostly in Word or do you use any tools for this?
+
+**Maxime Bouillon (7:16):** Uh. Mostly in Word. I use also Obsidian sometime for note taking during meetings. And I'll use some Draw.io when I want to map stuff. And I'll use Claude when I want to rewrite, paraphrase, draft stuff.
+
+**Spreker 1 (7:49):** Okay, so you use Claude only for rewriting.
+
+**Maxime Bouillon (8:00):** I use it for a bit of everything, actually. Are you still here? You're frozen.
+
+**Spreker 1 (8:09):** Ohh.
+
+**Maxime Bouillon (8:10):** Yeah. So I was saying I use it for a few things. I am definitely not one of the most maxed out users, but I am a bit beyond the beginner user. I've set up some modes and there will be different modes such as like reviewing a section of a paper, so it's a Reviewer 2 mode and this will be very harsh. I have a brainstorm mode when I'm thinking of an idea and I want some feedback. I have a colleague mode or supervisor mode which is a bit more like a Socratic sort of dialogue where I'm trying to figure out things. I have different modes for different tasks, basically.
+
+**Spreker 1 (9:02):** When you mentioned modes, I'm confused. What do you mean? Like agents or?
+
+**Maxime Bouillon (9:07):** No, no, in Claude when you have your instructions, your profile instructions, I put in there modes and definitions of it. And then basically, at the start of every single session, it asks me what kind of mode should I take.
+
+**Spreker 1 (9:14):** Yes. Ohh, okay, okay, so you give him, yeah.
+
+**Maxime Bouillon (9:30):** And for example, I also just started a training program and I created a coach mode. And this is a mode that's more like versed in sports theory and stuff that can guide me into these things. So the Reviewer 2 mode is written to be like very harsh and to look at the structure of an entire text, this kind of thing.
+
+**Spreker 1 (9:57):** Interesting.
+
+**Maxime Bouillon (9:57):** I can send you the excerpt of it if you like.
+
+**Spreker 1 (10:00):** All right, it would be interesting to see what you do, yes, and how you do it. Okay, and how much time would you say that you're busy with, for example, reviewing or gathering data?
+
+**Maxime Bouillon (10:17):** That's two different things.
+
+**Spreker 1 (10:18):** Yeah, yeah, so I'm trying to measure.
+
+**Maxime Bouillon (10:25):** Yeah, I'm trying to determine how much each step or part of the process takes me, right, to try and see which part of it can I accelerate the most, right, which has the most potential.
+
+**Maxime Bouillon (10:44):** I'm really uncertain and I'm not sure if I'm the best to answer because I'm a beginner PhD researcher. In the paper that I write for my PhD, it's a very non-efficient process, if anything. I've been through the same stages several times and I've been feeling that I was there several times only to get harsh feedback that was questioning everything several times. So I really cannot tell you how much time I've spent on everything. I can tell you, like I've done around 30 interviews. For every single interview, you have to take some time for making it happen, which means a few emails, a few scheduling stuff. Sometimes it's canceled, so then you have to reschedule. And then you have to, because I'm a very in-person person, so I like to do my interviews in person. So then it means going to a farm in Flevoland or in Assen or wherever. But I really like it also because I like to see the business for myself.
+
+**Maxime Bouillon (12:09):** And then as the interview is done, well, of course you do the interview, so that's your half hour, one hour. And then you have to go through the transcripts and code it. I'm not there at coding it because I'm doing kind of an exploratory pass on the transcript and I'm kind of seeing like what are the patterns that I see and then based on the patterns I take quotes and based on the quotes that I have I try to draft some preliminary results and then I'll do the coding. So it's once again very iterative.
+
+**Spreker 1 (12:34):** You mentioned coding, but this is not programming.
+
+**Maxime Bouillon (12:38):** It's interview coding, which means that you go through the interview and you spot specific terms or groups of terms that will mean a specific thing and that will enable you to basically tell that your interviewee is saying a specific thing.
+
+**Spreker 1 (12:59):** Okay. And would you say that that part takes a lot of time or not a lot of time?
+
+**Maxime Bouillon (13:08):** Not a lot of time. Because I have not done a lot of it just yet, because I've basically analyzed my interviews high level, picked up specific sentences high level, and based on these bits, I drew some conclusions. Which is once again one of the many ways of analyzing interviews.
+
+**Spreker 1 (13:35):** Okay, what workarounds have you found or used to make some parts of your work easier?
+
+**Maxime Bouillon (13:50):** Ohh. You mean at all, or in relation to some?
+
+**Spreker 1 (14:01):** Yeah, yeah, and I can give you an example because we've worked together and now I know one of these, right? The grading sheet for the VCH hackers, that's a tool that we have used to make that process faster and easier.
+
+**Maxime Bouillon (14:14):** Sure. Sure, if that's the bar. Okay. Yeah, I mean, I use workarounds all the time. I create some small Excel files or things to make my life easier all the time, so it's difficult to pick one.
+
+**Maxime Bouillon (14:31):** Like one example related to AI is that I will sometimes receive a bunch of feedback and it's a lot because it's like the best way to give feedback when you read the document is to go through the documents and to do 2 passes. You do one pass where you comment every single bit and then you leave comments when there's a mistake, or when something doesn't make sense, or when you don't get something. And then you go another pass where you give comments more on the section. So like there is the intro and you can say something about the intro, there is the results, you can say something about the results and so on. Which means that as a writer, when you receive feedback, it's very disorganized. There's a lot of everything. So what I've done is that I've taken such a paper, exported it to PDF, then you see the comments. Brought it through Claude, then you see it all and say, all right, go supervisor mode and summarize the feedback, cut it into chunks so that we can tackle it together, and then I'll go through it together.
+
+**Spreker 1 (15:39):** Cool. Did you try some things with AI that didn't work?
+
+**Maxime Bouillon (15:52):** Yeah, all the days, every day, yeah, all the time. It's like... I would say it's beyond hallucinating, it just... It doesn't keep track enough. Still, it's much better than it was, say, two or three years ago. You can have much longer conversations, but you do still need to... Like my rule of thumb is I try to never have AI do something that I couldn't do myself, because then I can see what's wrong. And I've tried in the past something that I didn't know how to do, and then I wasn't able to spot the mistakes.
+
+**Spreker 1 (16:33):** Like, like, like what?
+
+**Maxime Bouillon (16:35):** Like writing a big chunk of text and then it doesn't make sense. And that's like it's very good at very specific things, but for more... Like you have to really guide it to help you. And sometimes I even realize these days, sometimes it will even be slower to do the entire process with AI than to just do it yourself. It has come to that because of how you have to guide the AI doing stuff.
+
+**Spreker 1 (17:07):** Very common thing to know. If you're in a rush, what do you leave out?
+
+**Maxime Bouillon (17:17):** Where?
+
+**Spreker 1 (17:17):** So in your, I would say that the most of your time is directed to your PhD, right? So deadline approaches. What do you start to compromise on?
+
+**Maxime Bouillon (17:41):** On my research work. I mean, the way I see it, research work is something that can never be perfect or done. This also means that there is no limit to it.
+
+**Spreker 1 (18:01):** Exactly.
+
+**Maxime Bouillon (18:02):** And there is always something that can be done better, that can be improved. So when there's not enough time, I just do less work. It's less perfect. I am less thorough.
+
+**Spreker 1 (18:10):** So when it comes to interview transcribing or data collection or...
+
+**Maxime Bouillon (18:17):** So, like... I'll just process less of the feedback, for example. I'll just take less time to structure a document. I'll just, like, I have a concrete example from last week actually. I had to send a research proposal to Euroma for a conference. And I was late with it and I didn't have enough time to write it and I didn't have enough time to get feedback on it. I would have needed one more week to send it out to my supervisors for them to give feedback on it and for me to process this feedback. I've not done that step. Which is not good and advisable.
+
+**Maxime Bouillon (19:22):** And that's forgivable because for a conference article, it doesn't really matter. I mean, anybody could do one. You could write an article for a conference and be accepted. It's really, without any research background, you can write something and still be accepted. But this is a compromise I won't want to do when I submit my actual paper. So that's like, it's expectations and deadline management, basically.
+
+**Spreker 1 (20:05):** Okke. What goes wrong -- so you mentioned a couple of times that you had negative feedback on your proposal, for example, what is it that goes wrong? What are some of the things that go wrong?
+
+**Maxime Bouillon (20:30):** With AI.
+
+**Spreker 1 (20:32):** For example.
+
+**Maxime Bouillon (20:35):** Eh. It's not consistent. And it's sometimes... It focuses too much on one specific piece. Say, if you don't pay attention to how you frame your requests, it will pick a specific word or sentence and use it as a key to everything and make your entire document about this one thing.
+
+**Spreker 1 (20:52):** Yeah.
+
+**Maxime Bouillon (21:08):** And it's not consistent with the entire history of the thing. It's consistent with the one specific chat moment request that you have at this time. And then what also goes wrong is that... If AI does too much, then you can't answer questions in real life. And I've done that also.
+
+**Spreker 1 (21:38):** What do you mean?
+
+**Maxime Bouillon (21:40):** Like, for example, I've prepared some meetings, preparing presentations with AI, and then there was some stuff that I didn't review enough, and then people asked a question about it and I wasn't able to answer because I didn't review it enough. Once again, this was a moment where I could have done it myself better and faster almost.
+
+**Spreker 1 (22:00):** Yeah, that points towards the cost of error that is quite high.
+
+**Maxime Bouillon (22:15):** There was this great diagram some time ago at 2022-23 about students using AI, and it's like this hilly lake cliff with a boat in it, and it's like AI is basically putting water in it, and then you don't see any issue anymore.
+
+**Spreker 1 (22:31):** Mmh.
+
+**Maxime Bouillon (22:37):** But the thing is that when AI is not there anymore, then you have all of the cliffs and you are not able to face them anymore. And I think that's a good metaphor because writing, for my case, but doing anything is basically this kind of healing process where you have to sometimes face stuff that you've never faced before, but then you learn to face them and then you could. But using AI too much, and sometimes I do, I do not see some of these cliffs and I do not learn, which is what writing and researching is about. So I'm also in the process of trying to use less of AI in those days.
+
+**Spreker 1 (23:19):** Okay. I know that we're close to time, so I'm going to ask you one more question. Let's imagine there is an intern that you have and it doesn't have a specific assignment. Its only job is to make your job easier. What would you have it do? So obviously you can't give it too much responsibility because it's still an intern, right? But it could do some basic things that take you a lot of time.
+
+**Maxime Bouillon (24:03):** The data collection for my next paper.
+
+**Spreker 1 (24:05):** Okke.
+
+**Maxime Bouillon (24:06):** Like finding out prospects, reaching out to them, building relations. Setting up interviews according to my agenda, keeping track of everything because I also have this master file with all of my interviews in it. So setting up this kind of file and keeping it up to date, that's really what took me a lot of time in the winter, say, like from October. November until February.
+
+**Spreker 1 (24:42):** Yes, I can imagine that scheduling interviews also costs people a lot of time.
+
+**Maxime Bouillon (24:48):** And you do them online, half an hour. I have to go somewhere to interview one farmer.
+
+**Spreker 1 (24:55):** Yes, so I can imagine the struggle really. OK, last bonus question, just to make sure that I got everything. Can you list me the tools that you're using? So, you mentioned so far, you're using Claude, you're using Word, you're using Obsidian.
+
+**Maxime Bouillon (25:18):** Yup. Draw.io. Zotero.
+
+**Spreker 1 (25:21):** Zotero, okay.
+
+**Maxime Bouillon (25:27):** And I have this extension that automatically fills in the bibliography. I would say that saves me like hours and hours, I think.
+
+**Spreker 1 (25:36):** It's cool.
+
+**Maxime Bouillon (25:38):** Notion still. I basically have Notion for my tasks and Obsidian for my notes. Yeah, that's on a daily basis, that's it, besides of course Firefox and this office suite. Yeah.
+
+**Spreker 1 (25:58):** Okay. OK, OK, noted. Then I would like to thank you very much for your time. You will be receiving a full transcript of this with all of the learnings and you will be integrated into the dashboard. I don't know if you're taking a look of that and stuff like that, but this interview has been very useful. Thank you very much.
+
+**Maxime Bouillon (26:05):** You're welcome. Cool. Thank you. Take care. Bye bye.
+
+**Spreker 1 (26:21):** Bye-bye.
+
+*Chris Verhoef heeft de transcriptie gestopt.*
