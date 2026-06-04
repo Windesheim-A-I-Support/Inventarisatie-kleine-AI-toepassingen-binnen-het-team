@@ -78,3 +78,10 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Claude,AI/LLM,Administratieve taken + data-analyse + uren,Regelmatig,Hoog,Steeds meer; gebruikt met gepseudonimiseerde data; ook voor benchmarking visualisaties
 2026-06-01,Ronald,Projectmanager / onderzoeker / docent,Perplexity,AI/LLM,Literatuuronderzoek en bronverificatie voor bedrijfspresentaties,Regelmatig,Hoog,"Echt veel betrouwbaarder dan ChatGPT voor bronnen"
 2026-06-01,Ronald,Projectmanager / onderzoeker / docent,NotebookLM,AI/LLM,Boeken als podcast beluisteren + vragen stellen aan document,Incidenteel,Hoog,"Heel leuk" -- man en vrouw die over boek praten; kan inbreken met vragen
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Claude,AI/LLM,Rewriting + parafraseren + feedback verwerken + brainstormen via custom modes,Regelmatig,Hoog,"Custom modes in system prompt: Reviewer 2 (kritisch), Brainstorm, Supervisor/Socratic, Coach"
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Word,Documenten,Papers en proposals schrijven voor PhD,Dagelijks,Hoog,Primair schrijfinstrument
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Obsidian,Andere,Notities tijdens meetings,Regelmatig,Hoog,Naast Notion voor taken
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Draw.io,Andere,Mapping en diagrammen maken,Regelmatig,Hoog,Voor visueel uitwerken van ideeën
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Zotero,Literatuur,Bibliografie bijhouden met auto-fill extensie,Regelmatig,Hoog,"Saves me hours and hours -- automatische bibliografieinvoer"
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Notion,Projectmanagement,Taken bijhouden,Dagelijks,Middel,Voor taken; Obsidian voor notities
+2026-06-02,Maxime,Senior researcher / PhD-kandidaat,Microsoft Teams,Communicatie,Vergaderen en samenwerken,Dagelijks,Neutraal,Standaard Windesheim
