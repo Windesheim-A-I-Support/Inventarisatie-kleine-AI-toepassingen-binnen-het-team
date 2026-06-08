@@ -1,0 +1,577 @@
+---
+title: "Interview: Christiaan de Goeij"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Christiaan de Goeij
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-08 |
+| Collega | Christiaan de Goeij |
+| Rol | Onderzoeksproject manager, lectoraat Supply Chain Finance |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 30 minuten 42 seconden |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Word | Documenten | Subsidieaanvragen en teksten schrijven | Dagelijks | Hoog | Primair schrijfinstrument |
+| Excel | Documenten | Begrotingen subsidies invullen | Per aanvraag | Neutraal | Standaard format van subsidiegever |
+| PowerPoint | Documenten | Presentaties maken | Wekelijks | Hoog | Halve dag per deck; wekelijks ergens presentatie |
+| OneDrive | Documenten | Bestandsopslag en samenwerken | Dagelijks | Neutraal | |
+| Teams | Communicatie | Vergaderen | Dagelijks | Neutraal | |
+| ChatGPT | AI/LLM | Subsidie schrijven, lingo afstemmen, presentaties, nieuwsartikelen | Regelmatig | Middel | Heen-en-weer kopiëren; altijd eerst anonimiseren; wisselende kwaliteit |
+| Claude | AI/LLM | Incidenteel schrijven | Incidenteel | Neutraal | "Een klein beetje Claude" -- nog weinig gebruik |
+| PDF | Documenten | Beleidsdocumenten subsidiegevers lezen | Regelmatig | Neutraal | Publiek beschikbaar; gooit ze in ChatGPT |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Survey it tools-20260608_102954`. Totale duur: 30 minuten 42 seconden. Gestart op 8 juni 2026, 08:29. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Christiaan heeft het druk: grote deadline 26 juni, schrijftaken combineren met regelwerk. Chris belt vanuit Frankrijk.
+
+**3:13 -- Rol bij Windesheim**
+4,5 dagen/week, grotendeels voor lectoraat. Klein beetje onderwijs (4-8 uur/week, uitgehuurd vanuit lectoraat). Zelfomschrijving: "Onderzoeksproject manager -- dat dekt de lading het beste." Inhoudelijke koersbepaling op het thema (supply chain + werkkapitaal), maar ook regelen: Drive, overleggen, contracten laten ondertekenen, studenten zoeken.
+
+**4:24 -- Tijdsbesteding afgelopen week**
+Vorige week meeste tijd aan schrijven van nieuw projectvoorstel. Kern van het probleem: aansluiten bij doelen en vereisten van meerdere subsidiegevers tegelijk.
+
+**5:18 -- Subsidie schrijven: lingo-probleem**
+Subsidie van ministerie IenW, via TKI Dinalog, topsector logistiek. Elk heeft eigen agenda en eigen terminologie. Lectoraat heeft eigen thema (supply chain + werkkapitaal). Overlap is groot, maar als je de verkeerde woorden gebruikt herkennen lezers het niet. "Infrastructuur en Waterstaat heeft het niet over supply chain maar over logistieke systemen." Kern is dus: strategisch nadenken over hoe je hetzelfde concept zo formuleert dat meerdere doelgroepen zich erin herkennen.
+
+**7:31 -- Gebruik van ChatGPT bij subsidie schrijven**
+Beleidsdocumenten zijn publiek en gooit hij erin. Maar: schrijft altijd zelf zijn ideeën eerst uit. "Anders komt er weinig uit." ChatGPT pas in later stadium, om ideeën te toetsen. Grootste tijdverlies: oude voorbeeldprojectplannen schoonmaken voor gebruik -- namen van organisaties en personen eruit halen. "Best wel een tijd kwijt om dat goed te checken. Dubbelchecken." Wil het strategische deel en de inhoud niet uit handen geven.
+
+**9:05 -- Privacy-bewustzijn**
+Vergelijkt zijn aanpak met Hendrik (nooit iets in cloud) en Mira (alleen alinea's). Zelf iets pragmatischer maar nog steeds voorzichtig. Noemt voorbeeld van iemand die in AI-beleidsvergadering de opname direct in ChatGPT gooide, inclusief alle namen. En interviewtranscripten met namen erin. Vindt dat zorgelijk. Bevestigt dat Microsoft/OneDrive al alles indexeert. IP-aspect telt ook mee: "Je stopt je eigen ideeën erin en die halen zij er gewoon uit."
+
+**12:00 -- Werkwijze: heen-en-weer kopiëren**
+Werkt via copy-paste tussen Word en ChatGPT. Gebruikt wel instructies (context meegeven: wie je bent, wat je wilt). Maar nog geen geïntegreerde workflow.
+
+**13:25 -- Presentaties maken**
+Wekelijks ergens een presentatie gegeven. Schat dat hij een halve dag per deck kwijt is. Boodschap bijschaven, volgorde bepalen, binnen tijd blijven, goede plaatjes, terminologie afstemmen op doelgroep. Gebruikt ChatGPT om bullet points te genereren en tekst terug te brengen. Werkt goed voor vereenvoudigen van boodschappen.
+
+**13:25 -- Wat werkt niet**
+Op academisch paper-niveau kan ChatGPT niet meekomen. "Je bent niet bezig met vereenvoudigen maar met zo correct en genuanceerd mogelijk iets opschrijven maar toch patronen zien te vinden. Dat is heel moeilijk." Heeft niet veel aan ChatGPT voor journal papers.
+
+**22:31 -- Survey-analyse: Greg gaat weg**
+Collega Greg doet periodieke cash- en pouch pay monitor (survey-analyse). Greg gaat eind van de maand weg. Analyse werd gedaan met ChatGPT + geanonimiseerde data -- "ging echt verrassend goed." Deze taak moet worden overgedragen en mogelijk vaker (2x/jaar) herhaald. Christiaan ziet hier de grootste kans voor AI-hulp: "Ik denk dat de hulp van AI veel groter is bij zo'n data-analyse."
+
+**23:41 -- Magische stagiair**
+Meest concreet: data-analyse (zoals Greg's survey-analyse). Subsidie schrijven wil hij niet uit handen geven.
+
+**27:23 -- Tip van Chris: context-switching**
+Chris legt uit dat copy-paste workflow veel tijd kost door context-switching. Christiaan herkent dit: "Dat is goed, heb je een goed punt. Dat klopt." Vraagt of Chris een keer een groepsdemo kan geven over hoe je context-switching voorkomt.
+
+---
+
+## Gestructureerde Q&A
+
+**Tijdsbesteding deze week:**
+Subsidie schrijven (projectvoorstel aansluiten op meerdere subsidiegevers). Normaal ook: presentaties (wekelijks), nieuwsartikelen, lopend onderzoek.
+
+**Digitale toolkit:**
+Word, Excel, PowerPoint, OneDrive, Teams. ChatGPT regelmatig voor schrijfondersteuning. Claude minimaal.
+
+**Wat werkt goed:**
+- ChatGPT voor vereenvoudigen van boodschappen (nieuwsartikelen, bullet points)
+- Presentatie-ondersteuning: volgorde, tussenkoppen, beknopten
+- Beleidsdocumenten als context meegeven aan ChatGPT
+- Greg's aanpak: survey-analyse met geanonimiseerde data "verrassend goed"
+
+**Wat werkt niet:**
+- ChatGPT op academisch paper-niveau (genuanceerd, patroonherkenning)
+- Nieuwe inhoudelijke ideeën laten genereren -- moet van jezelf komen
+- Documenten cleanmaken voor AI-gebruik kost veel extra tijd
+
+**Gedeelde workarounds:**
+Werkt soms samen met Luca en Ronald aan subsidies. Ongeveer dezelfde werkwijze. Ronald gebruikt Claude wat meer (IT-achtergrond).
+
+---
+
+## Radartjes
+
+| # | Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid |
+|---|---|---|---|---|---|---|
+| 1 | Subsidie schrijven | Terminologie afstemmen: eigen concepttekst herschrijven in de lingo van meerdere subsidiegevers | Beleidsdocumenten IenW/TKI/topsector + concepttekst (geanonimiseerd) | Tekst met de juiste terminologie per doelgroep | Per aanvraag | Hoog (IP + strategie) |
+| 2 | Presentaties maken | Conceptuele boodschappen omzetten naar geordende slide-inhoud | Kernboodschappen + onderbouwing per slide | Volgorde, bullets en tussenkoppen voor presentatie | Wekelijks | Laag |
+| 3 | Survey-analyse (overdracht Greg) | Periodieke cash- en pouch pay monitor herhalen na vertrek Greg | Geanonimiseerde survey-data | Analyse + rapport/overzicht | 2x per jaar | Laag (na anonimisering) |
+| 4 | Nieuwsartikelen schrijven | Onderzoeksresultaat vereenvoudigen naar kort nieuwsartikel | Langere tekst of onderzoeksresultaat | Nieuwsartikel van ~2 pagina's met pakkende koppen | Regelmatig | Laag |
+
+---
+
+## Letterlijke signalen
+
+- "Welke woorden je krijgt moet gebruiken om ervoor te zorgen dat iedereen die dat leest van die twee verschillende groepen dat kan zeggen, nee, dit is ook iets van ons." (lingo-probleem subsidie)
+- "Best wel een tijd kwijt om dat goed te checken. Dubbelchecken." (documenten anonimiseren voor AI)
+- "Op academisch paper niveau kan hij niet meekomen." (ChatGPT-beperking)
+- "Voor nieuwsartikelen vind ik hem echt wel goed." (ChatGPT sterk in vereenvoudigen)
+- "Ik denk dat ik wel echt een halve dag bezig kan zijn met het maken van slides."
+- "Ik denk dat de hulp van AI veel groter is bij zo'n data-analyse." (survey-analyse Greg)
+- "Stopt er wel je eigen ideeën en dergelijke in, waar zij ja." (IP-bewustzijn)
+
+---
+
+## Nog niet oplossen
+
+- Subsidie-inhoud volledig delegeren aan AI (wil zelf regie houden over strategie en ideeën)
+- Journal papers schrijven met AI (nog niet op niveau)
+- Geïntegreerde workflow in Word (copy-paste is huidig pijnpunt maar geen prioriteit voor hem zelf)
+
+---
+
+## Samenvatting voor weekupdate
+
+**Christiaan de Goeij** is onderzoeksproject manager bij lectoraat Supply Chain Finance (4,5 dagen/week). Zijn voornaamste uitdaging is het aansluiten van subsidieaanvragen bij de agenda van meerdere financiers tegelijk -- ministerie IenW, TKI Dinalog en topsector logistiek gebruiken elk andere terminologie voor grotendeels overlappende thema's. Hij gebruikt ChatGPT al voor lingo-afstemming en presentatieondersteuning, maar werkt via heen-en-weer kopiëren en besteedt extra tijd aan het anonimiseren van documenten voor gebruik. Sterkste radartje naast presentaties: de periodieke survey-analyse (cash- en pouch pay monitor) die collega Greg nu doet maar na zijn vertrek overgedragen moet worden. Greg deed dit al met ChatGPT en geanonimiseerde data -- "ging verrassend goed." Christiaan ziet daar de meeste waarde. Vraagt om een groepsdemo over hoe je context-switching voorkomt.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie uit Teams-opname. Spreker 1 = Chris Verhoef.*
+
+**Christiaan de Goeij (1:20):** Hé goedemorgen. Goedemorgen. Oh wacht, ik heb geen geluid.
+
+**Spreker 1 (1:23):** Hé goedemorgen.
+
+**Christiaan de Goeij (1:31):** Geen geluid, geen geluid. Nog een keer proberen, ja.
+
+**Spreker 1 (1:35):** Ga je me horen.
+
+**Christiaan de Goeij (1:41):** Ja goedemorgen. Ja, nu wel.
+
+**Spreker 1 (1:43):** Goedemorgen je was hier bij de stand up, want we hadden happened.
+
+**Christiaan de Goeij (1:47):** Drukte man niet normaal?
+
+**Spreker 1 (1:50):** Nou.
+
+**Christiaan de Goeij (1:50):** De 26 juni hebben we de grote deadline. Is ja combineer een beetje schrijftaken met heel veel regelwerk dat die twee dingen gaan nooit zo lekker samen.
+
+**Spreker 1 (2:01):** Nee, dat kan ik me voorstellen, dat kan ik me voorstellen.
+
+**Christiaan de Goeij (2:04):** Hoe is het ermee?
+
+**Spreker 1 (2:05):** OK, nou goed, ik zit lekker in Frankrijk, dus nou gaat wel goed.
+
+**Christiaan de Goeij (2:08):** Ik dacht al het zit uit als een vakantiehuisje waar je zou zitten.
+
+**Spreker 1 (2:12):** Ja precies. Dus ja nou ja, het is ook wel goed, denk ik van beetje tot rust komen. OK, maar dan ben ik blij dat en ik neem aan dat je dan niet veel tijd hebt, dus ik dan. Daar kunnen we maar gewoon even een in dankjewel voor je tijd.
+
+**Christiaan de Goeij (2:30):** Deze staat ingepland dus. Ja.
+
+**Spreker 1 (2:34):** OK dus nou daar is mij gevraagd om onderzoek te doen in de betere gebruik van digitalisering en AI tools. En daarvoor heb ik een survey opgesteld, dus ik ga bier 3 langs en dan ga ik het interview doen. Nou, OK, na afloop krijg je ook een hele rapportage ervan wat voor dingetjes het wordt. Dus dat gebruik ik om notities te maken en dat soort dingetjes.
+
+**Christiaan de Goeij (3:00):** OK.
+
+**Spreker 1 (3:00):** OK. Allebei nou, je zegt, je bent heel druk bezig, dat is mooi. Jij werkt 5 dagen in de week voor het lectoraat, toch?
+
+**Christiaan de Goeij (3:13):** Ja ja 4,5 ongeveer met een klein beetje onderwijs.
+
+**Spreker 1 (3:17):** OK ja nou maar maar wel volledig voor voor het lectoraat binnen zijn sowieso.
+
+**Christiaan de Goeij (3:18):** Soms volgend jaar.
+
+**Spreker 1 (3:24):** OK OK.
+
+**Christiaan de Goeij (3:24):** Ja vanuit lectoraat Windesheim word ik uitgehuurd aan onderwijs en soms is dat 4 uur per week, soms 8 uur per week.
+
+**Spreker 1 (3:31):** OK en, en wat zou jij zeggen dat je rol is bij Windesheim bij het lectoraat?
+
+**Christiaan de Goeij (3:40):** Onderzoeksproject manager, ik denk dat dat de beste lading dekt.
+
+**Spreker 1 (3:41):** OK.
+
+**Christiaan de Goeij (3:44):** Wat ja eigenlijk, wat ik net zei de ene kant inhoudelijk dus inhoudelijk koersbepaling op het thema. Maar ook ook wel best wel wat regelen met drive overleggen en contacten laten ondertekenen. Studenten zoeken. Is dat die combinatie, weet je?
+
+**Spreker 1 (4:04):** Ja. Nou, het is heel mooi dat je heel erg dan ga ik je vervelende vragen stellen, want ik heb niet zoveel of je moet hoeveel je het allemaal bijhoudt, maar je bent lekker bezig de afgelopen week, maar weet je het meeste tijd hebt kwijt geweest.
+
+**Christiaan de Goeij (4:24):** Even denken. Ja. Ik denk het het schrijven van -- we zijn bezig met een nieuwe projectvoorstel schrijven en daar om dat goed te laten aansluiten bij de doelen en vereisten van de subsidiegever. Daar ben ik het meeste tijd mee kwijt geweest.
+
+**Spreker 1 (4:41):** Ja. Aan de doelen en de eisen van de subsidieverschijnen. Ik heb al gesproken natuurlijk met Mira en Hendrik.
+
+**Christiaan de Goeij (4:47):** Ja.
+
+**Spreker 1 (4:53):** En Mira heeft mij laten zien hoe ze dan, hoe jullie dat adres voorschriften vanuit de subsidieverschrijver en. En daar moet je naar avond doen. Hebben we het hier over dat gedeelte?
+
+**Christiaan de Goeij (5:07):** Ja precies, dus je hebt wel bijvoorbeeld het is een subsidie van het ministerie van Infrastructuur en Waterstaat uit word ik door de topsector logistiek.
+
+**Spreker 1 (5:14):** Ja.
+
+**Christiaan de Goeij (5:18):** Infrastructuur en Waterstaat heeft de eigen documentatie en ja thema's die zijn belangrijk vinden. TKI Dinalog zit ertussen, die heeft weer hun eigen agenda. Topsectoren logistiek agenda en wij hebben weer ons eigen idee, dus dan moet je dat daar. Daar was ik vorige week heel veel tijd mee kwijt om te kijken hoe dat precies op elkaar aansluit.
+
+**Spreker 1 (5:25):** Ja.
+
+**Christiaan de Goeij (5:38):** Welke woorden je krijgt moet gebruiken om ervoor te zorgen dat iedereen die dat leest van die twee verschillende groepen dat kan zeggen, nee, dit is ook iets van ons. Dit is ook iets wat wij kunnen ja hacken.
+
+**Spreker 1 (5:49):** OK, dus het is het is niet alleen dat je de doelen moet laten aansluiten, zeg maar, maar je moet ook nog de juiste lingo gebruiken.
+
+**Christiaan de Goeij (5:59):** Ja, ja zeker, dat is een goed woord, de juiste lingo.
+
+**Spreker 1 (6:00):** OK. En als we inzoomen daarop, waarom kost dit zoveel tijd? Wat is het proces daarin dan?
+
+**Christiaan de Goeij (6:14):** Nou, we hebben. Je, je hebt zelf natuurlijk iets waar je voor ogen waar je denkt dat je goed in bent dat je een unieke positie hebt. Dus hebben we ook bij ons was dat supply chain. We zullen het maar dan met een koppeling aan het financiële stuk werkkapitaal en dat doet niemand verder, behalve wij dus daar hebben we een hele unieke positie en er zit veel aandacht op dit moment vanuit het bedrijfsleven op dat the.
+
+**Spreker 1 (6:38):** Ja.
+
+**Christiaan de Goeij (6:38):** Dus wij denken, wij pakken dat momentum en wij gaan dat gebruiken voor die call.
+
+**Spreker 1 (6:38):** Ja.
+
+**Christiaan de Goeij (6:43):** Maar die call heeft weer andere bewoordingen voor wat zij zoeken. Ze zijn geïnteresseerd maar meer met de agenda goederenvervoer in gedachten, dus meer transportachtige mensen werken bij Infrastructuur en Waterstaat, dus die hebben het niet over supply chain, maar die hebben het over logistiek, logistieke systemen. En eigenlijk zit daar heel veel overlap in, maar als je de verkeerde woorden gebruikt.
+
+**Spreker 1 (7:10):** Herkennen ze het niet? Ja.
+
+**Christiaan de Goeij (7:13):** Ja precies ja.
+
+**Spreker 1 (7:15):** Ik kan me dat voorstellen.
+
+**Christiaan de Goeij (7:15):** Dus het is heel, heel, heel strategisch nadenken over OK wat ja, hoe kan je het nou zo goed mogelijk laten aansluiten?
+
+**Spreker 1 (7:22):** En dit doe je in Word?
+
+**Christiaan de Goeij (7:25):** Nou ik schrijf in Word. Ja ja.
+
+**Spreker 1 (7:27):** Ja en, en gebruik je hier nog andere tools bij?
+
+**Christiaan de Goeij (7:31):** Ja ik probeer wel. Ja ik, ik gebruik wel een klein beetje ChatGPT natuurlijk met de beleidsagenda's dat zijn hele tekst documenten die gewoon publiek beschikbaar zijn.
+
+**Spreker 1 (7:38):** OK.
+
+**Christiaan de Goeij (7:43):** Dus die zou je, die kan je er gewoon in stoppen maar en zelf, ik probeer wel altijd met schrijven mijn eigen ideeën te beginnen, anders komt er weinig uit, is mijn ervaring dus zoveel mogelijk zelf. Maar de passagiers zijn maar de bestuurder en op een gegeven moment als je iets verder bent, dan heb ik wel baat bij ChatGPT om idee te toetsen, maar wat me best wel veel tijd kost is soms gooi ik voorbeeldprojectplan uit het verleden hè? Laat ik delen ervan, maar dat ik haal alle namen geloof ik al van organisaties en personen en best wel een tijd kwijt om dat goed te checken. Dubbelchecken.
+
+**Spreker 1 (8:01):** Ja.
+
+**Christiaan de Goeij (8:23):** Van hé gooi ik niet per ongeluk het verkeerde erin. Ja, dat is weer voorkomen natuurlijk. Dus je probeert een soort clean documenten te maken die AI-proof zijn. Daar zit wel eens wat ja wat tijd in, terwijl ik eigenlijk denk dat iedereen of iedereen persoon team ongeveer dezelfde projectplannen gebruikt als voorbeelden. Dus iedereen hebben we eigenlijk met hetzelfde zou moeten. Ik weet niet of ze het ook doen of ze ook netjes de naam eruit kan. Maar iedereen zou dezelfde documentatie er doorheen waarschijnlijk voor je.
+
+**Spreker 1 (8:29):** OK. Nou. Als je het interessant vindt? Iedereen die veel subsidie schrijft en dat soort dingetjes, die is heel erg terughoudend in het gebruik van AI.
+
+**Christiaan de Goeij (9:05):** Ja.
+
+**Spreker 1 (9:05):** En Hendrik wilde zelfs helemaal niet gebruiken als het als het in de cloud gaat, bijvoorbeeld dan dan Mira, die is ook heel erg van ik kan alleen alinea's geven en dat soort dingetjes met verder doe ik niet. En iedereen die geen onderzoek doet of geen subsidie schrijft, die gebruikt veel meer AI. Dus Ritsaart, Luca, die doen veel meer coderen.
+
+**Christiaan de Goeij (9:10):** Als het in. Ja.
+
+**Spreker 1 (9:32):** Dat soort dingetjes die gebruiken veel meer AI.
+
+**Christiaan de Goeij (9:33):** Ja.
+
+**Spreker 1 (9:35):** Dus ja, een klein inzichtje tussendoor.
+
+**Christiaan de Goeij (9:38):** Ben je dat direct? Ben je dat terecht dat zij dat niet doen, of.
+
+**Spreker 1 (9:42):** 100%.
+
+**Christiaan de Goeij (9:44):** Ja omdat die tekst je liever niet al die teksten, ja het is het is natuurlijk.
+
+**Spreker 1 (9:44):** 100% ja.
+
+**Christiaan de Goeij (9:49):** Intellectual property, van jezelf. Ja eigenlijk de inhoud gooit, is altijd, ja.
+
+**Spreker 1 (9:53):** Ja ja en er is een reden waarom het zo goedkoop is.
+
+**Christiaan de Goeij (9:59):** Ja. Ja nee snap ik.
+
+**Spreker 1 (10:07):** Het is misschien wel factor 15 de burn rates in vergelijking wat ze binnenkrijgen dus.
+
+**Christiaan de Goeij (10:12):** Ja snap ik ja, maar ja, het is IP. Die zullen we daar uithalen. Natuurlijk ja. Dus het gaat niet zozeer om gevoelige informatie, maar meer om je stopt er wel je eigen ideeën en dergelijke in waar zij ja.
+
+**Spreker 1 (10:18):** Dus. Ja en ook gevoelige informatie, hoor.
+
+**Christiaan de Goeij (10:28):** Heel veel langer.
+
+**Spreker 1 (10:32):** Je kan je, kan de experimenten runnen. Ik heb het wel gedaan als je de hele rare informatie instuurt of zoiets, dan krijg je mailtjes van OpenAI van hallo, wat ben je aan het doen? Dat mag niet. En het feit dat ze zo'n mail sturen, weet je dus oké, dus bij de rest kijk je ook gewoon mee.
+
+**Christiaan de Goeij (10:45):** Oh, kijk. Ja OK.
+
+**Spreker 1 (10:53):** Dus dus dus ja nee, 100% terecht hoor dat ze heel erg argwanend zijn en de.
+
+**Christiaan de Goeij (10:56):** Ja.
+
+**Spreker 1 (10:58):** Privacy goed in opnemen, maar oké.
+
+**Christiaan de Goeij (10:59):** En telt scripties. Sorry dat ik vraag -- tel scripties hè? Ik zie heel veel mensen bijvoorbeeld. Dat was nou leuk anekdote van Michiel, die zei OK, ze hadden het over AI beleid en dat heel veel wat allemaal niet mocht vanuit Windesheim, maar iemand in de meeting had het opgenomen die zei, ja, ik gooi het even voor ChatGPT. Gewoon met alle namen. En weet je, dat denk ik van, hé, daar zit. Hè of transcripties bij onderzoek. Als je interviews doet bijvoorbeeld en je gooit hem door ChatGPT en je laat hem analyseren, zitten er alle namen bij. Zo zitten er nog in.
+
+**Spreker 1 (11:34):** 100% nee en ook dit natuurlijk hè. Ik bedoel, Microsoft kijkt ook gewoon mee hè? Ik bedoel, Windesheim gebruikt.
+
+**Christiaan de Goeij (11:38):** Ja.
+
+**Spreker 1 (11:41):** De hele OneDrive is geïndexeerd inmiddels ook al, dus dat is niet meer tegen te houden, dus we hebben het eigenlijk al effectief. Maar OK, dat er zijn.
+
+**Christiaan de Goeij (11:54):** Ja.
+
+**Spreker 1 (11:55):** Laten we even terug gaan naar dit.
+
+**Christiaan de Goeij (11:57):** Ja is goed.
+
+**Spreker 1 (12:00):** Als je dan werkt met ChatGPT, ben je het heen en weer aan het kopiëren, doe je het op die manier of hoe moet ik het zien? Laat je hem ook echt in je document werken?
+
+**Christiaan de Goeij (12:13):** Ja, ik ben, ik ben een heen weer aan het kopiëren, denk ik. Ja, ja.
+
+**Spreker 1 (12:16):** Ja en gebruik je dan de instructiebestand?
+
+**Christiaan de Goeij (12:25):** Instructietaal.
+
+**Spreker 1 (12:27):** Nee, instructiebestand. Je geeft hem geen, geen, aan het begin geef je hem ook instructies.
+
+**Christiaan de Goeij (12:34):** Oh wel. Je geeft toch wel instructies? Ja, ja, zeker ja.
+
+**Spreker 1 (12:36):** Jij bent een onderzoeker, dit is je context en hier moet je mee werken. Dat geeft je wel, OK?
+
+**Christiaan de Goeij (12:40):** Ja. Ja ja zeker ja.
+
+**Spreker 1 (12:44):** Ik denk eventjes met je tussendoor. OK. OK, dus je bent voornamelijk veel bezig met het subsidie schrijven. Dat is het grootste gedeelte van je werk ook.
+
+**Christiaan de Goeij (12:58):** Ja deze week hoor, deze week is dat zo. Ik heb ook weken waar je mee bezig bent met lopend onderzoek. Dus dat ja, wat is dat?
+
+**Spreker 1 (13:05):** En, en waar hebben we het dan over?
+
+**Christiaan de Goeij (13:09):** Ja veel, laten we zeggen, ik ben veel presentaties aan het maken, is vaak ja de afgelopen periode wel wekelijks ergens een presentatie gegeven gehad. Powerpoints maken, maar ook artikelen schrijven voor websites of artikelen checken.
+
+**Spreker 1 (13:13):** Ja.
+
+**Christiaan de Goeij (13:25):** Er zijn korte nieuwsartikelen. Dat kost ook wel best. Wel tijd ja, ja, maar nou, ik denk dat powerpoints maken.
+
+**Spreker 1 (13:31):** Heb je al beter mijn powerpoint te maken met ChatGPT?
+
+**Christiaan de Goeij (13:37):** Nou niet echt later maakt maar wel vragen van kijk, ik ben.
+
+**Spreker 1 (13:41):** Wat staat er in de?
+
+**Christiaan de Goeij (13:41):** Ik ben sowieso weet wat zou je doen. Heb je idee daarvoor of kan je het terugbrengen naar korte bullet points? Dat soort dingen?
+
+**Spreker 1 (13:49):** OK dan heb je ook? Dingen geprobeerd al met bijvoorbeeld wat je dacht vandaag van nou, nee, dit dit. Dit kan niet. Ja, noem het in het begin al een beetje van dat hij de weg kwijtraakt soms en dat soort dingetjes. Maar zijn er nog andere dingen die je geprobeerd hebt waar je denkt van nou, nee, dit is niks.
+
+**Christiaan de Goeij (14:10):** Even denken hoor. Ja, ik vind dat is. De wisselende kwaliteit. Soms is is die echt heel erg goed. Misschien ligt het aan mij hoe goed mijn instructie is. Maar af en toe vind ik hem ook echt waardeloos. Dan denk ik dat ik goede instructies heb gegeven, maar. Ja. Dus niet, nou niet specifiek. Wat kan die niet? Ja, ja, hij kan niet. Bijvoorbeeld op academisch paper niveau kan hij niet meekomen, dat is, dat is wel duidelijk.
+
+**Spreker 1 (14:42):** Hoe bedoel je?
+
+**Christiaan de Goeij (14:43):** Nou, ja gewoon een nieuwsartikel van twee pagina's met pakkende koppen en snel de sterking van de boodschap voor. Laten we zeggen, vereenvoudigen van een boodschap kan die best wel goed is mijn ervaring maar. Als we een academisch paper schrijven dan ben je niet bezig met vereenvoudigen van de boodschap, maar zo eigenlijk zo correcte genuanceerd mogelijk iets opschrijven, maar toch patronen zien te vinden. Dat is gewoon heel erg moeilijk. En daar ja, dat daar vind ik hem nog niet zo sterk in. De journal papers salanda.
+
+**Spreker 1 (15:20):** OK. Ja ja en en.
+
+**Christiaan de Goeij (15:22):** Niet dat ik daar zo heel veel mee bezig ben, hoor, maar dat ja.
+
+**Spreker 1 (15:26):** Dat zijn er weer en als je dus dan lopend onderzoek doet, waar ben je dan het meeste tijd mee kwijt?
+
+**Christiaan de Goeij (15:34):** Even kijken hoor ja toch wel de ik denk. Ja, ja kijk één presentatie per week. Laten we zeggen dat die presentatie een uur duurt, ik zit, ik ben, denk ik wel. Ja meer dan andere mensen. Ik ben heel veel bezig met die slides. Ik wil het echt heel mooi. Ja, heel goed kunnen vertellen, dus ik denk dat ik wel echt een halve dag bezig kan zijn met het maken van slides. Misschien wel meer zelfs per week. Dus daar zit wel wat mijn tijd in. De boodschap bijschaven, de volgorde van boodschappen.
+
+**Spreker 1 (16:03):** OK.
+
+**Christiaan de Goeij (16:10):** Hè zorgen dat het goed laadt, dat het binnen de tijd blijft, niet teveel, niet te weinig, goede plaatjes bij de boodschappen. Ja, terminologie die je gebruikt dat die op zo een manier presenteert dat die ook land bij de doelgroep.
+
+**Spreker 1 (16:26):** Ja.
+
+**Christiaan de Goeij (16:26):** Dat is, denk ik. Ja beetje de zorg daarnaast ook van die nieuwsartikelen, maar ook van die powerpoints.
+
+**Spreker 1 (16:33):** OK cool, heb jij al workarounds voor jezelf dus voor bijvoorbeeld van het maken van een subsidieaanvraag? Kleine tools of dingetjes die je doet, hacks om je leven makkelijk te maken.
+
+**Christiaan de Goeij (16:55):** Nou dat je altijd wat voorbeelden voorbeeldteksten klaar hebt van zo wil je het hebben natuurlijk, zodat hij daar een beetje naartoe kan schrijven. Wat zijn nog meer dingen die ik doe? Ja werken met voorbeelden, maar ook. Nee, kan ik zo niet echt specifieke hacks verzinnen. Ik denk niet zoveel andere dingen dan dan hè, die mensen ook naar je afgehoord hebt. Waarschijnlijk.
+
+**Spreker 1 (17:28):** Sorry, je viel er heel even een beetje weg.
+
+**Christiaan de Goeij (17:29):** Ja, nee, ik denk geen, geen specifieke hacks. Verder nee.
+
+**Spreker 1 (17:30):** OK OK. Wat doe jij als je haast hebt? Dus de subsidie is, je bent bezig om die subsidies te schrijven en daar moeten. Over 3 dagen moet hij de deur uit.
+
+**Christiaan de Goeij (17:51):** Ja. Ja ook gewoon wat minder, wat minder checks en dubbelchecks over het algemeen. Ik hou van normaal gesproken wel van controle en dan heb ik al meer de tijd om nog een keer na te lezen, nog een keer na te lezen en misschien een beetje een tik voor mij. Maar als je ja dicht op de deadline zit, doe je dat gewoon minder omdat er minder tijd voor is.
+
+**Spreker 1 (18:19):** Kan me voorstellen. Doe jij dit subsidie schrijven voornamelijk alleen. Of met wie werk je ze wel samen?
+
+**Christiaan de Goeij (18:29):** Waarschijnlijk nu, samen met Luca bijvoorbeeld. Ik kan niks schrijven, weet je, samen. Ja soms alleen soms nou, ook wel met Luca of met Ronald samen, dus niet per se alleen. Ik heb het ook wel eens alleen gedaan, hoor.
+
+**Spreker 1 (18:44):** OK. En en werken die ook hetzelfde, merk je, of doen die het anders.
+
+**Christiaan de Goeij (18:55):** Ik denk dat die ongeveer grofweg hetzelfde werkte. Ja. Hoe werkt Ronald ook nog chatGPT? Heb je al aandacht gesproken? Ja, vind ik wel een veel leuke vraag, echt? Nee, ik weet het niet. Nee.
+
+**Spreker 1 (19:13):** Ik vraag aan jouw inzicht natuurlijk, hè, kan je me antwoorden geven, maar.
+
+**Christiaan de Goeij (19:14):** Ja ja precies ik nou nou, Ronald gebruikt vooral Claude wat meer.
+
+**Spreker 1 (19:20):** Ja.
+
+**Christiaan de Goeij (19:22):** Ronald, die vindt het ook razend interessant. Die heeft ook van heel veel eigen interesse leren. Dus ik denk dat hij wat meer doet, dus mijn vermoeden is dat hij wat meer doet.
+
+**Spreker 1 (19:32):** Ronald is het verst van jullie alle 3.
+
+**Christiaan de Goeij (19:32):** Ja. Ja ja dacht ik al ja.
+
+**Spreker 1 (19:38):** Leuk hè? Ja, ik vind dat bijzonder.
+
+**Christiaan de Goeij (19:42):** Hij is een achtergrond als IT manager, dus vandaar.
+
+**Spreker 1 (19:43):** OK. Ja ja OK dus ik kan me ook voorstellen. Welke tools en systemen gebruik je allemaal? Word is ook een tool systeem.
+
+**Christiaan de Goeij (19:55):** OK even kijken hoor word Word Excel PowerPoint natuurlijk. En kijk ja ChatGPT een heel klein beetje Claude, maar ik mag mag nog geen naam hebben. En, wat gebruik ik nog meer? Nou meer Teams zou kunnen naar het systeem.
+
+**Spreker 1 (20:15):** Ja, je gebruikt het toch?
+
+**Christiaan de Goeij (20:16):** OK Teams. Ja. Ik zit even te kijken in voorbeeld projectmap van mij wat er allemaal in staat.
+
+**Spreker 1 (20:22):** Is toch essentieel?
+
+**Christiaan de Goeij (20:30):** Dat ja PDFs. Dat is het wel zo'n beetje, ja.
+
+**Spreker 1 (20:37):** Om iets wat me afvraag voor het voor het maken van die financiële berekeningen en dat soort dingetjes in die subsidies, hoe doe je dat?
+
+**Christiaan de Goeij (20:44):** Ja. Je krijgt een standaard Excel format meestal mee en daar kan je heel makkelijk mee rekenen. Dus dat ja, dat is niet zo moeilijk.
+
+**Spreker 1 (20:54):** En dan maak je een screenshot en dat gooi je erin, of.
+
+**Christiaan de Goeij (20:58):** Nee, je hebt gewoon een soort Excel format wat zij al hebben voorbewerkt de subsidiegever, dus laten we zeggen, je vult een tarief in wat geld je wilt een aantal uren en je vult de titel erbij in en dan doet hij alles voor ja, dan vult ie het op alle velden op de goede manier in.
+
+**Spreker 1 (21:04):** Ja ja. OK en, maar het is ja, maar ik bedoel, je zei, op een gegeven moment waren de.
+
+**Christiaan de Goeij (21:16):** Dus dat is niet zo spannend.
+
+**Spreker 1 (21:24):** Kant als lectoraat Supply Chain Finance omdat we werken met werkkapitaal en dat soort dingetjes.
+
+**Christiaan de Goeij (21:27):** Nou.
+
+**Spreker 1 (21:30):** Dus ik ja, ik ga dat dingen voor me zien, zeg maar zo van die formules en.
+
+**Christiaan de Goeij (21:35):** Oh ja je bedoelt ons eigen onderzoek?
+
+**Spreker 1 (21:36):** Dat je dat in doe je dat niet in de subsidieaanvragen.
+
+**Christiaan de Goeij (21:41):** Ja kijk, je hebt de subsidie, heb je de begroting die je opstelt voor de subsidiegever? Dat is niet onderdeel van het onderzoek. Dat is heel makkelijk. Maar in het onderzoek zelf doen wij eigenlijk niet zo heel veel rekenen, dus wij doen meer. Wij doen financieel onderzoek meer vanuit kwalitatieve kant vaak. En de student ja interviews, ook wel studenten, hebben wel data documenten.
+
+**Spreker 1 (21:59):** Dus meer interviews.
+
+**Christiaan de Goeij (22:06):** En nou wacht even goed dat je het zegt, we hebben wel een survey, bijvoorbeeld die we één keer per jaar doen. Dat gaat twee keer per jaar worden. Goed dat je het zegt, ja, daar gaat Greg gaat binnenkort weg en die deed dat dan gewoon op zijn eigen manier. Iemand anders zal dat moeten oppakken en daar zit denk ik ja, Greg heeft volgens mij wel de hele boel de AI. Gegooid en dat ging echt verrassend goed. Dat waren Surface Surface documentatie ja over door de tijden van processen etcetera.
+
+**Spreker 1 (22:31):** OK. Maar jij weet niet welke tool je daarvoor gebruikt.
+
+**Christiaan de Goeij (22:40):** ChatGPT heeft hij gebruikt daar?
+
+**Spreker 1 (22:43):** Alleen ChatGPT.
+
+**Christiaan de Goeij (22:44):** Ja. Hij ging. Hij zei dat het heel goed ging, maar het is gewoon geanonimiseerde data natuurlijk maar.
+
+**Spreker 1 (22:53):** Ik, ik vraag vooraf, kijk, ik bedoel, ik doe dit natuurlijk ook. Survey en denk, denk je dat ik dat hele dashboard dat ik dat zelf gemaakt heb, gewoon in elkaar getikt? Nee, natuurlijk niet.
+
+**Christiaan de Goeij (22:53):** Ja. Nee, nee dat. Ja.
+
+**Spreker 1 (23:07):** Dat, dat is ook gewoon geprogrammeerd door de AI ja, hallo.
+
+**Christiaan de Goeij (23:11):** Heel goed, heel goed, ja.
+
+**Spreker 1 (23:12):** Ik heb ook niet oneindig tijd. Ik vind het leuk, maar dat soort dingetjes, oké? Oké. Ja. Stel dat je een stagiair hebt? En die stagiair, die heeft geen opdracht, behalve de opdracht om jouw leven beter te maken. Dus je kan hem niet compleet vertrouwen met alles, want ja, stress. Maar wat zou je hem dan laten doen?
+
+**Christiaan de Goeij (23:41):** Waar ik staat over die survey, dat zou ik voor die data-analyse. Als een stagiair dat zou kunnen op een handige manier. Daar zou ik denk ik het meest geholpen mee zijn. We krijgen binnenkort weer.
+
+**Spreker 1 (23:54):** En maar niet voor het subsidie schrijven dat gedeelte misschien.
+
+**Christiaan de Goeij (23:58):** Daar zie ik niet zo snel iets voor me. Ik zou het. Nee, ik zou het niet zo snel uit de handen willen geven, ook omdat. Wat ik al zei, de gevoelige informatie ook nog strategisch. Maar ook daar zie ik ook. Ja, dat moet toch wel het meeste van jezelf komen. Daar ChatGPT denkt op een gegeven moment mee, als je ver genoeg bent met je idee maar. Ik denk de hulp van AI veel groter is, bijvoorbeeld bij zo'n data-analyse. Want ik zag hoe Greg dat deed. Ja, daar zat veel meer waarde inderdaad.
+
+**Spreker 1 (24:37):** Ik spreek hem morgen, dus we gaan het zien. Dank je wel voor deze informatie.
+
+**Christiaan de Goeij (24:39):** Respect morgen Jack.
+
+**Spreker 1 (24:42):** Ja, tuurlijk ga ik.
+
+**Christiaan de Goeij (24:43):** Ah top ja top ja nou leuk ja.
+
+**Spreker 1 (24:46):** Greg, toch Gregory.
+
+**Christiaan de Goeij (24:48):** Ja, ja, hij gaat nou hij. Hij werkt nog tot eind van de maand. We gaan ooit cash monitor en pouch pay monitor -- zo heet dat -- gaan we vaker doen, zelfs twee keer per jaar mogelijk. Dan is de vraag van OK, als jij dat niet meer gaat doen, dan kijk, hoe ziet dat voor je? Wie gaat dat oppakken en wat zou de rol van AI daarin kunnen zijn?
+
+**Spreker 1 (25:11):** Misschien ook een leuke iets van mij over te nemen.
+
+**Christiaan de Goeij (25:14):** Ja ja misschien wel.
+
+**Spreker 1 (25:16):** Nou stel dat het wel werkt, AI, hoe merk je dat het beter gaat?
+
+**Christiaan de Goeij (25:24):** Hoe merkt dat het op dit moment al beter gaat? Ja, nou, kijk ik, ik vind het voor die powerpoints en voor die nieuwsartikelen vind ik hem echt wel goed werk. Soms heb je gewoon conceptueel iets in gedachten, weet je de belangrijkste boodschappen per alinea, weet je wel, je hebt wat onderbouwing erbij en dan ja, kan hij heel goed helpen in volgordelijkheid. Concluderende tussenkoppen, ja, het is top, dus ik merk dat zelfs de communicatieadviseurs van Windesheim die gebruiken het echt hè? Ten volle hè?
+
+**Spreker 1 (25:59):** Tuurlijk.
+
+**Christiaan de Goeij (25:59):** Ja.
+
+**Spreker 1 (26:00):** Tuurlijk kan ik heel erg voorstellen. OK. Nou, ik ben aan het einde van mijn interview.
+
+**Christiaan de Goeij (26:09):** Ja.
+
+**Spreker 1 (26:10):** Ik wilde je misschien nog één ding meegeven en denken van wat ik toch vond komen en dat je misschien ook mee kan denken in het effectief gebruik van deze nieuwe tools. En ja, wij noemen het heel erg AI, maar het is het natuurlijk helemaal niet. En dus wat wat is het? Het is het zijn grote taalmodellen. Letterlijk niks anders dan dat, taalverwerkers, dus alles waar platte tekst in zit. Daar kan hij goed mee werken.
+
+**Christiaan de Goeij (26:34):** Ja. Ja.
+
+**Spreker 1 (26:42):** En als wat dat niet is? Dat snapt hij niet. Hij ziet ook geen logische verbanden of dat soort dingen, dat kan hij allemaal niet. Hij zit, het is, het is letterlijk een tekstverwerker, maar omdat het tekst verwerkt en dat is de hoofd manier hoe wij al met elkaar communiceren, lijkt het intelligent, maar het is het dus absoluut niet. Het is het heeft geen vorm van intelligentie zo. En ja ik, ik kan je wel, misschien is het een leuk idee dat we gaan kijken hoe ik direct jou hierin kan helpen, met voornamelijk het integreren in de tools zelf dat lijkt me heel erg leuk.
+
+**Christiaan de Goeij (27:23):** In de tools. Sorry dat.
+
+**Spreker 1 (27:24):** In de tools zelf, dus ja, wat je nu doet is, je hebt je kopje plakt heel erg.
+
+**Christiaan de Goeij (27:25):** Houdt u onszelf? Ja ja OK ja.
+
+**Spreker 1 (27:31):** En, dat is natuurlijk helemaal niet erg dat dat zo begint iedereen, maar dat dat vertraagt het boel enorm natuurlijk. En dan is hij helemaal afhankelijk van jou, liefst heb je gewoon van tik er eventjes een mooie introductie in elkaar, gebaseerd op deze andere 3 introducties, niet teveel afwijken, hè? Gewoon ongeveer dit.
+
+**Christiaan de Goeij (27:38):** Ja.
+
+**Spreker 1 (27:49):** Maar dan voel dat in voor dit project. Nou hop OK, het zit een document. Nou zit er in als je het goed uit kijkt erover naar en klaar, maar in plaats dat je de hele tijd heen en weer aan het zitten, dan switchen zoals we dan heel netjes noemen. Context switchen de hele tijd en dat context switchen, dat kost nou het meest tijd in mijn beleving zeg. Maar dat is de hele tijd ander window pakken en dan ben je er weer uit. Zeg maar en dan. En dan kom je weer terug naar je document, zeg maar of je moet alleen maar daar mee bezig zijn, zeg maar dus.
+
+**Christiaan de Goeij (28:17):** Ja, ja goede bus, dat is goed. Heb je een goed punt? Ja, dat klopt.
+
+**Spreker 1 (28:22):** Ja dus oké nou ja en.
+
+**Christiaan de Goeij (28:24):** Ik denk dat heel veel dat hebben trouwens hè, is het een idee dat jij een keer een groep laat zien van hé, hoe doe je dat? Context switch vind ik een mooi woord. Hoe voorkom je steeds context switchen?
+
+**Spreker 1 (28:37):** Ik, ik ben een hele training aan het voorbereiden en dat soort dingetjes en ik laat het ook je zien. Ik hoop het ook te laten zien, zeg maar. Door door dit interview wat ik aan het doen ben, dus zo meteen krijg ik dus dat het een helemaal mooi getranscript en de lessen die eruit leert in een document. En dat wordt dan in het dashboard online gezet. Zeg maar dus dat hele proces wat jij net verteld met Greg. Nou, dat heb ik voor mezelf ook ontwikkeld om mijn leven makkelijk te maken, want ik wil graag focussen op de interviews. Zeg maar. En ik wil niet de hele tijd bezig zijn met checken van tekstdocumentjes, ja.
+
+**Christiaan de Goeij (29:10):** Ja, ja, dat is wel leuk, OK?
+
+**Spreker 1 (29:14):** Nou ja en daarnaast ik ben dyslect. Dus ja, dan is ook slecht.
+
+**Christiaan de Goeij (29:18):** Ja kijk, kijk.
+
+**Spreker 1 (29:21):** Dus de derde ja, die AI voor mij is het een gansecentje, ik maak geen spelfout meer.
+
+**Christiaan de Goeij (29:22):** Kijk. Je hoeft niet met schuiven, ja? Ja top ja.
+
+**Spreker 1 (29:34):** OK, maar als er nog dingen in je opkomen graag, dat lijkt me hartstikke leuk. En ja, als je andere collega's ziet die AI gebruiken, leer er veel van. Dat lijkt me heel erg leuk. Ik weet dat Luca is heel erg te spreken over Claude tegenwoordig die heeft net de switch gemaakt afgelopen week.
+
+**Christiaan de Goeij (29:54):** Ja.
+
+**Spreker 1 (29:57):** Dus om even met hem mee te kijken wat hij dan doet, zeg maar en misschien.
+
+**Christiaan de Goeij (30:01):** Ja OK.
+
+**Spreker 1 (30:02):** Misschien dat je Ronald kan overtuigen om te zeggen van kijk eens, dit is hoe ik het doe.
+
+**Christiaan de Goeij (30:14):** Onderling ja.
+
+**Spreker 1 (30:15):** En heel erg gespreid onder elkaar. We doen sommige dingen met doen echt dezelfde dingen, maar we doen het wel alleen. Ja, zeker in de tijd taak van AI moeten de mensen bij elkaar komen.
+
+**Christiaan de Goeij (30:27):** Juist nu hè? Zeg je dat? Ja.
+
+**Spreker 1 (30:30):** Hé Chris, dankjewel voor dit alles en ik laat je weer gaan.
+
+**Christiaan de Goeij (30:31):** Oké. Ja. Goed, hé, dankjewel, jij ook bedankt.
+
+**Spreker 1 (30:37):** Yo hoi.
+
+**Christiaan de Goeij (30:38):** Nee succes, hoi hoi.
+
+**Spreker 1 (30:40):** Dankjewel.
+
+*Chris Verhoef heeft de transcriptie gestopt.*
