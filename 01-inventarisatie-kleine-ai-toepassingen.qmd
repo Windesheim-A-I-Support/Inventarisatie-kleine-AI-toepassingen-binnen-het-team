@@ -14,6 +14,7 @@
 | 2026-06-01 | Ronald | Projectmanager / onderzoeker / docent | Uren- en reiskostenregistratie uit agenda, e-mail prioriteren en zoeken, partner scouting, projectrapportage, data visualisatie | "Met mail kan ik niks." | [PDF](downloads/interview-2026-06-01-ronald-de-boer.pdf) · [Word](downloads/2026-06-01-ronald-de-boer.docx) |
 | 2026-06-02 | Maxime | Senior researcher / PhD-kandidaat | Data-collectie PhD, feedback verwerken, interview scheduling, kwalitatieve transcriptanalyse | "The data collection for my next paper -- finding prospects, reaching out to them, building relations." | [PDF](downloads/interview-2026-06-02-maxime-bouillon.pdf) · [Word](downloads/2026-06-02-maxime-bouillon.docx) |
 | 2026-06-08 | Christiaan de Goeij | Onderzoeksproject manager, lectoraat Supply Chain Finance | Subsidie lingo-afstemming, presentaties, survey-analyse overdracht (Greg), nieuwsartikelen | "Welke woorden je krijgt moet gebruiken om ervoor te zorgen dat iedereen die dat leest van die twee verschillende groepen dat kan zeggen, nee, dit is ook iets van ons." | [PDF](downloads/interview-2026-06-08-christiaan-de-goeij.pdf) · [Word](downloads/2026-06-08-christiaan-de-goeij.docx) |
+| 2026-06-09 | Greg Cronie | Zelfstandig consultant / onderzoeksmedewerker lectoraat (1 dag/week) | Survey data visualisatie + terugkoppeling respondenten, orders-to-cash data-analyse overdragen | "Als ik gewoon Claude zou kunnen gebruiken, maak ik gewoon een skill en dan doet hij dat gewoon." | [PDF](downloads/interview-2026-06-09-greg-cronie.pdf) · [Word](downloads/2026-06-09-greg-cronie.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -28,7 +29,6 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Naam |
 |---|
 | Corné de Ruijt |
-| Greg Cronie |
 | Monique Mensen |
 | Mounia Belmamoune |
 | Paulien de Graaf-Muller |

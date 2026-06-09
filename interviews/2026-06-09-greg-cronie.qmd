@@ -1,0 +1,487 @@
+---
+title: "Interview: Greg Cronie"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Greg Cronie
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-09 |
+| Collega | Greg Cronie |
+| Rol | Zelfstandig consultant / onderzoeksmedewerker lectoraat (1 dag/week) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 48 minuten 48 seconden |
+
+## Digitale toolkit
+
+*Alle tools, niet alleen AI. Windesheim-context tenzij anders aangegeven.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Survalyzer | Andere | Orders-to-cash monitor survey opzetten en data verzamelen | Per monitor-ronde | Hoog | Windesheim-licentie; ontdekt via Research Drive-instructie |
+| Excel | Documenten | Data-analyse survey-resultaten | Per monitor-ronde | Middel | Student deed grootste deel van de analyse |
+| ChatGPT | AI/LLM | Research voor keynote (bronnen opzoeken); vraagt altijd naar bronnen | Incidenteel | Middel | Persoonlijk betaald account; gebruikt CRAFT-prompt framework |
+| Word / PowerPoint | Documenten | Documenten en presentaties | Regelmatig | Neutraal | |
+| Claude *(Everfield)* | AI/LLM | Weekly reports, contractanalyse, prijsanalyse, presentaties, maturity scoring | Dagelijks | Hoog | Company account; verbonden aan SharePoint, Teams, Slack, e-mail, Notion |
+| Notion *(Everfield)* | Projectmanagement | Collective memory, knowledge base, weekrapporten | Dagelijks | Hoog | Primaire samenwerkingstool bij remote bedrijf |
+| Fathom *(Everfield)* | AI/LLM | Note-taking in meetings; verbonden aan Claude | Dagelijks | Hoog | |
+| Miro *(Everfield)* | Andere | Visueel samenwerken | Regelmatig | Hoog | |
+| Power BI *(Everfield)* | Andere | Dashboard bekijken | Regelmatig | Neutraal | Gebruiker, niet maker |
+| Slack *(Everfield)* | Communicatie | Asynchroon samenwerken | Dagelijks | Hoog | Remote bedrijf |
+| Ollama *(privé)* | AI lokaal | Lokale LLM's draaien | Incidenteel | Middel | Persoonlijk gebruik gevoelige informatie |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen van het gesprek. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie `IT-ondersteuning - Greg Cronie-20260609_163212`. Totale duur: 48 minuten 48 seconden. Gestart op 9 juni 2026, 14:32. Spreker 1 = Chris. Greg werkt 1 dag/week bij Windesheim; gaat eind juni weg vanwege fulltime baan bij private equity bedrijf Everfield.
+
+**0:00 -- Opener / context**
+Greg werkt al 5 jaar bij lectoraat (1 dag/week). Daarvoor zelfstandig consultant. Sinds april vorig jaar in loondienst bij Everfield (private equity). Heeft in januari aangegeven eind juni te stoppen bij Windesheim -- geen mentale ruimte meer voor beide. Gaat op goede voet.
+
+**2:21 -- Rol bij Windesheim**
+Twee activiteiten:
+1. Studenten begeleiden bij afstudeerscriptie of minors (inhoudelijke begeleiding + schakel student-bedrijf)
+2. Orders-to-cash monitor (trekker): periodieke survey om staat van order-to-cash proces bij MKB-bedrijven te meten
+
+**3:26 -- Orders-to-cash monitor: hoe het werkt**
+Survey opgezet in Survalyzer (Windesheim-licentie). Data verzamelen via studenten of extern bureau (Forcy). Analyse: Greg + Chris kijken naar data, komen tot bevindingen en trends, schrijven een verhaallijn per slide. Forcy maakt het uiteindelijke marketingrapport (co-productie). Rapport wordt gepubliceerd; krijgt persaandacht. Eerder gepresenteerd op Supply Chain Finance Community Dag Utrecht. Gaat 2x per jaar worden.
+
+**4:10 -- Tijdsink**
+Twee dingen kosten relatief de meeste tijd:
+1. Opzet/aanpassing van de survey (als die wijzigt)
+2. Begeleiding als studenten de data ophalen (meer contact dan bij extern bureau)
+
+**7:45 -- Analyse werkwijze**
+Greg maakt download uit Survalyzer, analyseert die. Vorig jaar had een afstuderende student een groot deel van de Excel-analyse gedaan. Greg zelf: "Ik gebruik Excel wel, maar ben niet super advanced." Heeft ChatGPT gebruikt voor dataverwerking -- "niet heel spannend qua prompts."
+
+**16:30 -- Claude bij Everfield: volledig geïntegreerd**
+Bij Everfield heeft iedereen een company account voor Claude. Claude is verbonden aan SharePoint (alle bestanden), Teams, e-mail, Slack, Notion. Wekelijks rapport: Greg heeft een Weekly Report skill gemaakt. Claude draait elke vrijdag om 16:00 automatisch, maakt draft in Notion, Greg past aan. Fathom als note-taker gekoppeld.
+
+**19:22 -- Acquisitie-analyses**
+Als hij een overname target analyseert: betalingsvolume, pricing bij Stripe vs. Ayden, potentieel. Claude laat hij een Excel-model bouwen (gecontroleerd), dan ook nog een HTML-versie met variabele parameters/sliders. "Dat soort dingen kun je heel makkelijk."
+
+**20:14 -- Presentaties**
+"Al mijn presentaties laat ik nu Claude maken. Maak ze niet meer zelf." Aanpak: eerst storyline uitwerken per slide (tot hij tevreden is), dan pas zeggen "maak nu de slides."
+
+**29:03 -- Magische stagiair (Windesheim)**
+"Ik zou hem laten meewerken op de orders-to-cash monitor." Concreet: kijken hoe je data uit Survalyzer kunt halen en visualiseren, en terugsturen naar de respondenten.
+
+**33:13 -- CRAFT-prompt framework**
+Greg maakt gebruik van CRAFT-prompts. "Je kunt niet blind beginnen, want dan krijg je onzin in is onzin uit." Heeft ook een prompt om een prompt te maken. Voor de keynote over embedded lending: ChatGPT research-functie gebruikt, altijd gevraagd naar bronnen en die zelf gecheckt. Resultaat: 50-pagina research rapport, "best wel goed."
+
+**34:08 -- Wie neemt het over?**
+Chris vraagt expliciet: wie neemt de monitor over als je weggaat? Greg: weet het niet. Denkt dat de plek niet wordt ingevuld (bezuinigingen). Heeft zelf aangeboden om op uur/factuurbasis de monitor te blijven doen. Aanbod gedaan aan Michiel tijdens strategiedag. Chris geeft aan dat hij mogelijk zelf gevraagd wordt.
+
+**36:52 -- Overdracht prompts**
+Greg: "De prompts die ik heb gemaakt voor de data-analyse waren niet heel spannend." Geeft aan dat als er een Windesheim Claude-account zou zijn, hij gewoon een skill maakt en het dan overdraagbaar is. "Dan zeg je wat voor analyses we doen en dan doet hij dat gewoon. Hij gaat gewoon vanzelf." Bottleneck: Windesheim heeft geen Claude-account.
+
+**43:14 -- Vergelijking Everfield vs. Windesheim**
+Everfield: interne website met company skills gepubliceerd. Maturity assessment scoring: collega heeft MCP's gemaakt die verbonden zijn aan antwoorden van alle portfolio-bedrijven. Claude scoort bedrijf automatisch op 5 niveaus + geeft recommendations. "Dat scheelt enorm veel tijd." Greg begrijpt niet waarom Windesheim zo terughoudend is: "Wij zitten in een heel gevoelig business qua informatie. En de houding van management is: we willen het private equity bedrijf zijn wat AI het beste heeft geadopteerd."
+
+**47:36 -- Eigen Azure GPT + Ollama**
+Everfield heeft Averfield GPT op eigen Azure stack voor gevoelige data. Greg gebruikt privé Ollama lokaal. Chris gebruikt OpenWebUI + Ollama.
+
+---
+
+## Gestructureerde Q&A
+
+**Tijdsbesteding:**
+Survey-aanpassing en studentbegeleiding kosten het meeste bij Windesheim. Sterk contrast met Everfield waar AI alles versnelt.
+
+**Digitale toolkit (Windesheim):**
+Survalyzer, Excel, ChatGPT (persoonlijk), Word, PowerPoint.
+
+**Wat werkt goed:**
+- Survalyzer voor survey (Windesheim-licentie, bleek te bestaan)
+- ChatGPT voor research (met bronverificatie)
+- Bij Everfield: Claude voor alles (presentaties, analyses, weekly reports, contracten)
+
+**Wat werkt niet / blokkades:**
+- Geen Claude-account via Windesheim -- grootste bottleneck voor overdraagbaarheid
+- Data-analyse in Excel niet schaalbaar zonder dedicated student
+
+**Sterkste inzicht:**
+Greg is de meest geavanceerde AI-gebruiker in het gespreksserie, maar in een andere organisatiecontext. De vergelijking Everfield vs. Windesheim maakt het gebrek aan een bedrijfs-AI-account concreet voelbaar.
+
+---
+
+## Radartjes
+
+| # | Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid |
+|---|---|---|---|---|---|---|
+| 1 | Orders-to-cash monitor | Survey data visualiseren en terugkoppelen aan respondenten | Survalyzer-export (CSV/Excel) | Visualisatie + terugkoppelingsrapport per respondent | 2x per jaar | Laag (geanonimiseerd) |
+| 2 | Orders-to-cash monitor | Data-analyse automatiseren via Claude skill | Survalyzer-export + bestaande analyse-aanpak Greg | Bevindingen + statements voor rapport | 2x per jaar | Laag |
+
+---
+
+## Letterlijke signalen
+
+- "Als ik gewoon Claude zou kunnen gebruiken, maak ik gewoon een skill en gebruik wat bestaande skills. En dan zeg je wat voor analyses we doen en dan doet hij dat gewoon." (over overdracht monitor)
+- "Je moet nooit helemaal blind vertrouwen op de uitkomst." (over AI-gebruik)
+- "Al mijn presentaties laat ik nu Claude maken. Maak ze niet meer zelf." (bij Everfield)
+- "Wij willen het private equity bedrijf zijn wat AI het beste en snelste heeft geadopteerd." (over Everfield-cultuur)
+- "Ik snap niet waarom Windesheim zo terughoudend is." (na vergelijking)
+- "De prompts die ik heb gemaakt voor de data-analyse waren niet heel spannend." (laagdrempelig overdraagbaar)
+
+---
+
+## Nog niet oplossen
+
+- Windesheim Claude-account (organisatievraagstuk, buiten Greg's invloed)
+- Opvolging monitor: wie pakt het op? Greg heeft aanbod gedaan op factuurbasis
+- Claude Code: nog niet geprobeerd, staat op zijn lijstje
+
+---
+
+## Samenvatting voor weekupdate
+
+**Greg Cronie** is zelfstandig consultant en werkte 1 dag/week bij het lectoraat als begeleider van afstudeerscripties en trekker van de orders-to-cash monitor. Hij stopt eind juni. In zijn andere baan bij private equity bedrijf Everfield gebruikt hij Claude dagelijks en volledig geïntegreerd: verbonden aan SharePoint, Slack, Teams, e-mail en Notion. Hij laat wekelijks automatisch een draft-rapport aanmaken, laat alle presentaties door Claude bouwen en gebruikt het voor contractanalyses en overnamescreening. Bij Windesheim ontbreekt een bedrijfs-Claude-account, waardoor de orders-to-cash monitor niet overdraagbaar is via een skill. Greg heeft aangeboden de monitor op factuurbasis door te zetten. Sterkste radartje: survey data visualiseren en terugkoppelen naar respondenten na elke monitor-ronde -- iets wat Chris ook graag wil.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerde verbatim transcriptie uit Teams-opname. Spreker 1 = Chris Verhoef.*
+
+**Spreker 1 (0:03):** Zeker.
+
+**Gregory Cronie (0:03):** Hoi.
+
+**Spreker 1 (0:07):** Elkaar niet zo heel veel gesproken, dus dat is eigenlijk ook wel leuk dat we dit doen.
+
+**Gregory Cronie (0:15):** Ja nee, zeker zeker, zeker ja.
+
+**Spreker 1 (0:18):** Hoe is je dag?
+
+**Gregory Cronie (0:20):** Goed druk. Ja ja dus ja, en ook mijn laatste lootjes per Windesheim. Ik weet niet of je dat hebt meegekregen.
+
+**Spreker 1 (0:30):** Ja ja ja ja, je gaat een nieuwe uitdaging doen.
+
+**Gregory Cronie (0:34):** Nou, nee, niet zozeer nieuwe uitdaging. Ik deed natuurlijk al Windesheim één dag in de week, maar.
+
+**Spreker 1 (0:39):** Ja.
+
+**Gregory Cronie (0:42):** Maar ik heb sinds januari vorig jaar of april vorig jaar nu op aan. Daarvoor werkte ik gewoon al zelfstandig consultant. En als ik wat flexibeler? Vorig jaar ben ik in loondienst wel een hele interessante baan bij een private equity bedrijf.
+
+**Spreker 1 (1:01):** Wat cool, dat is wel heel fijn.
+
+**Gregory Cronie (1:03):** Ja, alleen ik merkte gewoon dat ik niet meer echt de mind space heb om Windesheim daarbij te doen. Daarnaast dus heb ik januari aangegeven dat ik eind juni zou stoppen.
+
+**Spreker 1 (1:19):** Zo nou, dan draag je het nog wel lang door.
+
+**Gregory Cronie (1:22):** Ja nou, ik wil er nog wel een paar dingen afmaken. Rommel ja.
+
+**Spreker 1 (1:26):** Nou ben heel erg lief van je, schappelijk.
+
+**Gregory Cronie (1:29):** Ja dus dus zodoende.
+
+**Spreker 1 (1:39):** Maar dus er is mij gevraagd om een survey te gaan doen over iedereen over het gebruik van digitale tools en IT tools. En ik kom ook een beetje daardoor te weten wat iedereen zo weer doet. Ik weet wel een heel klein beetje wat je doet via Chris, maar zouden we beginnen met te zeggen van wat doe jij voor het lectoraat? En nou ja, je doet het voor één dag in de week, maar wat doe je dan? Dat is jouw rol.
+
+**Gregory Cronie (2:21):** Ja hoofdrol of hoofdactiviteit is het begeleiden van studenten bij hun afstudeerscriptie of soms waren het ook minors uit het derde jaar. Dus dat is meer inhoudelijke begeleiding, zeg maar eigenlijk. En dan ook een beetje schakel tussen studenten en het bedrijf waar ze hun onderzoek doen. Dus dat dat is eigenlijk altijd mijn hoofdactiviteit geweest. En sinds even denken hoor. 1,5 jaar geleden ofzo zijn we ook begonnen met de orders-to-cash monitor. Dus monitor om te meten wat de staat van het order-to-cash proces is van MKB-bedrijven en daar ben ik de trekker van om even zo te zeggen. Dus ik heb een survey opgezet.
+
+**Spreker 1 (3:22):** OK.
+
+**Gregory Cronie (3:26):** Een Survalyzer. Eerste keer ben ik met een extern bureau gedaan en we hebben het -- nu hebben we survey opgezet in Survalyzer, dus de tool die Windesheim gebruikt. En, we verzamelen data. 4 studenten eigenlijk en ook in combinatie met Forcy, een bedrijf waar we mee samenwerken. Dan gaat het wel weer via een extern bureau. Ja, en daar maken we rapportjes samen met Forcy en ja, dat krijgt ook wel redelijk wat leuke pers.
+
+**Spreker 1 (3:54):** Zo. Zou je zeggen dat je daar het meeste tijd aan kwijt bent nu?
+
+**Gregory Cronie (4:10):** Laatste paar maanden inderdaad ben ik eigenlijk alleen maar daarmee bezig geweest in de context van Windesheim ja.
+
+**Spreker 1 (4:25):** Oké en zou je mij daar doorheen kunnen lopen qua proces? Hoe dat eruit ziet?
+
+**Gregory Cronie (4:31):** Oh, ja, dat is niet zo spannend.
+
+**Spreker 1 (4:35):** Alles is niet zo spannend als je het eenmaal gedaan hebt, maar als je het nog nooit gedaan hebt, dat is best wel spannend, hoor.
+
+**Gregory Cronie (4:44):** Hoe zeg je dat? We hebben de -- want er was natuurlijk al een orders-to-cash website met een vragenlijst die in die website was gedaan. Die was hard gecodeerd in WordPress in die website. En, dat was niet handig, want als je dan iets wilde aanpassen moest dat via de externe bouwer. En we hebben nu laten opzetten, zodat we hem eigenlijk heel makkelijk zelf kunnen onderhouden en we de Survalyzer link kunnen embedden in de website.
+
+**Spreker 1 (5:36):** OK, en welk programma gebruik je dus daarvoor? Survalyzer zeg je.
+
+**Gregory Cronie (5:39):** Ja Survalyzer. Dat is van Windesheim, dus. We zijn bij toeval eigenlijk achter gekomen, Chris en ik.
+
+**Spreker 1 (6:11):** Ja ik soortgelijk proces met Ronald opgezet. Alleen dat heb ik dan helemaal zelf moeten doen, dus het is eigenlijk best wel handig om te weten dat Windesheim een tool heeft ergens. Windesheim wil in mijn beleving niet echt met externe tools werken überhaupt, het moet toch van Microsoft zijn of ze willen het eigenlijk niet. Dus.
+
+**Gregory Cronie (6:39):** Ja, deze kwamen we achter omdat we op een gegeven moment vorig jaar moesten -- er was zo'n instructie om Research Drive te gebruiken.
+
+**Spreker 1 (6:52):** Oh, Research Drive. Wat bedoel je?
+
+**Gregory Cronie (6:54):** Of Research Drive. Research Gate of Research Drive te gebruiken als je je onderzoeksresultaten en dergelijke.
+
+**Spreker 1 (6:55):** Ja.
+
+**Gregory Cronie (7:02):** En in die context kwamen we deze tool tegen. Zeg maar, nou, toen we ons daarin gingen verdiepen, wat houdt het dan in en wat betekent dat?
+
+**Spreker 1 (7:10):** Handig, echt waar. En hoe stuur je deze rapportage op? Dus je maakt rapportages daarvoor, zeg je, hoe stuur je deze dan op?
+
+**Gregory Cronie (7:27):** Ja. Nou ja, we maken niet echt rapportages. We maken gewoon een rapport wat we publiceren. Gewoon jaarlijks in samenwerking met Forcy.
+
+**Spreker 1 (7:45):** OK.
+
+**Gregory Cronie (7:50):** Dus wat we eigenlijk doen is op gegeven moment als we voldoende data hebben. Dan doe ik als hoofdonderzoeker, zeg maar, analyse van de data. Chris kijkt ook mee en dan komen we eigenlijk gewoon tot bevindingen. En wat we relevante uitspraken vinden en trends. Dat delen we dan met Forcy en Forcy schrijft eigenlijk het rapport -- die maken dan het is een soort co-productie. Nou ja, ik kan het je wel laten zien.
+
+**Spreker 1 (10:37):** Ja ja dat is inderdaad wel heel erg.
+
+**Gregory Cronie (10:43):** Ik stuur hem nu even snel via WhatsApp. Dat is misschien makkelijk.
+
+**Spreker 1 (10:47):** OK. Heb je mijn nummer dan?
+
+**Gregory Cronie (11:05):** Ja gewoon uit de groep zo.
+
+**Spreker 1 (11:08):** Slim.
+
+**Gregory Cronie (11:18):** Dus dat ziet er zo uit. En op zich zit die van die we dit jaar hebben uitgebracht, ziet er hetzelfde uit, dus op zich hetzelfde idee. Dus wat wij eigenlijk doen, wat Chris en ik doen is wij maken de verhaallijn en dan zie je op basis van de analyses die we hebben gedaan en de lijnen, de bevindingen die we zien, komen we met observaties. Maken we statements bij en aan de hand daarvan wordt dit rapport. En we geven aan welke tabellen of welke data we willen laten zien. En daar maakt Forcy -- marketing mensen maken er een mooi rapportje van. Wat we dan redigeren, dus het is in die zin een co-productie.
+
+**Spreker 1 (12:20):** Dat is dit. Wat ik je net heb gedeeld.
+
+**Gregory Cronie (12:22):** Ja OK, maar het wordt dan in een PDF geprint. Dit is de layout. Dit is gewoon een route uitziet. Dit is hoe het als je naar een website gaat en het download krijg je een PDF, geen PowerPoint, maar wel in deze layout.
+
+**Spreker 1 (12:45):** Nou hartstikke goed gedaan hoor, vind ik, moet ik eerlijk zeggen.
+
+**Gregory Cronie (12:47):** En Chris heeft vorig jaar hebben Chris en ik het samen gepresenteerd op Supply Chain Finance Community Dag in Utrecht. En dit jaar heeft hij het gepresenteerd, gelanceerd op een event van Forcy, maar daar kon ik niet bij zijn omdat ik aan het reizen was voor mijn werk. En komen de persberichten vanuit Forcy, vanuit Windesheim en best wel wat journalisten die daar weer een kort artikeltje over maken.
+
+**Spreker 1 (13:24):** En, als je dan kijkt naar deze werkzaamheden, allemaal wat je moet doen, waar denk je dat de grootste tijdssink is? Waar ben je de meeste tijd aan kwijt?
+
+**Gregory Cronie (13:45):** Nou, die paper maak ik niet en dat doet Forcy, dus dat scheelt.
+
+**Spreker 1 (13:49):** Ja, maar bij wijze van.
+
+**Gregory Cronie (13:50):** Nee, ja, ik denk relatief gezien wat het meest teveel tijd kost was denk ik het aanpassen en opzet van de survey. Op het moment dat we door studenten data laten ophalen, kost het ook wat meer tijd vanuit de begeleiding. Want dat zijn studenten waar Chris les aan geeft. Dus dan zijn we daar wat meer mee bezig. Ja, die moeten zorgen dat die survey wordt ingevuld. Dus zij moeten bedrijven aanleveren die de survey invullen.
+
+**Spreker 1 (15:07):** Ja.
+
+**Gregory Cronie (15:08):** Zij moeten zorgen dat die survey wordt ingevuld, dus zij moeten bedrijven aanleveren die de survey invullen.
+
+**Spreker 1 (15:14):** OK en zij gaan een soort van opbellen van.
+
+**Gregory Cronie (15:15):** En ik maak gewoon een download uit de survey. En die wordt geanalyseerd. En we hadden dan wel vorig jaar of dit jaar één student die dan echt ook zijn afstudeeronderzoek deed bij Forcy en die heeft ook een groot deel, onder mijn begeleiding, de data geanalyseerd. In Excel, zeg maar.
+
+**Spreker 1 (15:49):** OK dus en jij gebruikt ook veel Excel dus.
+
+**Gregory Cronie (15:53):** Nou valt wel mee. Ja, ik gebruik het wel, maar ik ben niet super advanced. Maar ik heb wel veel ChatGPT gebruikt, ook gewoon om.
+
+**Spreker 1 (16:07):** De chat, bedoel je ChatGPT?
+
+**Gregory Cronie (16:08):** ChatGPT.
+
+**Spreker 1 (16:10):** Dat is geen schande, hè, om dit te gaan doen.
+
+**Gregory Cronie (16:12):** Nee hoor, zeker niet. Voor mijn andere baan gebruik ik -- wij hebben gewoon een company account bij Claude. Wij worden heel erg gepusht om zoveel mogelijk met Claude te doen, dus dat doe ik ook. Dus ik ben in die zin wel redelijk AI-savvy.
+
+**Spreker 1 (16:26):** Nee.
+
+**Gregory Cronie (16:30):** En nu voor mijn huidige andere baan, zeg maar. Nou ja, daar gebruik ik Claude echt wel heel veel. Ja voor verschillende dingen.
+
+**Spreker 1 (16:40):** Ja, op welke manier gebruik je hem dan? Gebruik je de desktop applicatie en dan stel je vragen, of.
+
+**Gregory Cronie (16:47):** Ja, ik gebruik voornamelijk nu Claude.ai, koolwork. Dus ik heb nog geen Code gebruikt. Na Claude.ai en ik gebruik het voor naar verschillende dingen voor, zeg maar bij Everfield waar ik dan werk, moeten we een wekelijks rapport maken. Elke keer gewoon over de key progress. We zijn een remote bedrijf, dus we werken asynchroon. En, we gebruiken Notion. Ik weet niet of je dat kent.
+
+**Spreker 1 (17:14):** Ja tuurlijk.
+
+**Gregory Cronie (17:15):** Notion is eigenlijk ons collective memory and knowledge base en alles. Nou ja, we hebben niet echt een intranet, dat is een beetje achterhaald in zekere zin. Dus daar gebruiken we Notion voor. En dus wij moeten elke week een rapportje maken in Notion en ik gebruik Notion toevallig als consultant ook los want ik vind het super handige tool.
+
+**Spreker 1 (17:42):** Ik ook.
+
+**Gregory Cronie (17:43):** Maar, dus ik heb een agent gemaakt in Claude -- een skill eigenlijk moet ik zeggen. Die elke week -- ik heb een Weekly Report skill gemaakt -- en ik heb een agent ingesteld die dan wekelijks om 4 uur, vrijdag om 4 uur een Weekly Report maakt en dat neerzet voor mij in Notion en dan kom ik gewoon de draft gebruiken om mijn eigen rapport te maken, want altijd een beetje knippen en plakken. Nou de skill scheelt toch tijd op die manier. En Notion en Claude is dan geconnect. Ik gebruik Fathom als note-taker.
+
+**Spreker 1 (18:24):** Fathom, die ken ik.
+
+**Gregory Cronie (18:25):** Fathom ja.
+
+**Gregory Cronie (18:39):** En Claude is geconnect aan Notion. Hij kan ook gewoon Notion-pagina's maken en lezen. Hij is goed geconnect aan Teams, hij connect me e-mail, Slack. Dus hij weet alle relevante dingen. Ik heb een context gegeven natuurlijk. En dan kan hij -- en hij weet mijn KPIs. En dan maakt hij een Weekly Report. En ik heb ook een loopje gemaakt dat hij zichzelf verbetert. Dat hij vergelijkt wat hij als draft heeft voorgesteld en wat ik dan heb genoteerd en daadwerkelijk heb gepubliceerd en wat hij dan moet aanpassen. Dat bijvoorbeeld, maar ook ik ben ook betrokken bij de acquisities, dus dan moet ik bepaalde analyses doen.
+
+**Spreker 1 (19:15):** Handig.
+
+**Gregory Cronie (19:22):** We hebben een Embedded Finance unit opgezet bij Everfield. Daar ben ik de proposition and operations van. Dus dat hebben we vorig jaar begonnen. En dan, als je met een acquisitietarget praat en een analyse moet doen op hun payments potentieel -- hoeveel betalingsvolume hebben ze? Hoeveel daarvan kunnen we monetariseren? Zitten er al donaties met een payment salaris? Hebben ze al contracten? Nou ja, dan laat ik gewoon Claude een contractanalyse doen. Of een prijsanalyse. Al mijn presentaties laat ik nu Claude maken. Maak ze niet meer zelf.
+
+**Spreker 1 (20:12):** En dat werkt voor jou op de presentaties.
+
+**Gregory Cronie (20:14):** Ja heel goed. Ja. Ja iedereen bij ons doet het in bedrijf ja, maar het hangt ook heel erg af -- kijk bij ons is Claude geconnect aan alle bedrijfsdata.
+
+**Spreker 1 (20:18):** Andere collega's hebben er nog wat problemen mee. Ja.
+
+**Gregory Cronie (20:30):** Dus dat is echt geïntegreerd.
+
+**Spreker 1 (20:32):** Ja.
+
+**Gregory Cronie (20:33):** Dus hij heeft altijd context en hij kan gewoon op SharePoint. Hij kan gewoon bij alle bestanden op SharePoint van alle collega's. Dus dat werkt heel goed.
+
+**Gregory Cronie (20:46):** En ja, als je dan gewoon de brand colors meegeeft en hij kijkt natuurlijk en je geeft hem ook voorbeeld van, dit is de vorige versie en nu moet ik een nieuwe maken, een quarterly update bijvoorbeeld. Ja en dan -- maar wat ik wel doe is eerst een hele conversatie over de storyline. Dus ik maak eerst de storyline alsof ik tevreden ben over de storyline per slide. Dan zeg ik, nu moet je de slides maken.
+
+**Spreker 1 (21:12):** Ja. Heel slim, heel slim. Je gebruikt het heel anders dan collega's.
+
+**Gregory Cronie (21:17):** Nou ja, dat en -- en vorige week moest ik, morgen ga ik naar Wenen met een overname target praten en die hebben een al wat een betalingssysteem, ze verkopen al embedded payments via Stripe dus die hebben een contract. Nou ja, ik moest de hele analyse maken van OK dus het betalingsvolume. Wat is mijn huidige pricing bij Stripe? Wat is de pricing die wij hebben van Ayden? En, wat is dan het verschil? Ik heb een Excel-model laten maken door Claude -- wel gecontroleerd natuurlijk, gecheckt. OK, nog even wat laten aanpassen. Het is bijna nooit in één keer helemaal goed, maar dat geeft niet. En toen heb ik hem ook nog een keer een HTML laten maken van het Excel-bestand, zodat je dat ook visueel kan presenteren en die ook gewoon inputvelden heeft en bepaalde schuifjes voor de parameters die variabel zijn. Ja, dat soort dingen kun je heel makkelijk.
+
+**Spreker 1 (22:25):** Ja. OK, wauw, leuk dat je zo al goed op meewerkt, hoor, dat vind ik wel. Dan loop je wel voor, vind ik.
+
+**Gregory Cronie (22:32):** Ja maar bij ons -- wij worden ook gepusht, moet ik zeggen. Iedereen heeft gewoon echt een company account en het is meer van: je moet AI gebruiken en als je het niet gebruikt dan pas je niet in de way of working, zeg maar. Want we hopen -- we hebben op dit moment iets meer dan 40 bedrijven denk ik en we kopen elk jaar 5 à 10 bedrijven erbij. We werken op het hoofdkantoor met 110 man -- kunnen natuurlijk niet het hoofdkantoor laten groeien, ook omdat er steeds meer bedrijven bijkomen. Dus je moet ook gewoon echt efficiënt werken. En we zijn remote, dus we moeten goed kennis delen, dus ja.
+
+**Spreker 1 (23:05):** Ja. Gaaf. Ik ga toch even verder met het interview. Is er iets wat je hebt gedaan met Claude de laatste tijd wat niet gelukt is?
+
+**Gregory Cronie (23:39):** Wat niet gelukt is?
+
+**Spreker 1 (23:44):** Of waar je misschien teveel de hand moet vasthouden, waar je teveel tijd aan kwijt kunt.
+
+**Gregory Cronie (23:50):** Nee, nog niet. Dat is me nog niet afgekomen. Maar ik heb in die zin ook nog niet geprobeerd om dingen buiten mijn -- hoe zeg je dat -- eigen skillset te maken. Als ik dat bedoel? Ik wil binnenkort wel een keertje wat gaan viben en kijken wat er dan gebeurt met Claude Code bijvoorbeeld. Dat heb ik nog niet gedaan. Kijk, en Claude.ai -- dingen maken -- dat ja, als je gewoon weet wat je moet doen of wat je wilt, dan lukt dat meestal wel. Ja, binnenkort ga ik wel wat -- ik wil bijvoorbeeld ook een agent maken die eigenlijk mijn mailbox gewoon gaat beheren en die in mijn Notion-projecten vlommen gaat beheren. Dus dan wordt het al iets iets complexer. Dus dan ben ik benieuwd of dat ook lukt. En ik wil een knowledge base maken waar die gewoon eigenlijk door een agent wordt onderhouden op basis van al mijn meeting notes en e-mails en Slack-berichten. En dat hij dan met het voorstel komt van OK, ik zie een aanpassing, kan ik hem toevoegen in de database of niet? Bijvoorbeeld. Nou ja, dat zijn de iets meer complexere dingen, dus nog even de tijd voor vinden om dat te gaan doen.
+
+**Spreker 1 (25:34):** Ja, ik ben daar persoonlijk voor Notion -- die Notion lijkt heel erg op Obsidian.
+
+**Gregory Cronie (25:43):** Subsidiëren. Ja, ik heb er wel van gehoord. Ja, ik heb wel eens ja. Klopt, want je hebt een beetje. Het is Notion, Obsidian, Tana -- dat zijn een beetje de tools die met elkaar concurreren.
+
+**Spreker 1 (26:04):** Ja nou, er zijn ook nog wel wat open source tools hoor die er bij zitten. OK. Zijn er collega's die hetzelfde als jij doen, specifiek in de context van Windesheim?
+
+**Gregory Cronie (26:22):** Geen idee. Ja nee sorry ja. Vast wel, maar ik weet het niet. Ik, ik ja, het klinkt een beetje stom, maar ik werk me natuurlijk heel geïsoleerd. Ik ben natuurlijk nooit op Windesheim, behalve als we een strategiedag hebben of zo.
+
+**Spreker 1 (26:28):** Helemaal correct.
+
+**Gregory Cronie (26:39):** En ik heb wel eens een gastcollege gegeven, maar als ik twee keer per jaar binnen Windesheim ben, is veel. En voor de rest heb ik alleen maar met Chris contact. En met Richard, en soms met Ronald. Dus ik weet wat we binnen het lectoraat doen, maar ik weet niet wat er voor de rest bij Windesheim is.
+
+**Spreker 1 (27:09):** Bij Windesheim, nou ja, we hebben volgens mij al bijna alle tools genoemd. Die heb je zelf al genoemd die je gebruikt. Maar zijn er nog andere tools die we misschien gemist hebben?
+
+**Gregory Cronie (27:21):** In Windesheim-context.
+
+**Spreker 1 (27:24):** Ja.
+
+**Gregory Cronie (27:25):** Geraapt. Of überhaupt ook in mijn andere baan. Kijken hoor -- gebruik ook Miro. Er vervalt. Power BI dat wordt natuurlijk ook wel binnen Windesheim gebruikt. Maar ik ben een gebruiker van Power BI, hoor, ik maak niet eigen views. Slack. Ja, dat vind ik denk ik wel de belangrijkste tools. Notion. Ja.
+
+**Spreker 1 (28:38):** Jira. OK. Nou, ik wil niet al te veel van je tijd nemen, dus ik ga verder naar de volgende vraag. Stel dat jij voor Windesheim een magische stagiaire toegewezen gekregen hebt aan jezelf. Hij heeft geen specifieke stageopdracht behalve jouw leven makkelijker maken. Wat laat je hem doen?
+
+**Gregory Cronie (29:03):** Voor.
+
+**Spreker 1 (29:04):** Dus ik kan het niet compleet vertrouwen, want het was een stagiair, hè, maar.
+
+**Gregory Cronie (29:10):** Ja, ik krijg het lastig om te beantwoorden, omdat ik in de specifieke context werk in Windesheim met me een dag in de week. Wat al niet op zich -- het is niet dat ik perse altijd ook een hele dag nodig heb, zeg maar, voor de dingen die ik moet doen voor Windesheim. Ik bedoel, ja, als ik een stagiair zou hebben dan zou ik hem laten meewerken op dat orders-to-cash monitor onderzoek. Meer dat. Dat soort dingen.
+
+**Spreker 1 (29:49):** En, wat zou je dan laten doen?
+
+**Gregory Cronie (29:54):** Nou ja, bijvoorbeeld -- Chris wil graag een visualisatie van de data hebben als iemand een survey uitvoert of invult. Dan zou ik er meer daarheen laten kijken van, hoe kunnen we dat, als we het eenmaal in de Survalyzer hebben, hoe krijg je dan de data eruit? En hoe kun je dat visualiseren en terugsturen naar de respondenten? Dat soort dingen. Denk ik.
+
+**Spreker 1 (30:21):** OK, stel dat het goed gaat met de AI, hoe weet je dat het werkt?
+
+**Gregory Cronie (30:31):** Omdat ik weet wat ik zoek. Domeinkennis. En ik kijk dingen, dus ik laat niet dingen doen die -- hoe zeg je dat? Kijk, als ik zo'n prijsanalyse laat maken of kostenanalyse. En je krijgt dan een Excel. Die loop ik er wel doorheen om te kijken van is dit logisch, klopt het.
+
+**Spreker 1 (30:58):** Ja.
+
+**Gregory Cronie (30:58):** En als ik dan iets mis of denk van, hé, dat is niet helemaal goed, dan laat ik het aanpassen. Je moet nooit helemaal blind vertrouwen op de uitkomst. En ik laat ook wel eens gewoon risicoanalyses maken voor contracten. De 5 clausules naar welke risico's gekeken moet worden. Nou ja, dan ga ik natuurlijk wel ook naar die clausules zelf kijken. De clausules ook lezen, maar ik hoef niet het hele contract te lezen.
+
+**Spreker 1 (31:33):** Ja OK. Dan heb ik nog één bonusvraag voor je en dan kan ik je laten gaan. En de bonusvraag is eigenlijk van Chris.
+
+**Gregory Cronie (34:00):** Ja.
+
+**Spreker 1 (34:08):** Dus jij hebt nu deze hele mooie survey voor hem gedaan en alles nog wat en nu ga je weg. Nu. Wie gaat het overnemen? Hoe gaat dat gebeuren?
+
+**Gregory Cronie (34:22):** Weet ik niet. Weet niet, ik ik. Ik heb ook geen idee of ze de plek gaan opvullen met een nieuwe persoon of niet, of. Daar ben ik niet over gehad eigenlijk. Chris, ik weet niet wat de ideeën zijn. Ik had een beetje het idee toen ik Michiel sprak, de laatste strategiedag, dat er ook uberhaupt bezuinigd moest worden. Zodat het in die zin -- wat ik meer de indruk van -- waarschijnlijk gaan ze de plek niet opvullen. Dus.
+
+**Spreker 1 (35:04):** OK OK. Sowieso, ik heb nu al heel wat van je gekregen, dus ik snap hem wel. Nou misschien dat ik gevraagd wordt binnen mijn huidige functie dat ook over te nemen hoor. Dat weet ik nog niet helemaal zeker maar.
+
+**Gregory Cronie (35:19):** Ja.
+
+**Spreker 1 (35:21):** Ik weet niet hoe ze dat willen oplossen, maar Chris vindt je werkt tot nu toe erg geweldig en ik vind het heel erg leuk. En ja maakt zich nu natuurlijk een beetje zorgen van wie gaat het? Wie gaat het niet doen?
+
+**Gregory Cronie (35:33):** Wat nu? Ja, ja dat weet ik. Kijk, we zijn ooit begonnen met het idee om in veel mensen uit de praktijk te hebben die naast hun normale werk ook onderzoek doen of ondersteunen. Ja, dat is natuurlijk een specifiek profiel. Ja, en ik sloeg het wat minder aan bij mij sloeg het aan, dus ik heb het nu denk ik wel onderhand 5 jaar gedaan. Ja. Ik weet het niet. Ja, en die survey die is dan nieuw. Dat is niet wat van de laatste 1,5 jaar. Ja, dat is iets wat natuurlijk gewoon doorgezet kan worden, zeker in combinatie met Forcy, als je dat zelf ook interessant vindt. Ja.
+
+**Spreker 1 (36:36):** OK nou ja, bespreek het, zal ik zeggen, met hem. Ik denk dat hij er een beetje zorgen over maakt. En dan ja, misschien dat je je prompts die je hebt gemaakt inmiddels aan een opvolger door kan geven. Misschien is dat al genoeg. I don't know.
+
+**Gregory Cronie (36:52):** Ja nee maar op zich, ik heb -- de prompts die ik heb gemaakt voor de data-analyse waren niet heel spannend in die zin. Maar ik zou op zich -- in die zin zou ik wel -- wat je natuurlijk heel goed kan doen is als je eenmaal -- ja, je moet -- ik gebruik dit mijn persoonlijke account -- gewoon weliswaar de betaalde. Windesheim gebruikt natuurlijk geen -- hé, dat is natuurlijk een probleem.
+
+**Spreker 1 (37:28):** Ja, nee, ik loop daar ter dagelijks tegenaan.
+
+**Gregory Cronie (37:30):** Want als ik gewoon Claude zou kunnen gebruiken, maak ik gewoon een skill en ik gebruik wat bestaande skills. En dan -- en hij weet gewoon wat het dataformat is. Nou ja, dan zeg je wat voor analyses die we doen en dan doet hij dat gewoon. Hij gaat gewoon vanzelf, ik bedoel.
+
+**Spreker 1 (37:49):** Ja.
+
+**Gregory Cronie (37:49):** Je doet helemaal niet zo spannend op zich als je de tool.
+
+**Spreker 1 (37:56):** Nou dus nee, maar ja, jij zegt dat het niet zo spannend is, maar als je het met ChatGPT moet doen, dan.
+
+**Gregory Cronie (37:58):** Maar gebruiken.
+
+**Spreker 1 (38:07):** Lukt niet zo goed, tenminste, dat is mijn ervaring. Maar ja.
+
+**Spreker 1 (38:07):** Ik vond het heel erg fijn om met je gesproken te hebben en ik ben heel erg blij dat je een nieuwe functie voor jezelf gevonden hebt en dat je zo cool met een nieuw bedrijf werkt die dus wel al die tools omarmt. Ja en ik hoop je nog eens een keertje te zien op dinsdag misschien of niet.
+
+**Gregory Cronie (38:31):** Ja. Ja vast wel vast wel.
+
+**Gregory Cronie (38:40):** Ik ken Michiel -- wij waren collega's bij de ING. Dus Michiel ja, nee, sterker nog, ik ken Michiel nog van voor de ING. Ik ken Michiel uit mijn tweede baan -- ik was consultant. Praat ik echt over 1997. Mijn tweede baan, en toen was Michiel student-chauffeur voor onze CEO -- staat ik hem al voor het eerst ontmoet. En daarna bij ING waren we echt collega's. Dat praat ik over 10 jaar later, zeg maar. Zo oud ken ik hem al. Dus we weten elkaar te vinden. En, ik heb ook wel gezegd van ik wil best -- tegen Michiel -- ik wil best voor -- kijk waar ik tegenaan loop is dat mijn werk gewoon zoveel flexibiliteit vraagt en ik specifiek heel veel moet reizen. En dan heb ik gewoon niet meer de mentale ruimte om het werk wat ik voor Windesheim doe goed te doen, goed volgens mijn eigen normen. Maar zo een monitor -- kijk, dat is iets afgebakends met een begin en eind waarvan je ook van tevoren weet: OK, als we afspreken, ik zeg maar wat, volgend jaar juni, dan willen we de nieuwe monitor uitbrengen. En ik weet wat de stappen zijn. Dan kan ik daar een beetje met mijn planning rekening mee houden. Dus ik heb op zich aangeboden van -- kijk -- die monitor, dat kunnen we op een andere manier misschien nog wel regelen, dat ik daarvoor alleen specifiek gewoon op uur/factuurbasis ofzo even wordt ingehuurd. Op zich het aanbod heb ik gedaan.
+
+**Spreker 1 (40:40):** OK.
+
+**Gregory Cronie (40:42):** Ik ben ineons van Chris -- het weet dat ik toen laatst gedaan, om tegen Michiel gezegd tijdens de strategiedag.
+
+**Spreker 1 (40:49):** OK. Maar je gaat wel goed uit elkaar, toch of niet?
+
+**Gregory Cronie (40:56):** Ja hoor.
+
+**Spreker 1 (40:57):** OK, ik bedoel, het is zo lange geschiedenis bij Michiel, dat denk ik van.
+
+**Gregory Cronie (41:04):** Nee, nee, nee, we gaan hier goed uit elkaar. Ik denk dat hij begrijpt waarom ik. Tot en Chris ook en ik weet dat Chris dat jammer vindt. Nou ja, als ik iets doe, wil ik het graag doen. En als ik het gevoel heb van ik kan het maar met halve aandacht doen, dan vind ik het niet fijn.
+
+**Spreker 1 (41:27):** Maar ik vind dat je goede morele standaarden hebt, dus.
+
+**Gregory Cronie (41:31):** Ja, maar ja, dat is ook gewoon mijn eigen normen of kwaliteit. Wat je reputatie geeft een naam.
+
+**Spreker 1 (41:42):** OK, hé, laten we anders ook een beetje -- ik vind je wel heel erg interessant. Hier is mijn LinkedIn -- laten we connectie houden, is leuk.
+
+**Gregory Cronie (41:55):** Ja, ja dat is goed.
+
+**Spreker 1 (41:56):** Waarom niet?
+
+**Gregory Cronie (41:58):** Zeker. Oké. Connect.
+
+**Spreker 1 (42:08):** Ja, je krijgt van mij een transcriptie terug en wat ik geleerd heb uit het interview voor relevant. Er zijn natuurlijk over de e-mail. En ja, misschien dat je het allemaal interessant vindt.
+
+**Gregory Cronie (42:23):** Ja, want wat is het doel van je onderzoek eigenlijk?
+
+**Spreker 1 (42:26):** Mijn doel van mijn onderzoek is het kijken van welke tools kunnen wij gebruiken om de processen te versnellen binnen Windesheim. Dus wat voor kleine stappen kunnen we vinden? Hoe kunnen we AI beter inzetten voor Windesheim zelf ook. En welke andere tools worden er allemaal gebruikt? Dat is ook de reden dat ik daarvoor vraag van oh, hè, wat gebruik je dan? Oh, dit gebruik jij. OK fijn. En dan kijken we van wat is daadwerkelijk handig en wat is niet handig, want AI kan theoretisch heel veel, maar in praktijk, als je er niet goed mee omgaat, dat vertraagt je werk eigenlijk in plaats van dat het versnelling is.
+
+**Gregory Cronie (43:14):** Nee klopt, nee zeker. Je moet goed weten hoe je ermee omgaat, maar wat ik zeg -- mensen bij ons zijn echt super tech-savvy. We hebben gewoon een interne website waar de skills gepubliceerd zijn. Company skills die je in Claude kunt gebruiken.
+
+**Spreker 1 (43:31):** Ja, dat is heel slim. Ik gebruik nou -- misschien dat je het zelf, als jij zo een inspiratiebron bent, dan ga ik het ook doen.
+
+**Gregory Cronie (43:43):** En een ander voorbeeld is -- wij, al die bedrijven die we kopen, die willen we sneller laten groeien en een betere winstmarge laten maken, dus er lopen allerlei verbeterprogramma's. Die vanuit het hoofdkantoor worden aangestuurd. En elk bedrijf moet elk kwartaal een maturity assessment invullen, dus een vragenlijst om te kijken van op al die verschillende functionele gebieden, waar zijn ze? We hebben 5 niveaus. Nou waar zijn ze -- zijn ze nog steeds op niveau 1 of 2, 3, 4, 5. Nou ja, als je een survey voor elk functioneel gebied maakt met zijn eigen vragenlijsten. Geeft in stukjes hoe het beantwoord moet worden en welk bewijs geleverd moet worden. Als je van elk bedrijf de antwoorden zelf moet helemaal gaan lezen, kost dat heel veel tijd. Dus een collega heeft gewoon een aantal MCPs gemaakt die geconnect zijn met bepaalde context in ons bedrijf. En dan kom je gewoon -- nu met Claude in Claude.ai kun je gewoon praten, zeggen van OK, hij is geconnect naar de antwoorden. Hij heeft ook geconnect naar een aantal andere tools, maar de context in zit. En je groeit in Notion, dus als je weet welk bedrijf, weet hij ook precies waar die context moet zoeken. Dan kun je gewoon zeggen: score dat bedrijf, waar komt die volgens jou op uit? Volgens de criteria zoals we die hebben vastgesteld, en waarom? En wat zijn de recommendations? Nou ja, dan ga je kijken en als je denkt dat niet helemaal klopt, dan kun je het nog aanpassen. Maar dat scheelt enorm veel tijd.
+
+**Spreker 1 (45:41):** Ik snap niet waarom Windesheim zo terughoudend is, maar OK, dat ben ik.
+
+**Gregory Cronie (45:43):** Ja ik ook niet, want ik bedoel -- wij zitten in een heel gevoelig business als het gaat om vertrouwelijkheid qua informatie. En er zijn natuurlijk altijd -- je belt dat in concurrentie met andere private equity bedrijven als je een bedrijf wilt kopen. Maar bij ons is de houding van het management meer zo van: ja, weet je, we willen gewoon het private equity bedrijf zijn wat AI het beste en snelste heeft geadopteerd, zodat het een competitive edge wordt. Ja en dat risico van dat er misschien data weglekt, dat wordt geaccepteerd.
+
+**Spreker 1 (46:25):** Ja, voor nu genomen.
+
+**Gregory Cronie (46:26):** Ja.
+
+**Spreker 1 (46:29):** Er is altijd -- ik ben al heel lang bezig met AI engineering en je geeft me ook heel veel terug, dus ik geef -- ik ga jou misschien ook wat geven als je dit interessant vindt. Wat jou natuurlijk wel kan doen nog is: je kan Claude al het rekenwerk en denkwerk laten doen, dat dat er niet van. Maar je zou het embedding model -- hoe die de documenten pakt -- dat kan je nog wel lokaal draaien. En dan haal je toch wel een hele hoop van de gegevens in eigen handen.
+
+**Gregory Cronie (47:36):** Ja, nou ja, wij hebben ook een AI lead en die heeft -- we hebben ook Averfield GPT en die draait op onze eigen Azure stack afgeschermd. En, dat is voor heel specifieke doeleinden waar je bepaalde data niet mag inzetten, kun je die gebruiken.
+
+**Spreker 1 (48:05):** Ik gebruik heel veel OpenWebUI met Ollama daarvoor. Voor deze specifieke doelen. Maar ik heb niet zo heel veel vertrouwelijke informatie.
+
+**Gregory Cronie (48:13):** Ja en zelf gebruikt hij privé -- heeft hij lokaal op zijn vloer.
+
+**Spreker 1 (48:20):** Ja kijk ook ja ja.
+
+**Gregory Cronie (48:24):** Geïnstalleerd, ja.
+
+**Spreker 1 (48:27):** Nou kijk, weer heel interessant. Dankjewel voor al deze informatie. Nou, we houden contact op LinkedIn en.
+
+**Gregory Cronie (48:35):** Ja nee is goed.
+
+**Spreker 1 (48:37):** Ik wens je het beste. En nou ja, misschien zien we elkaar nog eens.
+
+**Gregory Cronie (48:42):** Ja goed. Graag gedaan ja, tot kijk hai.
+
+**Spreker 1 (48:45):** Dankjewel tot ziens.
+
+*Chris Verhoef heeft de transcriptie gestopt.*
