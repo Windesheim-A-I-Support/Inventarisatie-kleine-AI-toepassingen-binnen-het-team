@@ -161,6 +161,42 @@ Signaal voor Windesheim-beleid: Canvas Windesheim-account is gestopt, ze betaalt
 
 ---
 
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 14 collega's
+
+Van de 14 geïnterviewde collega's heb jij het hoogste aantoonbare resultaat: een subsidieaanvraag van €40.000 volledig geschreven met AI, inmiddels gehonoreerd. Dat is het sterkste concrete bewijs in het hele onderzoek dat AI echt werkt. Jouw werkwijze (brainstorm opnemen → Dutch PQ transcribeert → transcript + subsidievoorwaarden in ChatGPT → iteratief uitwerken) is overdraagbaar.
+
+Vergelijkbare AI-intensiteit: Bart Ras (22 agents, Python simulaties, NDA review in 3 minuten), Michiel Steeman (Perplexity bijna 1 jaar betaald), Greg Cronie (Claude volledig geïntegreerd bij Everfield). Acht van de veertien collega's gebruiken AI episodisch of nauwelijks.
+
+### Gedeelde radartjes
+
+**HR-Today uren/declaraties**: Stefan Hoogervorst ("Mira is er veel tijd aan kwijt"), Mira Benes ("al die urenbriefjes, huppakee"), Ronald de Boer ("waarom moet ik dat allemaal nog nalopen?"), jij. Vier mensen, één bottleneck. Beste kandidaat voor een gedeelde oplossing.
+
+**Vergaderingen samenvatten**: Luca Gelsomino (vergadertranscriptie willen automatiseren), Ritsaart Bergsma (student follow-up), Bart Ras (face-to-face diarization), Ronald de Boer (NotebookLM voor boeken), Richard Holman (Summary AI), jij. Zes van de veertien collega's -- het meest gedeelde radartje.
+
+**Subsidies schrijven met AI**: Michiel Steeman (Perplexity als sparringpartner voor tekstsuggesties), Christiaan de Goeij (lingo-afstemming IenW/TKI/topsector), jij (ChatGPT + Dutch PQ, €40k resultaat). Drie mensen, één aanpak.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Jij levert twee unieke bijdragen:
+
+1. **Bewijs dat het werkt.** €40k subsidie is niet een radartje dat misschien ooit iets oplevert -- het is al opgeleverd. Dat is anders dan alle andere interviews.
+
+2. **Windesheim-beleid als structureel probleem.** Canva-account gestopt, LinkedIn Premium stopt vanwege salarisadministratiebureaucratie. Jij betaalt zelf voor de tools die je professioneel het meest gebruikt. Dat patroon zien we bij meer collega's (Bart: Copilot uit, Greg: geen Claude-account), maar jij maakt de financiële consequentie het scherpst zichtbaar.
+
+### Handige werkwijzen van collega's
+
+**Maxime Bouillon** heeft vier Claude system-prompt modes gebouwd: Reviewer 2 (kritisch op eigen werk), Brainstorm, Socratic (vraagt door op je eigen redenering), Coach. Relevant voor jouw subsidiesessies: de Reviewer 2-mode wijst zwakke argumenten in je eigen tekst aan voordat je instuurt.
+
+**Michiel Steeman** maakt per subsidiedossier een aparte Perplexity-context met alle relevante documenten erin -- hij hoeft niet steeds opnieuw context te geven. Zelfde logica als jouw ChatGPT-aanpak, maar dan persistent.
+
+**Richard Holman** stelt dezelfde vraag aan meerdere AI-tools en filtert zijn eigen antwoord eruit ("multiple source intelligence"). Nuttig bij subsidieteksten: zo zie je waar de modellen van elkaar afwijken en wat jij er zelf van vindt.
+
+**Ronald de Boer** gebruikt NotebookLM om beleidsdocumenten als podcast te beluisteren. Handig als voorbereiding op lesvoorbereiding: document uploaden en laten uitleggen terwijl je rijdt.
+
+---
+
 ## Volledige transcriptie
 
 *Automatisch gegenereerd door Microsoft Teams. Spreker 1 = Chris Verhoef.*
