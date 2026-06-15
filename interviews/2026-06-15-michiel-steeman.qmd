@@ -22,6 +22,44 @@ lang: nl
 | Gespreksvorm | Mondeling, één op één (online) |
 | Duur | 39 minuten |
 
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 14 collega's
+
+Van de 14 geïnterviewde collega's gebruik jij AI bovengemiddeld. Perplexity bijna een jaar betaald, actief als sparringpartner voor subsidies, Figma AI voor design. Vergelijkbaar niveau: Bart Ras (22 gespecialiseerde agents, Python simulaties), Yolanda Beenen (€40k subsidie volledig met AI), Greg Cronie (Claude volledig geïntegreerd bij Everfield). Acht van de veertien collega's gebruiken AI episodisch of nauwelijks.
+
+Jij valt ook in een herkenbaar patroon: extern (inChange) is alles open, bij Windesheim geblokkeerd. Bart heeft hetzelfde: 22 agents elders, Copilot uitgeschakeld bij Windesheim. Greg: Claude volledig geïntegreerd bij Everfield, nul bij Windesheim. Yolanda: Canva-account gestopt door Windesheim, betaalt zelf.
+
+### Gedeelde radartjes
+
+**Informatiefiltering** (content-overload, gefilterde feed willen): jij en Christiaan Verhoef -- de enige twee die dit expliciet noemen. Onopgelost bij beiden.
+
+**Mailbeheer** (inbox onbeheersbaar): Ronald de Boer -- "met mail kan ik niks." Zijn Copilot staat ook uit. Zelfde oorzaak.
+
+**Subsidies schrijven met AI**: Yolanda (€40k gehonoreerd, ChatGPT + Dutch PQ), Christiaan de Goeij (Perplexity voor lingo-afstemming IenW/TKI/topsector), jij (Perplexity als sparringpartner, tekstsuggesties voor Corné). Drie mensen, één aanpak, verschillende uitvoeringen.
+
+**Windesheim vs. eigen bedrijf kloof**: jij, Bart, Greg, Yolanda. Allen met externe rol, allen significant meer AI-gebruik buiten Windesheim.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Jij voegt twee nieuwe signalen toe die daarvoor niet voorkwamen:
+
+1. **Informatiefiltering als onopgelost pijnpunt.** Niemand anders had dit zo gearticuleerd. "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen." Dat is een radartje waar nog geen goede oplossing voor bestaat.
+
+2. **AI-gegenereerde mails als bijwerking van adoptie.** Collega's die AI gebruiken sturen langere mails. Dat verhoogt de leeslast voor anderen. Nieuwe categorie: AI creëert nieuwe problemen terwijl het oude oplost.
+
+### Handige werkwijzen van collega's
+
+**Maxime Bouillon** heeft vier Claude system-prompt modes gebouwd die hij dagelijks gebruikt: Reviewer 2 (kritisch op eigen werk, wijst zwakke argumenten aan), Brainstorm (breed genereren), Socratic (vraagt door op je eigen redenering), Coach. Hij deelt ze graag.
+
+**Ronald de Boer** luistert boeken via NotebookLM als podcast -- hij uploadt een boek, vraagt een gespreksvorm, en luistert terwijl hij loopt of rijdt.
+
+**Yolanda Beenen** neemt brainstormsessies op → Dutch PQ transcribeert → transcript + subsidievoorwaarden in ChatGPT → iteratief uitwerken. Dezelfde logica als wat jij doet met Perplexity, maar dan voor de schrijffase.
+
+**Richard Holman** stelt dezelfde vraag aan meerdere AI-tools en filtert zijn eigen antwoord eruit -- "multiple source intelligence." Goede calibratiemethode voor subsidiesparring: zo zie je waar modellen het niet eens zijn.
+
+---
+
 ## Digitale toolkit
 
 | Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
@@ -166,44 +204,6 @@ Opvallend patroon: bij inChange (zijn eigen bedrijf) werkt alles -- vergaderinge
 Toekomst: ziet Claude Code als volgende stap (coderen vanuit ideeën beschrijven). Gebruikt Figma AI actief voor design (in een uur wat anders 3 weken kost). Denkt na over een onderzoekslijn binnen het lectoraat over AI en leren/kennisoverdracht.
 
 Michiel vroeg expliciet om een dashboard-update met de belangrijkste learnings aan het einde van de dag.
-
----
-
-## Jouw positie in het bredere beeld
-
-### AI-gebruik vergeleken -- 14 collega's
-
-Van de 14 geïnterviewde collega's gebruik jij AI bovengemiddeld. Perplexity bijna een jaar betaald, actief als sparringpartner voor subsidies, Figma AI voor design. Vergelijkbaar niveau: Bart Ras (22 gespecialiseerde agents, Python simulaties), Yolanda Beenen (€40k subsidie volledig met AI), Greg Cronie (Claude volledig geïntegreerd bij Everfield). Acht van de veertien collega's gebruiken AI episodisch of nauwelijks.
-
-Jij valt ook in een herkenbaar patroon: extern (inChange) is alles open, bij Windesheim geblokkeerd. Bart heeft hetzelfde: 22 agents elders, Copilot uitgeschakeld bij Windesheim. Greg: Claude volledig geïntegreerd bij Everfield, nul bij Windesheim. Yolanda: Canva-account gestopt door Windesheim, betaalt zelf.
-
-### Gedeelde radartjes
-
-**Informatiefiltering** (content-overload, gefilterde feed willen): jij en Christiaan Verhoef -- de enige twee die dit expliciet noemen. Onopgelost bij beiden.
-
-**Mailbeheer** (inbox onbeheersbaar): Ronald de Boer -- "met mail kan ik niks." Zijn Copilot staat ook uit. Zelfde oorzaak.
-
-**Subsidies schrijven met AI**: Yolanda (€40k gehonoreerd, ChatGPT + Dutch PQ), Christiaan de Goeij (Perplexity voor lingo-afstemming IenW/TKI/topsector), jij (Perplexity als sparringpartner, tekstsuggesties voor Corné). Drie mensen, één aanpak, verschillende uitvoeringen.
-
-**Windesheim vs. eigen bedrijf kloof**: jij, Bart, Greg, Yolanda. Allen met externe rol, allen significant meer AI-gebruik buiten Windesheim.
-
-### Wat jij toevoegt aan het bredere beeld
-
-Jij voegt twee nieuwe signalen toe die daarvoor niet voorkwamen:
-
-1. **Informatiefiltering als onopgelost pijnpunt.** Niemand anders had dit zo gearticuleerd. "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen." Dat is een radartje waar nog geen goede oplossing voor bestaat.
-
-2. **AI-gegenereerde mails als bijwerking van adoptie.** Collega's die AI gebruiken sturen langere mails. Dat verhoogt de leeslast voor anderen. Nieuwe categorie: AI creëert nieuwe problemen terwijl het oude oplost.
-
-### Handige werkwijzen van collega's
-
-**Maxime Bouillon** heeft vier Claude system-prompt modes gebouwd die hij dagelijks gebruikt: Reviewer 2 (kritisch op eigen werk, wijst zwakke argumenten aan), Brainstorm (breed genereren), Socratic (vraagt door op je eigen redenering), Coach. Hij deelt ze graag.
-
-**Ronald de Boer** luistert boeken via NotebookLM als podcast -- hij uploadt een boek, vraagt een gespreksvorm, en luistert terwijl hij loopt of rijdt.
-
-**Yolanda Beenen** neemt brainstormsessies op → Dutch PQ transcribeert → transcript + subsidievoorwaarden in ChatGPT → iteratief uitwerken. Dezelfde logica als wat jij doet met Perplexity, maar dan voor de schrijffase.
-
-**Richard Holman** stelt dezelfde vraag aan meerdere AI-tools en filtert zijn eigen antwoord eruit -- "multiple source intelligence." Goede calibratiemethode voor subsidiesparring: zo zie je waar modellen het niet eens zijn.
 
 ---
 

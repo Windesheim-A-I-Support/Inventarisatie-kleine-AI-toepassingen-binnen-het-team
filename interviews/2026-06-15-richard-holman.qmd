@@ -22,6 +22,44 @@ lang: nl
 | Gespreksvorm | Mondeling, één op één (online) |
 | Duur | 29 minuten |
 
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 14 collega's
+
+Van de 14 geïnterviewde collega's gebruik jij AI gemiddeld in frequentie, maar onderscheidend in aanpak. Summary AI en ChatGPT zijn productieve tools die je dagelijks inzet. Wat jou onderscheidt: jij stelt dezelfde vraag aan meerdere AI-tools en filtert je eigen antwoord eruit -- "multiple source intelligence." Niemand van de andere dertien collega's werkt zo bewust en methodisch. Het is de best doordachte AI-aanpak in het onderzoek.
+
+Magische stagiairvraag "helemaal niks": uniek in alle 14 interviews. Iedereen noemde iets -- jij niet. Dat zegt iets over hoe je werkt: controle en persoonlijk contact zijn kernwaarden, geen inefficiënties.
+
+### Gedeelde radartjes
+
+**Gespreksnotities stileren en structureren**: Luca Gelsomino (LinkedIn-outreach notities), Bart Ras (face-to-face diarization na vergaderingen), Mira Benes (vraagarticulatie schrijven vanuit gesprekken), jij (Summary AI in meerdere stijlen). Vier collega's, één patroon.
+
+**Contact-chasing pipeline**: Luca Gelsomino ("LinkedIn outreach screaming for automation"), Maxime Bouillon (prospects benaderen voor PhD-dataverzameling, kostte hem van oktober tot februari), jij (RECAP Excel bijhouden, herinneringen sturen). Drie collega's, hetzelfde handwerk.
+
+**Verjaardagen en relatiemanagement**: jij bent de enige die dit noemt. Eenvoudigste radartje van alle 14 interviews -- eenmalig op te lossen, nooit meer aan te denken.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Jij levert drie unieke bijdragen:
+
+1. **"Helemaal niks" als antwoord.** Iedereen gaf iets op de magische stagiairvraag -- jij niet. Dat is een valide signaal: AI werkt voor jou als versterker van bestaand werk, niet als vervanger. Dat is een bewust gekozen positie.
+
+2. **RECAP als gedeeld systeem.** Jij en collega's gebruiken dezelfde Excel voor partner-tracking. Het enige gedeelde operationele systeem in het team dat ik in 14 interviews heb gevonden. Als dat systeem verbeterd wordt, profiteert iedereen.
+
+3. **Netwerk als primaire asset.** Je netwerk since 1989 is de reden dat jij waarde toevoegt -- niet de snelheid van je tools. De radartjes die je noemt (chasing, notities, verjaardagen) zijn allemaal ter ondersteuning van dat netwerk, nooit vervanging.
+
+### Handige werkwijzen van collega's
+
+**Yolanda Beenen** neemt brainstormsessies op → Dutch PQ transcribeert → transcript in ChatGPT met context → document. Werkt ook voor jouw gespreksnotities: in plaats van Summary AI de stijl laten kiezen, kun je met ChatGPT zelf de output sturen naar exact de toon die je wil.
+
+**Maxime Bouillon** heeft vier Claude system-prompt modes gebouwd: Reviewer 2, Brainstorm, Socratic, Coach. De Coach-mode vraagt door op je eigen redenering -- vergelijkbaar met jouw "multiple source intelligence," maar dan met één tool die je uitdaagt.
+
+**Ronald de Boer** gebruikt NotebookLM om beleidsdocumenten als podcast te beluisteren tijdens het rijden. Handig als voorbereiding op NEVI-vergaderingen of partnerbijeenkomsten: document uploaden en laten uitleggen.
+
+**Michiel Steeman** filtert 2-3 hoofdcommentaren uit subsidiedocumenten en laat AI die omzetten naar concrete tekstsuggesties. Dezelfde logica werkt voor jouw gespreksnotities: niet alles samenvatten, maar drie actiepunten eruit halen en die als mail versturen.
+
+---
+
 ## Digitale toolkit
 
 | Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
@@ -162,44 +200,6 @@ AI-gebruik: Summary AI voor gespreksnotities (transcribeert in meerdere stijlen,
 Magische stagiairvraag leverde "helemaal niks" op: Richard wil alles zelf doen. Controle is zijn kernwaarde.
 
 Sterkste radartje: een CRM/sales pipeline voor zijn netwerk-chasing is er nog niet (RECAP Excel is een aanzet) -- hij staat er open voor als het hem wordt aangereikt. En de meest laagdrempelige wens: verjaardagen van lectoraatcollega's automatisch in Outlook zichtbaar maken. Simpel, maar hij heeft het eerder geopperd en er nooit gehoor voor gekregen.
-
----
-
-## Jouw positie in het bredere beeld
-
-### AI-gebruik vergeleken -- 14 collega's
-
-Van de 14 geïnterviewde collega's gebruik jij AI gemiddeld in frequentie, maar onderscheidend in aanpak. Summary AI en ChatGPT zijn productieve tools die je dagelijks inzet. Wat jou onderscheidt: jij stelt dezelfde vraag aan meerdere AI-tools en filtert je eigen antwoord eruit -- "multiple source intelligence." Niemand van de andere dertien collega's werkt zo bewust en methodisch. Het is de best doordachte AI-aanpak in het onderzoek.
-
-Magische stagiairvraag "helemaal niks": uniek in alle 14 interviews. Iedereen noemde iets -- jij niet. Dat zegt iets over hoe je werkt: controle en persoonlijk contact zijn kernwaarden, geen inefficiënties.
-
-### Gedeelde radartjes
-
-**Gespreksnotities stileren en structureren**: Luca Gelsomino (LinkedIn-outreach notities), Bart Ras (face-to-face diarization na vergaderingen), Mira Benes (vraagarticulatie schrijven vanuit gesprekken), jij (Summary AI in meerdere stijlen). Vier collega's, één patroon.
-
-**Contact-chasing pipeline**: Luca Gelsomino ("LinkedIn outreach screaming for automation"), Maxime Bouillon (prospects benaderen voor PhD-dataverzameling, kostte hem van oktober tot februari), jij (RECAP Excel bijhouden, herinneringen sturen). Drie collega's, hetzelfde handwerk.
-
-**Verjaardagen en relatiemanagement**: jij bent de enige die dit noemt. Eenvoudigste radartje van alle 14 interviews -- eenmalig op te lossen, nooit meer aan te denken.
-
-### Wat jij toevoegt aan het bredere beeld
-
-Jij levert drie unieke bijdragen:
-
-1. **"Helemaal niks" als antwoord.** Iedereen gaf iets op de magische stagiairvraag -- jij niet. Dat is een valide signaal: AI werkt voor jou als versterker van bestaand werk, niet als vervanger. Dat is een bewust gekozen positie.
-
-2. **RECAP als gedeeld systeem.** Jij en collega's gebruiken dezelfde Excel voor partner-tracking. Het enige gedeelde operationele systeem in het team dat ik in 14 interviews heb gevonden. Als dat systeem verbeterd wordt, profiteert iedereen.
-
-3. **Netwerk als primaire asset.** Je netwerk since 1989 is de reden dat jij waarde toevoegt -- niet de snelheid van je tools. De radartjes die je noemt (chasing, notities, verjaardagen) zijn allemaal ter ondersteuning van dat netwerk, nooit vervanging.
-
-### Handige werkwijzen van collega's
-
-**Yolanda Beenen** neemt brainstormsessies op → Dutch PQ transcribeert → transcript in ChatGPT met context → document. Werkt ook voor jouw gespreksnotities: in plaats van Summary AI de stijl laten kiezen, kun je met ChatGPT zelf de output sturen naar exact de toon die je wil.
-
-**Maxime Bouillon** heeft vier Claude system-prompt modes gebouwd: Reviewer 2, Brainstorm, Socratic, Coach. De Coach-mode vraagt door op je eigen redenering -- vergelijkbaar met jouw "multiple source intelligence," maar dan met één tool die je uitdaagt.
-
-**Ronald de Boer** gebruikt NotebookLM om beleidsdocumenten als podcast te beluisteren tijdens het rijden. Handig als voorbereiding op NEVI-vergaderingen of partnerbijeenkomsten: document uploaden en laten uitleggen.
-
-**Michiel Steeman** filtert 2-3 hoofdcommentaren uit subsidiedocumenten en laat AI die omzetten naar concrete tekstsuggesties. Dezelfde logica werkt voor jouw gespreksnotities: niet alles samenvatten, maar drie actiepunten eruit halen en die als mail versturen.
 
 ---
 
