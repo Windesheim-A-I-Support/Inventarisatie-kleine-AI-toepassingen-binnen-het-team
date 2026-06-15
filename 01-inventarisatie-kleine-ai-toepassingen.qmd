@@ -15,14 +15,11 @@
 | 2026-06-02 | Maxime | Senior researcher / PhD-kandidaat | Data-collectie PhD, feedback verwerken, interview scheduling, kwalitatieve transcriptanalyse | "The data collection for my next paper -- finding prospects, reaching out to them, building relations." | [PDF](downloads/interview-2026-06-02-maxime-bouillon.pdf) · [Word](downloads/2026-06-02-maxime-bouillon.docx) |
 | 2026-06-08 | Christiaan de Goeij | Onderzoeksproject manager, lectoraat Supply Chain Finance | Subsidie lingo-afstemming, presentaties, survey-analyse overdracht (Greg), nieuwsartikelen | "Welke woorden je krijgt moet gebruiken om ervoor te zorgen dat iedereen die dat leest van die twee verschillende groepen dat kan zeggen, nee, dit is ook iets van ons." | [PDF](downloads/interview-2026-06-08-christiaan-de-goeij.pdf) · [Word](downloads/2026-06-08-christiaan-de-goeij.docx) |
 | 2026-06-09 | Greg Cronie | Zelfstandig consultant / onderzoeksmedewerker lectoraat (1 dag/week) | Survey data visualisatie + terugkoppeling respondenten, orders-to-cash data-analyse overdragen | "Als ik gewoon Claude zou kunnen gebruiken, maak ik gewoon een skill en dan doet hij dat gewoon." | [PDF](downloads/interview-2026-06-09-greg-cronie.pdf) · [Word](downloads/2026-06-09-greg-cronie.docx) |
+| 2026-06-15 | Yolanda Beenen | Programmamanager "Kansen met data" + aanjager internationaal onderzoek | Vergaderingen samenvatten, subsidies schrijven, HR-Today uren/declaraties, lesvoorbereiding | "De subsidie van €40.000 heb ik helemaal geschreven met AI. Het is gewoon gehonoreerd." | [PDF](downloads/interview-2026-06-15-yolanda-beenen.pdf) · [Word](downloads/2026-06-15-yolanda-beenen.docx) |
+| 2026-06-15 | Richard Holman | Netwerk en cofinanciering | Gespreksnotities transcriberen en stileren, contact-chasing pipeline, verjaardagen in Outlook | "Als ik twee, drie chatfuncties heb en ik stel die vraag aan meerdere apps, dan filter ik mijn eigen reactie eruit." | [PDF](downloads/interview-2026-06-15-richard-holman.pdf) · [Word](downloads/2026-06-15-richard-holman.docx) |
+| 2026-06-15 | Michiel Steeman | Lector Supply Chain Finance | Dagelijkse informatiefiltering, hoofdcommentaren omzetten naar tekstsuggesties, mailbeheer, inhoudelijke verdieping nieuwe thema's | "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen. Dat irriteert me gewoon." | [PDF](downloads/interview-2026-06-15-michiel-steeman.pdf) · [Word](downloads/2026-06-15-michiel-steeman.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
-
-## Geplande interviews
-
-| Naam | Datum | Tijd |
-|---|---|---|
-| Richard Holman | 2 juni | 14:00 |
 
 ## Nog uit te nodigen
 
@@ -33,9 +30,7 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Mounia Belmamoune |
 | Paulien de Graaf-Muller |
 | Rea Vaz |
-| Yolanda Beenen |
 | Henri Grolleman |
-| Michiel Steeman |
 
 ## Wat een klein radartje is
 

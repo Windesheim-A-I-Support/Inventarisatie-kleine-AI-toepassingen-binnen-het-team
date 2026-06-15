@@ -1,0 +1,342 @@
+---
+title: "Interview: Michiel Steeman"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Michiel Steeman
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-15 |
+| Collega | Michiel Steeman |
+| Rol | Lector Supply Chain Finance (3 dagen/week) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 39 minuten |
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| Perplexity (betaald) | AI/LLM | Sparringpartner voor subsidies; informatie zoeken met bronvermelding | Dagelijks | Hoog | Bijna een jaar betaald account; maakt "fase" met context + documenten per project; ook voor kids (studentversie) |
+| Microsoft Copilot (betaald) | AI/LLM | Zoeken in SharePoint/mail; mailantwoorden voorbereiden | Regelmatig | Positief | Via inChange 365 omgeving -- niet Windesheim; zoekfunctie 100x beter dan Microsoft's eigen zoekmachine |
+| Figma AI | AI/LLM | Design conceptualiseren; gedachtes structureren en visualiseren | Regelmatig | Hoog | Privé/inChange; in een uur wat anders 3 weken kost; direct praten met designer |
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | Mail-volume gestegen door AI-gegenereerde lappen tekst van collega's |
+| Microsoft Teams | Communicatie | Vergaderen (geen opnames bij Windesheim) | Dagelijks | Neutraal | Bij inChange worden alle meetings wel opgenomen en getranscribeerd |
+| ChatGPT | AI/LLM | Teksten herschrijven | Gestopt | Laag | Gestopt -- "bagger wat eruit kwam"; geen goede bronlinks; overgestapt naar Perplexity |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Survey IT tools-20260615_113140`. Totale duur: 38 minuten 48 seconden. Gestart op 15 juni 2026, 09:31. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Michiel werkt 3 dagen/week als lector. Chris belt vanuit Zuid-Frankrijk (schoonvader, huis wordt verkocht).
+
+**1:49 -- Rol**
+Lector. Hoofdactiviteiten: proces en people management. Coacht en adviseert bij subsidies, stelt kaders, geeft richting aan intern goedkeuringsproces. Spart met Chris (kaders + thematiek), Paulien (herindiening), anderen (lopende subsidies).
+
+**4:47 -- Grootste tijdverlies: informatie filteren**
+Wil gericht ingelezen worden op onderwerpen om goed kaders te kunnen stellen. Surft nu langs nieuwsbronnen maar niet effectief -- krijgt te veel onnodige content, gaat in rabbit holes, irriteert hem. Idee: AI-agent die dagelijks een gefilterde feed geeft op zijn onderwerpen. Heeft dit nog niet goed opgezet. "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen."
+
+**8:54 -- AI-gebruik: Perplexity als sparringpartner**
+Primaire go-to AI. Maakt een "fase" (thread/context) per subsidieproject met juiste documenten en context. Houdt die open gedurende het hele proces. Filtert zijn 2-3 hoofdcommentaren (high level), laat Perplexity die omzetten in concrete tekstsuggesties voor het document, stuurt die naar Corné of Chris. "Het grote verschil is dat ik altijd al hoofdcommentaren gaf, maar nooit tekstueel iets kon meegeven -- dat kost te veel tijd. AI kan dat wel."
+
+**11:15 -- Vergaderingsopnames**
+Doet dit bij Windesheim helemaal niet -- officieel niet gefaciliteerd/mag niet. Bij inChange worden alle meetings wel opgenomen en getranscribeerd. Vindt het "grappig verschil."
+
+**12:26 -- Mailbeheer (irritatie)**
+Mail-volume gestegen: collega's sturen nu AI-gegenereerde lappen tekst die hij helemaal door moet lezen. "Je krijgt veel meer shit te lezen -- ook van directe collega's. Ze denken: oh mooi mailtje, dat stuur ik gewoon." Zelf beknopt mailer (2-3 woorden als dat genoeg is). Bij inChange doet Copilot al wat richting mailondersteuning. Heeft nog niet zijn mailbox laten beheren door AI.
+
+**15:47 -- Microsoft Copilot (inChange)**
+Gebruikt actief in inChange 365 omgeving. Zoekfunctie veel beter dan Microsoft's eigen zoekfunctie. Sneller met data interacteren. Trekt soms dingen vanuit Windesheim-omgeving naar inChange-omgeving voor meer tooling.
+
+**17:16 -- Claude (toekomstig)**
+Ziet kansen maar heeft het nog niet echt geprobeerd bij Windesheim. Sterk punt: coderen. Wil ideeën/functies beschrijven → Claude codeert. Heeft voldoende kennis om te beoordelen of het werkt. "De volgende stap is Claude Code, dat gaat er zeker aankomen."
+
+**18:54 -- Figma AI**
+Gebruikt actief voor design/conceptualiseren. Direct praten met figma, in een uur een concept dat anders 3 weken kost (designer-overleggen). Daarna programmeurs erbij. Wil dit combineren met Claude voor de code-kant.
+
+**20:49 -- Strategische reflectie**
+Ziet kansen voor lectoraat: tools maken die interessant zijn voor bedrijven (orders-to-cash, resilience tools). Maar dat verandert het karakter van de onderzoeksgroep. Weet niet of hij die draai nog meemaakt.
+
+**21:39 -- Gestopte tools**
+ChatGPT gestopt: "bagger wat eruit kwam." Geen goede bronlinks. Overgestapt naar Perplexity voor Research + bronvermelding. Perplexity is een overlay op meerdere modellen, net als wat Chris' tool doet. Focust op een paar tools en traint die goed -- switchen kost energie.
+
+**24:00 -- Perplexity voor kinderen**
+Kids hebben allemaal Perplexity studentversie. Gericht op leren, niet alleen antwoorden geven. Tools per vak aanbevelen aan studenten zou verschil maken.
+
+**25:00 -- Strategische reflectie: onderzoek + leren**
+Leren en onderzoeken lopen door elkaar. Wil een onderzoekslijn binnen het lectoraat die zich richt op hoe AI supply chain kennis het beste kan ondersteunen. "Temporaire en vellage hackers" -- idee in wording.
+
+**28:06 -- Magische stagiairvraag**
+Niet proces/planning -- dat heeft hij onder controle. Wil iemand die hem **inhoudsmatig voedt** op nieuwe onderwerpen die hij zelf geen tijd heeft om uit te werken: leerlijn opzetten, supply chain mapping, etc. "Ik heb te veel ideeën, maar niet voldoende tijd om ze uit te werken." Zorg dat die output destilleerbaar is naar richting.
+
+**31:00 -- Reflectie op AI en menselijkheid**
+Wat wordt echt belangrijk? Sociaal contact tussen personen -- dat maakt iets menselijk. Peer review systeem staat op knappen (3-4x meer AI-gegenereerde artikelen). Rol van universiteit in flux. Heeft sparringpartners nodig, ook op die strategische thema's.
+
+**32:22 -- Chris' learnings (gevraagd door Michiel)**
+Chris deelt rode draad van alle interviews: team werkt geïsoleerd. Suggestie: geen training geven, maar buddies koppelen op basis van gedeeld toolgebruik. Ronald + Richard (Apple). Maxime (interview-methode). Michiel: "klinkt als een goed idee, dan kunnen ze ook richten op de tools die ze zelf verder willen brengen."
+
+**35:33 -- Michiel's verzoek**
+"Stuur me eind van de dag een update van het dashboard met jouw belangrijkste punten van wat je bent tegengekomen." Wil ook bij een volgend lectoraatoverleg vragen wie er het verst vooroploopt bij andere lectoraten.
+
+---
+
+## Gestructureerde Q&A
+
+**Wat is je huidige rol?**
+Lector (3 dagen/week). Proces en people management. Coacht en adviseert bij subsidies, stelt kaders, geeft richting aan goedkeuringsproces.
+
+**Waar gaat de meeste tijd naartoe?**
+Processen rondom subsidies (bijsturen, adviseren, kaders stellen) + mailbeheer (gestegen door AI-gegenereerde teksten van collega's).
+
+**Welke tools gebruik je?**
+Perplexity (primair, betaald), Microsoft Copilot (inChange), Figma AI, Outlook, Teams. ChatGPT gestopt.
+
+**Slimste workaround?**
+Perplexity-fase per subsidieproject: context + documenten erin, gedurende het hele proces bijhouden. Hoofdcommentaren filteren, AI zet ze om in concrete tekstsuggesties voor het document.
+
+**Wat lukt niet?**
+Informatiefeed filteren: surft langs bronnen, niet effectief, rabbit holes. Wil AI-agent voor dagelijkse gefilterde feed -- heeft dit nog niet goed ingericht. "Ik loop nu vast in het filteren van informatie."
+
+**Magische stagiairvraag?**
+Inhoudelijk voeden op nieuwe thema's (leerlijn, supply chain mapping). Geen planning/proces -- dat is onder controle. Te veel ideeën, te weinig tijd om ze uit te werken.
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| Informatie bijhouden | Dagelijkse gefilterde nieuwsfeed op maat | Interessegebieden + trefwoorden Michiel | Dagelijkse selectie relevante artikelen, trends, papers | Dagelijks | Laag | Handmatig (eigen browsen) | Grootste tijdverlies; "ik word nu teveel getriggerd door shit"; wil AI-agent hiervoor maar heeft die nog niet goed ingericht |
+| Subsidies reviewen | Hoofdcommentaren omzetten naar concrete tekstsuggesties | Eigen 2-3 hoofdcommentaren + document | Tekstsuggesties per onderdeel die Corné/Chris direct kunnen gebruiken | Per document | Laag | Perplexity (al in gebruik) | Grote efficiëntieslag; "ik kon nooit tekstueel iets meegeven -- AI kan dat wel" |
+| Mailbeheer | Lange mails samenvatten en prioriteren | Inkomende mailbox | Samenvatting per mail + aanbevolen actie | Dagelijks | Middel | Handmatig (Outlook) | Mail-volume gestegen door AI-gegenereerde teksten; bij inChange doet Copilot al wat |
+| Nieuw thema uitwerken | Inhoudelijke verdieping op nieuw onderwerp | Thema + richting van Michiel | Overzicht: stand van zaken, kansen, bronnen | Per thema (meerdere keren per jaar) | Laag | Handmatig (stagiair) | Magische stagiairvraag; "te veel ideeën, te weinig tijd om ze uit te werken" |
+
+---
+
+## Letterlijke signalen
+
+- "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen. Dat irriteert me gewoon."
+- "Het grote verschil is dat ik altijd al hoofdcommentaren gaf, maar nooit tekstueel iets kon meegeven -- dat kost te veel tijd. AI kan dat wel."
+- "Je krijgt veel meer shit te lezen, ook van directe collega's, omdat die denken: dit is een mooi mailtje, dat stuur ik gewoon. Dat is een nadeel van AI."
+- "De volgende stap is Claude Code -- dat gaat er zeker aankomen."
+- "In Figma praat ik nu direct met de designer. In een uur heb ik wat anders 3 weken kost."
+- "Ik heb te veel ideeën, maar niet voldoende tijd om ze uit te werken."
+- "Bij inChange worden alle meetings opgenomen en getranscribeerd. Dat is een grappig verschil met Windesheim."
+- "Stuur me eind van de dag een update van het dashboard -- jouw belangrijkste punten."
+- "Wat wordt nou echt belangrijk -- wat we zelf willen blijven doen en kun je daar nog controle over houden?"
+
+---
+
+## Nog niet oplossen
+
+- AI-agent voor informatiefiltering: Michiel wil dit maar heeft het nog niet goed ingericht (kost te veel tijd om goed te trainen).
+- Claude Code: ziet kansen maar heeft het nog niet geprobeerd bij Windesheim.
+- Mailbeheer: Copilot bij inChange helpt al; bij Windesheim niet.
+- Vergaderingsopnames: bij Windesheim officieel niet gefaciliteerd.
+- Strategische thema's (leerlijn, supply chain mapping): ideeën maar geen tijd.
+
+---
+
+## Samenvatting voor weekupdate
+
+Michiel Steeman is lector (3 dagen/week). Zijn werk draait om coachen, kaders stellen en sparren -- niet zelf uitvoeren. AI-gebruik is genuanceerd: hij gebruikt Perplexity intensief als sparringpartner voor subsidies (maakt context-fases per project, filtert hoofdcommentaren, laat AI die omzetten naar tekstsuggesties voor Corné en Chris). Dat levert hem een echte tijdwinst.
+
+Grootste pijnpunt dat hij nog niet heeft opgelost: de informatiefiltering. Hij surft langs nieuwsbronnen, gaat in rabbit holes, maar haalt er te weinig relevants uit. Wil een AI-agent die hem dagelijks een gefilterde feed geeft op zijn thema's. Dit heeft hij nog niet goed ingericht.
+
+Tweede pijnpunt: mail-volume is gestegen door AI-gegenereerde teksten van collega's. Hij is zelf een 2-3-woorden mailer, maar krijgt nu lappen tekst die hij helemaal moet doorlezen.
+
+Opvallend patroon: bij inChange (zijn eigen bedrijf) werkt alles -- vergaderingen worden opgenomen en getranscribeerd, Copilot actief, meer tooling beschikbaar. Bij Windesheim is dit allemaal niet gefaciliteerd. Dit bevestigt het patroon dat collega's met een duale functie significant meer AI gebruiken dan collega's die alleen bij Windesheim werken.
+
+Toekomst: ziet Claude Code als volgende stap (coderen vanuit ideeën beschrijven). Gebruikt Figma AI actief voor design (in een uur wat anders 3 weken kost). Denkt na over een onderzoekslijn binnen het lectoraat over AI en leren/kennisoverdracht.
+
+Michiel vroeg expliciet om een dashboard-update met de belangrijkste learnings aan het einde van de dag.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerd door Microsoft Teams. Spreker 1 = Chris Verhoef.*
+
+**Michiel Steeman -- 0:06**
+Meneer Poel, meneer Poel, ja.
+
+**Spreker 1 -- 0:07**
+Hallo, kun je mij goed verstaan?
+
+**Michiel Steeman -- 0:11**
+Jazeker.
+
+**Michiel Steeman -- 0:19**
+Waar hang je uit nu?
+
+**Spreker 1 -- 0:31**
+Ik zit in Zuid-Frankrijk bij het huis van mijn schoonvader. Dit is de laatste keer dat ik hier waarschijnlijk ben -- we gaan het huisje verkopen.
+
+**Spreker 1 -- 1:15**
+Ben je er klaar voor?
+
+**Michiel Steeman -- 1:17**
+Kom maar door. Ik heb tot 12 uur -- een klein halfuurtje.
+
+**Spreker 1 -- 1:18**
+We doen deze interviews om te kijken waar de grootste tijdwinst zit op het gebruik van AI-tools en digitaliseringstools. Wat is jouw rol binnen het lectoraat Supply Chain Finance en hoeveel uur werk je daarbij?
+
+**Michiel Steeman -- 1:49**
+Wat is mijn rol? Ik ben lector -- wist je dat?
+
+**Spreker 1 -- 1:53**
+Echt?
+
+**Michiel Steeman -- 1:56**
+Officieel werk ik 3 dagen in de week als lector. Mijn belangrijkste activiteiten zijn proces en people management. Dat zijn toch de dingen waar ik het meest mee bezig ben.
+
+**Spreker 1 -- 2:14**
+En als je kijkt naar afgelopen week -- waar was je het meeste tijd aan kwijt?
+
+**Michiel Steeman -- 2:24**
+Aan die twee dingen. Met name de processen rondom subsidies: bijsturen, adviseren, kaders stellen, richting geven aan het interne goedkeuringsproces. Een stukje inhoud, een stukje procesmanagement, en kaders stellen.
+
+**Spreker 1 -- 2:54**
+Kan je me er rustig doorheen lopen?
+
+**Michiel Steeman -- 3:01**
+Praten en mailen.
+
+**Michiel Steeman -- 3:11**
+Er zijn heel veel mensen bezig met subsidies indienen. Ze komen dan om te sparren, op welk onderdeel van het proces ze ook zitten. Bij Chris gaat het over de kaders -- hoe groot aanvliegen, welke thematiek. Bij Paulien ging het over de herindiening. Bij anderen over lopende subsidies. Ze doen het zelfstandig en ik ben meer de coach en de adviseur.
+
+**Spreker 1 -- 4:33**
+Ik probeer te vertragen -- kijken waar er kleine stappen zijn die we verder kunnen automatiseren.
+
+**Michiel Steeman -- 4:47**
+Kijk, waar ik relatief veel tijd kwijt mee ben: als je kaders wil stellen en wil meedenken over een onderwerp, dan ga je daar zelf op inlezen. En wat ik teveel tijd in kwijt ben, is dat soort informatie op een gestructureerde manier naar me toe laten komen. Ik ben best wel lokkig bezig met informatie ophalen. Op een specifiek onderwerp inzoomen is met AI heel efficiënt te doen. Maar wat ik veel tijd aan kwijt ben, is dat ik langs allerlei nieuwsbronnen en websites ga maar niet effectief. Wat me echt zou helpen is een AI-agent die mij dagelijks een bepaalde feed geeft op onderwerpen die mij interesseren. Vroeger was dat makkelijker -- het wordt steeds moeilijker omdat er zoveel AI-slop gecreëerd wordt. Die content is niet meer tot je te nemen zonder die te laten filteren.
+
+**Spreker 1 -- 6:55**
+Dat noem je in IT "context switching."
+
+**Michiel Steeman -- 7:06**
+Op het moment dat ik op één onderwerp moet inzoomen is dat niet zo'n probleem. Maar soms weet je niet wat je niet weet en wil je daardoor getriggerd worden. Ik word nu teveel getriggerd door shit in plaats van door interessante dingen. Dat irriteert me gewoon.
+
+**Michiel Steeman -- 8:01**
+Ik moet heel veel switchen in context en content -- zowel bij mijn bedrijven als bij Windesheim. Dat is mijn kracht: 100 ballen tegelijk omhoog houden, snel kunnen switchen. Maar ik moet wel gevoed worden met interessante dingen om dat goed te kunnen blijven doen.
+
+**Michiel Steeman -- 8:37**
+Maar het is me ook nog niet gelukt om AI daar goed op in te zetten, want die moet je eigenlijk heel goed trainen in wat jij wil. En dat kost nog gewoon te veel tijd om dat goed te doen.
+
+**Michiel Steeman -- 8:54**
+Het andere punt: op het moment dat ik een voorstel krijg van iemand, gebruik ik heel actief Perplexity -- dat is mijn go-to AI. Ik creëer een fase met de juiste context en de juiste documenten. Die hou ik ook een tijd lang bij gedurende het hele proces, zodat ik effectief daarmee kan sparren om inhoudelijk te kunnen reageren op voorstellen. Ik hoop nooit één op één over te nemen. Ik filter uiteindelijk mijn 2-3 hoofdcommentaren -- want het gevaar met AI is altijd dat je te veel shit krijgt, dus ik zoom in op wat echt relevant is. Dan laat ik AI met die context een suggestie doen om de tekst aan te passen in het document, en dat stuur ik naar Corné of Chris. Dat levert veel betere en efficiënter commentaar op. Het grote verschil is dat ik dit altijd al op high level deed -- de belangrijkste commentaren geven -- maar ik kon nooit tekstueel iets meegeven. Dat kost te veel tijd. AI kan dat wel.
+
+**Spreker 1 -- 10:54**
+Praktisch aanpakken.
+
+**Michiel Steeman -- 10:56**
+Ja. Dat werkt heel goed. Dat is voor mij een enorme efficiëntieslag. Waarbij ik natuurlijk een AI-tool gebruik die officieel niet mag van Windesheim. Maar ja, dat is nu eenmaal zo.
+
+**Spreker 1 -- 11:11**
+De rest van je team doet ongeveer hetzelfde.
+
+**Michiel Steeman -- 11:15**
+Ja. En over het opnemen van meetings: dat doe ik bij Windesheim helemaal niet, omdat het officieel niet mag en niet gefaciliteerd wordt. Maar bij inChange wordt alles gewoon opgenomen en getranscribeerd. Dat is een grappig verschil.
+
+**Spreker 1 -- 12:50**
+Zijn er nog andere workarounds die je hebt gevonden?
+
+**Michiel Steeman -- 13:00**
+Wat iedereen doet: suggesties voor mailtext. Ik ben zelf nog niet zover dat ik mijn mailbox automatisch laat beheren. Maar wat mij irriteert: de mails die ik krijg zijn nu 10 keer langer dan vroeger. Ik ben een mailer van 2-3 woorden als dat genoeg is. Maar ik krijg nu lappen tekst van mensen -- ook van directe collega's -- omdat die denken: "oh, dit is een mooi mailtje, dat stuur ik gewoon." Maar ik moet er helemaal doorheen. Dus je krijgt veel meer shit te lezen. Dat is echt een nadeel van AI. Sindsdien, een half jaar geleden, heb ik meer moeite om mijn mail bij te houden.
+
+**Spreker 1 -- 15:24**
+Heb je behalve Perplexity en inChange-transcripties nog andere workarounds?
+
+**Michiel Steeman -- 15:47**
+Ja, ik gebruik Copilot in mijn Office 365 omgeving actief. Binnen de inChange SharePoint-omgeving kun je gerichter zoeken en helpen bij antwoorden op mails. Die zoekfunctie met Copilot werkt 100 keer beter dan de shit-zoekfunctie die Microsoft altijd had. Daardoor kun je veel sneller met je data interacteren. Ik trek soms dingen vanuit de Windesheim-omgeving naar mijn inChange-omgeving omdat ik daar meer tooling tot mijn beschikking heb. Ik heb een account op Microsoft Copilot en op Perplexity. Dat zijn de twee die ik nu gebruik. Claude gaat er wel heel snel aankomen -- ik kan bijna niet meer verkopen dat we dat niet gaan gebruiken.
+
+**Spreker 1 -- 17:16**
+Wat zie je daarin bij Claude?
+
+**Michiel Steeman -- 17:24**
+Ik hoor het en ik zie het op bepaalde punten. Voor verschillende functies heb je verschillende AI-tools nodig. De ene is beter dan de ander. Maar bij Claude gaat het wat supergoed in is, is de programmeer-kant. Ik denk dat ik bepaalde functies en activiteiten goed kan beschrijven -- ideevorming -- richting Claude, en die kan dat dan gaan coderen. Ik snap ook of het werkt of niet. Mijn kennis is voldoende om iets goeds te maken.
+
+**Spreker 1 -- 18:54**
+En Figma?
+
+**Michiel Steeman -- 18:55**
+Figma heeft een prachtige AI-tool. Je kan gewoon praten met Figma om een design te maken. Dat is design-gericht. In een uur heb ik wat ik anders in 3 weken conceptualiseer qua overleggen met mijn designer. Dan vraag ik programmeurs: als ik die kant op wil, waar hebben we het dan over? Gedachtes structureren en visualiseren gaat zoveel sneller. Nu heb ik Figma aan de ene kant en Claude aan de andere kant -- als ik dat bij elkaar breng, kun je gewoon tools maken.
+
+**Spreker 1 -- 19:54**
+Ja, als je de "batar"-functie van Figma gebruikt, kun je het hele design exporteren en Claude vragen de back-end te maken.
+
+**Michiel Steeman -- 20:05**
+Ja. De volgende stap is Claude Code. Maar Claude heeft ook een goede designfunctie, heb ik begrepen. Ik doe het nu bij Figma, maar ze zeggen dat de designfunctie van Claude nog wel eens beter zou kunnen zijn.
+
+**Spreker 1 -- 21:32**
+Heb je dingen eerder geprobeerd en waarmee je gestopt bent?
+
+**Michiel Steeman -- 21:39**
+ChatGPT heb ik geprobeerd en daar ben ik van weggegaan. Ik vond hem leuk maar "bagger" wat eruit kwam. Leuk om teksten te herschrijven, maar iedere keer net niet. En er zat geen goede link in naar de bronnen. Daarom ben ik naar Perplexity overgestapt -- die heeft een veel sterkere source-link en gebruikt meerdere modellen. Perplexity is eigenlijk een overlay op meerdere modellen. En als je een tool gebruikt, moet je daar echt in investeren. Daarom beperk ik me tot een paar. Switchen kost energie en tijd.
+
+**Michiel Steeman -- 23:37**
+Ik gebruik nu bijna een jaar Perplexity betaald account. De historie kent me. En ik heb het voor mijn kids ook aangeschaft -- Perplexity studentversie. Die richt zich echt op leren, niet alleen antwoorden geven. Tooling om je te helpen structureren. Als je per vak een Space maakt, wordt leren makkelijker en beter.
+
+**Michiel Steeman -- 25:00**
+Leren en onderzoeken zitten helemaal niet ver van elkaar. Onderzoeken is ook samen leren. Ik zou willen dat wij een onderzoekslijn opzetten binnen ons lectoraat die zich richt op: hoe kan je supply chain kennis het beste supporten met de AI-ontwikkeling? Temporaire en vellage hackers -- dat is al een beetje die gedachtelijn. Maar het begint zich nu wat meer te vormen.
+
+**Spreker 1 -- 27:22**
+Magische vraag: stel je hebt een slimme stagiair wiens enige opdracht is jouw leven makkelijker maken. Wat laat je die doen?
+
+**Michiel Steeman -- 28:06**
+Dat verschilt in de tijd, maar als ik naar nu kijk: het leunt aan bij wat ik eerder zei over informatie. Op bepaalde onderwerpen heb ik niet voldoende tijd voor een verdieping. En ik kan dat niet bij andere teamleden neerleggen -- die zijn al met hun eigen thema's bezig. Het gaat om nieuwe onderwerpen: een leerlijn opzetten, supply chain mapping. Ik heb die ideeën wel, maar geen tijd om ze uit te werken. Dat zou ik een stagiair willen laten doen: kom maar met een overzicht, zodat ik een richting kan destilleren. Best wel inhoudelijk sterk -- geen plannings- of proceswerk, dat heb ik allemaal wel onder controle. Maar te veel ideeën, te weinig tijd.
+
+**Michiel Steeman -- 29:34**
+Ik heb niet zoveel behoefte aan iemand die mijn proces of planning doet. Maar wat me onrustig maakt, is dat ik niet goed kan duiden waar het allemaal naartoe gaat. Academisch onderzoek gaat een enorme transformatie tegemoet -- peer review staat op knappen. 3-4 keer zoveel academische artikelen ingestuurd, waarvan de helft AI-gegenereerd. Dat systeem is niet houdbaar.
+
+**Michiel Steeman -- 31:41**
+Wat wordt nou echt belangrijk -- wat we zelf willen blijven doen? Sociaal contact tussen personen -- dat maakt iets menselijk. Maar wat kan AI tot menselijk voelen?
+
+**Spreker 1 -- 32:22**
+Ik heb nu heel veel van onze collega's gesproken. Heb je nog een minuutje? Aan de ene kant heb je Bart Ras die extreem met AI werkt -- meerdere agenten die zichzelf aansturen. Aan de andere kant Stefan en Richard, die ook AI gebruiken maar vooral bezig zijn met bellen en sociale contacten onderhouden. En daartussenin zie je mensen die AI gebruiken maar ook geïrriteerd raken.
+
+**Michiel Steeman -- 33:18**
+Ja, dat ben ik -- ik zit daartussenin.
+
+**Spreker 1 -- 33:19**
+Ja. En Luca zei het het beste: geautomatiseerde mails krijgen geen reactie omdat ze onpersoonlijk voelen. Als een mens het stuurt, voel je verantwoordelijkheid om terug te reageren.
+
+**Michiel Steeman -- 33:58**
+Ja.
+
+**Spreker 1 -- 36:10**
+Mijn persoonlijk advies: ik zie dat iedereen geïsoleerd werkt -- en dat geldt dubbel voor AI-gebruik. In plaats van trainingen geven, stel ik voor: de learnings nemen van alle interviews en mensen introduceren naar elkaars tools en werkwijzen. Buddies realiseren. Ronald en Richard -- Ronald ontdekt Apple en Richard gebruikt Apple al lang. Ze kunnen effectief sparren. Maxime over interviewmethode. Zo heeft iedereen een hoekje. Dat is menselijker en persoonlijker.
+
+**Michiel Steeman -- 37:27**
+Ja, dan kunnen ze ook richten op de tools die ze zelf daadwerkelijk verder willen brengen.
+
+**Michiel Steeman -- 37:33**
+En ik ben benieuwd hoe dat bij andere lectoraten speelt. Bij een volgend lectoraatoverleg wil ik vragen wie er het verst vooroploopt in andere lectoraten -- dan roepen ze een naam en jij hebt die geïnterviewd.
+
+**Spreker 1 -- 37:57**
+Dat is voornamelijk zo: Windesheim zegt dat ze heel erg met AI bezig zijn, maar heeft heel veel barrières expres neergezet waardoor mensen het niet doen. Collega's met een duale functie gebruiken significant meer AI.
+
+**Michiel Steeman -- 38:11**
+Ja, dat zal bij mij ook zo zijn.
+
+**Spreker 1 -- 38:23**
+Yolanda wil heel graag AI gebruiken maar is gedwongen om buiten Windesheim subscripties te nemen.
+
+**Michiel Steeman -- 38:39**
+Ja, herken ik. Alright -- ik moet er snel vandoor. Dank. Ik zie je mailtje later vandaag. Toppie, dank je, hoi!

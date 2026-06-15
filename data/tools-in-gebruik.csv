@@ -99,3 +99,23 @@ datum,collega,rol,tool,categorie,waarvoor,frequentie,tevredenheid,opmerking
 2026-06-09,Greg Cronie,Zelfstandig consultant / onderzoeksmedewerker lectoraat,Notion (Everfield),Projectmanagement,Collective memory + knowledge base + weekrapporten,Dagelijks,Hoog,Remote bedrijf -- primaire samenwerkingstool
 2026-06-09,Greg Cronie,Zelfstandig consultant / onderzoeksmedewerker lectoraat,Fathom (Everfield),AI/LLM,Note-taking in meetings gekoppeld aan Claude,Dagelijks,Hoog,
 2026-06-09,Greg Cronie,Zelfstandig consultant / onderzoeksmedewerker lectoraat,Ollama (privé),AI lokaal,Lokale LLM's voor gevoelige informatie,Incidenteel,Middel,Persoonlijk gebruik
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,ChatGPT (betaald),AI/LLM,"Subsidieaanvragen schrijven, vergaderingen samenvatten, lesvoorbereiding",Dagelijks,Hoog,"Betaald Windesheim-account; ""mijn beste vriend op dit moment""; €40k subsidie ermee geschreven"
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,Canva (betaald),Documenten,"Posts, presentaties, sheets",Regelmatig,Hoog,Windesheim-account gestopt; betaalt zelf €10-15/maand
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,Dutch PQ,AI/LLM,Teams-vergadering transcriberen,Regelmatig,Positief,Transcript gaat daarna naar ChatGPT voor samenvatting + actiepunten
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,LinkedIn Premium,Communicatie,"Partner research, events, netwerk",Regelmatig,Neutraal,Gaat stoppen -- salarisadministratie wil niet meer uitbetalen
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,Microsoft Teams,Communicatie,Vergaderen + opnemen voor Dutch PQ,Dagelijks,Neutraal,
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,Outlook,Communicatie,E-mail en agenda,Dagelijks,Neutraal,
+2026-06-15,Yolanda Beenen,Programmamanager / aanjager internationaal onderzoek,Word / Office suite,Documenten,Documentbeheer en rapportages,Dagelijks,Neutraal,
+2026-06-15,Richard Holman,Netwerk en cofinanciering,ChatGPT (gratis),AI/LLM,"Formulering, begrip, doorvragen",Regelmatig,Neutraal,Gratis versie voldoende; past output altijd aan in eigen taal
+2026-06-15,Richard Holman,Netwerk en cofinanciering,Summary AI,AI/LLM,Gesprekken transcriberen in gewenste stijl,Regelmatig,Hoog,"Verving Speaker app (€60/jaar gestopt); output naar Chris voor afstudeeropdrachten"
+2026-06-15,Richard Holman,Netwerk en cofinanciering,Evernote,Projectmanagement,"Notities, cursussen, alles in cloud",Dagelijks,Hoog,Al 12 jaar in gebruik; nu ook AI/chatfunctie ingebouwd
+2026-06-15,Richard Holman,Netwerk en cofinanciering,Todoist,Projectmanagement,To-do lijsten,Regelmatig,Positief,Zakelijk gebruik
+2026-06-15,Richard Holman,Netwerk en cofinanciering,Outlook,Communicatie,E-mail en agenda (Windesheim),Dagelijks,Neutraal,Microsoft App op Apple; twee agenda's nodig
+2026-06-15,Richard Holman,Netwerk en cofinanciering,Apple Notes / Herinneringen,Andere,Snelle notities gekoppeld aan privéagenda,Dagelijks,Hoog,Windesheim-firewall blokkeert Microsoft To-Do sync met Apple-agenda
+2026-06-15,Richard Holman,Netwerk en cofinanciering,RECAP Excel sheet,Projectmanagement,Projectoverzicht partners en contractstatus,Regelmatig,Positief,Gedeeld met Ronald/Luca/Stefan/Hendryk; gemaakt door Ronald met AI
+2026-06-15,Michiel Steeman,Lector,Perplexity (betaald),AI/LLM,"Sparringpartner voor subsidies, informatie zoeken met bronvermelding",Dagelijks,Hoog,"Bijna een jaar betaald; maakt context-fases per project; ook voor kids (studentversie)"
+2026-06-15,Michiel Steeman,Lector,Microsoft Copilot (betaald),AI/LLM,"Zoeken in SharePoint/mail, mailantwoorden voorbereiden",Regelmatig,Positief,"Via inChange 365 -- niet Windesheim; zoekfunctie 100x beter dan Microsoft's eigen zoekmachine"
+2026-06-15,Michiel Steeman,Lector,Figma AI,AI/LLM,"Design conceptualiseren, gedachtes structureren en visualiseren",Regelmatig,Hoog,"Privé/inChange; in een uur wat anders 3 weken kost; wil combineren met Claude Code"
+2026-06-15,Michiel Steeman,Lector,Outlook,Communicatie,E-mail en agenda,Dagelijks,Neutraal,Mail-volume gestegen door AI-gegenereerde teksten van collega's
+2026-06-15,Michiel Steeman,Lector,Microsoft Teams,Communicatie,Vergaderen (geen opnames bij Windesheim),Dagelijks,Neutraal,"Bij inChange worden alle meetings wél opgenomen en getranscribeerd -- grappig verschil"
+2026-06-15,Michiel Steeman,Lector,ChatGPT,AI/LLM,Teksten herschrijven,Gestopt,Laag,"Gestopt; ""bagger wat eruit kwam""; geen goede bronlinks; overgestapt naar Perplexity"

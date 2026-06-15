@@ -1,0 +1,388 @@
+---
+title: "Interview: Yolanda Beenen"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Yolanda Beenen
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-15 |
+| Collega | Yolanda Beenen |
+| Rol | Programmamanager "Kansen met data" + aanjager internationaal onderzoek |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 35 minuten |
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT (betaald) | AI/LLM | Subsidieaanvragen schrijven, samenvatten, lesvoorbereiding | Dagelijks | Hoog | "Mijn beste vriend op dit moment"; bewezen: €40k subsidie gehonoreerd |
+| Canva (betaald, zelf) | Documenten | Posts, presentaties, sheets | Regelmatig | Hoog | Windesheim-account gestopt; betaalt zelf €10-15/maand |
+| Dutch PQ | AI/LLM | Teams-vergadering transcriberen | Regelmatig | Positief | Transcript gaat daarna naar ChatGPT voor samenvatting |
+| LinkedIn Premium | Communicatie | Partner research, events, netwerk | Regelmatig | Neutraal | Gaat stoppen -- salarisadministratie wil niet meer uitbetalen |
+| Microsoft Teams | Communicatie | Vergaderen + opnemen | Dagelijks | Neutraal | Neemt vergaderingen op voor Dutch PQ |
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | |
+| Word / Office suite | Documenten | Documentbeheer, rapportages | Dagelijks | Neutraal | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Survey IT tools-20260615_102633`. Totale duur: 35 minuten. Gestart op 15 juni 2026, 08:26. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Chris legt doel uit: inventariseren van digitaliseringsmogelijkheden binnen het lectoraat. Yolanda loopt buiten met de hond.
+
+**2:10 -- Rol en tijdsbesteding**
+Yolanda werkt fulltime bij het lectoraat. Twee taken: programmamanager "Kansen met data" en aanjager internationaal onderzoek. Vorige week: consortium overlegbijeenkomst voorbereiden en opvolgen, aansturing Kansen met data, opstarten LLO-aanbod, strategiebepaling. Veel overleg en afstemming.
+
+**3:04 -- Besluitvorming en overlegstructuur (frustratie)**
+Kernteamoverleg heeft onduidelijke besluitvormingsstructuur. Nienke wil volledige consensus; Yolanda wil directieve stijl (30-45 min updates + bijsturing). Neigt naar e-mail en documenten i.p.v. grote overleggen. Kostenbesef: "wat kost dit, al die dure mensen bij elkaar."
+
+**8:30 -- Agenda opstellen**
+Ze doet het niet meer zelf -- wacht af tot iemand anders het oppakt. Standaard agenda bestaat ondertussen.
+
+**9:00 -- AI-gebruik: Dutch PQ + ChatGPT voor vergaderingen**
+Teams-vergaderingen opnemen, Dutch PQ maakt transcript, gooit transcript in ChatGPT voor samenvatting. Heeft betaald Windesheim-account ChatGPT.
+
+**9:42 -- Subsidieaanvragen schrijven met AI**
+Werkwijze: brainstorm-vergadering met collega (bijv. egy), opnemen, transcriberen, transcript + subsidievoorwaarden in ChatGPT, ChatGPT stelt structuur voor, iteratief doorwerken. "We brainstormen, leggen vast, en zetten de transcripties samen met het voorstel." Resultaat: €40.000 subsidie gehonoreerd. Zelf bronnen gecontroleerd.
+
+**12:59 -- Overige AI-gebruik**
+Canva: posts + presentaties. Windesheim-account was gestopt, betaalt zelf. Perplexity: interesse maar geen account (wil niet nog een account betalen).
+
+**14:34 -- LinkedIn Premium**
+Voor partner research en events. Salarisadministratie wil niet meer uitbetalen -- stopt ermee.
+
+**17:24 -- Interesse: voice recorder kastje**
+Ziet reclame op Instagram voor hardware kastje dat gesprekken opneemt en automatisch samenvatting + actiepunten maakt, ook buiten Teams. Wil dit testen voor externe gesprekken.
+
+**18:14 -- Mislukte AI-pogingen**
+Geen echte mislukkingen. Terughoudend met nieuwe accounts vanwege kosten.
+
+**21:08 -- Lesvoorbereiding**
+Gebruikt ChatGPT voor lesvoorbereiding. Vindt dat het kwaliteit omhoog trekt en haar zelf kritischer maakt.
+
+**21:35 -- AI-gebruik collega's**
+Denkt dat ze bovengemiddeld is maar niet uitzonderlijk. Meldt zich aan voor AI-geletterdheidsworkshop donderdag. Weerstand onder onderzoekers is reëel.
+
+**25:26 -- Droomscenario: assistent**
+Als ze een stagiair zou krijgen: administratieve ondersteuning voor (1) agendabeheer, (2) documentenbeheer, (3) onderwijs-administratie, (4) HR-Today uren en declaraties. "Zo ongelooflijk tijdrovend." Wil ook een assistent die stagiairs zelf instrueert over hoe ze werkt en hoe Windesheim werkt.
+
+**29:00 -- Succes meten**
+Als het goed gaat, loopt het vanzelf. Als het fout gaat, moet je repareren.
+
+**29:52 -- Werkwijze nu**
+Browser open, copy-paste heen en weer. Geeft geen bankgegevens of privédata aan ChatGPT.
+
+---
+
+## Gestructureerde Q&A
+
+**Wat is je huidige rol?**
+Programmamanager "Kansen met data" en aanjager internationaal onderzoek. Fulltime lectoraat. Meerdere parallelle taken: consortium aansturing, LLO-aanbod opstarten, strategie, partneroverleg.
+
+**Waar gaat de meeste tijd naartoe?**
+Overleggen en afstemming. Voorbereiding en opvolging van bijeenkomsten. Strategisch schrijfwerk (subsidies, beleid).
+
+**Welke tools gebruik je?**
+ChatGPT (betaald, dagelijks), Canva (betaald, zelf), Dutch PQ voor transcriptie, LinkedIn Premium (stopt), Teams, Outlook, Office suite.
+
+**Wat zijn je slimste workarounds?**
+Vergaderingen opnemen via Teams, Dutch PQ transcribeert, transcript naar ChatGPT voor samenvatting + actiepunten. Brainstorm-vergadering over subsidie opnemen, transcript + subsidievoorwaarden in ChatGPT, iteratief uitwerken.
+
+**Wat lukt niet?**
+Geen echte mislukkingen. Terughoudend bij nieuwe toolaccounts vanwege kosten.
+
+**Wat zou een stagiair voor je doen?**
+Agendabeheer, documentenbeheer, onderwijs-administratie, HR-Today uren en declaraties invullen. Plus: nieuwe stagiairs instrueren over hoe ze werkt en hoe Windesheim werkt.
+
+**Hoe weet je dat het goed gaat?**
+Als het loopt, heb je er geen werk van. Als het fout gaat, repareer je.
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| Vergaderingen | Teams-vergadering samenvatten naar actiepunten | Teams-opname + Dutch PQ transcript | Samenvatting + actielijst per persoon | Wekelijks | Middel | Dutch PQ + ChatGPT | Al in gebruik; werkt goed |
+| Subsidieaanvragen | Subsidietekst schrijven vanuit brainstorm-transcript | Transcript brainstorm + subsidievoorwaarden | Concept-subsidieaanvraag per sectie | Meerdere keren per jaar | Laag (inhoud, geen persoonsdata) | ChatGPT | Bewezen: €40.000 subsidie gehonoreerd |
+| Onderwijs-administratie | HR-Today uren en declaraties invullen | Agenda + reisgegevens | Ingevuld urenformulier + declaratie | Maandelijks | Middel | Handmatig (Outlook + HR-Today) | Grootste tijdverlies; "zo ongelooflijk tijdrovend" |
+| Lesvoorbereiding | Lesmateriaal voorbereiden met AI | Onderwerp + doelgroep + leerdoelen | Lesopzet, uitleg, voorbeelden | Wekelijks | Laag | ChatGPT | Al in gebruik; trekt kwaliteit omhoog |
+
+---
+
+## Letterlijke signalen
+
+- "ChatGPT is mijn beste vriend op dit moment."
+- "De subsidie van €40.000 -- die heb ik helemaal geschreven met AI. En het is gewoon gehonoreerd."
+- "Als alles goed gaat, dan loopt het, dus daar heb je er zelf weinig werk van."
+- "Dat HR-Today, het indienen van declaraties, dat soort dingen -- zo ongelooflijk tijdrovend."
+- "Windesheim is gestopt met Canva. Dan moeten we weer zo'n Windesheim-programma gebruiken dat 10 keer logger werkt. Nou, dan betaal ik het zelf wel."
+- "Hoeveel geld per maand moet ik gaan uitgeven voor AI-tools die ik voor mijn werk ga gebruiken?"
+- "Ik hoor veel weerstand onder onderzoekers."
+- "Michiel is ook heel vooruitstrevend. Die heeft ook een eigen bedrijf -- dan denk ik dat ik allang veel meer geprobeerd had."
+
+---
+
+## Nog niet oplossen
+
+- Beveiliging van ChatGPT-gebruik: controleert bronnen, geeft geen persoonsdata, maar vraagt zich af hoeveel ze vertrouwt.
+- Kosten van AI-tools: betaalt Canva al zelf. Wanneer vergoedt Windesheim?
+- LinkedIn Premium gaat stoppen -- partnerfunctie verdwijnt dan.
+- Voice recorder kastje (Instagram): nog niet aangeschaft, maar interesse.
+
+---
+
+## Samenvatting voor weekupdate
+
+Yolanda Beenen is programmamanager "Kansen met data" en aanjager internationaal onderzoek. Ze is een van de meest gevorderde AI-gebruikers in het team: ChatGPT is haar dagelijkse werktool voor subsidies schrijven, vergaderingen samenvatten en lesvoorbereiding. Sterkste bewijs: een subsidieaanvraag van €40.000 volledig geschreven met AI, inmiddels gehonoreerd.
+
+Haar werkwijze bij subsidies: brainstorm-vergadering opnemen, Dutch PQ transcribeert, transcript + subsidievoorwaarden in ChatGPT, iteratief uitwerken. Eenzelfde aanpak gebruikt ze voor vergadernotities.
+
+Grootste pijnpunt: HR-Today (uren en declaraties) -- tijdrovend, saai en foutgevoelig. Dit radartje overlapt sterk met Ronald, Stefan, Mira en Ritsaart. Een gedeelde oplossing heeft hier het meeste impact.
+
+Signaal voor Windesheim-beleid: Canvas Windesheim-account is gestopt, ze betaalt zelf. LinkedIn Premium wordt stopgezet vanwege salarisadministratiebureaucratie. De tools die ze het meest gebruikt, zijn degene die ze zelf bekostigt.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerd door Microsoft Teams. Spreker 1 = Chris Verhoef.*
+
+**Spreker 1 -- 0:41**
+Hé Jolanda.
+
+**Yolanda Beenen -- 0:43**
+Goedemorgen.
+
+**Spreker 1 -- 0:45**
+Goh, ben jij lekker aan het wandelen?
+
+**Yolanda Beenen -- 0:48**
+Ja, even met de hond een rondje lopen. Twee dingen combineren.
+
+**Spreker 1 -- 0:56**
+Mag van mij. Je bent goed verstaanbaar, prima.
+
+**Yolanda Beenen -- 1:03**
+Wat kan ik voor je betekenen?
+
+**Spreker 1 -- 1:05**
+Nou, ik ben aan het kijken waar we nieuwe digitaliseringsmogelijkheden kunnen toepassen en wat we al doen binnen ons lectoraat. Hiervoor heb ik een interview opgesteld dat ik graag met je doorloop. Dit pas ik dan toe in analyses.
+
+**Yolanda Beenen -- 1:41**
+Er komt een auto aan, even aan de kant.
+
+**Spreker 1 -- 1:46**
+Ja, OK. Als je er klaar voor bent. Kan jij beschrijven wat jouw huidige rol is binnen Windesheim en hoeveel tijd je daarvoor werkt voor het lectoraat?
+
+**Yolanda Beenen -- 2:10**
+Ik werk fulltime voor het lectoraat. Als projecten-onderzoek. Daarin vervul ik meerdere taken: ik ben programmamanager van "Kansen met data" en ik ben bezig met het aanjagen van internationaal onderzoek.
+
+**Spreker 1 -- 2:33**
+OK. En als je kijkt naar vorige week -- waar was je het meeste tijd aan kwijt?
+
+**Yolanda Beenen -- 2:47**
+Overleggen en afstemming.
+
+**Spreker 1 -- 2:50**
+Overleg en afstemming. Moet je dan ook rapportages schrijven?
+
+**Yolanda Beenen -- 3:04**
+Ja. We hadden vorige week de consortium overlegbijeenkomst. Die moest voorbereid worden, en dan komen er allerlei acties uit voort die opgevolgd moeten worden. We zijn ook bezig met de aansturing van "Kansen met data". Vervolgens ben ik samen met egy bezig met het opstarten van LLO-aanbod. En ik ben ook bezig met strategie: hoe zetten we "Kansen met data" neer, welke vakken zijn daarvoor nodig? Overleg ik met partners hoe we dingen in gang kunnen zetten. Voor mezelf houd ik rapportages bij, maar ik doe dat tegenwoordig veel door: als ik een Teams-overleg heb, vraag ik of ik het mag opnemen, dan gooi ik het in Dutch PQ en maak ik er een samenvatting van.
+
+**Spreker 1 -- 4:28**
+Kijk, leuk -- dus daar zit het eerste AI-gebruik. Kan je nog meer inzicht geven in waar al dit overleg zoveel tijd in beslag neemt?
+
+**Yolanda Beenen -- 4:47**
+Wat ik soms heel lastig vind: iedereen vindt dat ze maar kunnen meepraten en meebeslissen. Ik heb een meer directieve manier van werken. Maar Nienke wil dat alles in groot overleg. We hebben een kernteamoverleg en de besluitvormingsstructuur daar is niet helder. Er zijn collega's die denken dat ze gezamenlijk beslissingen nemen en dat daar volledige consensus over moet zijn. Terwijl ik vind van: we hebben een jaarplan, we hebben doelen, laten we in een half uur de voortgang bespreken en bijsturen. Nu gaat het er heel vaak over "wat doen we wel, wat doen we niet" en moet iedereen daar maar zijn plasje over doen. Dan denk ik bij al die dure mensen bij elkaar: wat kost dit?
+
+**Spreker 1 -- 7:13**
+Ja, discussie per e-mail had ook gekund?
+
+**Yolanda Beenen -- 7:21**
+Gewoon per e-mail, of documenten en updates sturen. En sommige mensen hebben een totaal ander idee van hun werk. Als onderzoeker is het goed dat je kritisch bent, maar je moet ook kunnen samenwerken en onderzoeksgeld ophalen.
+
+**Spreker 1 -- 8:30**
+En in al deze overleggen -- moet jij dan ook de agenda opstellen?
+
+**Yolanda Beenen -- 8:38**
+Ik ben daar een beetje handig in geworden: ik wacht eerst even af tot iemand anders zegt "oh, dat doe ik wel even."
+
+**Spreker 1 -- 8:52**
+Zo. En agenda's en dat soort dingen -- doe jij dat of iemand anders?
+
+**Yolanda Beenen -- 9:01**
+We hebben een standaard agenda ondertussen, die werken we af. Ik word altijd blij van mensen die uit zichzelf verslagen gaan maken. We hebben ook te maken met collega's die doodeng vinden. Binnen de Hanze gelden andere regels. Ik heb een betaald account van binnen zijn -- en daar doe ik heel veel in. Er staat wel dat alles wat je erin gooit niet binnen blijft, maar dat geeft me rust.
+
+**Yolanda Beenen -- 9:42**
+En ik gooi heel veel in ChatGPT. ChatGPT is mijn beste vriend op dit moment, ook bij het schrijven van subsidie-aanvragen. Ik heb een manier gevonden: we houden een brainstorm-overleg over hoe we de subsidie willen opzetten. Dan maak ik een transcript daarvan. Dat gooi ik in ChatGPT, ik zeg welke subsidieaanvraag we willen indienen, en dan gaat hij op basis van de subsidievoorwaarden met een voorstel hoe we dat kunnen inrichten. Op basis daarvan gaan we continu door. We brainstormen, leggen vast, en zetten de transcripties samen met het voorstel. ChatGPT helpt ons gigantisch om op een heel snelle manier bij de subsidieaanvraag te komen.
+
+**Spreker 1 -- 10:59**
+OK. En je bent betrokken bij meerdere subsidieaanvragen?
+
+**Yolanda Beenen -- 11:06**
+Ja. Ik ben vaak niet de inhoudsdeskundige, maar ik heb een zakelijke blik. Onze subsidie-aanvragers zijn jong en hebben weinig ervaring met het bedrijfsleven. Ze kunnen vaak niet denken vanuit "waarom is dit relevant, wat is de impact?" Ik ben kritischer en to the point. Met egy werk ik aan LLO -- Nederlands is niet haar eerste taal, dus ik kan dingen scherper neerzetten.
+
+**Yolanda Beenen -- 12:32**
+Ik ben degene die kijkt: wat zijn ook alweer de voorwaarden in de subsidie en hoe kunnen we daaraan voldoen? En ik ben degene die bereid is om AI te gebruiken. Ik hoor veel weerstand onder onderzoekers.
+
+**Spreker 1 -- 12:59**
+Kan je nog meer vertellen over welke workarounds je hebt gevonden?
+
+**Yolanda Beenen -- 13:23**
+Ik gebruik Canva veel. Ik had een betaald Windesheim-account, maar Windesheim is gestopt met Canva -- dat vind ik heel jammer. Ik heb er zoveel baat bij: posts maken, sheets voor school. Dat is €10-15 per maand, dan betaal ik dat zelf wel. Ik vind het zo stom van Windesheim. Dan moeten we zo'n Windows-programma gebruiken dat 10 keer logger werkt.
+
+**Yolanda Beenen -- 14:34**
+Ik gebruik LinkedIn Premium voor partner research en events. Alleen, ik krijg zoveel gedoe met de salarisadministratie dat ze dat niet meer willen uitbetalen. Dan zet ik het stop. Ik moet iedere keer vragen beantwoorden van de salariendienst. Ik ben er klaar mee.
+
+**Spreker 1 -- 15:24**
+OK, en waarvoor gebruik je LinkedIn Premium precies?
+
+**Yolanda Beenen -- 15:30**
+Zoeken van partners, mensen voor events, event management. Laatste tijd heb ik er wat minder uitgehaald -- ik heb het zo druk gehad met het opstarten van "Kansen met data." Ik vraag me ook af in hoeverre LinkedIn nog echt een tool is die ons verder helpt.
+
+**Spreker 1 -- 16:17**
+Ja, ik haal er zelf ook niet zo heel veel uit.
+
+**Yolanda Beenen -- 16:29**
+Ik word de laatste tijd gestookt met berichten en aanbiedingen. Connecties zoeken waarvan ik denk: wat moet ik ermee? En ik ben ook niet op zoek naar een andere baan, dus ik hoef mezelf nu niet zo te profileren.
+
+**Spreker 1 -- 17:17**
+Als ik het nou dank -- dankjewel sowieso voor al deze tools en dit toolgebruik.
+
+**Yolanda Beenen -- 17:24**
+Ja. Ik ben op dit moment ook bezig te kijken -- ik krijg op Instagram steeds een aanbieding voor een kastje dat via de telefoon alle gesprekken opneemt die je wilt, en dan maakt hij automatisch een update met actiepunten. Als ik bij een klant ben, kun je het hele gesprek zo makkelijk opnemen in plaats van Teams.
+
+**Spreker 1 -- 17:58**
+OK, dat doe je via Instagram?
+
+**Yolanda Beenen -- 18:01**
+Via mijn privé Instagram-account. Ik zie daar reclame voor.
+
+**Spreker 1 -- 18:14**
+Zijn er ook dingen die je geprobeerd hebt met AI die niet lukten?
+
+**Yolanda Beenen -- 18:26**
+Nee, niet echt. Niet van "dat lukt niet." Niet direct zo een-twee-drie.
+
+**Spreker 1 -- 18:46**
+Presentaties maken, of de hele subsidie schrijven?
+
+**Yolanda Beenen -- 18:55**
+De hele subsidie schrijven... ja, ik heb mijn weg gevonden. Iemand zei ook: probeer ook eens Perplexity. Maar ik moet weer een account kopen. Hoeveel geld per maand moet ik gaan uitgeven voor AI-tools die ik voor mijn werk ga gebruiken?
+
+**Spreker 1 -- 19:47**
+Ja, zo zie ik het ook. Als het tijd bespaart, kan ik het ook weer uitgeven aan andere dingen.
+
+**Yolanda Beenen -- 20:04**
+Als je heel veel ChatGPT gebruikt, word je ook steeds kritischer en zoek je steeds meer naar kwaliteit. En de vraag kost soms ook veel tijd. Maar ik gebruik het ook voor mijn lessen voorbereiden. Ik vind dat ik daarmee de kwaliteit hoger houd.
+
+**Spreker 1 -- 21:35**
+Zijn er ook collega's die je ziet die op dezelfde manier werken met AI?
+
+**Yolanda Beenen -- 21:59**
+De enige weet ik niet, maar ik denk dat er niet heel veel zijn. Ik zou het meer willen stimuleren. Ik heb me aanstaande donderdag aangemeld voor een AI-geletterdheidsworkshop -- ik denk: ik kan er altijd wat van opsteken.
+
+**Spreker 1 -- 22:30**
+Hoe weet je of het misgaat?
+
+**Yolanda Beenen -- 22:40**
+Wat bedoel je?
+
+**Spreker 1 -- 22:41**
+Stel dat je bezig bent met lesvoorbereiding en je gebruikt daarvoor AI -- hoe merk je dat het fout gaat?
+
+**Yolanda Beenen -- 22:56**
+Je moet nooit hele dingen tegelijkertijd doen. Je moet niet te vaak dezelfde prompt achter elkaar gebruiken, want dan gaat hij dingen door elkaar halen. Je moet weten waar je zelf mee bezig bent, kritisch zijn op de antwoorden en de bronnen controleren. Want de subsidie die nu gehonoreerd is -- €40.000 -- die heb ik helemaal geschreven met AI. En ik zei nog tegen mezelf: heb je toch alle bronnen goed gecontroleerd? En je hebt alle tekst nog doorgelezen? Ja, hartelijk, want het is gewoon gehonoreerd.
+
+**Spreker 1 -- 23:56**
+Maar het is nog niet fout gegaan.
+
+**Yolanda Beenen -- 23:58**
+Nou ja, niet fout gegaan. En als je normaal gesproken een subsidieaanvraag schrijft, kun je ook fouten maken. Kritisch blijven, niet alles zomaar aannemen -- dat is wel heel belangrijk, denk ik.
+
+**Spreker 1 -- 24:24**
+Ja. AI is best overtuigend als het fout gaat. OK -- je hebt ChatGPT, Canva, LinkedIn, de Office suite. Gebruik je nog diagram-tools, of iets voor statistische analyse?
+
+**Yolanda Beenen -- 24:47**
+Nee.
+
+**Spreker 1 -- 25:08**
+Geen Python of statistische analyse?
+
+**Yolanda Beenen -- 25:25**
+Nee, nee.
+
+**Spreker 1 -- 25:26**
+OK. Stel, je hebt een stagiair die specifiek jouw leven beter maakt -- wat laat je hem als eerste doen?
+
+**Yolanda Beenen -- 25:59**
+Nou, wat ik ervan droom: in plaats van dat ik direct veel tijd kwijt ben aan het inwerkproces, wil ik een soort inwerk-assistent. Die de stagiair instrueert zodat ik er zelf weinig tijd aan hoef te besteden. Én die ook vertelt hoe de wegen binnen Windesheim werken. Ik wil administratieve ondersteuning voor mijn agendabeheer, documentenbeheer. En vooral administratieve ondersteuning op het onderwijsgedeelte -- dat is zo ongelooflijk lomp en complex. En dat hele HR-Today -- uren indienen, declaraties -- dat is gewoon zo ongelooflijk tijdrovend.
+
+**Spreker 1 -- 27:50**
+Dus hij moet een combinatie doen: de stagiair instrueren over hoe Windesheim werkt én jouw administratieve taken met HR-Today en agendaplanning afhandelen?
+
+**Yolanda Beenen -- 28:05**
+Ja, correct.
+
+**Spreker 1 -- 28:10**
+Dan de laatste vraag: stel het werkt -- hoe weet je dat het goed gaat?
+
+**Yolanda Beenen -- 29:05**
+Als alles goed gaat, dan loopt het, dus daar heb je zelf weinig werk van. Als het niet goed gaat, weet je het -- dan moet je reparatiewerkzaamheden gaan uitvoeren.
+
+**Spreker 1 -- 29:26**
+OK. Nog een bonusvraag.
+
+**Yolanda Beenen -- 29:35**
+Ik zou het eerst zelf controleren. En dan nadenken: hoe kun je dit ook controleren met tools? Kun je AI bouwen die AI reguleert?
+
+**Spreker 1 -- 29:52**
+Ja, dat kan -- het is een stukje complexer, maar het kan zeker. Nog een vraagje: als jij nu werkt met AI -- heb je dan de browser open en kopieer je heen en weer?
+
+**Yolanda Beenen -- 30:21**
+Ja, ik kopieer. Ik lees ook wel rare dingen -- dat mensen bankgegevens geven aan ChatGPT. De laatste keer dat ik reisadvies vroeg, zei hij: "Als je wilt, ga ik het wel voor je boeken als je me je gegevens geeft." Dat gaan we dus niet doen.
+
+**Spreker 1 -- 31:02**
+Nee, dat zou ik ook nooit doen.
+
+**Yolanda Beenen -- 31:10**
+Ik zag een bericht dat iemand dat wel had gedaan en zijn bankrekening was helemaal leeg. Sommige mensen zijn heel naïef.
+
+**Spreker 1 -- 31:24**
+OK, Jolanda, dankjewel voor dit interview. Je bent een boom van informatie. Je krijgt na afloop het interview-PDF en een link naar het dashboard. Is er nog iets anders wat ik voor je kan doen?
+
+**Yolanda Beenen -- 31:54**
+Op welk niveau zit ik op de innovatieve schaal? Ben ik een early adopter of early majority?
+
+**Spreker 1 -- 32:13**
+Voor iemand die met subsidies werkt, ben je heel ver. Je gebruikt meer AI dan bijvoorbeeld Mira, die alles handmatig wil controleren. Je zit iets bovengemiddeld. Er zijn wel collega's die zwaarder gebruiken, maar die werken ook voor andere instanties buiten Windesheim. Dat is een kleine trend die ik zie.
+
+**Yolanda Beenen -- 33:14**
+Ja, Michiel is ook heel vooruitstrevend. Die heeft ook een eigen bedrijf. Als ik een eigen bedrijf zou hebben, had ik allang veel meer geprobeerd eruit te halen.
+
+**Spreker 1 -- 33:38**
+Ja.
+
+**Yolanda Beenen -- 33:38**
+Ik ben nu samen met een goede vriend aan het kijken hoe ik hem kan helpen bij een webshop. En ik hoor van een collega bij de minor ondernemerschap dat er in Amerika al een webshop is die volledig door AI wordt aangestuurd -- 2 miljoen omzet per maand.
+
+**Spreker 1 -- 34:45**
+Interessant. Helaas moet ik nu door. Wens jou een fijne dag en je krijgt alles nog per e-mail. Dankjewel Jolanda!

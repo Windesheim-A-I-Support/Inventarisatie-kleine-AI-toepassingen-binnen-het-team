@@ -1,0 +1,292 @@
+---
+title: "Interview: Richard Holman"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Richard Holman
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-15 |
+| Collega | Richard Holman |
+| Rol | Netwerk en cofinanciering (4 dagen/week) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 29 minuten |
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT (gratis) | AI/LLM | Formulering, begrip, doorvragen | Regelmatig | Neutraal | Gratis versie voldoende; past output altijd aan voor eigen taal |
+| Summary AI | AI/LLM | Gesprekken transcriberen in gewenste stijl | Regelmatig | Hoog | Verving Speaker app; transcribeert in projectmanagementstijl, diplomatisch, vriendelijk of strak |
+| Evernote | Projectmanagement | Notities, cursussen, alles in cloud | Dagelijks (12 jaar) | Hoog | Heeft nu ook AI/chatfunctie; primaire persoonlijke kennisbank |
+| Todoist | Projectmanagement | To-do lijsten | Regelmatig | Positief | Zakelijk gebruik |
+| Outlook | Communicatie | E-mail en agenda (Windesheim) | Dagelijks | Neutraal | Microsoft App op Apple; twee agenda's nodig (privé Apple + Windesheim) |
+| Apple Notes / Herinneringen | Andere | Snelle notities + herinneringen gekoppeld aan agenda | Dagelijks | Hoog | Privé; Windesheim firewall blokkeert Microsoft To-Do sync |
+| RECAP Excel sheet | Projectmanagement | Projectoverzicht partners en contractstatus | Regelmatig | Positief | Gedeeld met Ronald/Luca/Stefan/Hendryk; gemaakt door Ronald met AI |
+| LinkedIn | Communicatie | Netwerk volgen, afstuderenden werven | Regelmatig | Neutraal | Warme contacten volgen |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+Teams-transcriptie van vergadering `Survey IT gebruik-20260615_110212`. Totale duur: 29 minuten 12 seconden. Gestart op 15 juni 2026, 09:01. Chris Verhoef start en stopt de transcriptie. Spreker 1 = Chris.
+
+**0:00 -- Opener**
+Chris legt doel uit. Richard werkt 4 dagen voor het lectoraat.
+
+**1:05 -- Rol**
+Drie pijlers lectoraat: vraagarticulatie, tooling, netwerk. Richard is verantwoordelijk voor het netwerk: cofinanciering binnenhalen, bedrijven aansluiten, studenten werven en begeleiden, lesgeven. Vice voorzitter NEVI (6500 leden), lid since 1989.
+
+**2:19 -- Tijdsbesteding vorige week**
+Nabellen van bedrijven voor handtekeningen (partner agreements, consortium agreements). Chasing cofinanciering bij MKB. Gebruik van RECAP Excel sheet om alles bij te houden (gemaakt door Ronald de Boer met AI).
+
+**3:15 -- Werkproces netwerk/cofinanciering**
+1. Chris stelt nieuwe subsidieaanvraag voor (bijv. €1M, doelstelling veerkracht/duurzaamheid)
+2. One-pager maken in begrijpelijke MKB-taal (geen jargon, geen afkortingen, voordelen centraal)
+3. Adressenlijst warme contacten klaarzetten
+4. Eerst bellen (persoonlijk contact verplicht)
+5. Mail sturen met one-pager als bijlage + partner/consortium agreement
+6. Nogmaals bellen als opvolging
+7. Handtekening ontvangen → doorsturen naar Mira, CC Chris → bijwerken in RECAP Excel
+
+**9:39 -- Volume**
+Afgelopen weken veel belletjes door nabelfase. Het hele jaar door contact via LinkedIn, persoonlijke berichten, NEVI-events. Aantekeningen bijhouden in eigen hoofd + notities.
+
+**11:05 -- AI-gebruik**
+Begon direct met ChatGPT bij lancering (betaald abonnement, nu gestopt, gratis voldoende). Gebruikt voor formulering, begrip, doorvragen. Daarnaast Summary AI voor transcriptie van gesprekken. Eerder Speaker app (€60/jaar, gestopt). Evernote al 12 jaar, nu ook met AI-chatfunctie ingebouwd. Vraagt dezelfde vraag aan meerdere AI-apps en filtert eigen antwoord ("multiple source intelligence" -- zijn eigen aanpak, zelf bedacht).
+
+**13:11 -- Andere tools**
+Todoist (zakelijk), Apple Notes + Herinneringen (privé, syncen direct naar agenda). Windesheim-firewall blokkeert Microsoft To-Do sync met Apple-agenda, dus twee losse agenda's. Gebruik maakt weinig van Windesheim-tools vanwege beperkingen.
+
+**16:44 -- Gestopte tools**
+Speaker app (€60/jaar) -- te duur, Summary AI beter. Betaald ChatGPT -- gratis voldoende.
+
+**17:31 -- Collega's**
+Weet niet of anderen hetzelfde doen. Denkt wel dat hij de meeste belletjes doet binnen het team. Heeft informele gesprekken met Ronald (die net Apple heeft) over tools.
+
+**19:13 -- Open voor sales pipeline**
+Reageert enthousiast op idee van een sales pipeline / CRM voor het netwerk. Houdt van processen en stappen. Had eerder customer journey cursus gedaan met Michiel en Yolanda.
+
+**21:48 -- Verjaardagen Outlook**
+Simpel radartje: verjaardagen automatisch zichtbaar in Outlook-agenda van het lectoraat. Nu niet gedeeld. Heeft warme band met netwerk en stuurt altijd berichtje op verjaardagen van contacten -- maar lectoraat-collega's missen dat nu. Heeft dit eerder geopperd.
+
+**24:03 -- Magische stagiairvraag**
+"Helemaal niks." Richard wil alles zelf doen. Controle en grip zijn essentieel. Eigen notities zijn zijn geheugen. Contracten doorsturen = één klik. Als hij zelf uitzoekt, denkt hij dieper door en stelt hij betere vragen aan AI.
+
+**25:20 -- Succes meten**
+Persoonlijk gevoel. Output van AI altijd aanpassen zodat het zijn eigen taal wordt. Nooit puur copy-paste.
+
+**26:49 -- Eerste rode lijn (Richard vraagt aan Chris)**
+Chris: team werkt geïsoleerd van elkaar. Snelle adopters en achterblijvers. Mensen als Ronald delen kennis, anderen niet. Oplossing: bij elkaar komen om van elkaars AI-gebruik te leren, niet top-down opleggen.
+
+**28:14 -- Afsluiting**
+Verbinding weggevallen aan het einde. Richard had al eerder informele gesprekken met Ronald over Apple-overstap.
+
+---
+
+## Gestructureerde Q&A
+
+**Wat is je huidige rol?**
+Verantwoordelijk voor netwerk en cofinanciering (4 dagen/week). Bedrijven aansluiten bij subsidieprojecten, warme contacten onderhouden via NEVI en eigen netwerk (6500 leden), studenten werven, lesgeven, afstudeeropdrachten formuleren.
+
+**Waar gaat de meeste tijd naartoe?**
+Nabellen en chasing voor handtekeningen bij partner/consortium agreements. Contact onderhouden met breed netwerk het hele jaar door.
+
+**Welke tools gebruik je?**
+ChatGPT (gratis), Summary AI, Evernote (12 jaar, met AI-chat), Todoist, Outlook, Apple Notes/Herinneringen, RECAP Excel sheet (gedeeld).
+
+**Slimste workaround?**
+Meerdere AI-tools dezelfde vraag stellen en eigen antwoord filteren ("multiple source intelligence" -- zijn eigen term). Summary AI voor gespreksnotities die hij daarna doorstuurt naar Chris voor afstudeeropdrachten.
+
+**Wat lukt niet?**
+Speaker app te duur gestopt. Windesheim-tools/firewall blokkeren privé-Apple sync. Betaald ChatGPT niet meer nodig.
+
+**Magische stagiairvraag?**
+"Helemaal niks." Controle en grip zijn zijn primaire werkwijze. Eigenhandig uitzoeken verdiept zijn denken.
+
+**Hoe merk je dat het goed gaat?**
+Persoonlijk gevoel. Output altijd aanpassen tot eigen taal.
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| Gesprekken met bedrijven/afstuderenden | Gespreksnotities transcriberen en stileren | Opname gesprek (mobiel of Teams) | Transcriptie in gewenste stijl (zakelijk/diplomatiek/vriendelijk) | Wekelijks | Middel | Summary AI | Al in gebruik; output gaat naar Chris voor afstudeeropdrachten |
+| Netwerk en cofinanciering | Contact-chasing bijhouden in pipeline | Belnotities, mailstatus, handtekeningen | Overzicht per bedrijf: wanneer gebeld, wanneer mail, handtekeningsstatus | Dagelijks | Laag | RECAP Excel (handmatig) | Open voor CRM/sales-pipeline aanpak; "ik hou van processen en stappen" |
+| Teamcommunicatie | Verjaardagen lectoraat automatisch in Outlook | Geboortedata collega's | Automatische melding in Outlook-kalender | Éénmalig instellen | Laag | Handmatig (geen) | Eerder geopperd; simpel maar waardevol voor teamband |
+
+---
+
+## Letterlijke signalen
+
+- "Ik ben vice voorzitter van zesenhalfduizend leden van NEVI. En ik ben al lid van even since 1989."
+- "Als ik twee, drie verschillende chatfuncties heb en ik stel die vraag aan meerdere apps, dan krijg ik vanuit meerdere perspectieven een reactie -- en dan filter ik mijn eigen reactie uit."
+- "Nee, voor mij helemaal niks." (op de stagiairvraag)
+- "Bij mij moet het ook zuiver en helder zijn. Ik heb alles grip en controle."
+- "Wat ik wel leuk zou vinden, heel simpel: in onze Outlook-agenda gewoon automatisch de verjaardagen krijgen te zien."
+- "Ik doe het liever zelf. Want met het uitzoeken kom ik ook steeds dieper tot vragen."
+- "We zijn allemaal eilandjes, zekers."
+
+---
+
+## Nog niet oplossen
+
+- Twee agenda's (privé Apple + Windesheim) zijn omslachtig maar Richard heeft er mee leren leven.
+- Wil geen stagiair -- controle is zijn werkwijze, niet een bottleneck.
+- Wil wel een sales pipeline / CRM als het hem wordt aangereikt (niet zelf bouwen).
+
+---
+
+## Samenvatting voor weekupdate
+
+Richard Holman is de netwerker en cofinancieringsjager van het lectoraat: 4 dagen/week, vice voorzitter NEVI (6500 leden), netwerk since 1989. Zijn werk draait om persoonlijk contact -- bellen, mailen, chasing -- en resulteert in handtekeningen onder partner agreements.
+
+AI-gebruik: Summary AI voor gespreksnotities (transcribeert in meerdere stijlen, output gaat naar Chris voor afstudeeropdrachten), ChatGPT voor formulering en begrip, Evernote al 12 jaar als kennisbank (nu met AI-chatfunctie). Interessant: hij vraagt dezelfde vraag aan meerdere AI-tools en filtert zijn eigen antwoord eruit -- hij noemt het zelf "multiple source intelligence."
+
+Magische stagiairvraag leverde "helemaal niks" op: Richard wil alles zelf doen. Controle is zijn kernwaarde.
+
+Sterkste radartje: een CRM/sales pipeline voor zijn netwerk-chasing is er nog niet (RECAP Excel is een aanzet) -- hij staat er open voor als het hem wordt aangereikt. En de meest laagdrempelige wens: verjaardagen van lectoraatcollega's automatisch in Outlook zichtbaar maken. Simpel, maar hij heeft het eerder geopperd en er nooit gehoor voor gekregen.
+
+---
+
+## Volledige transcriptie
+
+*Automatisch gegenereerd door Microsoft Teams. Spreker 1 = Chris Verhoef.*
+
+**Spreker 1 -- 0:03**
+OK, ik zet de transcriptie aan -- ik neem niet de videobeelden op, maar wel de tekst. We zitten hier bij elkaar om te kijken over het gebruik van IT-tools en AI-tools binnen ons lectoraat. Ik loop iedereen langs om te kijken: waar zit de grootste winst, wat kunnen we het best doen? Om elkaar te helpen met nieuwe tools. Kan jij voor mij vertellen wat jouw huidige rol is en hoeveel je werkt?
+
+**Richard Holman -- 0:55**
+Ik werk 4 dagen voor het lectoraat. Mijn rol in onderzoek heeft drie pijlers: vraagarticulatie, tooling, en netwerk. Ik ben verantwoordelijk voor het netwerk -- cofinanciering bijhalen, gebruik maken van het grote netwerk.
+
+**Spreker 1 -- 1:25**
+OK, en dat is jouw hoofdfunctie: netwerk aanspreken, meeting schedule?
+
+**Richard Holman -- 1:33**
+Ja, en natuurlijk meedenken bij onderzoek: welke bedrijven passen het beste bij? Studenten werven, afstudeeropdrachten begeleiden, lesgeven -- dat zit er allemaal ook bij.
+
+**Spreker 1 -- 2:03**
+En als je kijkt naar afgelopen week -- waar was je het meeste tijd aan kwijt?
+
+**Richard Holman -- 2:19**
+Met het achterna bellen van de bedrijven die mee zouden doen, veelal om de handtekeningen te krijgen onder de contracten -- partner agreements, consortium agreements. Chasing, maar op een gentlemanlike manier.
+
+**Spreker 1 -- 2:47**
+Misschien rustig door dat proces heen lopen -- je begint als Chris met een nieuwe subsidieaanvraag?
+
+**Richard Holman -- 2:57**
+Heel goed. Dan gaan we samen zitten -- alles via Teams. Chris heeft al overlegd met Ronald en Luca. Dan praten we over het projectvoorstel -- €1 miljoen, doelstelling veerkracht en duurzaamheid. En dan zeg ik: Chris, het wordt tijd dat we een one-pager maken. Heel simpel, in begrijpelijke taal voor MKB-ers. Geen moeilijke Engelse termen of afkortingen, geen "resilience" -- dat moet je uitleggen. Snel kijken: wat levert het hen op, wat moeten ze daarvoor doen? Die one-pager heb ik dan klaar. Dan heb ik de namenlijsten klaar van bedrijven en warme contacten die ik al jarenlang onderhoud. Ik bel ze eerst. Dan stuur ik een mail. Dan bel ik nog een keer. Want zeker in deze fase van het jaar is het hartstikke druk.
+
+**Richard Holman -- 5:07**
+Veel overnames, veel drukte. En dan krijg ik de handtekening binnen -- of niet. Als ik de handtekening heb, stuur ik dat door naar Mira, CC Chris, en ik werk het bij op de RECAP Excel sheet. Die delen we met alle projecten: Ronald de Boer, Luca, Stefan, Hendryk. Dat is het proces. Dan schrijven Chris en Luca het voorstel, met input van mij over het netwerk.
+
+**Richard Holman -- 6:07**
+Vraagarticulatie is de tweede pijler, en valorisatie de derde. Valorisatie: datgene wat je hebt opgehaald vanuit de markt omzetten naar de subsidiewereld. We leren veel van aanvragen die niet gehonoreerd worden -- frustrerend, maar doorgaan.
+
+**Spreker 1 -- 6:59**
+Heb je hiervoor al workarounds? Een e-mailtemplate, de one-pager?
+
+**Richard Holman -- 7:27**
+Ja, de one-pager is copy-paste in de mail, en dan druk ik die er nog bij als A4. Plus het partner agreement meteen bijgevoegd. Ik stuur nooit blind een mail -- ik moet ze eerst aan de telefoon hebben.
+
+**Spreker 1 -- 9:24**
+Hoeveel belletjes en mails doe je globaal per week?
+
+**Richard Holman -- 9:39**
+De afgelopen weken veel -- omdat we in de nabelfase zitten. Maar het hele jaar door houd ik contact via LinkedIn, persoonlijke berichten, NEVI-events. Ik ben vice voorzitter van 6500 leden van NEVI, lid since 1989. Die belletjes en contacten zijn continu.
+
+**Spreker 1 -- 11:00**
+Gebruik je al AI-tools, in werk of privé?
+
+**Richard Holman -- 11:05**
+Absoluut.
+
+**Spreker 1 -- 11:07**
+Wat doe je daarmee?
+
+**Richard Holman -- 11:09**
+Nou, in het begin van ChatGPT heb ik meteen een abonnement genomen -- $20 per maand. Dat heb ik nu niet meer; gratis is goed genoeg voor mij. Voor formulering, begrip, doorvragen. Maar ik gebruik ook de Summary AI app. Die neemt op, transcribeert in meerdere talen, en je kunt kiezen: projectmanagement-stijl, diplomatisch, vriendelijk, strak. En de gesprekken die we hebben met potentiële afstuderenden -- met bedrijven -- die transcribeer ik en stuur ik naar Chris. Dat is zijn input om de afstudeeropdracht te formuleren. Dan stemmen we af: Chris, dit is het concept, kijk er alsjeblieft naar. Aanpassingen, en dan is dat mijn one-pager. Die stuur ik naar de bedrijven in mijn eigen taal.
+
+**Spreker 1 -- 13:11**
+Zijn er ook dingen die minder goed werken?
+
+**Richard Holman -- 13:11**
+Minder goed heeft met subjectieve voorkeur te maken. Ik gebruik ook Todoist en Evernote -- al 12 jaar, alles in de cloud, ik kom er overal bij. Notities, cursussen, privédingen -- alles staat erin. En er zitten steeds meer AI-achtige chatfuncties in, dus ik kan er direct vragen aan stellen. Als ik twee, drie chatfuncties heb bij meerdere apps en ik stel die vraag aan meerdere apps, dan krijg ik vanuit meerdere perspectieven een reactie -- en dan filter ik mijn eigen reactie eruit.
+
+**Spreker 1 -- 14:05**
+Dat is "multiple source intelligence" -- hartstikke goed.
+
+**Richard Holman -- 14:09**
+Ik wist niet dat het zo heette, maar ik doe het gewoon.
+
+**Spreker 1 -- 14:34**
+Welke andere tools gebruik je?
+
+**Richard Holman -- 14:44**
+Microsoft Outlook voor werk. Apple Notes en Herinneringen voor privé -- die zie ik direct terug in mijn agenda. Tot vorig jaar kon ik dat ook met de Microsoft To-Do app, maar daar zit een firewall tussen. Dus nu heb ik twee agenda's. Ik gebruik de Windesheim-tools weinig vanwege beperkingen.
+
+**Spreker 1 -- 16:44**
+Heb je ook dingen geprobeerd met AI en daarna gestopt?
+
+**Richard Holman -- 16:53**
+Speaker app -- €60 per jaar, maar ik vind Summary AI fijner. Speaker heb ik meer links laten liggen. Betaald ChatGPT -- niet meer nodig.
+
+**Spreker 1 -- 17:31**
+Zijn er veel collega's die doen wat jij doet?
+
+**Richard Holman -- 17:34**
+Ik weet het niet. Ik weet niet hoeveel belletjes anderen doen. Maar binnen het netwerk-trajectje denk ik wel dat ik de meeste ben. Ik heb ook informele gesprekken met Ronald -- die is net overgestapt naar Apple. Dan vraagt hij: welke apps zijn goed? Ja, dat soort gesprekken heb ik ook.
+
+**Spreker 1 -- 19:05**
+Stel dat ik een sales pipeline neerzet voor ons -- waarbij we alles tracken?
+
+**Richard Holman -- 19:13**
+Kom maar door. Ik hou van processen en stappen. Absoluut, ja. Michiel, Yolanda en ik hebben ook een customer journey cursus gehad. Die workflow van hoe klanten binnenkomen, welke vragen we stellen -- dat vind ik prachtig.
+
+**Spreker 1 -- 21:48**
+Heb je zelf nog een suggestie?
+
+**Richard Holman -- 21:55**
+Nou, één ding. Heel simpel: in onze Outlook-agenda gewoon automatisch de verjaardagen van lectoraatcollega's zien. Ik heb dat al vaker geopperd. We zijn toch een netwerk, we zijn collega's. Dan weet je wanneer iemand jarig is en kun je een berichtje sturen. Ik doe dat altijd met mijn contacten -- en mensen vinden dat altijd attent. Negen van de tien keer krijg ik terug: "Wat attent dat je hieraan denkt." Heel simpel, maar het werkt.
+
+**Spreker 1 -- 23:34**
+OK. Magische vraag: stel je hebt een slimme stagiair die jouw leven beter moet maken -- wat mag die voor je doen?
+
+**Richard Holman -- 24:03**
+Nee, voor mij helemaal niks. Omdat mijn werk -- strategisch, tactisch, operationeel -- ik doe alles liever zelf. Ik heb alles grip en controle. Bij mij moet het zuiver en helder zijn met wat ik afgesproken heb. Eigen notities zijn mijn geheugen. Contracten doorsturen is één klik. En als ik zelf uitzoek, kom ik steeds dieper tot vragen. Dan ga ik naar een andere AI-app en formuleer ik mijn vraag nog dieper. Dat is een denkproces.
+
+**Spreker 1 -- 25:20**
+Laatste vraag: hoe merk je dat het goed gaat met AI?
+
+**Richard Holman -- 25:33**
+Dat heeft alles met persoonlijk gevoel te maken. Het is nooit copy-paste bij mij. Ik kijk altijd wat er staat en pas het aan zodat het mijn eigen taal is.
+
+**Spreker 1 -- 26:35**
+Ik ben door mijn vragen heen. Wil je nog iets toevoegen?
+
+**Richard Holman -- 26:49**
+Wat is je eerste rode lijn door de interviews?
+
+**Spreker 1 -- 26:49**
+Ik merk dat het team heel geïsoleerd werkt van elkaar. Sommigen adopteren snel, anderen niet. Ronald deelt actief, anderen helemaal niet. De grote lijn: we kunnen meer bij elkaar komen, specifiek over AI-gebruik. Niet top-down opleggen, maar van elkaar leren. Zoals: Richard gebruikt Summary AI -- ik ga dat ook proberen, want Teams' samenvatting is niet altijd geweldig.
+
+**Richard Holman -- 27:55**
+Ja. En dat soort gesprekken heb ik ook met Ronald. We zijn allemaal eilandjes -- maar binnen de groepen hebben we zeker intiemer contact. We zijn ook allemaal experts op ons vakgebied, en docent. Maar ja.
+
+*[Verbinding valt weg. Richard sluit af.]*
