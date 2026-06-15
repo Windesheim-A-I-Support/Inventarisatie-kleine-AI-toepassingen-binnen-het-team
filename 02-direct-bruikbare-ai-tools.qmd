@@ -39,7 +39,7 @@ Een tool scoort hoog als:
 | [Scite](https://scite.ai) | Citatie-analyse | 2M+ | 5+ (Oregon State, Kansas, Clemson) | **Top 5.** Uniek: classificeert citaties als supporting/contrasting/mentioning. |
 | [ASReview](https://asreview.nl) | Screening | onbekend | 20+ (**UU maker**) | **Top 5.** Nederlands, open source, lokaal draaien, gepubliceerd in Nature Machine Intelligence. |
 | [Whisper (lokaal)](https://github.com/openai/whisper) | Transcriptie | onbekend | 1+ (**RUG gratis dienst**) | **Top 5.** Enige privacyveilige transcriptieoptie. Volledig lokaal, GDPR-proof. |
-| [SURF AI-hub / EduGenAI](https://surf.nl) | NL infrastructuur | 14 NL instellingen | 14 NL | **Top 5.** Alle NL universiteiten en hogescholen, sovereign hosting, DPIA gepubliceerd. Breed beschikbaar eind 2026. |
+| [SURF AI-hub / EduGenAI](https://surf.nl) | NL infrastructuur | 14 NL instellingen | 14 NL | Afgevallen: nog niet testbaar (pilotfase, breed beschikbaar eind 2026). Structureel sterk maar directe inzetbaarheid ontbreekt. |
 | [Semantic Scholar](https://semanticscholar.org) | Zoekmachine | 7M+/mnd | 1.000+ | Sterk als databron (205M papers), non-profit. Minder stuurbaar dan Elicit op een specifieke vraag. |
 | [Litmaps](https://litmaps.com) | Visuele kaart | 2M+ | 16.000+ | Sterke visualisatie, maar overlappend met ResearchRabbit (dat het overnam). |
 | [ResearchRabbit](https://researchrabbit.ai) | Literatuurontdekking | 1M+ | 50+ | Overgenomen door Litmaps (mei 2025). Minder stabiel voor langetermijngebruik. |
@@ -86,7 +86,7 @@ Een tool scoort hoog als:
 | [Rayyan](https://rayyan.ai) | Screening systematic reviews | 500.000+ | **UU** + **Leiden** (library guides) | Beste gratis screeningtool systematic reviews. UU en Leiden bevelen het aan. Aanvulling op ASReview. |
 | [Covidence](https://covidence.org) | Systematic review management | breed | **UT** (institutionele licentie alle faculteiten) | Cochrane-endorsed full review management. UT heeft gratis toegang voor alle medewerkers. |
 | [Fireflies.ai](https://fireflies.ai) | Vergadertranscriptie | 1M+ | geen NL gevonden | Krachtig maar 2025-rechtszaak biometrische stemdata. Whisper lokaal heeft voorkeur voor gevoelige vergaderingen. |
-| [tl;dv](https://tldv.io) | Vergadertranscriptie | 1M+ | geen NL gevonden | Sterkste GDPR-profiel cloud-transcriptie: Europese servers, end-to-end encryptie, geen modeltraining. |
+| [tl;dv](https://tldv.io) | Vergadertranscriptie | 1M+ | geen NL gevonden | **Top 5.** Sterkste GDPR-profiel cloud-transcriptie: Europese servers, end-to-end encryptie, geen modeltraining. 6 interviews valideren de use case. Direct testbaar via gratis versie. |
 | [Anara](https://anara.com) | Document-analyse / literatuurreview | 3M+ | Stanford, MIT, Johns Hopkins (geen NL) | Anti-hallucination document-chat: elke respons met klikbare bronverwijzing. Y Combinator. |
 | [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Onderzoeksagent (open source) | onbekend | geen NL gevonden | LangChain multi-agent research systeem. MIT-licentie, #6 Deep Research Bench. Meer configureerbaar dan GPT Researcher. |
 | [Sonix](https://sonix.ai) | Transcriptie (cloud) | breed | 5+ (geen NL specifiek) | Nederlandstalig transcriptiemodel (85-99% accuraat). Academisch getraind. Cloud-alternatief voor Whisper. |
@@ -156,17 +156,19 @@ Whisper is het open source spraakherkenningsmodel van OpenAI. Het draait volledi
 
 **Lokale dienst:** Universiteit Groningen biedt Whisper gratis aan voor alle medewerkers en studenten.
 
-### 5. SURF AI-hub / EduGenAI
+### 5. tl;dv
 
-**[surf.nl](https://surf.nl)**: In pilotfase, breed beschikbaar eind 2026
+**[tldv.io](https://tldv.io)**: Gratis basisversie, GDPR-compliant
 
-SURF biedt alle 14 Nederlandse universiteiten en hogescholen toegang tot veilige LLM-omgevingen waarbij data in Nederland blijft. Een DPIA is gepubliceerd. Pilots lopen bij Universiteit Twente en Universiteit Utrecht.
+tl;dv transcribeert vergaderingen en interviews automatisch. Het sterkste GDPR-profiel van alle cloud-vergadertools: data uitsluitend in Europese datacenters, end-to-end encryptie, geen modeltraining op opnames. Integreert met Zoom, Teams en Google Meet.
 
-**Waarom geselecteerd:** Structurele oplossing voor het privacyobstakel dat meerdere collega's noemden. Hendryk wil AI inzetten voor kwalitatieve interviewanalyse met bedrijfsdata van studenten, maar wil niet dat data naar externe servers gaat. SURF AI-hub lost dit op. Alle 14 NL hogescholen en universiteiten zijn aangesloten. Data blijft in Nederland. DPIA gepubliceerd.
+**Waarom geselecteerd:** Zes interviews bevestigen vergadertranscriptie als gedeeld radartje: Luca, Ritsaart, Bart, Yolanda, Richard en Ronald -- allen met behoefte aan gespreksnotities of transcriptie. Luca overweegt Krisp maar heeft bezwaar tegen VS-servers. tl;dv lost dit exact op: data blijft in Europa, geen modeltraining, end-to-end versleuteld. Direct testbaar via de gratis versie -- geen installatie nodig.
 
-**Breed beschikbaar:** Eind 2026. Nu al toegankelijk via pilotaanvraag bij UT of UU.
+**Lokaal alternatief:** Whisper (zie #4) is de GDPR-proof optie voor gevoelige gesprekken waarbij ook cloud-Europese servers te veel zijn. tl;dv is de drempelverlagende cloud-optie.
 
 ## Afgevallen tools: waarom niet
+
+**SURF AI-hub / EduGenAI**: Structureel de sterkste privacyoptie voor NL instellingen -- data in Nederland, DPIA gepubliceerd, alle 14 universiteiten en hogescholen aangesloten. Afgevallen omdat het criterium "direct inzetbaar" niet wordt gehaald: de dienst is in pilotfase en breed beschikbaar pas eind 2026. Een tool die niet te testen is, kan niet aanbevolen worden. Blijft een sterke kandidaat voor eind 2026.
 
 **Consensus**: Sterke tool met meer dan 5 miljoen gebruikers en universitaire adoptie bij Princeton, Stanford en Harvard. Afgevallen omdat Elicit op dezelfde use case sterker presteert: Elicit heeft gepubliceerde Cochrane-recall-scores en een verwerkersovereenkomst. Consensus mist zelfstandige literatuurselectie.
 
