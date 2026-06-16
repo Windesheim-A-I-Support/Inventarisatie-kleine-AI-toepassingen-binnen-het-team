@@ -1,6 +1,6 @@
 # Email aan Greg Cronie na interview
 
-**Aan:** (via LinkedIn bericht -- geen Windesheim-adres beschikbaar na vertrek)
+**Aan:** g.i.e.cronie@windesheim.nl
 **Onderwerp:** Bedankt voor het gesprek -- transcriptie
 
 ---

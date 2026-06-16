@@ -17,10 +17,13 @@ Zoals beloofd. [Dashboard](https://windesheim-a-i-support.github.io/Inventarisat
 
 **Rode draden na 14 interviews:**
 
-- **Duale functie = meer AI-gebruik.** Bart, Greg, jij, Yolanda -- allemaal met een externe rol. Bij Windesheim alleen: significant minder gebruik door beleid en ontbrekende tooling.
-- **Grootste gedeelde radartje: HR-Today.** Stefan, Mira, Ronald en Yolanda noemen allen uren/declaraties als grootste tijdverlies. Één oplossing raakt vier mensen.
+- **Vergadertranscriptie.** Luca, Ritsaart, Bart, Yolanda, Richard, Ronald -- 6 van de 14. Sterkste gedeelde radartje. Wordt al veel gedaan, maar kan beter.
+- **Windesheim-beleid blokkeert actief.** Bart (Copilot uit), Greg (geen Claude-account), Yolanda (Canva gestopt), jij -- 4 mensen die meer doen buiten Windesheim dan erbinnen, niet vanwege onwil maar vanwege beleid.
+- **Presentaties.** Ritsaart, Bart, Christiaan de Goeij -- 3 mensen. ChatGPT/Claude levert slechte slides. Onopgelost pijnpunt.
+- **Duale functie = meer AI-gebruik.** Bart, Greg, jij, Yolanda -- allemaal met een externe rol. Bij Windesheim alleen: significant minder gebruik door beleid en ontbrekende tooling/ondersteuning.
+- **HR-Today.** Stefan, Mira, Ronald en Yolanda noemen allen uren/declaraties als grootste tijdverlies. Één oplossing raakt vier mensen.
 - **Subsidies schrijven met AI werkt.** Yolanda haalde €40k binnen. Jij en Christiaan de Goeij hebben Perplexity als sparringpartner. Patroon.
-- **Informatiefiltering is gedeeld probleem.** Jij en Christiaan Verhoef beiden last van content-overload.
+- **Informatiefiltering.** Jij en Christiaan Verhoef beiden last van content-overload.
 - **Buddy-systeem > training.** Ronald + Richard (Apple), Maxime (interviewmethode) -- mensen leren sneller van elkaar dan van een cursus.
 
 Groet,

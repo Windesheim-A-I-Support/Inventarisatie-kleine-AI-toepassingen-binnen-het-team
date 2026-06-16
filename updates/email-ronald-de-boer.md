@@ -1,6 +1,6 @@
 # Email aan Ronald de Boer na interview
 
-**Aan:** r.de.boer@windesheim.nl
+**Aan:** r.deboer@windesheim.nl
 **Onderwerp:** Bedankt voor het gesprek -- transcriptie + dashboard + beloofd tips
 
 ---
