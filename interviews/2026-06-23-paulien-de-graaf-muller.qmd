@@ -1,0 +1,717 @@
+---
+title: "Interview: Paulien de Graaf-Muller"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Paulien de Graaf-Muller
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-23 |
+| Collega | Paulien de Graaf-Muller |
+| Rol | Leider onderzoekslijn duurzame zorg (3,5 dag/week) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 38 minuten |
+
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 15 collega's
+
+Van de 15 geïnterviewde collega's gebruik jij AI bewust en gericht, maar beperkt tot veilige toepassingen. ChatGPT voor inkorten, herschrijven en inspiratie -- en nooit met vertrouwelijke informatie. Dat plaatst je in de middengroep: meer bewustzijn dan Stefan of Richard (minimaal gebruik), minder dan Yolanda (€40k subsidie volledig met AI), Maxime (vier custom Claude modes) of Ritsaart (Claude Code).
+
+Wat opvalt is dat je het plafondeigen herkent: "Dat is denk ik dat ik het niet gebruik in optimale zin -- ik zou het op meer plekken kunnen gebruiken waarvan ik de toepassing niet ken." Dat is een eerlijker zelfanalyse dan de meeste collega's geven.
+
+### Gedeelde radartjes
+
+**Subsidievoorstellen schrijven**: jij, Yolanda, Mira, Christiaan de Goeij en Michiel zitten allemaal in dit domein. Yolanda heeft de meest overdraagbare werkwijze: brainstorm opnemen, Dutch PQ transcribeert, transcript + subsidievoorwaarden in ChatGPT, iteratief uitwerken. Bewezen: €40k gehonoreerd. Jullie werken al samen met Mira -- dezelfde werkwijze past ook op jouw trajecten.
+
+**Interview transcriptie als bottleneck**: Luca (Krisp overwogen, gestopt vanwege VS-servers), Yolanda (Dutch PQ + ChatGPT), Richard (Summary AI). Jouw bezwaar is identiek aan Luca's: externe cloud nee. Het verschil is dat tl;dv (Europese servers, geen modeltraining) precies dat bezwaar adresseert.
+
+**Privacy als adoptiedrempel**: Hendryk ("Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal"), Luca (Krisp-bezwaar), Mira (terughoudend met gevoelige data). Maar jij formuleert het het scherpst en consistent: alleen als Windesheim het goedkeurt, pas dan. Dat is geen weerstand tegen AI -- dat is een heldere positie die ook anderen eigenlijk innemen, maar minder expliciet zeggen.
+
+**Survey-analyse**: nieuw radartje, nergens anders zo specifiek gezien. De pijn bij Forms-export (antwoorden in één cel, vraag ontbreekt boven de kolom, schaal niet meegeleverd) is specifiek voor kwalitatieve en mixed-methods onderzoekers. Luca heeft pijn bij Qualtrics-JavaScript -- ander type, zelfde categorie.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Jij voegt twee dingen toe die tot nu toe ontbraken:
+
+1. **Survey-analyse als zelfstandig radartje.** Forms-export vervuilt de data voordat je überhaupt kunt beginnen met analyseren. Jij wilt kruistabellen per variabele (hoeveel verzorgenden vs. verpleegkundigen gaven dit antwoord?) maar het exportformaat laat dat niet toe zonder veel handwerk. Uniek pijnpunt in het lectoraat.
+
+2. **De scherpste formulering van de privacy-blokkade.** "100% zeker dat het niet bij een externe partij kan komen" en "als ik het letterlijk met een karretje de kamer inrol zonder internet, zou dat genoeg zijn." Dat maakt duidelijk dat de drempel voor AI-adoptie bij gevoelig onderzoek geen onwil is, maar een concrete eis die nog niet ingevuld is door Windesheim.
+
+### Handige werkwijzen van collega's
+
+**Yolanda Beenen** neemt brainstormsessies op, laat Dutch PQ transcriberen en gooit het transcript plus de subsidievoorwaarden in ChatGPT. Ze werkt het iteratief uit per sectie. Bewezen resultaat: €40k subsidie gehonoreerd. Dit is direct overdraagbaar naar jouw subsidiepraktijk.
+
+**Ronald de Boer** en **Ritsaart Bergsma** laten AI Excel-formules schrijven in plaats van ze zelf te programmeren. Jij schrijft ze nu allemaal zelf. AI kan de logica van jouw draaitabelanalyse bouwen als je de structuur beschrijft -- je hoeft het resultaat dan alleen te controleren.
+
+**Hendryk Dittfeld** anonimiseert altijd vóór gebruik in AI -- hetzelfde wat jij al instinctief doet. Hij gebruikt NotebookLM daarna voor thematische analyse, maar heeft hetzelfde bezwaar als jij: wil liever een lokale oplossing voor gevoelige bedrijfsdata. Jullie zitten op dezelfde lijn.
+
+**Maxime Bouillon** heeft een "Reviewer 2"-modus in Claude gebouwd die zijn eigen argumentatie kritisch aanvalt -- bruikbaar voor het aanscherpen van onderzoeksrapporten en subsidieaanvragen voordat je ze verstuurt.
+
+---
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT | AI/LLM | Teksten inkorten en herschrijven; inspiratie voor interviewscripts en survey-vragen | Regelmatig | Hoog | Anonimiseert altijd voor gebruik; nooit vertrouwelijke namen of data erin |
+| Microsoft Teams | Communicatie | Vergaderen + interviews transcriberen | Dagelijks | Middel | Transcript al in gebruik; samenvatting-functie nog niet benut |
+| Microsoft Forms | Andere | Surveys uitzetten bij respondenten | Regelmatig | Laag | Excel-export is frustrerend: antwoorden in één cel, vraag ontbreekt, schaal niet meegeleverd |
+| Excel | Documenten | Data-analyse via draaitabellen en zelfgeschreven formules | Dagelijks | Middel | Schrijft alle formules zelf; tijdrovend om Forms-export te fatsoeneren voor analyse |
+| Word | Documenten | Onderzoeksrapporten en subsidiedocumenten | Dagelijks | Hoog | |
+| Outlook | Communicatie | E-mail en agenda | Dagelijks | Neutraal | |
+| Planner | Projectmanagement | Taken bijhouden | Regelmatig | Neutraal | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+**Rol en werkprocessen**
+3,5 dag/week lectoraat, aangevuld met afstudeerbegeleiding Logistics management en minor. Leidt onderzoekslijn duurzame zorg. Vier hoofdprocessen: subsidievoorstellen schrijven (projectplan + State of the Art + vraagarticulatie + partners aanhaken), veldonderzoek uitvoeren (interviews, observaties, surveys), data analyseren, en externe partijen onderhouden via persoonlijk netwerk.
+
+**Samenwerking**
+Subsidievoorstellen met Mira Benes en Monique. Partners komen via persoonlijk netwerk -- geen CRM, geen gedeeld systeem. Expliciet niet gewenst: "ik wil mijn contacten niet met andere personen delen zonder dat ik daarvan op de hoogte ben."
+
+**AI-gebruik**
+ChatGPT voor schrijven/herschrijven, inkorten (ook Michiel vindt dit handig), inspiratie voor interviewscripts en survey-vragen. Anonimiseert altijd voor gebruik -- dit is een vaste gewoonte, geen afweging per keer. Heeft PowerPoint, volledige rapporten, of diepgaandere analyse nog nooit geprobeerd. Erkent dat ze mogelijkheden mist.
+
+**Privacy als drempel**
+Sterktste privacy-positie van alle geïnterviewden. Interviewtranscripten nooit in externe AI. Geanonimiseerde teksten wel OK. Lokale AI (air-gapped) zou werken. Windesheim-goedgekeurde omgeving ook, maar "dan moet Windesheim de verantwoordelijkheid nemen als er iets lekt." Iemands eigen privécomputer vindt ze ook risicovol: "andere programma's draaien erop en je weet niet in welke mate het vindbaar is voor een externe partij."
+
+**Survey-analyse pijnpunt**
+Forms-export naar Excel: (1) meerdere antwoorden in één cel bij multiple-choice vragen, (2) vraag staat niet goed boven de kolom, (3) schaal niet meegeleverd. Daardoor veel opschoonwerk vóór analyse. Wil kruistabellen per variabele (beroepsgroep × antwoord), maar dat lukt nu niet snel uit de ruwe export. Zou Power BI willen maar heeft geen geschikte dataset van voldoende omvang binnen Windesheim.
+
+**Netwerk**
+Volledig persoonlijk. Telefoon + mail + LinkedIn alleen als contactgegevens verlopen zijn. Goed geheugen, kent haar contacten. Geen systeem, geen CRM, ook niet gewenst.
+
+---
+
+## Gestructureerde Q&A
+
+### 1. Recente taak (opener)
+
+> "Waar was je deze week het meest tijd aan kwijt?"
+
+Subsidievoorstel schrijven, voorbereiding van observaties en interviews, uitvoeren van observaties en interviews plus samenvatten daarvan, en plannen van afspraken met externe partijen.
+
+### 2. Drill-down: subsidieproces
+
+> "Wat doe jij bij het schrijven van een subsidievoorstel?"
+
+Kijken wat de subsidiegever wil zien (projectplan, State of the Art, vraagarticulatiedocument, formulieren), externe partners aanhaken, en zorgen dat alles klopt. Vraagarticulatieproces is apart -- dat doe je samen met praktijkpartners. "De tooling-suggestie die je geeft: AI kan interessant zijn voor het subsidievoorstel schrijven (veel werk in tekst + literatuur), maar ook in de uitvoering en het analyseren van data."
+
+### 3. Drill-down: veldonderzoek
+
+> "Hoe ziet dat uitvoeren van interviews en observaties eruit?"
+
+Interviewscript van tevoren, afname (locatie of Teams), samenvatting daarna -- kernpunten voor het onderzoek eruit halen. Teams-transcript als startpunt maar werkt dat nog niet optimaal. Direct na afname willen samenvatten zodat ze het nog paraat heeft.
+
+### 4. AI-gebruik
+
+> "Gebruik je AI-tools voor werk?"
+
+ChatGPT voor schrijven, herschrijven, inkorten en inspiratie voor survey-vragen en interviewscripts. Anonimiseert altijd voor gebruik. Heeft geprobeerd maar altijd gecontroleerd -- "ik ben wat dat betreft misschien ook wat eigenwijs."
+
+### 5. Privacy
+
+> "Wat weerhoudt je van meer AI-gebruik?"
+
+Interviewtranscripten zijn vertrouwelijk -- respondenten delen gevoelige informatie met de garantie dat het bij jou blijft. Dat gooi je niet in een externe AI. Geanonimiseerd wel. Windesheim-goedgekeurde omgeving zou de drempel wegnemen: "dan moet Windesheim de verantwoordelijkheid nemen als er iets lekt." Air-gapped lokale AI ook prima -- "dan kun je het er ook weer afhalen."
+
+### 6. CRM / netwerkdeling
+
+> "Zou een CRM-achtige opstelling nuttig zijn?"
+
+Expliciet nee. "Ten eerste heb ik geen interesse om mijn contacten met andere personen te delen zonder dat ik daarvan op de hoogte ben." Netwerk is persoonlijk, contacten verwachten dat ook. Als iemand nuttig is voor een ander, geeft ze dat zelf door.
+
+### 7. Survey-analyse
+
+> "Wat gaat er mis bij de Forms-export?"
+
+Meerdere antwoorden op één vraag zitten in één cel. De vraag staat niet goed boven de kolom met antwoorden. De schaal is niet meegeleverd. Je wilt weten hoeveel procent van de verzorgenden vs. verpleegkundigen een bepaald antwoord gaf -- dat lukt niet zonder het eerst handmatig te fatsoeneren. "Nou gewoon, het kost je veel tijd om het een beetje te fatsoeneren voordat je überhaupt een Excel-analyse kunt doen."
+
+### 8. Magische stagiairvraag
+
+> "Stel: slimme stagiair, één taak -- wat laat je die als eerste doen?"
+
+1. Subsidievoorstellen schrijven: veel informatie invoeren, laten terugschrijven, controleren. Controleerbaar proces.
+2. Interviews samenvatten -- maar alleen als losgekoppeld van internet. "Als je alles moet controleren, is het nog steeds... dan zal ik het interview direct nadat ik het heb afgenomen laten samenvatten."
+
+### 9. Succescriterium
+
+> "Stel het werkt -- hoe merk je dat het beter gaat?"
+
+Snellere doorlooptijd op subsidietrajecten. Survey-analyse die in één stap kruistabellen geeft zonder handmatig opschonen. Interview-samenvattingen die klaar zijn als het gesprek vers is.
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| Veldonderzoek / data-analyse | Survey-export opschonen en kruistabellen genereren | Ruwe Forms-export (Excel) | Kruistabellen per variabele (bijv. beroepsgroep × antwoord) | Per onderzoek (meerdere per jaar) | Laag tot middel | Excel handmatig | Antwoorden in één cel, vraag boven kolom ontbreekt, schaal niet meegeleverd -- alles moet eerst opgeschoond |
+| Subsidieproces | Subsidievoorstel schrijven via AI | Onderzoeksomschrijving + context + SotA-materiaal | Projectplan-secties, vraagarticulatiedocument, SotA-alinea's | Meerdere keren per jaar | Hoog (IP) | Handmatig + ChatGPT incidenteel | Magische stagiaire #1: informatie invoeren, laten terugschrijven, controleren |
+| Veldonderzoek | Interview samenvatten direct na afname | Teams-transcript | Gestructureerde samenvatting met kernpunten voor onderzoek | Per interview | Hoog (vertrouwelijke data respondenten) | Handmatig (direct na interview) | Magische stagiaire #2 -- maar alleen air-gapped of Windesheim-goedgekeurd |
+| Data-analyse / rapportage | Verbanden leggen en visualiseren in kwalitatieve data | Samenvattingen + ruwe onderzoeksdata | Visuele weergave van patronen en verbanden; begrijpbaar voor lezers | Per onderzoekscyclus | Middel (laag na anonimisering) | Handmatig (Word + denkwerk) | "Hoe toon je dat aan en hoe maak je het visueel goed zichtbaar?" |
+
+---
+
+## Letterlijke signalen
+
+- "Als ik dingen laat schrijven, haal ik dat eruit. Veiligheidsoverwegingen en vertrouwelijkheid -- dat is een van de meest belangrijke dingen die ik binnen onderzoek vind."
+- "Als dat binnen de cloudomgeving van Windesheim zou zijn, zou dat ontzettend veel tijd schelen."
+- "Nou moet het approved zijn bij Windesheim, dat zij zeggen: OK, je mag hier alles in gooien en het is 100% zeker dat het niet bij een externe partij kan komen."
+- "Als je alles moet controleren, schiet je er niet zoveel mee op."
+- "Nee, ten eerste heb ik geen interesse om mijn contacten met andere personen te delen. Als ik denk dat iemand interessant is voor een ander, dan geef ik dat zelf wel door."
+- "Dat is denk ik dat ik het niet gebruik in optimale zin -- dat ik het op meer plekken zou kunnen gebruiken waarvan ik de toepassing niet ken."
+- "Nou gewoon, het kost je veel tijd om het een beetje te fatsoeneren voordat je überhaupt een Excel-analyse kunt doen."
+- "Als ik het letterlijk met een karretje de kamer inrol zonder internet, zou dat genoeg zijn." [over air-gapped lokale AI]
+
+---
+
+## Nog niet oplossen
+
+- CRM of gedeeld contactensysteem: expliciet niet gewenst. Paulien deelt haar netwerk alleen op eigen initiatief.
+- Power BI voor survey-analyse: wil dit, maar Windesheim heeft geen geschikte datasets van voldoende omvang om erop te draaien.
+- Volledige AI-analyse van interviewtranscripten: wacht op Windesheim-goedgekeurde omgeving of air-gapped oplossing -- niet iets om nu op aan te sturen.
+
+---
+
+## Samenvatting voor weekupdate
+
+**Rol/context collega:** leider onderzoekslijn duurzame zorg; combineert subsidietrajecten schrijven met veldonderzoek (interviews, observaties, surveys) en data-analyse.
+
+**In het kort:** Paulien gebruikt ChatGPT al bewust voor tekst inkorten en herschrijven, maar heeft een scherpe privacy-grens: vertrouwelijke onderzoeksdata gaat nooit in een externe tool. Haar pijnpunt is het meest concreet bij survey-analyse: Forms-exports zijn zo vervuild dat ze eerst veel handwerk kosten voor de analyse kan beginnen.
+
+**Kleine radartjes:**
+
+- Survey-export opschonen en kruistabellen genereren vanuit Forms-data (nu alles handmatig fatsoeneren in Excel)
+- Subsidievoorstellen schrijven via AI: informatie invoeren, laten terugschrijven, controleren
+- Interview samenvatten direct na afname -- maar alleen in beveiligde omgeving (air-gapped of Windesheim-goedgekeurd)
+
+**Al in gebruik:** ChatGPT voor inkorten/herschrijven/inspiratie (altijd geanonimiseerd); Teams-transcript voor interviews.
+
+**Sterkste signaal:** "Als dat binnen de cloudomgeving van Windesheim zou zijn, zou dat ontzettend veel tijd schelen." -- adoptie wacht op beleid, niet op wil.
+
+---
+
+## Aanbevolen tools en tips
+
+### 1. tl;dv (tldv.io) -- vergadering- en interviewtranscriptie
+
+Sterkste GDPR-profiel van cloud-transcriptietools: uitsluitend Europese datacenters, end-to-end encryptie, geen modeltraining op opnames. Gratis basisversie. Dit adresseert exact Pauliens bezwaar: niet op een Amerikaanse server, geen hergebruik voor modeltraining. Directe stap: probeer het voor één niet-gevoelig interview. Als Windesheim tl;dv goedkeurt, valt de blokkade weg voor transcriptie.
+
+### 2. ATLAS.ti of NVivo -- kwalitatieve data-analyse
+
+Beide tools ondersteunen kwalitatieve analyse van interviews en observaties, inclusief AI-code-suggesties en thematische analyse. NVivo is gratis beschikbaar via Universiteit Utrecht (SolisWorkspace); ATLAS.ti heeft een campuslicentie bij De Haagse Hogeschool. Vraag bij ICT of Windesheim een licentie heeft. Beide tools draaien lokaal -- gevoelige transcripten verlaten de computer niet.
+
+### 3. Yolanda's werkwijze voor subsidies
+
+Brainstorm over het onderwerp opnemen, laten transcriberen (via Teams of tl;dv), dan het transcript samen met de subsidievoorwaarden in ChatGPT zetten en iteratief per sectie uitwerken. Yolanda heeft hier €40k subsidie mee gekregen. Jullie werken al samen met Mira -- deze werkwijze sluit direct aan op het bestaande proces.
+
+### 4. AI voor Excel-formules
+
+Beschrijf aan ChatGPT of Claude de structuur van je Forms-export en vraag welke formule je helpt om antwoorden uit één cel te splitsen of kruistabellen te bouwen. Ronald de Boer doet dit al voor data-analyse. Je hoeft de formule dan alleen te controleren, niet zelf te construeren.
+
+---
+
+## Research buddy
+
+**Yolanda Beenen** -- voor subsidies schrijven met AI. Zij heeft de meest overdraagbare werkwijze en een bewezen resultaat. Jullie zitten in hetzelfde subsidieprogramma-landschap.
+
+**Ronald de Boer** -- voor Excel en AI-integratie. Hij gebruikt Claude al voor data-analyse en heeft ervaring met AI-gegenereerde formules en visualisaties. Kunnen samen kijken naar de survey-analyse vraag.
+
+**Mira Benes** -- jullie werken al samen op subsidietrajecten. Mira ziet AI-ondersteuning bij vraagarticulatie als kans; gezamenlijk een werkwijze ontwikkelen versterkt beide trajecten.
+
+---
+
+## Volledige transcriptie
+
+*Verbatim transcript uit Teams-opname van 23 juni 2026. Uitsluitend voor intern gebruik.*
+
+Survey IT tools-20260623_133052-Transcriptie van vergadering
+23 juni 2026, 11:30a.m. | 38m 24s
+
+**Paulien de Graaf-Muller 0:03** Thuis.
+
+**Spreker 1 0:04** OK. Maar wel lekker aan het werk. Stel mij, stel mij eens hoeveel dagen in de week doe je dat eigenlijk voor Windesheim?
+
+**Paulien de Graaf-Muller 0:10** Lekker aan het werk? Werken.
+
+**Spreker 1 0:16** Ja.
+
+**Paulien de Graaf-Muller 0:17** 3,5 dag.
+
+**Spreker 1 0:19** 3 -- één maand vandaag, vandaag. En, wat zijn jouw verantwoordelijkheden daarbij?
+
+**Paulien de Graaf-Muller 0:23** Ben je al met je interview begonnen of wat ben je aan het doen hè, Chris?
+
+**Spreker 1 0:28** Ja nee, dacht ik.
+
+**Paulien de Graaf-Muller 0:28** Mag je mij eerst even het doel van het interview uitleggen voordat je wat vragen gaat stellen?
+
+**Spreker 1 0:31** Nee hoor, ik denk ik snea er gewoon Natuurlijk erin. Gewoon in het gesprek verlopen. OK, maar ik doe dus een survey om te kijken welke digitaliseringsmogelijkheden er zijn voor het lectoraat zelf en met de specifieke kijk naar het gebruik van artificial intelligence tools. Maar ik trek hem ietsje breder en ik zeg namelijk van, ja, alleen AI gebruik, dat is niet de optie, moet het. In de bestaande toolbox gebruiken we dus -- ik wil. Ik ben ook heel geïnteresseerd in je werk in het algemeen. En waar je je tijd aan besteedt en welke tools je daar überhaupt voor gebruikt, want ik heb gemerkt bij ons allemaal als lectoraat is dat wij vrij veel vrij geïsoleerd werk allemaal en we kunnen eigenlijk best leren van elkaar in plaats van dat ik het ga vertellen van nou, dit is hoe je het moet doen.
+
+**Paulien de Graaf-Muller 1:19** Media.
+
+**Spreker 1 1:26** Wat werkt voor mij werkt misschien niet voor jou, maar wat werkt voor een andere docent of iemand in dezelfde rol? Ja, dat kan wel heel -- dat is een grotere kans om mee te werken, dus ja, dat is wat ik hopelijk bereiken daarmee, zeg maar. Dus ik ben altijd Natuurlijk ambitieus en dat erin erin.
+
+**Paulien de Graaf-Muller 1:37** Nou carda.
+
+**Spreker 1 1:44** En daarop, daar wil ik graag met jou een gesprek over hebben, dus het -- het is niet alleen, dit is niet omdat het zien van hoe geweldig je bent of dat soort dingetjes -- moet kijken hoe ja hoe het meeste profijt van elkaar kunnen hebben, laat ik het zo zeggen. Duidelijk.
+
+**Paulien de Graaf-Muller 2:00** En waar ik wat ondersteuning in tooling zou kunnen gebruiken of waar ik het al gebruik.
+
+**Spreker 1 2:04** Ja.
+
+**Paulien de Graaf-Muller 2:05** En, misschien kan ik het wel beter gebruiken dan dat ik nu doe, want ik gebruik Natuurlijk wel wat dingen. Maar misschien is het gebruik het wel niet optimaal? Nee, want kijk, je kan me van alles vragen. Maar als ik niet de strekking van het doel van je onderzoek weet, dan geeft misschien net niet de antwoorden die jij voor jou nuttig zijn.
+
+**Spreker 1 2:17** Ja duidelijk. Ja ja heel goed ja. Liedje van Rea dan weer die zegt dat ze het heel fijn vindt als ze van tevoren al weet voordat ze een gesprek ingaat, wat waar ze het over gaat hebben. Dus dat mag ik in mijn dingen doen. Nou, dit soort dingen leer ik dus van andere mensen weer, oké? Maar als er als er daarmee akkoord bent dan transcribeer ik dit gesprek. En dan -- nou, dan ga ik je gewoon vragen stellen. Dus om eerst eventjes te zorgen dat ik de context allemaal goed begrijp.
+
+**Paulien de Graaf-Muller 2:46** Ja, dat is goed.
+
+**Spreker 1 2:56** Welke rol heb jij voor het lectoraat en hoeveel uur werk je daar per week en? Ja wat -- wat, wat moet jij zoal doen voor het lectoraat?
+
+**Paulien de Graaf-Muller 3:07** Ja ik werk nu 28 uur per week voor het lectoraat. Dat is ook mijn officiële rol nu. Ik en daarnaast ook wat afstudeerbegeleiding bij de opleiding Logistics management en verzorg ik daar nog een deel minor als die doorgaat, want de afgelopen jaar ging die door vanwege te weinig aanmeldingen. Mijn rol is ik leid de onderzoekslijn duurzame zorg. En daar bedenk ik dus een beetje welke onderwerpen interessant zijn of voor onderzoek of wat de trend daarop is. Maar ik ben vooral veel met praktijkpartners daarvoor bezig met hun te spreken en te kijken wat leeft er, wat gebeurt er en welke ontwikkelingen zie ik en daar schrijven we subsidievoorstellen voor. Daar voer ik onderzoeksprojecten voor uit en. Hopelijk die kennis weer te delen.
+
+**Spreker 1 4:05** En jij voor het lectoraat specifiek, doe jij dus alleen dat onderzoeksstukje en het subsidie schrijven of ervoor zorgen dat het komt, heb ik goed. Heb ik het goed? Zo ja, OK perfect en laten we dan daar heel veel op inzoomen.
+
+**Paulien de Graaf-Muller 4:18** Ja ja.
+
+**Spreker 1 4:25** En omdat ik met meerdere mensen heb gesproken, kan ik even snel een uitstapje maken -- met wie doe je dat samen? Zodat je.
+
+**Paulien de Graaf-Muller 4:33** Ik schrijf onderzoeksvoorstellen samen met Mira en met Monique. Maar ook wel met de HAM en ook wel met de RUG.
+
+**Spreker 1 4:41** Ja, maar voor in het team is -- ik zit Natuurlijk te kijken hoe kan het team mensen samenwerken?
+
+**Paulien de Graaf-Muller 4:42** Dus dat doe ik.
+
+**Spreker 1 4:46** Dus jij werkt veel samen met Monique en Mira.
+
+**Paulien de Graaf-Muller 4:50** Monique en Mira.
+
+**Spreker 1 4:51** Monique -- Monique ken ik -- Aniek -- Mona -- Oké oké oké en kan jij me dan vertellen in bijvoorbeeld de afgelopen week voor de 3,5 dagen dat je zelf, waar ben je dan het meeste tijd aan kwijt?
+
+**Paulien de Graaf-Muller 5:14** Ja, dat is heel variërend, dus ik kan niet zeggen waar ik de meeste tijd aan kwijt ben, want de ene week is de andere week niet, dus dat is lastig.
+
+**Spreker 1 5:16** OK. Nou, dan zoeken we alleen in op de vorige week.
+
+**Paulien de Graaf-Muller 5:24** Ik heb subsidievoorstel geschreven, dus er zit heel veel tijd in. Het voorbereiden van observaties en interviews ben ik mee bezig geweest. Het uitvoeren van observaties en interviews en het samenvatten daarvan.
+
+**Spreker 1 5:34** OK.
+
+**Paulien de Graaf-Muller 5:38** Het plannen van afspraken met externe partijen. Nou, dat zijn de hoofdzakelijke dingen waar ik me vorige week mee bezig heb gehouden.
+
+**Spreker 1 5:48** OK, dus je -- laten we dankjewel, dat is heel goed, dus laten we proberen in te zoomen op die 3 gedeeltes. Je doet subsidies schrijven, je doet voorbereiden voor observaties en interviews en een samenvatting daarvan. En het plannen van afspraken met externe partijen -- kunnen we inzoomen op het subsidie schrijven. Wat, wat doe jij dan?
+
+**Paulien de Graaf-Muller 6:19** Ja, dan moet je kijken wat je vanuit SIEr moet opleveren, want dat is makkelijker dan dat ik dat allemaal -- je moet voldoen aan wat zij wil zien, dus je moet een projectplan maken. Je moet een State of the Art maken, je moet je vraagarticulatie op papier zetten. Ja, je moet heel veel dingen op papier zetten, maar je moet ook externe partijen aanhaken.
+
+**Spreker 1 6:34** OK.
+
+**Paulien de Graaf-Muller 6:37** En zorgen dat je alle formulieren krijgt. In het vraagarticulatieproces ja, daar hebben we vorige week niet bezig geweest. Dat is al een jaar geleden. Maar ben je bezig gewoon met de mensen de praktijk graag goed vorm te geven, dus er zitten heel veel verschillende stappen in.
+
+**Spreker 1 6:53** OK, ik heb dit proces volgens mij al doorgekregen via Chris en ik hoor ongeveer dezelfde dingen. Ik denk dat jij ongeveer dezelfde dingen doet als Chris en Richard samen.
+
+**Paulien de Graaf-Muller 7:02** Ja ja.
+
+**Spreker 1 7:05** Chris zit heel erg op de vraagstelling en dan is daar het probleem bij dat je soms heb je van RAAK en RIA heb je verschillende of twee partijen. Heb je verschillende voorwaarden hoe ze het willen zien en dan moet je het naar al die twee talen vertalen en vanuit hun positie de probleemstelling neerzetten. Dat is wat hem het moeilijkere gedeelte was. En partner toezegging. Richard belt ze ook eens een keertje op, oké.
+
+**Paulien de Graaf-Muller 7:33** Ja.
+
+**Spreker 1 7:36** OK duidelijk. En dan zeg je. Het vraagt, dat is veel -- nieuw het? Interviews en samenvattingen daarvan.
+
+**Paulien de Graaf-Muller 7:48** Ja.
+
+**Spreker 1 7:49** Wat, hoe gaat? Hoe zit dat eruit?
+
+**Paulien de Graaf-Muller 7:52** Ja van tevoren bedenk ik altijd wat ik de mensen wil gaan vragen, dus ik maak daar een interviewscript voor. Interview neem ik af, soms op locatie, soms via Teams en achteraf maken we een samenvatting, maar haal ik ook de dingen die ik belangrijk acht voor mijn onderzoek eruit.
+
+**Spreker 1 8:11** OK en, en kan je even mij schetsen waar dat dan heen gaat. Hoe past het bij het overall proces? Waar fit hij in?
+
+**Paulien de Graaf-Muller 8:19** Ja, dat loopt wel bij mij, want het is mijn onderzoek en daarvan ga je conclusies trekken uit wat je uit al die interviews haalt.
+
+**Spreker 1 8:22** Ja OK. OK en dat onderzoek, dat is dan één van de vervulde subsidieprocessen. Je moet OK -- dus OK, dus jij doet ook nog een stukje uitvoer van de subsidietrajecten zelf.
+
+**Paulien de Graaf-Muller 8:32** Ja. Ja, dat doet Chris ook hoor.
+
+**Spreker 1 8:40** OK OK OK nou ja, maar dat zal uitgekleed -- heb ik het nog niet gehoord, dus dat is heel erg mooi, dus het uitvoeren dus ik zie nu stap één, dat is dat schrijven. Nou stap twee is eigenlijk voornamelijk -- nou, ik heb Natuurlijk wel. Maar dat is interviews, plannen, observaties. Daar uit maken dat we samenvatten en in het hoofddocument zetten.
+
+**Paulien de Graaf-Muller 9:05** Nou, het is iets anders, hè Chris, je hebt een subsidie voorstel, dan maak je een projectplan in, dus dan zet je deze en deze activiteiten ga ik doen en op deze en deze manier ga ik dat analyseren. Dus het zou voor jou interessant zijn om een aantal projectplannen te gaan bestuderen en te zeggen, OK, welke activiteiten binnen het lectoraat worden allemaal uitgevoerd om uiteindelijk een conclusie te trekken voor je onderzoek. Dat kan zijn interviews, dat kan zijn observatie, dat kan zijn survey, dat kan zijn documentanalyses. Dus je hebt heel veel verschillende vormen van het doen van onderzoek. De activiteiten die daarbij horen en dat geheel leidt tot een conclusie binnen je onderzoek.
+
+**Spreker 1 9:47** OK. OK perfect.
+
+**Paulien de Graaf-Muller 9:49** En die onderzoeksplannen zouden voor jou heel interessant kunnen zijn want daarin staat welke activiteiten wij als lectoraat uitvoeren. Dus de tooling -- AI-middelen kunnen interessant zijn voor het subsidievoorstel schrijven, want veel werk in om het mooi op papier te zetten en al die literatuur erbij te zoeken. Maar ook in de uitvoering en het analyseren van al die data zou ook heel interessant zijn om middels een bepaalde tooling te doen.
+
+**Spreker 1 10:14** Zeker zeker, en daarvoor probeer ik het inderdaad en wat jij nu heel erg mooi voor mij doet is, probeer de heel erg de dingen uit elkaar te trekken, hè?
+
+**Paulien de Graaf-Muller 10:42** Ja.
+
+**Spreker 1 10:43** En nog eens goed in elkaar te kijken van -- en kijken dan welke welk gedeelte kan helpen met welk proces? OK, dankjewel dat dat. Dat is heel erg mooi. Ik zit even terug te lezen. Ook de derde gedeelte even kijken, dus je hebt observaties, je hebt subsidie schrijven. En dan het bijtrekken van de partners en dat doe je dan door middel van ze te bellen. Hoe gaat dat in zich dan?
+
+**Paulien de Graaf-Muller 11:12** Nou, dat gaat gewoon door menselijk contact.
+
+**Spreker 1 11:15** Ja, maar heb je bijvoorbeeld een CRM waar je dingen in bewaart of.
+
+**Paulien de Graaf-Muller 11:15** Dus je? Nee, nee, nee, nee, nee. Het is gewoon een persoonlijk netwerk en dat breidt zich uit door de contacten die je hebt door de onderzoeken die je doet. Dus ik heb mijn eigen netwerken en soms maak ik gebruik van externe partijen die zeggen: oh, die is ook interessant om daar eens over mee te denken en zo breid je je netwerk uit. Ik maak dat niet.
+
+**Spreker 1 11:23** Hoe weet je hoe?
+
+**Paulien de Graaf-Muller 11:40** Gebruik van bestaande documentatie -- ik hou ook altijd op mijn eigen netwerklijst bij. Dus dan maak ik geen gebruik van systemen.
+
+**Spreker 1 11:53** OK en hoe komt het dan in je op om met een bepaald persoon te bellen?
+
+**Paulien de Graaf-Muller 11:58** Omdat ik of die ken of iemand anders kent die die zegt dat het interessant is om die te spreken.
+
+**Spreker 1 12:04** Oké.
+
+**Paulien de Graaf-Muller 12:04** Ik ga nooit iemand koud bellen uit een systeem. Het is altijd dat ik iemand ken.
+
+**Spreker 1 12:09** Ja OK dus vanavond.
+
+**Paulien de Graaf-Muller 12:10** Of we ergens gesproken hebben of ik weet dat hij er mee bezig is, kan ook soms zijn dat ik op LinkedIn wat heb gelezen. Dat denk ik, hé, die is interessant om eens te spreken, dus dat ik die een mailtje stuur joh. Ik ben ook hier en hier mee bezig -- kunnen we eens contact hebben.
+
+**Spreker 1 12:14** Ja ja. Ja, dat zijn inputsdingen. Ik ben geïnteresseerd -- hoe wordt iemand voorgedragen?
+
+**Paulien de Graaf-Muller 12:33** Niet.
+
+**Spreker 1 12:38** En je praat ook niet, bijvoorbeeld met Richard ofzo, die ook hetzelfde doet.
+
+**Paulien de Graaf-Muller 12:41** Soms wel -- soms zegt Richard: die moet je eens bellen, is interessant voor je.
+
+**Spreker 1 12:45** OK OK. Nou, ik kan eerlijk zeggen -- Richard gebruikt ongeveer net zoveel tools daarvoor. Dat stukje dus. Zou een CRM-achtige opstelling een optie zijn, waarom niet?
+
+**Paulien de Graaf-Muller 12:56** Nee. Ten eerste heb ik geen interesse om mijn contacten met andere personen te delen zonder dat ik daarvan op de hoogte ben. Dus ik wil dat het gewoon niet met iemand delen en er zitten mijn contactpersonen ook niet op te wachten, dus dat ga ik sowieso niet doen.
+
+**Spreker 1 13:05** OK.
+
+**Paulien de Graaf-Muller 13:12** En, als ik denk dat iemand interessant is voor een ander, dan geef ik dat zelf wel door.
+
+**Spreker 1 13:14** Als dat stukje? Ja, sorry.
+
+**Paulien de Graaf-Muller 13:18** En als iemand anders denkt dat iemand interessant voor mij is, hoor ik dat ook vanzelf, dus door Richard -- weet wat ik doe, ik weet wat Richard doet -- zal ik personen doorgeven of door de vraag te stellen in een bijeenkomst van joh, heeft iemand nog contactpersonen op dat in dat vlak -- maar in een CRM gaat sowieso niemand dat nazoeken -- de bezoeksverslagen worden slecht onderhouden -- je hebt er gewoon niks aan.
+
+**Spreker 1 13:43** OK ik geweldig dat je dit zo zegt, denk ik dan -- stel dat je deze problemen opgelost zou hebben.
+
+**Paulien de Graaf-Muller 13:54** Nee, want ik ga niet meer netwerk delen, tenzij het gewoon persoonsgebonden voor mij is.
+
+**Spreker 1 13:57** Jij hebt dus persoonsgebonden, dus stel dat stel -- ik heb al je netwerk is gedigitaliseerd. Ja, en je hebt bij wijze van -- je hoort een -- je typt over een gesprek van Richard -- oh, dit is waarmee hij bezig is -- en dat hij dan suggereert van misschien bij een voorstel aan -- misschien is deze persoon interessant voor hem om je te assisteren in het vinden van de juiste connecties. Om dat voor te stellen?
+
+**Paulien de Graaf-Muller 14:27** Nee, ik zie daar geen toegevoegde waarde in.
+
+**Spreker 1 14:32** Wat voor tooling gebruik jij om het jezelf makkelijker te maken?
+
+**Paulien de Graaf-Muller 14:40** Om het mezelf makkelijker te maken. Ik ben sowieso -- ja -- ChatGPT gebruiken op het moment wel veel om dingen te schrijven of te herschrijven, of ook als inspiratie van hé, ik ben hier bezig. Wat zou jij suggereren? En nou ja, meestal komt er aardig overheen, maar soms denk ik, oh ja, dat is ook nog eens interessant om over te denken.
+
+**Spreker 1 14:51** Maar de vraag is.
+
+**Paulien de Graaf-Muller 15:03** Ja verder gebruik ik gewoon veel Excel. Veel draaitabellen en al dat soort dingen om gegevens te analyseren.
+
+**Spreker 1 15:12** En, dat doe je in Excel.
+
+**Paulien de Graaf-Muller 15:13** Ja -- Forms gebruik ik om.
+
+**Spreker 1 15:14** OK.
+
+**Paulien de Graaf-Muller 15:17** Surveys te maken en daar zou ik wel eigenlijk een betere tooling voor willen. Ook een tool die ook mee kan denken over goede survey-vragen, dus dat zou voor mij nog wel interessant zijn. En ook wat voor berekeningen kun je daar achteraf doen -- en dat is beter, want nu krijg ik een Excel met een dump waarvan ik denk dat wordt nog heel veel aan doen om dat goed te analyseren, dus daar zou sowieso een winst te halen zijn qua tijdsbelasting, maar ook qua snelheid om dingen te doen.
+
+**Spreker 1 15:31** Zeker.
+
+**Paulien de Graaf-Muller 15:39** Ja, ik gebruik heel veel de transcriptfunctie van Teams. Dat scheelt er enorm veel werk daarin.
+
+**Spreker 1 16:00** Dat doe je wel in de interviews dan.
+
+**Paulien de Graaf-Muller 16:02** Ja.
+
+**Spreker 1 16:03** Eigenlijk waar je hem ook voor samenvattingen.
+
+**Paulien de Graaf-Muller 16:07** Nee, maar ik weet ook niet -- zit dat erin -- kan die er een samenvatting van laten maken.
+
+**Spreker 1 16:11** Ja ja ja.
+
+**Paulien de Graaf-Muller 16:13** Ja -- zonder ChatGPT, hè? Zonder dat je het echt ergens in gooit.
+
+**Spreker 1 16:18** Je kan hem samen -- zonder hem aan AI te voeren, kan je met AI werken? Ik bedoel, je vraagt je dat nou?
+
+**Paulien de Graaf-Muller 16:25** Nee, ik vraag -- jij zegt, Teams kan dat doen -- Teams maakt een transcript.
+
+**Spreker 1 16:28** Oh nee, nee, nee, nee, nee -- ik kan niet -- nee, Teams kan niet een -- maar de transcript is ook een ai, hè, is ook een AI.
+
+**Paulien de Graaf-Muller 16:35** Ja maar binnen de Microsoft Office omgeving op je lokale station, dat is niet ergens een online versie -- ik ben -- ik voer nergens een naam.
+
+**Spreker 1 16:43** Dit wordt wel online opgeschreven, hoor. Dit wordt wel -- alles wat getypt zit, zit in de cloud.
+
+**Paulien de Graaf-Muller 16:49** Ja in de cloud, maar ik gooi niet in ChatGPT ergens een naam of wat dan ook.
+
+**Spreker 1 16:56** OK. Dat is prima.
+
+**Paulien de Graaf-Muller 16:57** Ook als ik dingen laat schrijven, haal ik dat eruit.
+
+**Spreker 1 17:01** Want.
+
+**Paulien de Graaf-Muller 17:03** Veiligheidsoverwegingen en vertrouwelijkheid en dat is een van de meest belangrijke dingen die ik binnen onderzoek vind. Is dat je veilig moet omgaan met.
+
+**Spreker 1 17:06** OK.
+
+**Paulien de Graaf-Muller 17:15** Informatie die je van een ander krijgt en dat kan zijn vanuit een interview. Één momentje hoor, ik moet deze even nemen. Chris ben zo terug.
+
+**Spreker 1 17:23** OK dankjewel.
+
+**Paulien de Graaf-Muller 18:07** Ja zoals ik zei, ik weer?
+
+**Spreker 1 18:09** Oké nou dat was kort.
+
+**Paulien de Graaf-Muller 18:11** Ja zei, ik moet heel even kort oppakken.
+
+**Spreker 1 18:14** We hadden het. We hadden het over dat welke gegevens voor jij wel en niet in ChatGPT in -- en jij anonimaliseert dingetjes, daar heb je gezegd.
+
+**Paulien de Graaf-Muller 18:24** Ja.
+
+**Spreker 1 18:27** Zijn er andere dingen? Die je meer belemmeren om meer AI te gebruiken.
+
+**Paulien de Graaf-Muller 18:33** Ja, want ik -- bijvoorbeeld ook ik zal een interviewscript ook niet in AI stoppen om te analyseren of om te samenvatten, omdat ik dat ook -- ik doe best wel veel onderzoeken met ja, die met veel gevoelige informatie waarvan mensen best spannend vinden om dingen te delen. Dus wij zeggen ook altijd, ja, je mag het wel opnemen, maar.
+
+**Spreker 1 18:42** OK.
+
+**Paulien de Graaf-Muller 18:56** Het moet echt zeker weten bij jou blijven, dus je mag het voor je eigen analyse gebruiken, maar dat vind ik dus lastig omdat in een AI tool te stoppen.
+
+**Spreker 1 19:06** OK en, wat zal dat voor jou weg kunnen halen?
+
+**Paulien de Graaf-Muller 19:11** Als dat binnen de cloudomgeving bijvoorbeeld zou zijn, waarbij ik weet dat het binnen de omgeving van Windesheim blijft, zou dat ontzettend veel tijd schelen.
+
+**Spreker 1 19:20** OK. En als het op je computer zou blijven?
+
+**Paulien de Graaf-Muller 19:28** Zou ook prima zijn, want dat betekent dat je het er ook weer weg kan halen.
+
+**Spreker 1 19:30** OK. En als het bijvoorbeeld in een netwerk is van alleen het lectoraat, bijvoorbeeld gehost domein bijvoorbeeld.
+
+**Paulien de Graaf-Muller 19:42** Ja, ligt eraan of het gehost door jou is op jouw lokale computer, of dat dat in wat voor een omgeving dat op de achtergrond zit. Want het zal niet alleen zijn op jouw server of jouw computer, dus daar zit voor mij wel -- moet wel zeker van zijn dat er geen risico's naar zitten.
+
+**Spreker 1 20:00** Hoe weet je dat?
+
+**Paulien de Graaf-Muller 20:01** En je ziet genoeg waar wij dingen gehackt worden of -- en ik vind een online AI-tool niet -- het voelt nog niet dusdanig veilig. Het reproduceert zichzelf ook, dus alles wat je erin stopt wordt ergens weer hergebruikt, dus daarom zal ik het daar nooit ingooien.
+
+**Spreker 1 20:19** Hè -- je concerns zijn ontzettend valide. Ik vind het heel erg mooi dat je deze conclusies ook maakt. Ik zit te denken van wat zou er, wat zou jij de zekerheid geven? Wat moet je dan zien dan dat je weet van OK? Dit gebeurt niet.
+
+**Paulien de Graaf-Muller 20:37** Nou moet het approved zijn bij Windesheim, dat zij zeggen, OK, je mag hier alles in gooien en het is.
+
+**Spreker 1 20:40** Hoe samen willen ze?
+
+**Paulien de Graaf-Muller 20:45** 100% zeker dat het niet bij een externe partij kan komen. 100% zeker? Nou ja, voldoende mate van zekerheid -- als wij een externe partij erop aanspreken, zegt Windesheim: ja, wij hadden dat wel gegarandeerd, dus ik wil die verantwoordelijkheid.
+
+**Spreker 1 20:57** OK en dan.
+
+**Paulien de Graaf-Muller 21:00** Moet bij Windesheim liggen. En op het moment dat er dus wel ergens lekt, moet dat dusdanig impact op Windesheim hebben dat hij daar wat aan gaat doen. Snap je wat ik bedoel?
+
+**Spreker 1 21:12** OK ja zeker zeker zeker. Het verpest Natuurlijk heel veel dingetjes van mij, zeg maar -- maar ik snap helemaal hoe je denkt. En dat betekent ook dat als de AI-tool niet omarmt wordt door Windesheim, dat het waarschijnlijk voor jou geen goede optie is.
+
+**Paulien de Graaf-Muller 21:33** Nee, tenzij Michiel zegt: dit is oké en dit is zo die en die manier voldoende geborgd. Maar ik vind ook iemands privécomputer een AI-tool draaien -- vind ik nog steeds behoorlijk risicovol, omdat er ook heel veel andere programma's op draaien en je niet weet in welke mate dat vindbaar is voor een andere partij.
+
+**Spreker 1 21:54** Als ik het letterlijk met een karretje de Windesheim-kamer inrol, zou dat genoeg zijn. Ik maak geen serieuze suggestie.
+
+**Paulien de Graaf-Muller 22:03** Maar dan is hij online toch nog ergens vindbaar. Dat zegt me toch niks zo via de fysieke staat.
+
+**Spreker 1 22:07** Ik kan het laten werken zonder de internetstekker.
+
+**Paulien de Graaf-Muller 22:10** Nou ja, dat zou dat zou echt een optie zijn. Ja. Ja ik -- ik heb dat -- die ethische verantwoordelijkheid vind ik enorm belangrijk, dus dat je op die manier.
+
+**Spreker 1 22:22** Ik ook. Echt waar?
+
+**Paulien de Graaf-Muller 22:26** Met dingen die mensen je toevertrouwen omgaat, dus ja, dat staat bij mij hoog in het vaandel. Iemand wat mij verteld moet dan ook niet te linken zijn aan die persoon. Als ik er wat mee doe, tenzij die persoon dat weet.
+
+**Spreker 1 22:42** Nou, dat is -- survey's -- vraagarticulatie -- even kijken, wat wil je nog meer? Het, het maakt het uitvoeren van het onderzoek -- die conclusies in die documenten zetten. Wat gebruik je daarvoor?
+
+**Paulien de Graaf-Muller 22:58** Ik gebruik Word? Nee.
+
+**Spreker 1 23:02** Valide antwoord. Dat is een valide antwoord, nou, dat is toch ook het perfecte antwoord?
+
+**Paulien de Graaf-Muller 23:04** Ja, dat is het wel, ja?
+
+**Spreker 1 23:09** Waarom is dat niet het goede antwoord?
+
+**Paulien de Graaf-Muller 23:12** Ja weet ik niet -- omdat je zegt: van wat voor tool gebruik jij -- weinig. Dat is heel veel denkwerk.
+
+**Spreker 1 23:16** Nou -- kunnen we de stappen wat uit elkaar halen daarvan en dan kunnen we kijken misschien waar het kan. Dan kan ik misschien met een lijstje komen waar welke tooling misschien eventueel handig zou kunnen zijn. Wat dacht je daar van?
+
+**Paulien de Graaf-Muller 23:33** Nou ja, wat Natuurlijk je wil verbanden leggen tussen verschillende verzamelde gegevens. En als je Natuurlijk een tooling hebt die verbanden kan aantonen van hé, hier zit dat stuk en daar zit dat ook. En het op een interessante manier weergeven, want dat vind ik altijd wel de uitdaging -- in je hoofd leg je wel bepaalde verbanden. Maar hoe toon je dat aan en hoe maak je het visueel goed zichtbaar? Of vertel je het op de juiste manier, dus daar zitten zeker wel mogelijkheden denk om meer te doen als je ergens in het programma verschillende dingen kan invoeren waar dat programma wat mee doet en daar -- ik denk dat je altijd zelf nog moet blijven nadenken en moet kijken van is dit ook de conclusie die ik zelf zou trekken en klopt dit, maar daar zou zeker een ondersteuning zinvol zijn in het leggen van de verbanden, maar het vooral vertalen naar inzichten die voor een ander ook begrijpbaar zijn.
+
+**Spreker 1 24:34** OK dankjewel. Je gebruikt al een beetje ChatGPT.
+
+**Paulien de Graaf-Muller 24:42** Ja.
+
+**Spreker 1 24:44** Gebruik je nog een andere AI?
+
+**Paulien de Graaf-Muller 24:47** Nee, eigenlijk niet.
+
+**Spreker 1 24:49** Wat werkt er goed?
+
+**Paulien de Graaf-Muller 24:53** Het kan goed dingen inkorten, vooral als je het aantal woorden moet reduceren.
+
+**Spreker 1 24:57** Michiel vindt dat heel handig.
+
+**Paulien de Graaf-Muller 24:59** Ik vind het ook heel handig. Ik vind het handig om technische zinnen beter op te bouwen, dus waarbij de strekking gelijk houdt. Maar het leesbaar laten herschrijven is het goed in. Het is ook goed in suggesties voor observatieformulieren of interviewscripts waarbij je dat zelf altijd moet aanvullen. Voor vijand klopt nooit 100%, maar het is een inspiratiebron daarin dat ik het zo noem. Nou, dat is altijd de meeste dingen waar ik het voor gebruik -- veel andere dingen niet.
+
+**Spreker 1 25:33** Dat gaat niet goed.
+
+**Paulien de Graaf-Muller 25:38** Ja, dat is denk ik dat ik het niet gebruik in optimale zin -- dat ik het op meer plekken zou kunnen gebruiken waarvan ik de toepassing niet ken. Of niet de juiste prompt twee te schrijven. Dus ik denk dat daar voor mij echt een stukje kennis ontbreekt.
+
+**Spreker 1 25:54** Maar er zijn niks wat je geprobeerd hebt, wat niet lukte.
+
+**Paulien de Graaf-Muller 26:02** Nou ja, ik ben wat dat betreft misschien ook wat eigenwijs -- als je dan met dingen voorstelt, ga ik het toch altijd controleren. En dan Natuurlijk komen er wel eens dingen uit van ik denk, nou, ik loop geen zak van. Het doet zelf wel even, maar dat -- geen idee.
+
+**Spreker 1 26:15** Maar het is heel goed om sceptisch te zijn, hè, met deze dingen. Dus dat gevoel zou ik vooral blijven aanmoedigen. Maar heb je bijvoorbeeld al eens één keer een PowerPoint proberen te maken daarmee?
+
+**Paulien de Graaf-Muller 26:29** Nee.
+
+**Spreker 1 26:30** Nee.
+
+**Paulien de Graaf-Muller 26:31** Nee.
+
+**Spreker 1 26:32** Een heel onderzoeksrapport laten schrijven daardoor.
+
+**Paulien de Graaf-Muller 26:35** Nee.
+
+**Spreker 1 26:36** Nee OK.
+
+**Paulien de Graaf-Muller 26:37** Nee. Wat ik zeg, ik doe er niet zoveel mee, hoor. Ik probeer wat maar.
+
+**Spreker 1 26:42** Helemaal goed, toch?
+
+**Paulien de Graaf-Muller 26:48** Ik heb net nog gevraagd, waarom moet Nederland weer spelen? Kreeg ik geen voldoende antwoord, toen ben ik sneller met Google.
+
+**Spreker 1 26:54** Ja, dat kan ik me voorstellen. Voor je -- voor je penseer -- voor je voor het onderhouden van je netwerk en je contacten, wat gebruik je daarvoor?
+
+**Paulien de Graaf-Muller 27:11** Mijn telefoon, want dan bel ik.
+
+**Spreker 1 27:14** Ja, ja, maar heb je alleen je contactboek of gebruik je LinkedIn, of hoe vind je mensen?
+
+**Paulien de Graaf-Muller 27:18** Ja ook wel -- ik ben wel lid van. Maar dat doe ik niet zoveel mee hoor. Alleen als iemand zijn mail niet meer werkt als ik diegene wil bereiken of de telefoon het niet doet. Nee, ik heb gewoon -- ik sla een nummer op in mijn mobiel en ik heb mijn mail. Ik bewaar al mijn mailtjes, dus als ik iemand wil mailen, dan zoek ik die naam op. Dan stuur ik het mailtje.
+
+**Spreker 1 27:36** Hoe weet je het verband tussen de namen en de persoon?
+
+**Paulien de Graaf-Muller 27:40** Omdat ik mensen ken.
+
+**Spreker 1 27:43** Nee, dus jij slaat het allemaal op in je hoofd.
+
+**Paulien de Graaf-Muller 27:44** Als je in een persoonlijke relatie met mensen hebt, dan ken je mensen. Ik heb een goed geheugen.
+
+**Spreker 1 27:50** Gezond, ik denk dat je hem ook heel goed traint door dit te doen. OK. Je gebruikt Word, je gebruikt Outlook, je gebruikt Planner, je gebruikt ChatGPT, je gebruikt Excel -- gebruik je Power BI?
+
+**Paulien de Graaf-Muller 28:08** Nee. Nee want Power BI -- dan heb je een beste database van. Ik kan wel in Power BI programmeren, heb ik wel eens gedaan. Maar dan moet je een behoorlijke dataset hebben die erop kan draaien. Nou dat binnen Windesheim heb je daar niks aan, want het zijn datasets waar het niks mee hoeft te doen -- en vanuit externe partijen binnen de zorg zijn er niet zulke dusdanige datasets dat je er daadwerkelijk wat mee kan. En dan zul je de Power BI van die organisatie moeten gebruiken, want je kunt nooit de gegevens allemaal naar Windesheim-omgeving halen.
+
+**Spreker 1 28:42** OK. Hoe doe jij data-analyse? Alleen niet zo.
+
+**Paulien de Graaf-Muller 28:49** Voornamelijk in Excel met draaitabellen en heel veel formules schrijven.
+
+**Spreker 1 28:57** Maar je schrijft die formules ook echt allemaal zelf programmeren jezelf.
+
+**Paulien de Graaf-Muller 28:59** Ja. Ja.
+
+**Spreker 1 29:03** Trouwens een heel leuk iets om samen te doen met AI -- Ronald terug van te spreken -- als je goede vriendjes wil worden met Ronald, moet je dit gaan doen. Nou, want je gaat.
+
+**Paulien de Graaf-Muller 29:11** Nou ja, dat hoef ik niet, maar ik -- ik vind het heel leuk om ze zelf te schrijven en ik heb ze altijd in het verleden ook veel geschreven.
+
+**Spreker 1 29:13** Is echt aan te raden.
+
+**Paulien de Graaf-Muller 29:18** Ik weet ook wat je ermee kan. Dus ik, ik ja -- ik heb daar geen AI voor nodig. Ik denk dat ik sneller ben dat ik ze zelf schrijf dan dat ik dat via een prompt laat doen, maar dat heb ik misschien nog wat in te leren, maar.
+
+**Spreker 1 29:33** OK. Ik denk dat er zelfs meerdere kan gebruiken, maar bij de -- ik heb ook nog één vraag voor u, en ik denk dat er heel veel resultaten gaat geven. Stel dat ik een stagiair had.
+
+**Paulien de Graaf-Muller 29:44** Ja.
+
+**Spreker 1 29:45** Of misschien zelfs een paar stagiairs, maar OK, laten we beginnen met één stagiair. Ik -- we hebben een stagiair. Die stagiaire heeft geen andere opdracht behalve ja, hoor, het leven makkelijk maken, dus je kan het niet compleet vertrouwen, want nog steeds een stagiair, net zoals een echte stagiair ga je hem Natuurlijk niet vragen of brieven naar de koning te schrijven zonder ze te controleren.
+
+**Paulien de Graaf-Muller 29:58** Ja.
+
+**Spreker 1 30:06** Dan denk je van ja, dan vraag ik op problemen, zeg maar -- dus je kan het niet compleet vertrouwen, maar het is wel nog steeds -- ja, mensen -- je kan hem algemene opdrachten geven om dat te doen, dingen plannen of zoiets voor je. Wat zou je laten doen als eerste? Om je alleen maar makkelijk te maken?
+
+**Paulien de Graaf-Muller 30:29** Dat vind ik een hele lastige.
+
+**Spreker 1 30:36** Grootste tijdsbesparing?
+
+**Paulien de Graaf-Muller 30:41** Ja, dat is wel die subsidievoorstellen schrijven. Dat besteed ik graag uit, dus dan geef ik heel veel informatie en ga beschrijven. Kun je teruglezen, kun je aanvullen -- dat maakt het ook controleerbaar. Als je analyses laat doen waarbij je heel erg moet doorvragen, ben je net zoveel tijd om te controleren bezig als dat je het zelf doet, dus dan schiet je niet zoveel mee op.
+
+**Spreker 1 31:05** OK. En stel dat je er nog eentje had?
+
+**Paulien de Graaf-Muller 31:11** Bij interviews samenvatten.
+
+**Spreker 1 31:11** Interviews samenvatten. En dat, en dat kan je alleen Natuurlijk doen als hij losgekoppeld is van het internet.
+
+**Paulien de Graaf-Muller 31:23** Ja en dan is het nog -- dan moet ik hem alsnog samenvatten, dus dan schiet ik er niet. Dus dat maakt het -- het ietsje werk, maar als je alles moet controleren, is het nog steeds -- ja dan zal ik het interview direct nadat ik het heb afgenomen direct laten samenvatten, in dat teruglezen, dus dan moet ik dat binnen een half uur tot een uur nadat ik het interview heb gehad hebben samengevat, en dan kan ik het teruglezen, dan weet ik nog wel wat het besproken heb. En dan dan is het te doen.
+
+**Spreker 1 32:02** Gaaf. Gaaf OK. Is er nog iets wat je kwijt wilt waar je denkt van Chris, als jij dit zou doen, dan word ik zo geweldig -- dat zou ik zoveel tijd bespuren?
+
+**Paulien de Graaf-Muller 32:16** Ja, dat is echt wel met die enquête-analyses hoor -- als je dan wat meer vanuit Forms -- vind ik dat echt niet optimaal. En ook bij het ontwikkelen van die vragen -- meer dan de berekeningen en dat de survey zo'n format, zeg maar, anders in elkaar zet -- dat zou mij. Dat zou echt wel een hoop schelen.
+
+**Spreker 1 32:42** Heel verschil heb ik voor.
+
+**Paulien de Graaf-Muller 32:42** Nou krijg je een standaard berekening uit Forms waarbij je niet kan zien welk percentage van bepaalde variabelen heeft dan dit antwoord gegeven. Dus je hebt alleen -- je hebt 20 vragen op een rij, dan staat er alleen van vraag 20: zoveel van dit, zoveel van dat -- maar ik wil dan weten hoeveel van die op vraag één dat antwoord hebben gegeven -- die onderverdeling en de verbanden leggen. En de download in Excel die je krijgt vanuit Forms is echt niet altijd handig.
+
+**Spreker 1 33:14** Nee, wat zou handig zijn?
+
+**Paulien de Graaf-Muller 33:18** Nou als op een andere manier gaat, maar dan moet je met me meekijken. In een bepaalde vorm -- zou output -- want dan zijn -- als je dus op een vraag meerdere antwoorden kunt geven, wordt het in één cel gedrukt, dus dat is al superirritant, want daarmee kun je die antwoorden niet goed zien. Wat je ook hebt is dat de vraag er altijd niet goed boven staat, dus dat je helemaal niet weet welk antwoord eronder hangt. Tussen welke antwoorden zijn dit, op welke vraag? Dus er zitten meerdere -- en je weet de schaal niet, want in Excel heb je de schaal niet, dus moet je ook weer terug naar Forms, dus er zitten heel veel -- nou gewoon, het kost je veel tijd om het een beetje te fatsoeneren voordat je überhaupt een Excel-analyse kunt doen. En dan nog wordt het -- ik zou dat liever met een Power BI analyseren, bijvoorbeeld, waar je meer verbanden kan leggen -- hoeveel procent van de verzorgende heeft het antwoord gegeven of hoeveel procent van de verpleegkundige heeft het? Dus je zou andere dwarsverbanden maken zonder dat je in Excel heel veel moeite moet doen voor de analyse.
+
+**Spreker 1 34:17** Zou jij bereid zijn om over te stappen op andere tools als dit voor je geregeld is?
+
+**Paulien de Graaf-Muller 34:24** Ja.
+
+**Spreker 1 34:25** Ik zal iets anders presenteren dan Paul, ja -- en hij doet hetzelfde als Paulien via.
+
+**Paulien de Graaf-Muller 34:31** Ja, als het aan zo'n forse output gehangen kan worden, of als je een andere manier van uitzetten van een survey hebt. Want als ik alsnog die Excel moet ombouwen, schiet ik er niet zoveel meer op.
+
+**Spreker 1 34:38** Ja OK. Nee, dat snap ik. OK. Nou, ik ga kijken of ik aankomende maandag misschien iets kan laten zien aan jou, want daar ben ik toevallig mee bezig. Dus ik vond dat erg leuk. Nou, dankjewel voor dit interview. Ik vond het erg leuk. Ik hoop dat jij het leuk vond.
+
+**Paulien de Graaf-Muller 34:54** Nou. Zeker, ik hoop dat je er wat aan hebt.
+
+**Spreker 1 35:02** Ja ik ook, ik denk het wel hoor. Mochten er nog iets dringend naar boven komen en dat soort dingetjes -- laat mij het vooral weten. Ik denk dat je het meeste samen kunt werken als je nieuwe tools wilt ontdekken met Ronald om te kijken hoe wat hij allemaal doet met AI en Excel-integratie. Niet dat je dat heel erg leuk gaat vinden en als jij interesse toont dan vindt hij weer erg leuk. Ik denk met Richard kan je misschien kijken, kunnen we kijken samen van -- hoe kunnen we het proces slimmer maken dat we elkaar helpen om contacten te vinden of dat proces wat meer in band te leggen, zeg maar. Ik denk Chris -- laat hem meekijken of laten leren van elkaar hoe we de onderzoeken iets doen en scriptie ook -- ook Yolanda trouwens.
+
+**Paulien de Graaf-Muller 36:01** Ja om die subsidievoorstellen te schrijven.
+
+**Spreker 1 36:03** Ja ja ja want.
+
+**Paulien de Graaf-Muller 36:04** Ja, maar dat zoekt Chris ook altijd wel voorop hoor om te.
+
+**Spreker 1 36:07** OK nou, dat is dat ik denk dat dat.
+
+**Paulien de Graaf-Muller 36:08** Om mee te lezen te kijken, maar daar zit weer de tijdscomponent in. In hoeverre heb je tijd om nog met elkaar mee te lezen en te kijken als je allemaal?
+
+**Spreker 1 36:18** Nou, ik bedoel, niet alleen meelezen -- meer kijken, maar meer te kijken naar welke processtap kunnen we leren van elkaar? Welke manier van werken, zeg maar -- niet alleen kan je even meekijken, maar kan je -- wat doe jij nou om het handiger te doen? Zeg maar, bijvoorbeeld.
+
+**Paulien de Graaf-Muller 36:25** Oh ja. Ja.
+
+**Spreker 1 36:36** Ik denk bijvoorbeeld iets wat je van Chris zou kunnen leren -- dan geef ik je eventjes een ding wat hij heel goed doet, denk ik dan. Hij zit heel erg te spelen met ChatGPT en dan verschillende stemmen op hetzelfde -- vraagarticulatie -- wat vindt TN nou daar? Subsidie RAAK, wat vinden hun daarvan? En dat dan herschrijven op hun manier en dan weer andere partijen pakken -- herschrijven op die manier -- dat versneld zijn proces weer heel veel. Maar je denkt van -- dat is -- dan kunnen we dit ook niet -- dan dan dan dan? Dan is het niet, zeg maar -- iedereen wacht op mij om te zeggen, van nou, kijk, dit is wat je het beste kan doen, maar in mijn mening het beste wat wij kunnen doen, is dat we meer van elkaar gaan samenwerken, meer van elkaar gaan leren.
+
+**Paulien de Graaf-Muller 37:03** OK ja.
+
+**Spreker 1 37:19** Wat we dan daadwerkelijk doen? En ook dan kunnen we kijken -- oh, dat is handig -- en dat van elkaar pikken. Zeg maar -- beetje leraar hè? Zoals ik het altijd wel heb -- als je net nieuwe docent bent -- ik weet niet of je dat nog weet, zeg maar -- je krijgt net nieuw docent, zeg maar, en je moet van iemand anders overnemen. Wat ga je dan doen? Je gaat heel erg spieken van iemand anders -- ook wat doen hun in het begin? En dat vind ik -- ik denk van, dat zou wel eigenlijk meer moeten doen bij elkaar. Even moeten kijken, zeg maar. Bij elkaar in de klas zitten bijna, zeg maar -- van oh, wat ik zie dat je dit goed doet. Ik denk dat we daar heel veel kunnen vakken.
+
+**Paulien de Graaf-Muller 37:58** Ja.
+
+**Spreker 1 38:04** En je krijgt voorbij -- interviewtranscriptierapporten -- als er nog wat krijg je terug? En als je het leuk vindt kan je het lezen wat ik allemaal doe.
+
+**Paulien de Graaf-Muller 38:13** Helemaal goed, hè? Succes met jouw onderzoekje hierover en dan.
+
+**Spreker 1 38:18** Ja.
+
+**Paulien de Graaf-Muller 38:19** Ik ben benieuwd wat er uitkomt.
+
+**Spreker 1 38:21** Dankjewel.
+
+**Paulien de Graaf-Muller 38:22** Doei Doei.
+
+**Spreker 1 38:23** Doei.
+
+*Chris Verhoef heeft de transcriptie gestopt*

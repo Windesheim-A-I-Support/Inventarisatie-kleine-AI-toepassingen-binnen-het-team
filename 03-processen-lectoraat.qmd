@@ -1,0 +1,176 @@
+# Werkprocessen in het lectoraat
+
+*Helikopterview op basis van 15 interviews (mei-juni 2026). Per werkproces: wie voert het uit, wat is de pijn, en waar zit kans.*
+
+---
+
+## Subsidietrajecten schrijven
+
+**Wie:** Paulien de Graaf-Muller, Mira Benes, Christiaan de Goeij, Yolanda Beenen, Michiel Steeman, Hendryk Dittfeld
+
+Subsidietrajecten zijn het meest gedeelde en meest tijdrovende proces in het lectoraat. Bijna iedereen raakt er op enige manier aan -- als schrijver, coordinator, reviewer of goedkeurder. Het proces heeft meerdere stappen: vraagarticulatie (wat wil je onderzoeken), State of the Art (literatuuronderbouwing), projectplan (activiteiten en planning), begroting, en partner-aanhaking.
+
+**Terugkerende pijnpunten**
+
+- *Lingo-afstemming*: subsidiegevers (IenW, TKI, topsector logistiek) hanteren elk hun eigen terminologie. Dezelfde onderzoeksvraag moet meerdere keren anders geschreven worden. Christiaan de Goeij spendeert hier de meeste tijd aan.
+- *State of the Art*: literatuur zoeken, samenvatten en aantonen dat het onderzoek nieuw is. Mira had hiervoor een Perplexity-account dat is verlopen. Paulien doet dit nog handmatig.
+- *Tekst inkorten*: subsidiegevers stellen woordlimieten. Paulien en Michiel gebruiken ChatGPT hier al effectief voor.
+- *Partneraanhaking*: externe organisaties committeren schriftelijk. Richard Holman en Paulien de Graaf-Muller doen dit via persoonlijk netwerk en telefoon.
+- *Reviewcyclus*: Michiel filtert 2-3 hoofdcommentaren en laat AI die omzetten naar tekstsuggesties voor Corné en Chris.
+
+**Kansen**
+
+Yolanda Beenen heeft de meest overdraagbare werkwijze: brainstormsessie opnemen, laten transcriberen (Dutch PQ), transcript + subsidievoorwaarden in ChatGPT, iteratief per sectie uitwerken. Bewijs: €40.000 subsidie gehonoreerd. Christiaan de Goeij gebruikt ChatGPT voor lingo-afstemming. Beiden doen dit al -- de aanpak is klaar voor kennisdeling.
+
+---
+
+## Vergadering- en interviewtranscriptie
+
+**Wie:** Luca Gelsomino, Yolanda Beenen, Richard Holman, Paulien de Graaf-Muller, Ronald de Boer, Maxime Bouillon, Bart Ras
+
+Vergaderingen samenvatten en interviewtranscripties verwerken is het meest gedeelde radartje in het lectoraat: 7 van de 15 geïnterviewden noemen het expliciet. De uitvoering verschilt sterk.
+
+**Huidige aanpak per persoon**
+
+- *Yolanda*: Dutch PQ transcribeert Teams-vergaderingen, transcript gaat naar ChatGPT voor samenvatting + actiepunten. Werkt goed.
+- *Richard*: Summary AI transcribeert en stileert in meerdere stijlen (zakelijk, diplomatiek, vriendelijk). Output gaat naar Chris voor afstudeeropdrachten.
+- *Luca*: overweegt Krisp maar stopt vanwege VS-servers. Geen oplossing gevonden.
+- *Paulien*: Teams-transcript beschikbaar maar samenvatting nog handmatig. Wil dit automatiseren maar alleen in Windesheim-goedgekeurde omgeving.
+- *Bart*: fysieke vergaderingen zijn onopgelost (diarizatie -- herkennen wie er praat -- werkt nog niet goed bij face-to-face meetings).
+
+**Privacy als gedeelde drempel**
+
+Luca, Paulien en Hendryk stellen hetzelfde bezwaar: externe cloud (VS-servers, modeltraining) is niet acceptabel voor gevoelige gesprekken. tl;dv (tldv.io) adresseert dit: Europese datacenters, end-to-end encryptie, geen modeltraining. Whisper lokaal is de meest privacyveilige optie voor interviews met vertrouwelijke data.
+
+---
+
+## Data-analyse en survey-verwerking
+
+**Wie:** Luca Gelsomino, Ronald de Boer, Stefan Hoogervorst, Paulien de Graaf-Muller, Christiaan de Goeij, Greg Cronie, Ritsaart Bergsma
+
+Data-analyse verschilt sterk per rol -- van statistische modellen (Luca, Ritsaart) tot benchmarkvisualisaties (Ronald) en survey-analyse (Paulien, Christiaan de Goeij, Greg Cronie).
+
+**Survey-analyse als structureel knelpunt**
+
+Drie mensen (Paulien, Christiaan de Goeij, Greg Cronie) hebben pijn bij hetzelfde: data ophalen uit een survey-tool, exporteren naar Excel, en daarna kunnen analyseren. Microsoft Forms-export is ongeschikt voor kruistabelanalyse: antwoorden in één cel, kolomlabels ontbreken, schaal niet meegeleverd. Greg Cronie heeft dit deels opgelost met ChatGPT maar dat was persoonsgebonden en niet overdraagbaar.
+
+**Visualisatie**
+
+Ronald de Boer heeft Claude al ingezet voor benchmarkradar-visualisaties. Christiaan de Goeij wil de survey-analyse van de orders-to-cash monitor kunnen continueren na vertrek van Greg Cronie. Stefan Hoogervorst wil patroonherkenning in ResilienceScan-benchmarkdata.
+
+**Kansen**
+
+AI kan helpen bij het opschonen van Forms-exports (formules schrijven, kolommen normaliseren) en bij het genereren van kruistabellen. Ronald en Ritsaart kunnen Excel-formules via AI laten genereren in plaats van zelf schrijven -- dat is al bewezen bij Ronald.
+
+---
+
+## Urenregistratie en administratie
+
+**Wie:** Stefan Hoogervorst, Mira Benes, Ronald de Boer, Yolanda Beenen, Ritsaart Bergsma
+
+Het sterkste gedeelde radartje in het lectoraat: 5 mensen noemen hetzelfde pijnpunt. TKI Dinalog vereist maandelijkse urenbrieven per student (handtekening student + begeleider + projectleider). Die worden nog volledig handmatig aangemaakt en verstuurd.
+
+**Formule is standaard**
+
+Stefan Hoogervorst legde het uit: het gaat om een vaste formule (40 uur/week x aantal weken). De input is een studentenlijst en startdatum. De output is een urenbriefje per student. Mira Benes is hier elke maand veel tijd aan kwijt. Ritsaart wil hetzelfde oplossen voor student follow-up in het onderwijs.
+
+**Reiskosten en agenda**
+
+Ronald de Boer en Yolanda Beenen vullen uren en reiskosten handmatig in op basis van hun Outlook-agenda. "Dat staat in je agenda... waarom moet ik dat allemaal nog nalopen zoeken?" (Ronald). De agenda-data is beschikbaar; de koppeling naar het registratiesysteem ontbreekt.
+
+---
+
+## Netwerk en partnerbeheer
+
+**Wie:** Richard Holman, Maxime Bouillon, Stefan Hoogervorst, Paulien de Graaf-Muller
+
+Netwerk- en partnerbeheer is sterk persoonsgebonden in het lectoraat. Iedereen heeft een eigen systeem -- of geen systeem.
+
+**Aanpak per persoon**
+
+- *Richard*: RECAP Excel (gedeeld met Ronald, Luca, Stefan, Hendryk) als aanzet voor pipeline. Open voor verdere structurering.
+- *Maxime*: data-collectie voor PhD vereist structureel prospects zoeken, benaderen, inplannen en bijhouden. Sterkste radartje voor hem.
+- *Stefan*: 16 consortiumpartners coördineren over meerdere agenda's. Post-meeting follow-up loopt nu 3-4 weken achter.
+- *Paulien*: persoonlijk netwerk, geen systeem, expliciet geen behoefte aan gedeeld CRM.
+
+**Wat werkt**
+
+Richard Holman's "multiple source intelligence" -- dezelfde vraag aan meerdere AI-tools stellen en eigen antwoord filteren -- is een effectieve methode voor partnerscouting en -voorbereiding. Ronald de Boer heeft AI al ingezet voor partner-scouting voor RECAP-2.
+
+---
+
+## Presentaties maken
+
+**Wie:** Luca Gelsomino, Ritsaart Bergsma, Bart Ras, Christiaan de Goeij, Stefan Hoogervorst
+
+Presentaties zijn tijdrovend voor bijna iedereen. Christiaan de Goeij spendeert een halve dag per deck. Ritsaart Bergsma heeft al een workaround (Gemini Slides/Canva). Bart Ras heeft het volledig opgelost bij zijn MKB-werk: context beschrijven, AI genereert script + twee decks, 100x sneller.
+
+**Status**
+
+Luca probeert ChatGPT en Claude voor slides maar vindt de output "complete garbage." Ritsaart zoekt betere automatisering. Bart's aanpak (context + AI = script + presenter deck + leesdeck) werkt aantoonbaar, maar hij doet het bij Windesheim nog niet vanwege Copilot-blokkade.
+
+**Tool**
+
+Gamma (gamma.app) genereert complete presentaties inclusief opmaak en visuals vanuit een tekstprompt. 70M+ gebruikers, direct testbaar via gratis versie.
+
+---
+
+## Kenniswerving en literatuuronderzoek
+
+**Wie:** Mira Benes, Luca Gelsomino, Michiel Steeman, Paulien de Graaf-Muller
+
+Literatuuronderzoek is tijdrovend voor onderzoekers. Mira had Perplexity voor State of the Art maar haar account is verlopen. Luca heeft een handmatige pijplijn gebouwd voor jaarverslagenanalyse (Refinitiv + Python + ChatGPT API + handmatig). Michiel filtert bronnen handmatig en ervaart content-overload.
+
+**Tools in de longlist**
+
+- *Elicit* (elicit.com): 2M+ gebruikers, gratis basisversie, GDPR-compliant. Zoekt en samenvat wetenschappelijke literatuur op basis van een onderzoeksvraag. Sterkst gevalideerd (Cochrane-recalls gepubliceerd).
+- *ASReview* (asreview.nl): gemaakt door Universiteit Utrecht, open source, lokaal draaien. Voor het screenen van grote literatuurvolumes in systematische reviews.
+- *Perplexity*: Michiel gebruikt het al bijna een jaar betaald. Mira's account is verlopen -- eenvoudig te heractiveren.
+
+---
+
+## Onderwijs en studentbegeleiding
+
+**Wie:** Hendryk Dittfeld, Ritsaart Bergsma, Ronald de Boer, Paulien de Graaf-Muller
+
+Onderwijsprocessen kennen eigen radartjes die niet overlappen met onderzoeksprocessen.
+
+**Studentvragen beantwoorden**
+
+Hendryk Dittfeld heeft het duidelijkste radartje: standaard vragen over regels en procedures automatisch afhandelen via een FAQ-bot. "Ik wil daar niet zelf over nadenken." Dit raakt ook studiehandleidingen en procesomschrijvingen die naar heldere one-pagers kunnen worden omgezet.
+
+**Toetsen en leeromgeving**
+
+Ritsaart Bergsma wil toetsvragen genereren in ANS-uploadformaat (de uploadknop bestaat al) en Brightspace-modules genereren vanuit cursusmateriaal. Dit zijn schaalbare radartjes: ze gelden voor vrijwel elke docent.
+
+**Afstudeerbegeleiding**
+
+Ronald de Boer en Richard Holman gebruiken AI-ondersteunde gespreksnotities voor afstudeerbegeleiding. Richard's Summary AI-output gaat direct naar Chris.
+
+---
+
+## E-mailbeheer
+
+**Wie:** Ronald de Boer, Michiel Steeman, Stefan Hoogervorst
+
+E-mail is voor drie mensen een expliciet knelpunt. Ronald: "Met mail kan ik niks." Zijn Copilot staat uitgeschakeld. Michiel: mail-volume gestegen door AI-gegenereerde lappen tekst van collega's die nu ook AI-tools gebruiken. Stefan: post-meeting follow-up loopt weken achter omdat e-mail handmatig verstuurd moet worden.
+
+**Patroon**
+
+Copilot zou e-mailbeheer kunnen adresseren, maar staat bij Windesheim uitgeschakeld. Bij inChange (Michiel's andere werkgever) staat Copilot wel aan en werkt het goed voor mail-samenvatting en antwoord-voorbereiding. Michiel: "zoekfunctie 100x beter dan Microsoft's eigen zoekmachine." Dit is een beleidsvraag, geen toolkeuze.
+
+---
+
+## Overzicht: radartjes per werkproces
+
+| Werkproces | Aantal collega's | Meest concreet | Privacy-gevoeligheid |
+|---|---|---|---|
+| Subsidietrajecten | 6 | Yolanda: €40k bewijs | Hoog (IP) |
+| Vergader-/interviewtranscriptie | 7 | Richard: Summary AI werkt al | Hoog (gevoelige data) |
+| Data-analyse / survey | 6 | Ronald: Claude voor visualisaties | Laag tot middel |
+| Urenregistratie | 5 | Mira/Stefan: urenbrieven TKI | Laag |
+| Presentaties | 5 | Bart: 100x sneller bewezen | Laag |
+| Netwerk / partners | 4 | Richard: RECAP Excel als aanzet | Laag |
+| Literatuuronderzoek | 4 | Michiel: Perplexity al in gebruik | Laag |
+| Onderwijs | 4 | Hendryk: FAQ-bot duidelijkste | Laag |
+| E-mailbeheer | 3 | Copilot werkt -- maar uitgeschakeld | Middel |

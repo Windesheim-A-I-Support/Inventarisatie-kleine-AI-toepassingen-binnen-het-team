@@ -5,6 +5,7 @@ project:
     - index.qmd
     - 01-inventarisatie-kleine-ai-toepassingen.qmd
     - 02-direct-bruikbare-ai-tools.qmd
+    - 03-processen-lectoraat.qmd
     - dashboard.qmd
     - updates/*.qmd
 
@@ -19,6 +20,8 @@ website:
         text: Interviews
       - href: 02-direct-bruikbare-ai-tools.qmd
         text: Tools
+      - href: 03-processen-lectoraat.qmd
+        text: Werkprocessen
       - href: dashboard.qmd
         text: Dashboard
       - text: Updates
