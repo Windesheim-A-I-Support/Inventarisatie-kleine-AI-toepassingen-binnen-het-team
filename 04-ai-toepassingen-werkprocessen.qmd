@@ -1,0 +1,200 @@
+# AI en tools per werkproces
+
+*Op basis van 17 interviews (mei-juni 2026). Per werkproces: hoeveel collega's, hoe klaar zijn de tools, wat is de verwachte tijdwinst, en wat is er nodig om te starten.*
+
+---
+
+## Scoringsmatrix
+
+| Werkproces | Collega's | AI-gereedheid | Tijdwinst | Privacy | Champion | Prioriteit |
+|---|---|---|---|---|---|---|
+| Vergader-/interviewtranscriptie | 8 | Hoog | Groot | Hoog | Richard / Yolanda | ★★★★★ |
+| Presentaties maken | 6 | Hoog | Groot | Laag | Bart Ras | ★★★★★ |
+| Subsidietrajecten schrijven | 6 | Hoog | Groot | Hoog (IP) | Yolanda Beenen | ★★★★☆ |
+| Data-analyse / survey | 6 | Middel | Middel | Laag-middel | Ronald de Boer | ★★★★☆ |
+| Literatuuronderzoek | 5 | Hoog | Groot | Laag | Michiel / Mounia | ★★★★☆ |
+| Netwerk / partners | 5 | Middel | Middel | Laag | Richard Holman | ★★★☆☆ |
+| Urenregistratie | 5 | Laag | Groot | Laag | -- | ★★★☆☆ |
+| E-mailbeheer | 4 | Laag | Groot | Middel | Michiel (bij inChange) | ★★☆☆☆ |
+| Onderwijs en studentbegeleiding | 4 | Middel | Middel | Laag-middel | Ritsaart Bergsma | ★★★☆☆ |
+
+**Legenda**
+
+- *AI-gereedheid*: Is er een direct inzetbare tool die vandaag getest kan worden?
+- *Tijdwinst*: Groot = meerdere uren per week; Middel = 30-60 min; Klein = marginaal
+- *Privacy*: Hoog = gevoelige data (IP, persoonsdata respondenten); Laag = geen bezwaar
+- *Champion*: Collega die het al doet of er klaar voor is om het te demonstreren
+- *Prioriteit*: Combinatie van gereedheid × tijdwinst × drempel; niet alleen AI-maturiteit
+
+---
+
+## Quick wins -- direct starten
+
+### Vergader- en interviewtranscriptie
+
+**Waarom nu**: 8 collega's noemen dit. Drie werkende oplossingen bestaan al binnen het lectoraat.
+
+**Wat werkt al:**
+
+- *Richard Holman*: Summary AI transcribeert en stileert in meerdere stijlen (zakelijk, diplomatiek). Direct overdraagbaar.
+- *Yolanda Beenen*: Dutch PQ + ChatGPT workflow voor Teams-vergaderingen. Beproefde stap-voor-stap aanpak.
+- *Mounia Belmamoune*: Word dicteerfunctie voor fysieke gesprekken (examencommissie). Veilig, toegestaan, al in gebruik.
+
+**Voor wie nog niet begonnen:**
+
+- Online vergaderingen: tl;dv (tldv.io) -- Europese servers, geen modeltraining, gratis basisversie. Alternatief: Dutch PQ zoals Yolanda gebruikt.
+- Fysieke meetings / interviews: Word dicteerfunctie (ingebouwd, geen extra tool nodig) of Whisper lokaal (Ritsaart kan dit opzetten).
+
+**Actie**: Korte kennisdelingssessie: Richard + Yolanda laten zien hoe zij het doen. Daarna iedereen zelf laten uitproberen.
+
+---
+
+### Presentaties maken
+
+**Waarom nu**: 6 collega's zijn hier tijd aan kwijt. Bart Ras heeft bewezen dat het 100x sneller kan. Gamma is gratis testbaar.
+
+**Wat werkt al:**
+
+- *Bart Ras*: context beschrijven → AI genereert script + twee decks (presenter + leesdeck). Doet dit bij zijn MKB-werk. Technisch: werkt nu al, maar Bart doet het nog niet bij Windesheim vanwege de sfeer rondom Copilot.
+
+**Tool:**
+
+- Gamma (gamma.app): genereert complete presentaties inclusief opmaak en visuals vanuit een tekstprompt. 70M+ gebruikers. Gratis basisversie. Geen Copilot-afhankelijkheid.
+
+**Actie**: Bart laat zien hoe zijn aanpak werkt. Iedereen die half een dag per week aan slides kwijt is (Christiaan de Goeij, Luca, Ritsaart) begint met Gamma voor het volgende deck.
+
+---
+
+## Kennisdeling -- champion-gedreven
+
+### Subsidietrajecten schrijven
+
+**Waarom kennisdeling en niet 'quick win'**: De aanpak bestaat al. Yolanda heeft €40.000 subsidie mee binnengehaald. Maar de werkwijze is nog niet gedeeld.
+
+**Yolanda's aanpak (overdraagbaar):**
+
+1. Brainstormsessie opnemen (Teams of telefoon)
+2. Laten transcriberen (Dutch PQ)
+3. Transcript + subsidievoorwaarden in ChatGPT
+4. Iteratief per sectie uitwerken: vraagarticulatie, State of the Art, projectplan
+
+**Wie profiteert direct**: Paulien de Graaf-Muller (State of the Art nog handmatig), Mira Benes (vraagarticulatie), Michiel Steeman (reviewcyclus), Christiaan de Goeij (lingo-afstemming).
+
+**Actie**: Yolanda demonstreert haar aanpak aan de subsidie-schrijvers. Duur: 1 uur.
+
+---
+
+### Literatuuronderzoek
+
+**Waarom kennisdeling**: Tools zijn beschikbaar en bewezen. Twee collega's gebruiken ze al.
+
+**Wat werkt al:**
+
+- *Michiel Steeman*: Perplexity al bijna een jaar betaald, gebruikt als sparringpartner voor State of the Art.
+- *Mounia Belmamoune*: Consensus voor papers zoeken en rankschikken.
+
+**Tools voor wie er nog niet mee werkt:**
+
+- *Elicit* (elicit.com): onderzoeksvraag invoeren → relevante papers + samenvattingen. GDPR-compliant, gratis basisversie. 2M+ gebruikers.
+- *ASReview* (asreview.nl): Universiteit Utrecht, open source, lokaal draaien. Voor systematische reviews met grote literatuurvolumes.
+- *Perplexity*: Mira's account is verlopen -- eenvoudig te heractiveren.
+
+**Actie**: Michiel en Mounia tonen hun aanpak. Mira heractiveer Perplexity-account.
+
+---
+
+### Data-analyse en survey-verwerking
+
+**Waarom kennisdeling**: Ronald heeft Claude al ingezet voor visualisaties. Greg Cronie had een ChatGPT-aanpak voor survey-data (nu vertrokken -- kennis overdragen).
+
+**Concrete knelpunten:**
+
+- *Forms-export opschonen*: antwoorden in één cel, kolomlabels ontbreken, schaal niet meegeleverd. Ronald laat AI de opschoonformules schrijven in Excel. Dit is direct overdraagbaar aan Paulien en Christiaan de Goeij.
+- *Kruistabellen genereren*: zodra data is opgeschoond kan ChatGPT/Claude de kruistabellogica schrijven.
+- *Visualisaties*: Ronald heeft benchmark-radars laten maken door Claude. Direct herbruikbaar voor de ResilienceScan (Stefan) en de orders-to-cash monitor.
+
+**Actie**: Ronald toont zijn Excel-AI aanpak voor Forms-exports. Paulien en Christiaan de Goeij passen het toe.
+
+---
+
+## Structurele uitdagingen -- beleid of IT-support nodig
+
+### Urenregistratie en TKI-urenbrieven
+
+**Waarom structureel**: Dit is geen AI-vraag maar een automatiseringsvraag. De formule is standaard (40 uur/week × weken), de input is een studentenlijst en startdatum, de output is een urenbriefje per student.
+
+**Wat nodig is**: Een script (Python of macro) die de Outlook-agenda en de studentenlijst als input neemt en urenbriefjes genereert. Ritsaart Bergsma of Mounia kunnen dit bouwen -- dit is een half dagwerk.
+
+**Wie profiteert**: Mira Benes (meest tijd kwijt), Stefan Hoogervorst, Ronald de Boer, Yolanda Beenen.
+
+**Drempel**: Geen AI -- wel IT-toegang tot de juiste data en goedkeuring van het format door de projectleider.
+
+---
+
+### E-mailbeheer
+
+**Waarom structureel**: Copilot staat bij Windesheim uitgeschakeld. Vier collega's noemen e-mail als expliciet knelpunt (Ronald, Michiel, Stefan, Mounia). Bij inChange (Michiel's andere werkgever) werkt Copilot voor mail-samenvatting en antwoord-voorbereiding goed.
+
+**Wat nodig is**: Besluit van Windesheim over Copilot-activering voor de mailomgeving. Dit is een beleidsvraag, geen toolkeuze.
+
+**Tussenoplossing**: ChatGPT of Claude als externe samenvatting-laag (mail kopiëren, samenvatting ophalen). Minder elegant maar werkt vandaag al.
+
+---
+
+## Overzicht: drie categorieën
+
+### Categorie A -- Morgen beginnen (tool klaar, champion beschikbaar)
+
+| Actie | Wie begint | Tool | Tijd nodig |
+|---|---|---|---|
+| Vergadertranscriptie opzetten | Richard / Yolanda demonstreren | Dutch PQ / tl;dv / Word dictation | 1 uur kennisdeling |
+| Presentaties via Gamma | Bart demonstreert | gamma.app | 1 uur + zelf uitproberen |
+| Literatuuronderzoek via Elicit | Michiel / Mounia demonstreren | elicit.com / Perplexity | 1 uur kennisdeling |
+| Forms-export opschonen via AI | Ronald demonstreert | ChatGPT / Claude + Excel | 30 min kennisdeling |
+
+### Categorie B -- Na kennisdeling (champion maakt aanpak beschikbaar)
+
+| Actie | Wie | Wat nodig |
+|---|---|---|
+| Subsidies schrijven via Yolanda's aanpak | Yolanda aan Paulien / Mira / Michiel | 1 demo-sessie |
+| ChatGPT projectomgeving als privacy-aanpak | Mounia aan anderen | 30 min uitleg + zelf instellen |
+| Multiple source intelligence | Richard aan iedereen die bronnen vergelijkt | Informaliter overdragen |
+
+### Categorie C -- Structurele aanpak nodig
+
+| Actie | Wat nodig | Wie kan helpen |
+|---|---|---|
+| Urenregistratie automatiseren (TKI) | Python/macro script | Ritsaart of Mounia kunnen bouwen |
+| E-mailbeheer via Copilot | Windesheim-beleidsbesluit | Michiel kan business case maken (inChange als referentie) |
+
+---
+
+## Wat AI goed kan in dit lectoraat
+
+Op basis van alle interviews zijn dit de AI-toepassingen die het beste passen bij het type werk dat hier gedaan wordt:
+
+**Tekst genereren vanuit gestructureerde input**
+Verslagen, subsidieteksten, evaluaties, samenvattingen. Input = ruwe data of aantekeningen. Output = basisdocument dat gereviewd en bijgesteld wordt. Dit werkt omdat de output controleerbaar is en de inhoudelijke kennis bij de collega blijft.
+
+**Structurering en reorganisatie van eigen tekst**
+Niet herschrijven, maar helpen ordenen. Subsidieparagrafen per sectie uitwerken, lange teksten inkorten naar woordlimiet, outline genereren voor een rapportstructuur. Dit past bij de dominante werkwijze in het lectoraat: de inhoud blijft van de schrijver.
+
+**Zoeken en samenvatten in literatuur en bronnen**
+Elicit, Perplexity, Consensus, ASReview. Tijdswinst in het voorwerk van onderzoek. Goed toepasbaar voor State of the Art, partner-scouting, en het filteren van informatie.
+
+**Transcriberen en samenvatten van gesprekken**
+Vergaderingen, interviews, fraudegesprekken. Vereist bewuste toolkeuze op basis van privacy (lokaal vs. Europese servers vs. VS-servers).
+
+**Formules en code schrijven**
+Excel-opschoonformules voor Forms-exports, Python voor dataset-analyses. De collega beschrijft wat nodig is, AI schrijft de formule. Ronald en Mounia doen dit al.
+
+---
+
+## Wat AI minder goed kan hier
+
+Op basis van de interviews zijn dit de grenzen die collega's zelf trekken -- en die kloppen:
+
+- **Inhoudelijke redenering en argumentatie in onderzoek**: Rea Vaz en Paulien de Graaf-Muller formuleren dit het scherpst. AI beïnvloedt de richting van zoeken en denken. Voor onderzoek waarbij de methodologische keuzes verantwoord moeten worden, blijft menselijke regie noodzakelijk.
+- **Nakijken van studentenwerk**: Mounia, Hendryk en Ritsaart gebruiken AI hier bewust niet of beperkt. Academische integriteit vereist dat de docent het werk zelf beoordeelt.
+- **Vertrouwelijke gespreksdata zonder privacywaarborgde omgeving**: Luca, Paulien en Hendryk stellen dezelfde grens. Pas als de omgeving veilig is (lokaal, Europese servers, Windesheim-goedgekeurd) is transcriptie acceptabel.
+- **Visuele creativiteit en design**: Meerdere collega's (Luca, Mounia, Bart bij Windesheim) vinden AI-output voor presentaties teleurstellend. Gamma scoort beter dan ChatGPT, maar het creatieve oordeel blijft mensenwerk.
