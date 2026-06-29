@@ -18,6 +18,7 @@
 | 2026-06-15 | Yolanda Beenen | Programmamanager "Kansen met data" + aanjager internationaal onderzoek | Vergaderingen samenvatten, subsidies schrijven, HR-Today uren/declaraties, lesvoorbereiding | "De subsidie van €40.000 heb ik helemaal geschreven met AI. Het is gewoon gehonoreerd." | [PDF](downloads/interview-2026-06-15-yolanda-beenen.pdf) · [Word](downloads/2026-06-15-yolanda-beenen.docx) |
 | 2026-06-15 | Richard Holman | Netwerk en cofinanciering | Gespreksnotities transcriberen en stileren, contact-chasing pipeline, verjaardagen in Outlook | "Als ik twee, drie chatfuncties heb en ik stel die vraag aan meerdere apps, dan filter ik mijn eigen reactie eruit." | [PDF](downloads/interview-2026-06-15-richard-holman.pdf) · [Word](downloads/2026-06-15-richard-holman.docx) |
 | 2026-06-15 | Michiel Steeman | Lector Supply Chain Finance | Dagelijkse informatiefiltering, hoofdcommentaren omzetten naar tekstsuggesties, mailbeheer, inhoudelijke verdieping nieuwe thema's | "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen. Dat irriteert me gewoon." | [PDF](downloads/interview-2026-06-15-michiel-steeman.pdf) · [Word](downloads/2026-06-15-michiel-steeman.docx) |
+| 2026-06-23 | Paulien de Graaf-Muller | Leider onderzoekslijn duurzame zorg | Survey-export opschonen en kruistabellen genereren, subsidievoorstel schrijven, interview samenvatten (beveiligde omgeving), verbanden leggen in kwalitatieve data | "Als dat binnen de cloudomgeving van Windesheim zou zijn, zou dat ontzettend veel tijd schelen." | [PDF](downloads/interview-2026-06-23-paulien-de-graaf-muller.pdf) · [Word](downloads/2026-06-23-paulien-de-graaf-muller.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -28,7 +29,6 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 | Corné de Ruijt |
 | Monique Mensen |
 | Mounia Belmamoune |
-| Paulien de Graaf-Muller |
 | Rea Vaz |
 | Henri Grolleman |
 
