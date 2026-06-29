@@ -26,9 +26,9 @@ Yolanda Beenen heeft de meest overdraagbare werkwijze: brainstormsessie opnemen,
 
 ## Vergadering- en interviewtranscriptie
 
-**Wie:** Luca Gelsomino, Yolanda Beenen, Richard Holman, Paulien de Graaf-Muller, Ronald de Boer, Maxime Bouillon, Bart Ras
+**Wie:** Luca Gelsomino, Yolanda Beenen, Richard Holman, Paulien de Graaf-Muller, Ronald de Boer, Maxime Bouillon, Bart Ras, Mounia Belmamoune
 
-Vergaderingen samenvatten en interviewtranscripties verwerken is het meest gedeelde radartje in het lectoraat: 7 van de 15 geïnterviewden noemen het expliciet. De uitvoering verschilt sterk.
+Vergaderingen samenvatten en interviewtranscripties verwerken is het meest gedeelde radartje in het lectoraat: 8 van de 17 geïnterviewden noemen het expliciet. De uitvoering verschilt sterk.
 
 **Huidige aanpak per persoon**
 
@@ -37,6 +37,7 @@ Vergaderingen samenvatten en interviewtranscripties verwerken is het meest gedee
 - *Luca*: overweegt Krisp maar stopt vanwege VS-servers. Geen oplossing gevonden.
 - *Paulien*: Teams-transcript beschikbaar maar samenvatting nog handmatig. Wil dit automatiseren maar alleen in Windesheim-goedgekeurde omgeving.
 - *Bart*: fysieke vergaderingen zijn onopgelost (diarizatie -- herkennen wie er praat -- werkt nog niet goed bij face-to-face meetings).
+- *Mounia*: fraude-gesprekken in de examencommissie zijn fysiek en vertrouwelijk. Heeft gevonden dat Word's ingebouwde dicteerfunctie hier als oplossing werkt: opname maken, dicteren, verslag genereren. "Het is veilig en het is toegestaan."
 
 **Privacy als gedeelde drempel**
 
@@ -102,13 +103,13 @@ Richard Holman's "multiple source intelligence" -- dezelfde vraag aan meerdere A
 
 ## Presentaties maken
 
-**Wie:** Luca Gelsomino, Ritsaart Bergsma, Bart Ras, Christiaan de Goeij, Stefan Hoogervorst
+**Wie:** Luca Gelsomino, Ritsaart Bergsma, Bart Ras, Christiaan de Goeij, Stefan Hoogervorst, Mounia Belmamoune
 
 Presentaties zijn tijdrovend voor bijna iedereen. Christiaan de Goeij spendeert een halve dag per deck. Ritsaart Bergsma heeft al een workaround (Gemini Slides/Canva). Bart Ras heeft het volledig opgelost bij zijn MKB-werk: context beschrijven, AI genereert script + twee decks, 100x sneller.
 
 **Status**
 
-Luca probeert ChatGPT en Claude voor slides maar vindt de output "complete garbage." Ritsaart zoekt betere automatisering. Bart's aanpak (context + AI = script + presenter deck + leesdeck) werkt aantoonbaar, maar hij doet het bij Windesheim nog niet vanwege Copilot-blokkade.
+Luca probeert ChatGPT en Claude voor slides maar vindt de output "complete garbage." Ritsaart zoekt betere automatisering. Bart's aanpak (context + AI = script + presenter deck + leesdeck) werkt aantoonbaar, maar hij doet het bij Windesheim nog niet vanwege Copilot-blokkade. Mounia had een Canva-abonnement genomen, maar heeft het opgezegd vanwege teleurstelling in het resultaat: "ik mis creativiteit."
 
 **Tool**
 
@@ -152,9 +153,9 @@ Ronald de Boer en Richard Holman gebruiken AI-ondersteunde gespreksnotities voor
 
 ## E-mailbeheer
 
-**Wie:** Ronald de Boer, Michiel Steeman, Stefan Hoogervorst
+**Wie:** Ronald de Boer, Michiel Steeman, Stefan Hoogervorst, Mounia Belmamoune
 
-E-mail is voor drie mensen een expliciet knelpunt. Ronald: "Met mail kan ik niks." Zijn Copilot staat uitgeschakeld. Michiel: mail-volume gestegen door AI-gegenereerde lappen tekst van collega's die nu ook AI-tools gebruiken. Stefan: post-meeting follow-up loopt weken achter omdat e-mail handmatig verstuurd moet worden.
+E-mail is voor vier mensen een expliciet knelpunt. Ronald: "Met mail kan ik niks." Zijn Copilot staat uitgeschakeld. Michiel: mail-volume gestegen door AI-gegenereerde lappen tekst van collega's die nu ook AI-tools gebruiken. Stefan: post-meeting follow-up loopt weken achter omdat e-mail handmatig verstuurd moet worden. Mounia: "Als het bijvoorbeeld een geïntegreerde AI tool toegestaan is door Windesheim, binnen mijn mail -- dan gaat hij wat voor werk voor mij doen."
 
 **Patroon**
 
@@ -167,11 +168,11 @@ Copilot zou e-mailbeheer kunnen adresseren, maar staat bij Windesheim uitgeschak
 | Werkproces | Aantal collega's | Meest concreet | Privacy-gevoeligheid |
 |---|---|---|---|
 | Subsidietrajecten | 6 | Yolanda: €40k bewijs | Hoog (IP) |
-| Vergader-/interviewtranscriptie | 7 | Richard: Summary AI werkt al | Hoog (gevoelige data) |
+| Vergader-/interviewtranscriptie | 8 | Richard: Summary AI werkt al | Hoog (gevoelige data) |
 | Data-analyse / survey | 6 | Ronald: Claude voor visualisaties | Laag tot middel |
 | Urenregistratie | 5 | Mira/Stefan: urenbrieven TKI | Laag |
-| Presentaties | 5 | Bart: 100x sneller bewezen | Laag |
+| Presentaties | 6 | Bart: 100x sneller bewezen | Laag |
 | Netwerk / partners | 5 | Richard: RECAP Excel als aanzet | Laag |
 | Literatuuronderzoek | 4 | Michiel: Perplexity al in gebruik | Laag |
 | Onderwijs | 4 | Hendryk: FAQ-bot duidelijkste | Laag |
-| E-mailbeheer | 3 | Copilot werkt -- maar uitgeschakeld | Middel |
+| E-mailbeheer | 4 | Copilot werkt -- maar uitgeschakeld | Middel |
