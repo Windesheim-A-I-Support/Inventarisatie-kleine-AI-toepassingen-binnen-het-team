@@ -1,0 +1,379 @@
+---
+title: "Interview: Rea Vaz"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Rea Vaz
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-18 |
+| Collega | Rea Vaz |
+| Rol | Researcher / docent Supply Chain Finance (36 uur/week lectoraat + 4 uur GPCM) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 32 minuten |
+| Taal | Engels |
+
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 16 collega's
+
+Van de 16 geïnterviewde collega's is Rea een bewuste maar beperkte AI-gebruiker. ChatGPT voor structurering en outlining (nooit voor het schrijven zelf), Perplexity incidenteel voor informatie. Ze gebruikt AI niet ingelogd, zodat het niet aan haar verbonden is. Dat is een bewuste privacykeuze.
+
+Vergelijkbaar niveau qua voorzichtigheid: Paulien de Graaf-Muller (anonimiseren + Windesheim-goedkeuring), Hendryk Dittfeld (altijd anonimiseren voor gebruik). Rea onderscheidt zich doordat haar terughoudendheid niet alleen over privacy gaat maar ook over onderzoeksintegriteit: AI-gegenereerde tekst in academisch onderzoek is "bordering on plagiarism."
+
+### Gedeelde radartjes
+
+**Event-uitnodigingen** (nieuwe mensen de ruimte in brengen): dit raakt Luca's LinkedIn-outreach radartje. Beiden zitten in de SCF Community en ervaren dat het uitnodigen van nieuwe deelnemers het moeilijkste deel is. Luca wil dit automatiseren maar mag het niet detecteerbaar doen. Rea gebruikt interns voor het uitsturen.
+
+**Documentatie hergebruiken** (emailtemplates, checklists): Rea bewaart alles in Word-bestanden en hergebruikt elk jaar. Dit is al een werkende oplossing, maar AI kan helpen bij het personaliseren van templates voor specifieke ontvangers.
+
+**Onderzoeksbias als nieuw thema**: Rea introduceert iets wat nog niemand zo expliciet noemde -- het risico dat AI-gebruik de onderzoeksrichting onbedoeld beïnvloedt. Ze zoekt in incognito zodat haar eigen browsegeschiedenis geen rol speelt in zoekresultaten. Ze gebruikt Boolean-zoekopdrachten met termijn-variaties (critical raw materials EU vs. critical minerals VS) en registreert welke term welke resultaten geeft als methodologische keuze. Dit is geen radartje maar een inzicht over AI en wetenschappelijke integriteit.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Twee dingen die tot nu toe ontbraken:
+
+1. **Terminologie als onderzoeksmethode.** Rea's podcast-analyse laat zien dat een zoekterm niet neutraal is: "critical raw materials" (EU-term) geeft Europese podcasts; "critical minerals" (VS-term) geeft Amerikaanse podcasts. Dit is een methodologische keuze, geen tool-probleem. Het illustreert waarom AI-zoekopdrachten ook in het lectoraat niet automatisch reproduceerbaar zijn.
+
+2. **De scherpste formulering van AI en academische integriteit.** "If I do ask for help, I say: please don't change the wording. Use my content. Just help me figure out what's the best way to put it." Dat is de meest expliciete aanpak voor het bewaren van eigen authorship die in alle interviews naar voren is gekomen.
+
+### Handige werkwijzen van collega's
+
+**Maxime Bouillon** heeft vier Claude system-prompt modes die hij dagelijks gebruikt: Reviewer 2 (kritisch op eigen argumentatie), Brainstorm, Socratic (vraagt door op je redenering), Coach. De Socratic mode is direct relevant voor Rea's podcast-analyse -- het dwingt je na te denken over je eigen aannames zonder dat AI de inhoud overneemt.
+
+**Ritsaart Bergsma** gebruikt Claude Code voor data-analyse. Als Rea op een punt AI inzet voor de podcast-exclusie, is Ritsaart de aangewezen persoon om mee te sparren over hoe je dat methodologisch verantwoord aanpakt.
+
+**Richard Holman** stelt dezelfde vraag aan meerdere AI-tools en filtert zijn eigen antwoord eruit -- "multiple source intelligence." Bruikbaar als validatiemethode voor onderzoeksrichtingen.
+
+---
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT | AI/LLM | Gedachten structureren; outlines genereren; nooit voor het schrijven zelf | Regelmatig | Middel | Gebruikt altijd zonder in te loggen -- privacy; nooit eigen onderzoeksideeën erin als het nog nieuw is |
+| Perplexity | AI/LLM | Informatie opzoeken | Incidenteel | Laag | Vindt het minder creatief dan ChatGPT; herhaalt zichzelf |
+| LinkedIn / Sales Navigator | Communicatie | Mensen bereiken voor SCF Community events; partnerrelaties | Dagelijks | Hoog | Sales Navigator helpt bij gerichter zoeken |
+| Excel | Documenten | Data-analyse onderzoek; overzichten | Regelmatig | Hoog | |
+| Word | Documenten | Checklists en emailtemplates bewaren voor hergebruik | Regelmatig | Neutraal | Alle SCF Community emails staan als template in Word-bestanden |
+| Microsoft Teams | Communicatie | Vergaderen + interne communicatie | Dagelijks | Neutraal | |
+| Outlook | Communicatie | E-mail | Dagelijks | Neutraal | |
+| Monday.com | Projectmanagement | SCF Community checklists (gestopt) | Gestopt | -- | Gestopt wegens kosten/overhead; vervangen door Excel/Word |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+**Rol en werkprocessen**
+36 uur/week lectoraat, 4 uur GPCM (verandert per semester). Vier hoofdactiviteiten:
+1. SCF Community event-organisatie (10-12 uur/week tijdens actieve periodes, veel minder dan eerste jaar toen het 40 uur/week was)
+2. VCH2 (Value Chain Hackers) -- onderwijs
+3. GPCM stage begeleiding (3-4 studenten per semester, 30 min/week elk)
+4. Eigen onderzoek: podcast-analyse kritieke grondstoffen (nieuw, discourse-analyse tussen geologie en supply chain management)
+5. Parasols project -- internationaal, met drie andere universiteiten
+
+**SCF Community procesverbetering**
+Van 40 uur/week naar 10-12 uur/week door systematisch stroomlijnen. Checklists, herbruikbare emailtemplates, "4I-policy" (alles wat naar buiten gaat wordt door twee mensen gecheckt). Vaste sponsoren die terugkomen, vaste locaties. Het systeem werkt. Sterkste pijnpunt dat overblijft: nieuwe mensen de ruimte in krijgen.
+
+**AI-gebruik: zorgvuldigheid als principe**
+Rea gebruikt ChatGPT nooit om te schrijven. Wel om te structureren, te reorganiseren, of een outline te krijgen -- maar altijd met eigen content als input en met expliciete instructie om haar eigen woorden te bewaren. Niet ingelogd zodat het niet aan haar verbonden is. Voor nieuw onderzoek: extra voorzichtig omdat de ideeën nog niet publiek zijn.
+
+**Podcast-onderzoek (nieuw)**
+Discourse-analyse van podcasts over kritieke grondstoffen: interface tussen geologie en supply chain management. Zoekstrategie is methodologisch interessant: Boolean searches in incognito (zodat eigen browsegeschiedenis geen invloed heeft), met variaties in terminologie. "Critical raw materials" + podcast geeft Europese resultaten. "Critical minerals" + podcast geeft Amerikaanse resultaten. Dit is relevant voor hoe beleid wordt gevormd: de term die je gebruikt bepaalt welke community je hoort.
+
+AI-inzet hierbij is een open vraag. Ze heeft het besproken met supervisor. Bias-risico is reëel en ze wil dat eerst goed doordenken voor ze AI inzet bij de exclusie-stap.
+
+**Samenwerking**
+Luca Gelsomino: SCF Community en VCH. Maxime Bouillon: VCH, jaarlijkse reflectiesessie. Parasols: vier universiteiten, TU Dortmund als lead (goed georganiseerd, voorbeeld voor Rea's eigen projectmanagement).
+
+---
+
+## Gestructureerde Q&A
+
+### 1. Recente taak (opener)
+
+> "What did you spend the most time on this week?"
+
+GPCM-gerelateerd werk (einde semester) + studenten. Normaal gesproken varieert het sterk per periode: events, onderwijs, of onderzoek, afhankelijk van de tijd van het jaar.
+
+### 2. SCF Community events
+
+> "Could you walk me through how the event organization works?"
+
+Contact met sponsors (komen grotendeels terug), locaties zijn vast, website, LinkedIn, en gesprekken met sprekers. Het systeem is nu gestroomlijnd: checklists, emailtemplates, 4I-policy. Het moeilijkste blijft: nieuwe mensen de ruimte in brengen. Interns worden hiervoor ingezet.
+
+### 3. AI-gebruik
+
+> "What tools do you use? Do you use AI?"
+
+ChatGPT voor structurering en outlining, nooit voor schrijven. Perplexity incidenteel, minder tevreden over. Expliciet principe: "I never use it to write because I think that's a bit suss, especially for research. It's bordering on plagiarism."
+
+### 4. Privacy bij AI
+
+> "How careful are you with what you put in?"
+
+Gebruikt ChatGPT niet ingelogd. Voert alleen eigen content in, geen andermans materiaal. Voor nieuw onderzoek: extra voorzichtig omdat ideeën nog niet publiek zijn.
+
+### 5. Podcast-onderzoek
+
+> "Can you tell me more about the research stuff?"
+
+Discourse-analyse van podcasts over kritieke grondstoffen: de interface tussen geologie en supply chain management. Methodologisch: Boolean searches in incognito, variaties in terminologie (EU-term vs. VS-term geeft andere resultaten). AI-inzet: open vraag, bias is het grootste risico. "Whatever AI we use, we have to be absolutely clear that we don't bias it in any way or form."
+
+### 6. Magische stagiairvraag
+
+> "What would you have a personal assistant do first?"
+
+Eerst testen: poster ontwerpen of een email schrijven, kijken hoe goed ze zijn in details. Daarna evt. research-taken -- maar alleen als ze het domein begrijpen. "I know the subject better than anyone else in my department. I wouldn't be able to train another person quickly enough."
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| SCF Community events | Nieuwe deelnemers uitnodigen op schaal | Contactenlijst + uitnodigingstemplate | Verstuurd en beantwoord | 3-4x per jaar (per event) | Laag | Handmatig + interns | Hardste probleem in de event-organisatie; interns doen het maar dat is een tijdelijke oplossing |
+| Onderzoek | Podcast-datacollectie via Boolean-zoekopdrachten | Zoektermen (terminologie-variaties) + incognito browser | Lijst relevante podcasts per terminologievariant | Projectmatig (fase 1 onderzoek) | Middel (onderzoeksintegriteit) | Handmatig in incognito | Bias-risico bij AI-inzet; methodologische keuze om dat zelf te doen; AI later mogelijk voor exclusie-stap |
+
+---
+
+## Letterlijke signalen
+
+- "I never use it to write because I think that's a bit suss, especially for research. It's bordering on plagiarism."
+- "If I do ask for help, I say: please don't change the wording. Use my content. Just help me figure out what's the best way to put it."
+- "Whatever AI we use, we have to be absolutely clear that we don't bias it in any way or form."
+- "I use ChatGPT and if it's for something important, I don't log in. I just use it as it is, because I don't want it to be connected to me."
+- "I know the subject better than anyone else in my department. I wouldn't be able to train another person quickly enough to do what I need to do."
+- "If I write critical raw materials plus geology plus podcast, I get podcasts from Europe. If I write critical minerals plus geology plus podcast, I get podcasts from the US." [over terminologie als methodologische keuze]
+- "I hope it's not gonna bite me." [na afloop van het interview]
+
+---
+
+## Nog niet oplossen
+
+- Podcast-exclusie via AI: Rea denkt hier zelf over na met haar supervisor. Het bias-risico is reëel en vraagt een weloverwogen methodologische aanpak voor het in te zetten. Niet iets om nu al te suggereren.
+- SCF Community CRM / contactenbeheer: het systeem werkt al. Luca en Rea kennen hun netwerk. Vervanging zou overhead toevoegen.
+
+---
+
+## Samenvatting voor weekupdate
+
+**Rol/context collega:** researcher en docent; combineert SCF Community event-organisatie, VCH-onderwijs, GPCM stage begeleiding, en nieuw eigen onderzoek (podcast-analyse kritieke grondstoffen).
+
+**In het kort:** Rea heeft haar werkprocessen al sterk gestroomlijnd -- van 40 naar 10-12 uur per week voor events door systematisch checklists en templates te bouwen. Ze gebruikt AI bewust en beperkt: nooit om te schrijven, wel om te structureren, en altijd zonder in te loggen. Haar podcast-onderzoek introduceert een methodologisch inzicht: zoektermen zijn niet neutraal en EU-terminologie vs. VS-terminologie geeft andere datasets.
+
+**Kleine radartjes:**
+
+- Nieuwe deelnemers voor SCF Community events uitnodigen op schaal (hardste probleem, nu intern-afhankelijk)
+- Podcast-datacollectie via Boolean-searches met terminologie-variaties (AI-inzet open vraag vanwege bias-risico)
+
+**Al in gebruik:** ChatGPT (structurering, niet schrijven, niet ingelogd); Perplexity (incidenteel); LinkedIn Sales Navigator; emailtemplates in Word.
+
+**Sterkste signaal:** "Whatever AI we use, we have to be absolutely clear that we don't bias it in any way or form." -- onderzoeksintegriteit als harde eis bij AI-adoptie.
+
+---
+
+## Aanbevolen tools en tips
+
+### 1. Perplexica (open source Perplexity-alternatief)
+
+Voor het opzoeken van informatie zonder dat zoekopdrachten worden opgeslagen of verbonden aan een account: Perplexica (github.com/ItzCrazyKns/Perplexica) is een open source, lokaal te draaien equivalent van Perplexity. Draait via Docker + Ollama. Geen verbinding aan gebruiker, geen data naar buiten. Dit past bij Rea's gebruik van ChatGPT zonder in te loggen: hetzelfde principe maar dan met een tool die daar structureel op ingericht is.
+
+### 2. Maxime's Socratic mode voor onderzoek
+
+Maxime Bouillon heeft een Claude-modus gebouwd die doorvraagt op je eigen redenering zonder de inhoud over te nemen. Voor Rea's podcast-analyse: stelt het in staat de eigen aannames te toetsen zonder dat AI de richting bepaalt. Maxime deelt deze modus graag.
+
+### 3. LinkedIn outreach: Luca's patroon
+
+Luca Gelsomino heeft ervaring met gepersonaliseerde uitnodigingen op schaal via LinkedIn. Jullie doen allebei SCF Community outreach. Het kan zinvol zijn om samen te kijken of er een aanpak is die herbruikbaar is voor event-uitnodigingen.
+
+---
+
+## Research buddy
+
+**Ritsaart Bergsma** -- voor de podcast-analyse: data science achtergrond, Claude Code gebruiker. Als Rea besluit AI in te zetten voor de exclusie-stap, is Ritsaart de aangewezen persoon om methodologisch mee te sparren.
+
+**Maxime Bouillon** -- voor onderzoeksondersteuning via Claude: zijn Socratic mode is direct relevant voor kritisch doordenken van onderzoeksaannames.
+
+**Luca Gelsomino** -- al nauwe samenwerking via SCF Community en VCH. Voor event-uitnodigingen en outreach aanpak.
+
+---
+
+## Volledige transcriptie
+
+*Verbatim transcript uit Teams-opname van 18 juni 2026. Uitsluitend voor intern gebruik. Gesprek in het Engels.*
+
+Teams-vergadering-20260618_120758-Transcriptie van vergadering
+18 juni 2026, 10:07a.m. | 32m 6s
+
+**Spreker 1 0:04** You might know that I'm doing research into what tools are we using within our and where are the possibilities for us to work closely more closely together and to make more usage of online tools, specifically artificial intelligence tools, and for this I'm doing a survey on...
+
+**Rea Vaz 0:10** Mhm. Ohh.
+
+**Spreker 1 0:24** what everybody is already using and what they're doing in the daily work and where the biggest challenges are, basically. All right, so just to have it completely on the record and stuff like that, can you please tell me what is currently your role at the Lectoraat Supply Chain Finance and how much time do you actually work for it?
+
+**Rea Vaz 0:26** Yeah. Yeah. I... Why is this important?
+
+**Spreker 1 0:48** So that I have a concrete, because a lot of our colleagues have dual roles, and there's a very big trend as well in that.
+
+**Rea Vaz 1:00** So I work for the lectoraat for 36 hours and four hours for GPCM, but that changes. So the semesters before it was 8 hours for GPCM. This year it's 4 because of budget issues.
+
+**Spreker 1 1:00** The. Mhm. And GPCM is a different company or is also part of action? It's also, okay, yeah, okay. All right, so basically you have a 40 hour allocation. Okay, cool.
+
+**Rea Vaz 1:19** No, wintertime, wintertime. Mm. But that will change next semester, most likely, so. Yeah.
+
+**Spreker 1 1:36** Okay. And because you're leaving or you're going?
+
+**Rea Vaz 1:42** No, no, I'm hoping to start my PhD, but it's not finalized yet. So depends on a few things. But yeah, that might change.
+
+**Spreker 1 1:46** Okay. Good for you. All right, considering that, in the last week, if you look at your what you're doing across the week, what do you think that you spent the most time on?
+
+**Rea Vaz 2:04** Mhm. Oh, last week is not really a good indicator because last week was the end of the GPCM stuff. But I spend a few hours with students every week for VCH and for GPCM because I am an internship counselor for GPCM. I have generally 3, four students every semester, and I talk with them about half an hour every week. Plus I have Value Chain Hacker students every semester. I also talk with them about half an hour to an hour every week, each group. But no, most of my work is spent on... Oh, that's, it's really hard to tell. It's different per time of the year. So until now, when SCF community stuff was on, that was the most important during the periods that we have events. And we like to work smart, not hard. So we change, we have systems in place in SCF community. We have like checklists and other things that exist so we know what we have to do when, because we've been doing events like 3 events a year or four years now. So those systems are in place. I spent time on VCH2, but not as much as before because it's more or less done or fixed as a program. There's a few things we changed again this semester, so that takes time.
+
+**Spreker 1 3:36** Mhm.
+
+**Rea Vaz 3:41** And then I have my own research. So my own research is probably where I will spend more time now because it's new and I need more time to kind of assimilate these ideas. And I have one more project that I work on, but it's the least amount of time, I think. So students, research, community, parasols, VCH. Yeah, that's how.
+
+**Spreker 1 4:00** And events.
+
+**Rea Vaz 4:00** Yeah, that's how.
+
+**Spreker 1 4:04** Right. So let's try and drill down a little bit to each of those topics, right? Because you mentioned you do a lot of events, right? Organizing for events. Could you walk me through that process? What happens there?
+
+**Rea Vaz 4:21** It depends on the event. For me, it's more on the organizational side, so that means talking to sponsors, talking to companies that might present at the event. It's not just me, sometimes it's Luca as well, so it depends on who's available when. We also, I also talk to all the vendors, so the photographer, the setting up at the location. Luckily we have the locations already in most cases, so it's not a new thing. Like it's not a new relationship, it's already there, so that's a good thing.
+
+**Spreker 1 4:38** Mmh.
+
+**Rea Vaz 4:56** So most of it really gets about what we put on the website, how we marketed it, what goes out, and the conversations with the sponsors. Keeping them updated, making sure that everything is clear in our communication, making sure that everything is clear on the side of what we are going to post outside, like so not just the sponsors itself, but so after the contract is done, there's a lot more stuff that goes into building the event. And then when you're there at the event, basically checking the entire setup, all of that stuff, which is more logistical at the location, but that's just for the day, the day before.
+
+**Spreker 1 5:34** Could you talk me a little bit to what happens then? So there's contact of sponsors that you just said that you have to do. The location is done, but you then said, well, there's a lot of things that we're doing after the contract has been signed. What's
+
+**Rea Vaz 5:53** Yeah, so that's what I meant when I said earlier that the stuff that goes on the website, the stuff that we communicate to the sponsor, bringing in speakers who are going to talk, what they're going to talk about. There's a certain sort of list of things that they have to fulfill, we have to fulfill from the sponsorship side because we are providing the service. We are lucky that we have sponsors who come back every year. So that's a good thing. But yeah, but again, SCF community work is more streamlined now. So it's much lesser than what I did in my first year, which was 40 hours of SCF community. Now it's like 10 or 12 a week. So that's that.
+
+**Spreker 1 6:35** What was the big change?
+
+**Rea Vaz 6:38** While we became smarter. No, like Angelica doesn't work anymore. We used to have two interns. We don't have any interns anymore. So it's mainly Luca and myself and we run it. But we are both pretty capable depending on what we have to do. Luca has a lot of connections with the, we both have a lot of connections with our group. We also have an advisory board of corporates that we work with. And the way it works is before we used to have the awards, when we see good cases from the awards, we invite them the next year to speak. So that way it's a constant loop that exists so we don't have to work extra hard to get more people in. I think the thing.
+
+**Spreker 1 7:22** Right. Sounds like you set up a real process here.
+
+**Rea Vaz 7:39** Yeah, that's what I said. And the only thing that would really be difficult is bringing in more people to the event. And that is a place we still struggle with, but we generally have a constant of 30 to 35 people that show up, for example, at the Munich event. And people come back, like more people come back over and over. So that's a good thing because then they see value in the event. But yeah, it's still difficult to bring people into the room. So that's where most of the energy goes. So I have interns every summer. This year, we did manage to get interns, but for a very limited amount of time. And that was also mostly their work was to send invitations to people to bring them into the room. So that's where I think for the SCF community. For VCH, you know a lot of the process already, but it's much more streamlined. We have a calendar, we put it out at the beginning of the year. We are not going to do crash courses anymore. We have a boot camp at the beginning of the semester so that we take the students through the process themselves once, and then when they do it for their own project, it's much easier. So again, it streamlines the process. So a lot of it, a lot of my work is streamlining things to design things in a way that they can work by themselves and are more sustainable in the long run. And with the teams that I work with, it's the same thing. So Maxime and I, every year have a period where we brainstorm again to see what works, what doesn't work, and then fix it to make it better.
+
+**Spreker 1 9:21** Ohh.
+
+**Rea Vaz 9:29** Yeah, so I learned a lot of that at SCF community. And now I do have good relationships with a lot of the people who show up at the events over and over. So I can send emails if I need to and ask questions if I need to. And it's easy to do that.
+
+**Spreker 1 9:49** Have you found any workarounds in order to make your life more easier besides from streamlining the process as you just said?
+
+**Rea Vaz 9:58** Do you mean AI stuff?
+
+**Spreker 1 10:00** It can, it doesn't have to be AI actually. That.
+
+**Rea Vaz 10:03** I think for me, the main thing, like, for example, when I talk to people, especially when I talk to people who work with me or people who are who I have to train because I have had to train many interns with the SCF community. I am very clear about my boundaries and I'm very clear about what I expect from them and to ask what they expect from me too. So that's why I think my students in VCH generally know what is expected and are able to pull that out. Not to say that's not the case, but it doesn't always work. But in most cases it does. But with SCF community interns, I think that most of them ended up in very good companies as well later on or are attempting ambitious things. And a lot of it is because I am very -- well, I also learned I have to give credit where it's due from Angelica and Luca and other people to do this. And I think one of the things is really to say, hey, this is what I expect in terms of communication with you. I expect you to respond to me within this much period of time. Not like a hard and fast rule, but like if you can't, please let me know because then I need to design my work accordingly. So if you're taking, if you're going to take the responsibility to do something, I expect that it's done. That's how I run things because I would do it. If I took responsibility for something, I would do it. I would make sure it's complete, or I would inform you that I can't do it.
+
+**Spreker 1 12:36** Yeah.
+
+**Rea Vaz 12:55** But it's also because I have taken the time to build that relationship. And I think building these relationships, it really helps because in India, everything works on relationships. And it really helps to take the conversations forward. It really helps to ask for help when you need it. And it also helps you to get new ideas and new directions that you need, you don't have in your scope of view. So it requires a bit of humility and it requires a bit of understanding that you're not the know-it-all, which was a hard thing for me to do. But with the Parasols project, we now see that it might breathe new life into previously existing relationships that haven't worked together for a while. And it's now starting to really come together. And it's only been a few months, but we all respect each other. We like working with each other. And even the whole process, I learned so much from how they handled writing the proposal. It was so clear cut, like TU Dortmund was in charge and every meeting they came to, they were prepared. They said, okay, this is what we're going to talk about. They sent stuff to us before the meeting so that we could come prepared too. So these are things that I am putting into practice with my own work too.
+
+**Spreker 1 15:12** Thank you for that. When you say that you are very good, that you are now doing things like setting your boundaries and communicating those to students, how do you communicate that to students? Do you send an email or is it in person, face to face?
+
+**Rea Vaz 15:26** So, face to face. I learned this from GPCM a bit. We have students, I have students every semester. It's been 7 semesters now, and every student is different. But the first meeting tells me a lot about the student. How prepared they are, what kind of questions they have, how do they see this program? Are they scared? Are they not scared? What can I expect? Because people are -- I know for some people, people are hard to read. For me, not so much.
+
+**Spreker 1 17:24** But you do this only face to face, you don't document this?
+
+**Rea Vaz 17:30** If it's important, I do. If it's something that should be asked to the coordinator, it's always: please send an email to me and I will forward it. That's how I do it. So I do follow it.
+
+**Spreker 1 18:28** You mentioned earlier you work with checklists and that kind of stuff. Is that done in Excel or where how have you set that up?
+
+**Rea Vaz 19:05** Yeah, because we have like 4 minutes. Usually, we used to use Monday.com, so it was a proper checklist that existed, but we stopped that right now. So yes, Excel, Word, etc. We have these processes in previous folders, we have all the emails that we send out, copy pasted into Word, in a Word file, so we can just reuse them every year.
+
+**Spreker 1 19:38** Do you share these checklists and mail templates actively with other colleagues in the SCF or not really?
+
+**Rea Vaz 19:50** I mean, there's only Luca. So he has already checked it the first time. But yes, so in SCF community, we have a 4I policy. That means everything that goes outside has to be checked by two people. We still implement it. So every email that I send out goes to Luca first for a quick check, unless I'm like absolutely confident that there is no issue at all. I always do this. It's not so needed anymore. I would say it was needed more at the beginning. If I have interns, nothing goes out without me seeing it. Yes, because it's about the reputation of the company. We have to be careful about that.
+
+**Spreker 1 20:35** Besides Office and Excel and Monday.com, which you said you used, what other tools do you use?
+
+**Rea Vaz 20:41** Well, we have the website of the SCF community, so we use that. We use LinkedIn a lot. That's the main way to reach people. Also, we use Sales Navigator of LinkedIn, so that helps. We use email a lot. I also, for my personal stuff, for research, use Excel or I need to use, sometimes I need to use like stuff like ChatGPT or Perplexity, which I prefer. But that's too, like if I'm sending stuff to a conference, that's a research conference or something, and I want to streamline or I want to clarify my thoughts, I never use it to write my stuff, because I don't believe in that. I do use it to maybe restructure if I need it or find a better direction if like my head is too full and I can't really think through it. But I don't use it to write because I think that's a bit suss.
+
+**Spreker 1 21:37** Sure.
+
+**Rea Vaz 21:45** especially for research. And I will explain why, because it's bordering on plagiarism. It's not really your ideal. When I get students who send me fully chat GPT written stuff, I can tell within five sentences that it's chat GPT. And it's very annoying because it's not their work. And that's unethical in my opinion. So I don't do it either. If I do ask for, can you help me restructure? I will say, use my content. I'm very careful with the way I prompt it. So I will say, please don't change the wording. Use my content. Just help me figure out what's the best way to put it under these circumstances.
+
+**Spreker 1 22:07** Mhm. Interesting.
+
+**Rea Vaz 22:25** And also, if I do tell it, okay, I need to reduce the content, but keep my wording, then I sometimes say, give me a sort of outline that I can use, but I will not ask it to rewrite it for me. I say, give me an outline that I can use to rewrite it. What are things that I should keep in or remove? But I still use what I wrote. And even whatever I input, it's stuff that I wrote, not something that I'm copy-pasting from somewhere else.
+
+**Spreker 1 22:57** Did you use any other AI tools besides ChatGPT so far?
+
+**Rea Vaz 23:02** Yes, Perplexity.
+
+**Spreker 1 23:05** Mhm.
+
+**Rea Vaz 23:06** I haven't used Claude or any of the others yet, no.
+
+**Spreker 1 23:10** Okay, have you tried anything with ChatGPT that went wrong?
+
+**Rea Vaz 23:15** Yeah, of course, but I test it. So I tested it for the references. I tested it for whatever I want to do. I test it first, knowing for sure that this is what I have written and checking whether it works or not.
+
+**Spreker 1 23:28** And also with Perplexity, did you try things that didn't go according to plan?
+
+**Rea Vaz 23:33** I haven't used Perplexity that much. I only use, yeah, but what I realized was ChatGPT is much more creative than Perplexity in giving information or in giving ideas. Perplexity sort of just repeats itself over and over. I don't know if you've noticed that. When I use ChatGPT, and if it's for something important, I don't log in. I just use it as it is, because I don't want it to be connected to me. Part of it is because my research is very new and I don't necessarily want everything out there. So sometimes I also use it and then I change the thing so that it's not directly one idea connected to the other. But there's a reason for that. So I try to be a bit careful with how I use my data and information.
+
+**Spreker 1 24:37** Okay. Maybe then a final last question, just so that we have it, and then I can let you go. Let's say that we have an intern that works with you, but it doesn't have a specific assignment other than making your life easier. So you can't really trust it that much, but you can give it some assignments. What would you have it do?
+
+**Rea Vaz 25:02** You mean an AI?
+
+**Spreker 1 25:05** I'm saying an intern on purpose, right? Let's assume that we have an intern, right? But its only assignment is to help you.
+
+**Rea Vaz 25:08** So a person. Well, I've had that. Okay, I didn't mean to say that all my interns just make my life easier. They have actual jobs to do, right? That's not how it works.
+
+**Spreker 1 25:24** Yes. But this, it, but this magical intern is only to help you to make your life easier. It's your personal assistant.
+
+**Rea Vaz 25:33** Well, I think it would be first to do some research stuff that I don't have the time to do so that I can. Right now I'm doing a podcast analysis and I needed to figure out how to exclude data. And there's a lot of -- But I would have to trust them actually to do that, so maybe not. It could be, it really depends on what's the background of the intern. Like if it's for the SCF community, then it's low hanging fruit. It's not too bad in the sense of like I can expect them to be able to write an email or send information. So I would just have them like, I would test it, I would test to see how well they do a certain task before I give them something that I need to trust them with.
+
+**Spreker 1 26:15** Mhm. That's a good methodology.
+
+**Rea Vaz 26:32** Designed the poster for this new event that we have coming up and you can use the posters that already exist. And I'm going to see how well they do that. What's the attention to detail? For me, attention to detail matters a lot because the details change everything in most cases. Or I would have them write an email or draft an email and see how far they get with it. Like, are they able to do what I need them to do? Are they able to get across the message?
+
+**Spreker 1 27:24** Okay, and could you highlight a little bit more because in the direction of the research stuff that you were talking about, because that did sound also very interesting.
+
+**Rea Vaz 27:38** Yeah, so my research looks at podcasts at the moment to understand the discourse that exists on critical raw materials between geology and supply chain management, because discourse affects how people hear about a problem and what they understand about a problem and basically how policies are driven in some way or the other, because it depends on who you ask in order to draw the policy, which is why we are stuck now, because the EHU auditors figured out that the critical raw materials policy is based on nothing. It's arbitrary. Basically, the targets were not clear, not clear data, et cetera.
+
+**Spreker 1 28:22** Ohh.
+
+**Rea Vaz 28:23** For me, I come from a different background than most people in this department. I'm a very science background, numbers, fieldwork, framework. So a lot of things are new in understanding all of these things. So learning how frameworks work, learning other things, I learned a lot of it on the job. But data, hypothesis, numbers, those are things I know. And this is why the research part I need to do myself because I know the subject better than anyone else in my department or in my group. And I wouldn't be able to train another person quickly enough to do what I need to do because I spent two years figuring this system out and I'm at a very specific interface between these two fields. And I have the geological knowledge to understand and I have the supply chain management knowledge to understand how this problem looks. So at the moment, it's not possible, but once I define which podcast we want to use, then it's possible to bring in other people to help me out with it. So a lot of the exclusion stuff, it depends on how we are sort of trying to understand the problem ourselves of what's going on, and also to sort of know the background of the problem enough to be able to distinguish what is needed and what is not needed. And that is not something, unfortunately, it's not fully something that can be done by AI. We thought about it. We have discussed it. We are still determining whether that's an option, because I am still a person, so I could be biased. So for example, one of the things what we did was when I'm looking for podcasts, I Google it and I say, but I do it in incognito so that my own personal preferences don't play a role in what comes up. So what comes up already tells me a lot about how this information is there. So for example, if I write in a Boolean sort of way to look for it, we do that in literature reviews. We use a Boolean format. So if I write critical raw materials plus geology plus podcast, I get podcast from Europe.
+
+**Spreker 1 30:40** Mhm.
+
+**Rea Vaz 30:43** If I write critical minerals plus geology plus podcast or critical materials plus geology plus podcast, I get podcasts from the US. Because in Europe, critical raw materials is the official term that is used for these materials. In the US, they don't have an official term. They just use a lot of different things.
+
+**Spreker 1 31:02** Interesting. Semantics. Yeah, semantics.
+
+**Rea Vaz 31:03** So this already changes. Yeah, but it plays a role in what you have access to, which is why we are paying close attention to how this works, which is why whatever AI we used to use this, which is going to come in at some point, there is going to be AI use at some point for sure. But whatever we use, we have to be absolutely clear that we don't bias it in any way or form.
+
+**Spreker 1 31:31** It would be very interesting for me to look at some cases with you, but maybe when you have more time. Okay, thank you very much for this interview. You've been a wealth of knowledge and information. I hope you've enjoyed it.
+
+**Rea Vaz 31:44** I hope it's not gonna bite me.
+
+**Spreker 1 31:46** How, how would, how would it bite you?
+
+**Rea Vaz 31:50** Anyway, thank you, thank you, thank you.
+
+**Spreker 1 31:52** You're welcome and good luck and yeah, see you soon. Okay, I'll be there again Monday. Bye-bye.
+
+**Rea Vaz 31:57** See you. Okay, bye, Chris. Bye.
+
+*Chris Verhoef heeft de transcriptie gestopt*
