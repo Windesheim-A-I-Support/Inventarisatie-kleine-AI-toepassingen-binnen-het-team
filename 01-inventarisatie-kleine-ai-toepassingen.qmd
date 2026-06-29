@@ -20,6 +20,7 @@
 | 2026-06-15 | Michiel Steeman | Lector Supply Chain Finance | Dagelijkse informatiefiltering, hoofdcommentaren omzetten naar tekstsuggesties, mailbeheer, inhoudelijke verdieping nieuwe thema's | "Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen. Dat irriteert me gewoon." | [PDF](downloads/interview-2026-06-15-michiel-steeman.pdf) · [Word](downloads/2026-06-15-michiel-steeman.docx) |
 | 2026-06-23 | Paulien de Graaf-Muller | Leider onderzoekslijn duurzame zorg | Survey-export opschonen en kruistabellen genereren, subsidievoorstel schrijven, interview samenvatten (beveiligde omgeving), verbanden leggen in kwalitatieve data | "Als dat binnen de cloudomgeving van Windesheim zou zijn, zou dat ontzettend veel tijd schelen." | [PDF](downloads/interview-2026-06-23-paulien-de-graaf-muller.pdf) · [Word](downloads/2026-06-23-paulien-de-graaf-muller.docx) |
 | 2026-06-18 | Rea Vaz | Researcher / docent Supply Chain Finance | Nieuwe deelnemers SCF Community uitnodigen op schaal, podcast-datacollectie via Boolean-zoekopdrachten (terminologie-variaties) | "Whatever AI we use, we have to be absolutely clear that we don't bias it in any way or form." | [PDF](downloads/interview-2026-06-18-rea-vaz.pdf) · [Word](downloads/2026-06-18-rea-vaz.docx) |
+| 2026-06-29 | Mounia Belmamoune | Researcher / docent / projectcoördinator | Data bundelen en verslag schrijven, e-mail via Copilot/AI, presentaties en flyers, fraude-verslagen via Word dictation | "Ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel. Dat wordt niet gebruikt om andere modellen te trainen." | [PDF](downloads/interview-2026-06-29-mounia-belmamoune.pdf) · [Word](downloads/2026-06-29-mounia-belmamoune.docx) |
 
 Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 
@@ -29,7 +30,6 @@ Alle radartjes staan live bijgehouden in het [dashboard](/dashboard.html).
 |---|
 | Corné de Ruijt |
 | Monique Mensen |
-| Mounia Belmamoune |
 | Henri Grolleman |
 
 ## Wat een klein radartje is

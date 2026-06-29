@@ -1,0 +1,527 @@
+---
+title: "Interview: Mounia Belmamoune"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: Mounia Belmamoune
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | 2026-06-29 |
+| Collega | Mounia Belmamoune |
+| Rol | Researcher / docent / projectcoördinator (4 dagen/week Windesheim) |
+| Gespreksvorm | Mondeling, één op één (online) |
+| Duur | 41 minuten |
+| Taal | Nederlands |
+
+---
+
+## Jouw positie in het bredere beeld
+
+### AI-gebruik vergeleken -- 17 collega's
+
+Van de 17 geïnterviewde collega's is Mounia een actieve en pragmatische AI-gebruiker. Ze doet het gewoon: data invoeren, output ophalen, kleine aanpassingen, klaar. Geen uitgebreide setup, geen aarzeling over of het mag -- wel een bewust opgezette privacy-aanpak die opvalt.
+
+Vergelijkbaar in pragmatisme: Ronald de Boer (ook meerdere tools naast elkaar, oplossingen zoeken), Yolanda Beenen (ChatGPT voor rapport-output). Mounia onderscheidt zich door de combinatie van rollen (MITC + Sprong groep + examencommissie + onderwijs + supply chain finance) en haar bewuste ChatGPT-project setup met data-sharing uitgeschakeld.
+
+### Gedeelde radartjes
+
+**E-mail via Copilot/AI**: Mounia wil een geïntegreerde AI in haar mailomgeving. Dit is hetzelfde signaal als Ronald de Boer ("met mail kan ik niks"), Stefan Hoogervorst (post-meeting follow-up loopt weken achter) en Michiel Steeman (Copilot bij inChange werkt goed, bij Windesheim uitgeschakeld). Het is een beleidsvraag, geen toolkeuze.
+
+**Verslagen schrijven vanuit verzamelde data**: Mounia doet dit al met ChatGPT (hackathon-evaluatieverslag: data uit Excel + mails → verslag in no time). Dit raakt Greg Cronie's radartje (survey data visualiseren + terugkoppelen) en Paulien de Graaf-Muller (Forms-export opschonen voor analyse).
+
+**Presentaties en flyers**: Vindt AI output niet overtuigend -- zelfde als Luca Gelsomino ("complete garbage"), Ritsaart Bergsma (zoekt betere automatisering) en Christiaan de Goeij (halve dag per deck). Bart Ras heeft het opgelost bij zijn MKB-werk maar doet het bij Windesheim nog niet.
+
+**Face-to-face vergadering transcriberen**: Mounia gebruikt Word-dicteerfunctie voor fraude-gesprekken in de examencommissie -- een partiële oplossing die Bart Ras ook zoekt (diarizatie bij fysieke meetings werkt nog niet goed). Mounia heeft dit al gevonden voor haar eigen gebruik.
+
+### Wat jij toevoegt aan het bredere beeld
+
+Twee dingen die tot nu toe ontbraken of maar één keer voorkwamen:
+
+1. **Bewust afgesloten ChatGPT-projectomgeving als privacy-aanpak.** Mounia heeft een project aangemaakt in ChatGPT en de data-sharing-instelling uitgeschakeld ("ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel"). Ze bewaart daar de belangrijkste projectdocumenten zodat ze niet telkens opnieuw context hoeft te geven. Dit is de meest bewust ingestelde privacy-aanpak voor een cloud-tool die in de interviews naar voren is gekomen -- en het is overdraagbaar.
+
+2. **Word-dicteerfunctie voor fraude-verslagen.** Examencommissie-gesprekken zijn fysiek, confidentieel, en kunnen niet via Teams worden getranscribeerd. Mounia heeft gevonden dat Word's ingebouwde dicteerfunctie daar een werkend alternatief is. Dit raakt het bredere probleem van face-to-face meeting transcriptie dat meerdere collega's noemen maar nog niet hebben opgelost.
+
+### Handige werkwijzen van collega's
+
+**Yolanda Beenen** bewaart de context van een subsidietraject in ChatGPT (transcript + subsidievoorwaarden) en werkt iteratief per sectie. Mounia doet iets vergelijkbaars voor projectverslagen. De stap naar Yolanda's subsidie-aanpak is klein.
+
+**Greg Cronie** had voor zijn survey-analyse een ChatGPT-skill gebouwd die data invoerde en output genereerde. Mounia doet handmatig wat Greg als herbruikbare skill had ingericht. Zolang Greg nog bij Windesheim is (tot eind juni 2026), is dit een directe overdragingsmogelijkheid.
+
+**Ritsaart Bergsma** gebruikt Claude Code voor Python. Mounia wil Claude gaan gebruiken voor programmeren. Ritsaart is de aangewezen persoon om mee te sparren.
+
+---
+
+## Digitale toolkit
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| ChatGPT | AI/LLM | Verslagen en rapporten schrijven vanuit data; projectplannen; context bewaren in private projectomgeving | Dagelijks | Hoog | Project aangemaakt met data-sharing uitgeschakeld -- bewuste privacy-keuze |
+| Consensus | Literatuur | Papers zoeken, vinden en rankschikken voor literatuuronderzoek | Incidenteel | Hoog | Abonnement (mogelijk verlopen); wil er meer gebruik van maken |
+| VS Code + Copilot | Ontwikkeling | Python programmeren; code-assistentie | Regelmatig | Middel | Copilot loopt aan einde van maand op limiet; overweegt Claude |
+| Anaconda | Ontwikkeling | Python-omgeving | Regelmatig | Neutraal | |
+| Word | Documenten | Schrijven; dicteerfunctie voor fraude-verslagen examencommissie | Dagelijks | Hoog | Dicteerfunctie werkt goed voor fysieke gesprekken |
+| Excel | Documenten | Data bundelen; overzichten | Regelmatig | Hoog | |
+| PowerPoint | Documenten | Presentaties | Regelmatig | Neutraal | Vindt AI-output voor presentaties niet overtuigend |
+| Microsoft Teams | Communicatie | Vergaderen + interne communicatie | Dagelijks | Neutraal | |
+| Outlook | Communicatie | E-mail | Dagelijks | Neutraal | Wil AI geïntegreerd in mail |
+| Paint | Andere | Afbeeldingen snel bewerken | Regelmatig | Hoog | "Quick and dirty, maar ik vind het heel fijn" |
+| Canva | Andere | Visueel ontwerp (gestopt) | Gestopt | -- | Abonnement opgezegd vanwege teleurstelling |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+**Rol en werkprocessen**
+
+Mounia werkt 4 dagen/week bij Windesheim (niet 1 dag -- die 1 dag geldt alleen voor het Lectoraat Supply Chain Finance zelf). Haar tijd is verdeeld over:
+
+1. **MITC-project** (Mobility and Infrastructure Test Centre, Marknisse): organiseert masterclasses voor partners (NLRDV, Politieacademie, DNW, anderen). Project eindigt eind juni 2026. Gefinancierd door de provincie. Circa 1 dag/week.
+2. **Urban Innovation / Hackathons**: Data Science-studenten werken aan projecten van partners; Mounia coördineert, bundelt resultaten en communiceert naar opdrachtgevers.
+3. **Sprong groep** (Windesheim + HVA samenwerking): schrijft projectplannen. Circa 1 dag/week.
+4. **Onderwijs**: Data Science-vak (programmatisch toetsen = veel nakijkmomenten, iedere twee weken inlevermoment).
+5. **Examencommissie**: fraude-gesprekken, verslagen schrijven.
+
+**ChatGPT-projectomgeving als privacy-oplossing**
+
+Mounia heeft een (of meerdere) projecten aangemaakt in ChatGPT per context (MITC, Sprong groep). Data-sharing instelling uitgeschakeld zodat geen gegevens worden gedeeld of gebruikt voor modeltraining. Bewaart daar de belangrijkste documenten, zodat ze niet telkens opnieuw context hoeft te geven. Workflow voor verslagen: data (Excel/mails) invoeren + gewenste structuur beschrijven → ChatGPT genereert basisdocument → kleine aanpassingen → klaar.
+
+**Examencommissie en Word dictation**
+
+Fraude-gesprekken zijn fysiek en vertrouwelijk. Mounia vraagt toestemming voor opname, neemt het gesprek op, en gebruikt daarna Word's dicteerfunctie om het snel om te zetten naar verslag. Ze noemt dit zelf als een mooie oplossing die werkt. Ze beseft dat dit veilig is en toegestaan.
+
+**Visualisaties en presentaties**
+
+Mounia mist creativiteit en een visuele tool die goed werkt. ChatGPT voor presentaties vindt ze niet onder de indruk. Canva had ze een abonnement op maar heeft het opgezegd. Gebruikt Paint voor snel beeldbewerken. Wil eigenlijk een goede visualisatietool.
+
+**Code en programmeren**
+
+Werkt met Python (data analyses, datasets). VS Code met Copilot als extensie. Copilot raakt maandelijks uitgeput. Wil Claude gaan uitproberen voor programmeerwerk. Chris heeft haar aan het einde van het interview Quarto laten zien -- ze reageerde geïnteresseerd.
+
+---
+
+## Gestructureerde Q&A
+
+### 1. Recente taak (opener)
+
+> "In de afgelopen week, waar was je het meeste tijd mee kwijt?"
+
+MITC-vergadering voorbereiden + toelichten, hackathon nazorg bundelen en communiceren, voorbereiding nieuwe hackathon komend semester. Versnipperd werk over meerdere projecten tegelijk.
+
+### 2. Werkproces: data bundelen + verslag schrijven
+
+> Hoe pak je dat aan als je een evaluatie of verslag moet schrijven?
+
+Mounia verzamelt informatie uit meerdere bronnen (mails, formulieren, Excel). Dat invoert ze in haar ChatGPT-projectomgeving en geeft een gewenste structuur op. ChatGPT genereert een basisdocument. Kleine aanpassingen en het is klaar. "Dat is normaal gesproken als het bewerk van... een kleine aanpassingen was het gewoon klaar." Ze noemt dit als haar grootste tijdwinst.
+
+### 3. AI-gebruik
+
+> "Welke tools gebruik jij voor AI?"
+
+ChatGPT dagelijks (projectomgeving, data-sharing uitgeschakeld). Consensus voor literatuur (abonnement, maar komt er te weinig aan toe). VS Code Copilot voor Python. Overweegt Claude. Heeft Perplexity geprobeerd maar gebruikt het niet.
+
+### 4. Privacy bij AI
+
+> Hoe zorg je dat je data veilig blijft?
+
+Heeft een project aangemaakt in ChatGPT met data-sharing uitgeschakeld. "Ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel. Dat wordt niet gebruikt om andere modellen te trainen." Bewuste keuze.
+
+### 5. E-mail en agenda
+
+> "Wat is het grootste knelpunt in je dagelijkse werk?"
+
+E-mail verwerken kost veel tijd. Wil een AI-tool geïntegreerd in haar mailomgeving die voor haar mee kan denken, kan samenvatten en verwerken. Copilot zou dit kunnen -- maar staat bij Windesheim uitgeschakeld.
+
+### 6. Magische stagiairvraag
+
+> "Stel er zit een slimme stagiair een week naast je zonder eigen opdracht. Wat laat je hem eerst doen?"
+
+"Alle vervelende verslagen schrijven, notities schrijven en suffewerk." Specifiek: data bundelen en evaluatieverslag schrijven, flyers ontwerpen voor evenementen. Analysewerk doet ze liever zelf (ze kent het onderwerp het beste).
+
+---
+
+## Radartjes
+
+| Werkproces | Klein radartje | Input | Gewenste output | Frequentie | Gevoeligheid | Huidige tool | Opmerking |
+|---|---|---|---|---|---|---|---|
+| Verslaglegging / rapportage | Data bundelen en evaluatieverslag schrijven | Excel + feedbackdata uit mails/formulieren | Gestructureerd verslag (evaluatie, hackathon, projectrapport) | Per project / hackathon (meerdere per jaar) | Laag tot middel | ChatGPT (al in gebruik) | Mounia doet dit al goed; workflow overdraagbaar als best practice |
+| E-mailbeheer | AI geïntegreerd in mailomgeving voor samenvatten en verwerken | Inkomende mailbox | Samenvatting per mail + aanbevolen actie | Dagelijks | Middel | Handmatig (Outlook) | Copilot uitgeschakeld bij Windesheim; zelfde signaal als Ronald, Stefan, Michiel |
+| Presentaties en flyers | Visueel aantrekkelijke presentaties en flyers genereren vanuit tekst | Inhoud/tekst + opdrachtomschrijving | Klare presentatie of flyer | Regelmatig | Laag | Handmatig (PowerPoint/Paint; Canva opgezegd) | ChatGPT en Canva teleurstellend; zoekt betere visuele tool |
+| Examencommissie | Fraude-verslagen schrijven via dicteerfunctie | Opgenomen fysiek gesprek | Gestructureerd verslag | Per fraudezaak | Hoog | Word dicteerfunctie (al in gebruik) | Al opgelost; wel beperkt tot wanneer gesprekspartner toestemming geeft |
+
+---
+
+## Letterlijke signalen
+
+- "Ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel. Dat wordt niet gebruikt om andere modellen te trainen."
+- "Dat is normaal gesproken als het bewerk van... een kleine aanpassingen was het gewoon klaar."
+- "Als het bijvoorbeeld een geïntegreerd AI tool toegestaan is door Windesheim, binnen mijn mail... dan gaat hij wat voor werk voor mij doen."
+- "We denken dat AI helpt, maar hij maakt alleen maar nog meer werk, want je maakt je handen vrij van één dingen, daarna komen nog meer dingen bij."
+- "Alle van die vervelende verslagen schrijven, notities schrijven en suffewerk." [magische stagiairvraag]
+- "Analysewerk -- dat doe ik zeker liever zelf."
+- "Visualisaties zijn nog niet helemaal... ik mis creativiteit."
+- "Het is heel handig, dat is veilig en dat is toegestaan." [over Word dicteerfunctie]
+
+---
+
+## Nog niet oplossen
+
+- Copilot integratie in Outlook: dit is een beleidsbeslissing van Windesheim, niet iets wat Mounia zelf kan oplossen.
+- Betere visuele tool: Mounia heeft Canva al geprobeerd en opgezegd. Het is niet alleen een tool-keuze -- ze zoekt ook naar een andere aanpak voor visuele output.
+
+---
+
+## Samenvatting voor weekupdate
+
+**Rol/context collega:** researcher / docent / projectcoördinator, 4 dagen/week Windesheim. Combineert MITC-masterclassen, hackathon-organisatie, Sprong groep (Windesheim + HVA), Data Science onderwijs, en examencommissie.
+
+**In het kort:** Mounia is een actieve, pragmatische AI-gebruiker die het gewoon doet. Grootste tijdwinst: data uit meerdere bronnen invoeren in ChatGPT en een basisdocument ophalen -- evaluatieverslagen en rapporten "in no time." Ze heeft een bewuste privacy-aanpak gebouwd (project aangemaakt, data-sharing uitgeschakeld). Sterkste onopgeloste radartje: e-mail via Copilot/AI, maar dat is beleid.
+
+**Kleine radartjes:**
+
+- Data bundelen + evaluatieverslag schrijven (al in gebruik, overdraagbaar als best practice)
+- E-mail via AI geïntegreerd in mailomgeving (beleidsvraag, Copilot uitgeschakeld)
+- Presentaties en flyers (AI output teleurstellend, zoekt betere tool)
+- Fraude-verslagen via Word dictation (al opgelost)
+
+**Al in gebruik:** ChatGPT (privé projectomgeving, data-sharing uit); Consensus; VS Code + Copilot; Word dictation.
+
+**Sterkste signaal:** "Ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel." -- meest bewust ingestelde privacy-aanpak voor cloud-AI in alle interviews.
+
+---
+
+## Aanbevolen tools en tips
+
+### 1. Gamma (gamma.app) voor presentaties en flyers
+
+Mounia's klacht over AI-output voor presentaties ("ik mis creativiteit") is precies waar Gamma op ingaat. Gamma genereert complete presentaties inclusief opmaak, visuals en layout vanuit een tekstprompt -- niet alleen de bullets, maar het complete deck. 70M+ gebruikers, gratis basisversie, direct testbaar. Anders dan ChatGPT-output, die losse tekst geeft die je zelf nog moet opmaken.
+
+### 2. ChatGPT-projectaanpak delen als best practice
+
+Mounia's manier van werken -- een project aanmaken per context, data-sharing uitgeschakeld, documenten daarin bewaren -- is overdraagbaar en privacybewust. Dit is iets wat Paulien de Graaf-Muller en anderen kunnen overnemen die worstelen met privacy-drempels bij cloud-AI.
+
+### 3. Claude Code voor programmeerwerk
+
+Mounia overweegt al een Claude-abonnement voor programmeren. Claude Code is de directe stap: beter voor Python dan Copilot in VS Code, geen maandlimiet, integreert direct in de terminal. Ritsaart Bergsma gebruikt het al en kan demo geven.
+
+### 4. Word dicteerfunctie breder inzetbaar
+
+Mounia heeft ontdekt dat Word's dicteerfunctie goed werkt voor fraude-gesprekken (fysiek, confidentieel). Dit is een directe oplossing voor het bredere probleem van face-to-face meeting transcriptie dat Bart Ras en anderen noemen.
+
+---
+
+## Research buddy
+
+**Ritsaart Bergsma** -- Claude Code gebruiker, Python achtergrond. Direct relevant voor Mounia's overweging om Claude te gaan gebruiken voor programmeerwerk. Ritsaart kan in 30 minuten laten zien hoe het werkt.
+
+**Greg Cronie** -- heeft voor zijn survey-analyse een ChatGPT-skill gebouwd die doet wat Mounia al handmatig doet. Mounia kan zijn aanpak overnemen zolang hij nog bij Windesheim is (tot eind juni 2026).
+
+**Yolanda Beenen** -- gebruikt ChatGPT-contextopbouw voor subsidies op dezelfde manier als Mounia voor verslagen. Potentiële samenwerking bij het uitschrijven van subsidieaanvragen via gezamenlijke projectomgeving.
+
+---
+
+## Volledige transcriptie
+
+*Verbatim transcript uit Teams-opname van 29 juni 2026. Uitsluitend voor intern gebruik.*
+
+Survey IT tool usage-20260629_105933-Transcriptie van vergadering
+29 juni 2026, 08:59a.m. | 41m 54s
+
+**Spreker 1 0:03** En dus ik. Ik heb nu de transfercripe gestart dat je het eventjes weet, dus daar voel ik mij goede orde, kan jij?
+
+**Mounia Belmamoune 0:06** Ja is goed, ja ja.
+
+**Spreker 1 0:12** Mij vertellen wat jouw rol is binnen het Nectoraat Supplen Finance hoeveel uur per week je daarvoor werkt.
+
+**Mounia Belmamoune 0:21** Mijn rol op dit moment is een beetje stil. Niet helemaal stil, dus ik ben uitgeleend. Voor om met de de taak van nidala af te ronden binnen het project METC. Wij organiseren masterclassen voor partners van MITC. Marken is, mobiliteit, infrastructuur testcentrum in Marknissen. Daar zijn partners aangeboden. NLRDV, Politieacademie, DNW. Er is een website trouwens, en je kunt ook naar onze activiteiten vinden en wij organiseren masterclassen tussen deze partners onderling en het onderwijs. Waaronder Windesheim en 4 dagen en er zijn 3 lectoraten aan verbonden. Ook Supply chain finance aan de ene kant en het lectoraat van Eric Fleurius en dit lectoraat van Evertiaan. Dat is de taak die ik momenteel uitvoer.
+
+**Spreker 1 1:26** Zo.
+
+**Mounia Belmamoune 1:26** Dus ja eigenlijk het project is eind juni klaar.
+
+**Spreker 1 1:31** OK en hoeveel uur per week doe je dit nu?
+
+**Mounia Belmamoune 1:31** Dat is volgens mij één dag in de week.
+
+**Spreker 1 1:39** Één dag in de week en dan doe je dit allemaal.
+
+**Mounia Belmamoune 1:40** Ja ja ja.
+
+**Spreker 1 1:43** Dat is veel vandaag.
+
+**Mounia Belmamoune 1:46** Het is heel veel voornamelijk nazorg. Want je moet die sessies die we -- er is wel een groot werk gedaan. We hebben sessies georganiseerd, was één keer in de maand en daar kwamen gewoon ongeveer 30 mensen naartoe. Vanuit deze organisaties en ze gingen met de sessies: kennis delen in de ochtend en daarna mogelijkheden voor samenwerking ophalen in de middag. Dat is iets die wij organiseren, doe ik samen met iemand uit en werk. Je krijgt ook ondersteuning van de provincie. Dat is een project die wordt eigenlijk gefinancierd door de provincie. En daarna moeten wij nazorg doen, dus die acties bundelen. En daarna communiceren aan de rest en daarna richten nieuwe sessie toe. En de laatste moeten wij ook deze acties bundelen en organiseren, categoriseren, temporiseren, de voortgang bewaken en die communiceren naar de stuurgroep van de verschillende organisaties om acties te ondernemen. We hebben notities geschreven, dat hoort ook bij.
+
+**Spreker 1 3:03** OK. Dit doe jij voor één dag in de week. En werk je dan naast Windesheim nog bij een andere werkgever?
+
+**Mounia Belmamoune 3:13** Nee, ik werk alleen maar bij Windesheim.
+
+**Spreker 1 3:16** En dan ben je de hele week?
+
+**Mounia Belmamoune 3:17** Ja ja ja.
+
+**Spreker 1 3:25** Als je dan kijkt naar afgelopen week, waar was je dan het meeste tijd mee kwijt?
+
+**Mounia Belmamoune 3:39** Nou in MITC heb ik best veel tijd aan besteed. Want wij hebben ook via een andere project hackathons georganiseerd. We hebben een hackathon georganiseerd voor data Science studenten, ze hebben gewerkt aan projecten van de partners.
+
+**Spreker 1 4:02** Zo. Ja.
+
+**Mounia Belmamoune 4:12** En daarna moest ik die -- wat zij gedaan hebben -- bundelen en communiceren aan de opdrachtgevers. Dus dat is één. Heb ik best veel tijd gehad. En vaak in de ochtend met MITC groep. Er is niet een taak die ik veel tijd aan besteed heb, maar versnipperd. Maar ik denk dat het meeste gedeelte ging naar de vergadering. Die moest ook voorbereiden en mijn taak vond ik masterclass ook toelichten tijdens de vergadering en daarna die nazorg in verband met de hackathon. Dan heb ik best veel tijd besteed. En ook voorbereidende richting een nieuwe hackaton die wij willen organiseren in het volgende semester.
+
+**Spreker 1 5:01** En dat doe je allemaal in één dag.
+
+**Mounia Belmamoune 5:12** Nou de hackathon is los van de masterclassen. Maar dat loopt via mijn lectoraat hier dus niet bij het Lectoraat Supply Chain Finance. We hebben één opdrachtgever: MITC, dat klopt via de provincie. Zij hebben een project gefinancierd die ging over masterclassorganisatie. Dat hebben wij gedaan en dat potje ging naar Supply chain Finance. En wij organiseren ook hackathons -- twee willen wij organiseren dit jaar. Dat potje loopt via Urban Innovation.
+
+**Spreker 1 5:52** Leuk. Wat leuk.
+
+**Mounia Belmamoune 5:55** En ja, wat ik ook heb gedaan: ik werk bij een sprong groep. Dat loopt via Urban Innovation. En ik moest een projectplan schrijven. Dus dat heb ik ook gedaan.
+
+**Spreker 1 6:13** OK.
+
+**Mounia Belmamoune 6:14** Ja.
+
+**Spreker 1 6:15** Volgens mij werd jij veel meer dan één dag.
+
+**Mounia Belmamoune 6:18** Nee, ik bedoel één dag -- dat is voor Supply chain Finance.
+
+**Spreker 1 6:24** Ik zit eigenlijk aan te denken.
+
+**Mounia Belmamoune 6:24** Nee, ik werk 4 dagen in de week. Dat is voor Windesheim. Windesheim is mijn werkgever. Ik heb jouw vraag beantwoord.
+
+**Spreker 1 6:35** Dat is hartstikke goed hoor.
+
+**Mounia Belmamoune 6:36** Ja nee, Supply chain Finance is niet mijn opdrachtgever in zijn eentje. Nee, ik geef ook onderwijs. Bij het semester Data Science. Heb ik samen met mijn collega's lesgegeven en ik ben verbonden aan een projectgroep of een sprong groep en dat is een samenwerking van Windesheim en HVA. En dat daar heb ik een dag in de week. Dus ja.
+
+**Spreker 1 7:07** OKOK nou begin ik het een beetje te zien.
+
+**Spreker 1 7:13** Oké. En waar ik naar zoek, even voor jouw beeld, is welke acties herhaal jij nou veel? En zijn er enigszins een automatiseringsslag daar? Daar zoek ik naar.
+
+**Mounia Belmamoune 7:32** Ja klopt.
+
+**Spreker 1 7:34** Dus hij doet heel veel verschillende dingen. Je bent veel aan het e-mailen. Je bent veel aan het contactmomenten hebben met mensen. Ben je ook veel aan het schrijven? Ben je veel aan het nakijken?
+
+**Mounia Belmamoune 7:52** Fel aan het nakijken, dat hebben wij wel veel gedaan afgelopen semester met de Data Science, want dat is programmatisch toetsen. We hebben heel veel datapunten. Studenten gaan steeds, iedere twee weken hebben ze een inlevermoment, dus we moesten heel veel nakijken.
+
+**Mounia Belmamoune 8:16** Dat gebruik ik -- ik probeer zo niet zoveel AI te gebruiken voor dat stukje, want dat zijn gewoon werk van studenten enzovoort. Maar wat ik waar ik het meeste gebruik maak van AI: dat is bij het schrijven van projectvoorstellen of projectplannen enzovoort. Ik heb enerzijds MITC en anderzijds de sprong groep. Dus ik heb projecten gemaakt binnen mijn ChatGPT omgeving en ik heb het afgesloten van de buitenkant, zodat ik geen gegevens wissel. Dat wordt niet gebruikt om andere modellen te trainen, dus het is behoorlijk dicht. En daar probeer ik gewoon de belangrijkste documenten te plaatsen zodat ik niet iedere keer dingen ga herhalen.
+
+**Spreker 1 9:09** OK. En deze projectvoorstellen schrijven, doe je dat nog met iemand samen?
+
+**Mounia Belmamoune 9:19** Ja, dit is met collega's en.
+
+**Spreker 1 9:22** Maar met collega's van het Lectoraat Supply Chain Finance?
+
+**Mounia Belmamoune 9:26** Ja nee, ik ben met lectoraat hier. Ik weet het meeste hier in Almere.
+
+**Spreker 1 9:31** OK. Oké dan krijg ik eigenlijk nu een buitenhoek kijkje. Lectoraat Supply Chain Finance is heel veel bezig met het schrijven van nieuwe projectvoorstellen. En jij doet het dus ook. Waar vind jij de meeste tijd in gaan zitten?
+
+**Mounia Belmamoune 9:58** Het meeste tijd is ook toch die mailtjes lezen en af en toe moet ik terugkijken wat waarover we het hadden en dingen teruglezen. Nou hij helpt een beetje, maar wat ik mooi zou vinden als het bijvoorbeeld een geïntegreerde AI tool toegestaan is door Windesheim, binnen mijn mail -- een copilot of whatever -- die kan trainen en dan gaat hij wat voor werk voor mij doen, dat ik dingen op een matige manier invoer, uitvoer etcetera.
+
+**Spreker 1 10:37** Ja.
+
+**Mounia Belmamoune 10:37** Dat is best heel veel. Dus we denken dat AI helpt, maar hij maakt alleen maar nog meer werk, want je maakt je handen vrij van één ding, daarna komen nog meer dingen bij.
+
+**Spreker 1 10:50** Ja, zelfs als het goed werkt creëert het alleen maar meer werk.
+
+**Mounia Belmamoune 10:50** Ja. Ja, daarom.
+
+**Spreker 1 12:02** Gebruik jij ook ChatGPT of?
+
+**Mounia Belmamoune 12:02** Voornamelijk. En ik heb ook constant... Consensus app.
+
+**Spreker 1 12:14** Consensus app.
+
+**Mounia Belmamoune 12:16** Die gebruik ik af en toe. Ik heb zelf een abonnement, maar de laatste tijd kom ik er niet aan toe om er volledig van te profiteren.
+
+**Spreker 1 12:26** Ja. En die gebruik jij voornamelijk voor literatuuronderzoek?
+
+**Mounia Belmamoune 12:30** En als ik papers wil vinden en ook categoriseren en rankschikken enzovoort.
+
+**Spreker 1 12:45** Heb je ook Perplexity geprobeerd?
+
+**Mounia Belmamoune 12:50** Perplexity is betaalbaar, moet je voor betalen. Maar die gebruik ik niet. Ik heb het een tijdje geprobeerd, maar nu ben ik tevreden met ChatGPT. En ik heb er ook een agent.
+
+**Spreker 1 13:11** Leuk.
+
+**Mounia Belmamoune 13:16** Ik was bezig met de projectvoorstellen. Toen heb ik een agent. Getraind om het voorstel te schrijven. Dus dat is wel fijn.
+
+**Spreker 1 13:22** Nice. Je zegt je agent getraind.
+
+**Mounia Belmamoune 13:27** Ja.
+
+**Spreker 1 13:28** Je bedoelt een instructietaal geschreven, toch?
+
+**Mounia Belmamoune 13:31** Ja ja gewoon gemaakt en ook instructie gegeven.
+
+**Spreker 1 13:41** Want training is een heel specifiek iets.
+
+**Mounia Belmamoune 13:50** Ja.
+
+**Spreker 1 13:51** Maar dat is wel een stukje complexer dan wat de meeste mensen doen. Dat is met finetuning.
+
+**Mounia Belmamoune 14:03** Voor diepgaande onderzoek heb ik dat gedaan.
+
+**Spreker 1 14:09** Je eigen model, je hebt een eigen agent gemaakt of heb je een model getraind? Dat is een groot verschil.
+
+**Mounia Belmamoune 14:26** Ja. Nee, eentje het maken en daarna ga ik trainen met mijn eigen data.
+
+**Spreker 1 14:35** Ja OK nou snap ik het. Hartstikke indrukwekkend hoor. Ben je al meer bezig dan extra mensen.
+
+**Spreker 1 14:49** Heb je ook andere tools gebruikt?
+
+**Mounia Belmamoune 14:55** Nee, niet echt. Nee, dat zijn de belangrijkste tools die ik gebruik. Af en toe Claude, maar ik ben nog niet echt aan toegekomen om ermee te gaan gebruiken. Dat daar wil ik me in gaan verdiepen en ik zit te denken over een abonnement te gaan nemen, maar voornamelijk om te programmeren.
+
+**Spreker 1 15:03** OK. En jij programmeert dus ook voor je werk.
+
+**Mounia Belmamoune 15:17** Ja af en toe datasets bewerken met Python.
+
+**Spreker 1 15:28** Welke tools gebruik jij om Python te programmeren?
+
+**Mounia Belmamoune 15:36** We hebben een omgeving gemaakt. Anaconda natuurlijk, en dan de rest. Maar voor mijn werk gebruik ik VS Code en daarin heb je ook geïntegreerd een copilot.
+
+**Mounia Belmamoune 16:05** En daarin faciliteert die ook programmeerwerk.
+
+**Spreker 1 16:11** En dat werkt voor jou? Copilot werkt voor jou.
+
+**Mounia Belmamoune 16:15** Ik vind het wel fijn. Alleen het -- af en toe, als je teveel gebruikt, dan op een gegeven moment het eind van de maand, dan heb je geen mogelijkheden om ondersteund te worden.
+
+**Spreker 1 16:40** Snap ik. Heb je ook dingen geprobeerd met ChatGPT of Claude of Consensus die niet lukte?
+
+**Mounia Belmamoune 17:03** Ja, bijvoorbeeld mooie presentaties maken of goede presentaties maken -- ben ik nog steeds niet zo. Ik doe veel handmatig. Ik mis creativiteit. Ook met flow diagrammen te maken enzovoort vind ik wel fijn. Ik ben heel erg visueel ingesteld, dus ik vind dingen leuker om te visualiseren dan een hoop tekst te schrijven. Nou, met ChatGPT -- ik ben niet zo onder de indruk van wat hij maakt. Het is gewoon visualisaties, misschien moet ik meer naar de echte visualisatietool gaan. Ik gebruik Canva voor mijn hobby, maar daar ben ik ook niet zo onder de indruk van. Ik had zelfs een abonnement genomen, die heb ik opgezegd. Dus visualisaties zijn nog niet helemaal.
+
+**Spreker 1 18:23** Als jij samenwerkt met collega's en jij zit een subsidievoorstel te maken en je hebt haast -- wat laat je weg?
+
+**Mounia Belmamoune 18:35** Goed, ik snap jouw vraag niet. Als ik haast heb, ga ik eerst indienen.
+
+**Spreker 1 18:39** Ja, maar waar zijn dingen waar je minder aandacht aan besteedt?
+
+**Mounia Belmamoune 18:49** Nee, het is geen haastwerk. Het is zorgvuldig. En als wij dingen indienen, dan moet het gereviewd worden een paar keer. Of wij doen het op de goede manier of wij gaan het niet indienen. Er is geen haastwerk.
+
+**Spreker 1 19:10** OK.
+
+**Mounia Belmamoune 19:11** Hard werk misschien. Nou nee, geen haastwerk, want we zijn gestraft. Vroeger werd ik gestraft als er haast bij was. Meestal werd het ook niks. Maar de reviewsessies die moeten wel uitgevoerd worden, dat doen we samen.
+
+**Spreker 1 19:32** Welke shortcuts of hacks of makkelijke dingen heb jij gevonden om je werk makkelijker te maken?
+
+**Mounia Belmamoune 19:41** Ja, bijvoorbeeld: ik moest een evaluatie maken of schrijven over de hackathon. Ja, nou, ik heb informatie verzameld vanuit verschillende hoeken. Die kwam via de mails, ik heb ook een formulier gemaakt. Dus ik had uiteindelijk een Exceltje met allerlei antwoorden. Feedback van de collega's. Dat was best veel informatie en in plaats van te gaan typen en een mooie Word maken: ik heb al deze informatie gewoon ingevoerd in de projecten van MITC. Dit is een evaluatieverslag, ik ben zoveel pagina's, zoveel woorden, en het heeft het gewoon gelijk gemaakt. Een kleine aanpassingen was het gewoon klaar. Dat is -- dat is normaal gesproken als het bewerk van... En het Nederlands is niet mijn moedertaal, dus om dingen te schrijven: meestal worstel ik met de, weet je wel.
+
+**Spreker 1 20:38** Ja.
+
+**Mounia Belmamoune 20:43** Dus dat is wel fijn. Dan kan ik het schrijven en daarna delen met collega's, kunnen ze daarna gewoon wat feedback of toevoegingen aangeven. Maar het basiswerk is gedaan in no time. Dus meestal gaat het werk waarbij ik het leuk vind: als ik verschillende data heb, voer ik die in en ik geef welke constructie wil ik of welke output wens ik -- met een goede prompt schrijven -- en dan tenminste de basis krijgen voor een document die ik daarna moet aanpassen.
+
+**Spreker 1 21:23** En kopieer plak jij dat dan in Word?
+
+**Mounia Belmamoune 21:30** Het kan zijn dat hij voor mij ook zelf een Word document maakt. Dan hoef ik dat niet zelf te gaan plakken. Maar als het gaat om paragrafen of alinea's, dan plak ik het wel en pas ik het aan als dat nodig is.
+
+**Spreker 1 21:55** Is dat een onderzoek die je doet of is dat alleen maar voor het lectoraat?
+
+**Mounia Belmamoune 22:01** Dit is, het is voor het lectoraat, maar het is wel een onderzoek. Ik probeer te kijken waar liggen nou de echte kansen en wat is echt nuttig. IT tools die kunnen heel veel, maar het is belangrijker om te zien wat is nou echt nuttig.
+
+**Spreker 1 22:56** Je gebruikt Outlook, neem ik aan, je gebruikt Excel, heb ik gehoord. Je hebt ChatGPT gebruikt, je gebruikt Consensus. Gebruik je Copilot in Visual Studio Python. Klopt dat, heb ik gehoord? Mis ik nog tools die jij gebruikt?
+
+**Mounia Belmamoune 23:19** Ja, Word, PowerPoint -- de basis dingen die wij allemaal gebruiken. Ik zou niet weten -- ik gebruik Paint voor mijn plaatjes te verwerken. Ik gebruik Paint, het is heel raar.
+
+**Spreker 1 23:40** Nee nee. Als het werkt, wat maakt dat nou uit?
+
+**Mounia Belmamoune 23:57** Ja af en toe, ik vind het makkelijk, lekker quick and dirty. Kanalen heb ik ook gebruik gemaakt, maar zoveel.
+
+**Mounia Belmamoune 24:13** Op mijn laptop van werk heb ik niet zoveel. Ik probeer niet zoveel dingen te installeren of te gebruiken. Het is puur voor werk. We maken heel veel gebruik van Teams omgeving en het zou mooi zijn als we een AI tool geïntegreerd in kunnen hebben, weet je wel?
+
+**Spreker 1 24:40** Ja.
+
+**Mounia Belmamoune 24:41** Dat zou ook het leven makkelijker kunnen maken. Word, je hebt de dicteren in het woord. Weet je, je hebt de optie om te gaan dicteren. En bij nieuwe documenten kun je ook opname maken toch?
+
+**Spreker 1 25:06** Is dat zo?
+
+**Mounia Belmamoune 25:06** Ja, dicteren, ja dicteren.
+
+**Mounia Belmamoune 25:19** Ja, dan bijvoorbeeld als ik bij de examencommissie zit en af en toe moeten wij van die notities schrijven of verslag schrijven van een fraudezaak. Student heeft gefraudeerd, komt hier in gesprek. Dan nemen wij eerst toestemming voor opname en dan kan ik het opnemen, het gesprek opnemen. En als je eenmaal klaar is, dan kan ik van dat gesprek in Word gelijk een verslagje van maken. En ja, die gesprekken zijn meestal fysiek. Als het online is, dan ga je transcriberen zoals Teams, maar als ze live of fysiek zijn, dan gebruik ik Word.
+
+**Spreker 1 25:55** Ik, ik probeer het nu zelf. Ja ja.
+
+**Mounia Belmamoune 26:15** Het is heel handig. Dat is veilig en dat is toegestaan.
+
+**Spreker 1 26:19** Ja maar het is precies wat ik zeg. Het zijn heel kleine simpele dingen maar het kan voor heel veel mensen een groot verschil maken. Mira bijvoorbeeld, kan dit een wereld van verschil maken.
+
+**Spreker 1 26:39** Stel, er zit een slimme stagiair een week naast je. En deze heeft geen specifieke opdracht, behalve jouw leven beter maken. Wat laat je hem eerst doen?
+
+**Mounia Belmamoune 26:55** Mijn stagiaire... Alle van die vervelende verslagen schrijven, notities schrijven en suffewerk.
+
+**Spreker 1 27:22** Ja perfect.
+
+**Mounia Belmamoune 27:26** OKOK dus even heel rustig opnoemen. Wat is het suffewerk?
+
+**Mounia Belmamoune 27:32** Nou bijvoorbeeld, ik heb data, ik heb al mijn informatie, dat voorbeeld van de evaluatie. Ik heb het aangeleverd. Daarna moet ik alle informatie gaan bundelen en een verslagje schrijven over de evaluatie. Nou, zoveel studenten hebben dat gevonden. Dan kan ik dat aan hem laten doen, weet je wel? Of bijvoorbeeld flyers: als evenementen flyers willen, dan laat ik dat aan hem maken, ik niet gewoon daar een uurtje aan gaan besteden.
+
+**Spreker 1 28:09** Graag OK.
+
+**Mounia Belmamoune 28:10** Dat dat soort zaken. Analysewerk -- omdat ik meer weet over het onderwerp -- het voorwerk, analyseren, brainstormen enzovoort: dat doe ik zeker liever zelf. En de taken daarna, bij elkaar bundelen of mooier schrijven en mooier maken: dan laat ik het aan iemand anders doen.
+
+**Spreker 1 28:42** OKOK nou dankjewel voor al je antwoorden. Je bent een bron van informatie geweest. Ik zal je ook een verslag sturen.
+
+**Mounia Belmamoune 28:46** Ja.
+
+**Spreker 1 28:58** Ik wilde nog één ding je geven. Het is mogelijk om al deze AI tools direct in je VS Code te laten meeschrijven. Dat is gewoon mogelijk.
+
+**Mounia Belmamoune 29:12** Wat zei je?
+
+**Spreker 1 29:13** Het is mogelijk dat al deze tools die jij gebruikt -- consensus of ChatGPT -- dat je dat direct in je Visual Studio Code toevoegt in plaats van Copilot.
+
+**Mounia Belmamoune 29:27** OK.
+
+**Spreker 1 29:28** En ik dacht, ik geef je dat eventjes mee, want dat is makkelijk, een hele simpele. Als je 5 minuten zoekwerk doet op het internet. Dat helpt jou heel erg, want ik hoorde jou zeggen van aan het einde van de maand is Copilot uitgeput.
+
+**Mounia Belmamoune 29:40** Ja.
+
+**Spreker 1 29:48** Copilot uitgeput zeg maar en dan kan het niet meer schrijven. Ik ken dit probleem. Als je dus meerdere AI tools hebt, zoals consensus, die hebben meestal een API -- login zeg maar -- en die kan je dan vervolgens toevoegen aan je VS Code en dan kan je zeggen van: ik wil geen Copilot gebruiken, ik wil dit consensus gebruiken, en dan kan hij meeschrijven in die documenten. Of in je Python code. Je kan ook Word documenten in je VS Code openen.
+
+**Mounia Belmamoune 30:28** OK.
+
+**Spreker 1 30:29** Ik wist niet of je dat wist. Ik doe bijna alles met VS Code.
+
+**Mounia Belmamoune 30:35** OK. VS Code, ja.
+
+**Spreker 1 30:51** Dat is de -- daar werk jij toch mee, dat zeg je net.
+
+**Mounia Belmamoune 30:53** Ja ja ja. Ik heb een extensie: een copilot. Dan kan ik het gebruiken.
+
+**Spreker 1 31:00** Juist juist, en als je een extensie gebruikt voor Word bijvoorbeeld, dan kan je Word documenten openen, PDFs openen. En iets waar ik heel erg veel plezier van heb -- en ik moet helaas erg gaan -- is een programma genaamd Quarto.
+
+**Mounia Belmamoune 31:30** OK.
+
+**Spreker 1 31:30** Dat is een hele makkelijke manier om wetenschappelijke documentatie te bouwen. Met citaten erin.
+
+**Mounia Belmamoune 32:11** OK.
+
+**Spreker 1 32:12** En het werkt met Python en Rust geïntegreerd, dus je kan een slidedek bouwen. Het is gewoon tekst. Het werkt met LaTeX. Misschien ken je dat?
+
+**Mounia Belmamoune 32:18** Ja. Ja.
+
+**Spreker 1 32:24** Nou, dat zit aan de onderliggende laag. Het ziet er hetzelfde uit als LaTeX. Alleen het grote verschil is: je kan er websites mee bouwen, je kan er flyers mee bouwen, je kan er PowerPoint presentaties mee bouwen, je kan er wetenschappelijke academische artikelen mee schrijven. Het is ook bedoeld voor de wetenschappelijke academie en het mooie ervan is: het is allemaal tekst.
+
+**Mounia Belmamoune 32:52** Ja.
+
+**Spreker 1 32:53** En zoals je misschien al gemerkt hebt met de AI: dat werkt heel goed. Als je het met tekst laat werken, want het zijn tekstverwerkingsmachines. Alles wat met tekst werkt is in principe. Ze kunnen wel een video maken, ze kunnen diagrammen maken, maar dan beginnen ze eerst met tekst.
+
+**Mounia Belmamoune 33:01** Ja klopt.
+
+**Spreker 1 33:02** Het zijn tekstverwerkingsmachines, dus alles wat met tekst werkt. OK ik moet echt gaan, dankjewel voor je tijd.
+
+**Mounia Belmamoune 33:17** Ik ook, doei.
+
+**Spreker 1 33:19** Doei doei.
+
+**Mounia Belmamoune 33:19** Dankjewel, dag.
+
+*Chris Verhoef heeft de transcriptie gestopt*
