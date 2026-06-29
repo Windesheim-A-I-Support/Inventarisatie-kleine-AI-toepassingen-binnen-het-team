@@ -82,7 +82,7 @@ Ronald de Boer en Yolanda Beenen vullen uren en reiskosten handmatig in op basis
 
 ## Netwerk en partnerbeheer
 
-**Wie:** Richard Holman, Maxime Bouillon, Stefan Hoogervorst, Paulien de Graaf-Muller
+**Wie:** Richard Holman, Maxime Bouillon, Stefan Hoogervorst, Paulien de Graaf-Muller, Rea Vaz
 
 Netwerk- en partnerbeheer is sterk persoonsgebonden in het lectoraat. Iedereen heeft een eigen systeem -- of geen systeem.
 
@@ -92,6 +92,7 @@ Netwerk- en partnerbeheer is sterk persoonsgebonden in het lectoraat. Iedereen h
 - *Maxime*: data-collectie voor PhD vereist structureel prospects zoeken, benaderen, inplannen en bijhouden. Sterkste radartje voor hem.
 - *Stefan*: 16 consortiumpartners coördineren over meerdere agenda's. Post-meeting follow-up loopt nu 3-4 weken achter.
 - *Paulien*: persoonlijk netwerk, geen systeem, expliciet geen behoefte aan gedeeld CRM.
+- *Rea*: SCF Community event-organisatie (met Luca). Sponsors en locaties zijn vaste relaties. Sterkste pijnpunt: nieuwe mensen de ruimte in brengen. Interns doen dit tijdelijk -- maar die zijn er niet altijd.
 
 **Wat werkt**
 
@@ -170,7 +171,7 @@ Copilot zou e-mailbeheer kunnen adresseren, maar staat bij Windesheim uitgeschak
 | Data-analyse / survey | 6 | Ronald: Claude voor visualisaties | Laag tot middel |
 | Urenregistratie | 5 | Mira/Stefan: urenbrieven TKI | Laag |
 | Presentaties | 5 | Bart: 100x sneller bewezen | Laag |
-| Netwerk / partners | 4 | Richard: RECAP Excel als aanzet | Laag |
+| Netwerk / partners | 5 | Richard: RECAP Excel als aanzet | Laag |
 | Literatuuronderzoek | 4 | Michiel: Perplexity al in gebruik | Laag |
 | Onderwijs | 4 | Hendryk: FAQ-bot duidelijkste | Laag |
 | E-mailbeheer | 3 | Copilot werkt -- maar uitgeschakeld | Middel |
