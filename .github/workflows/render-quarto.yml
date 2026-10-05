@@ -54,17 +54,6 @@ jobs:
           quarto render interviews/interview-template-invulbaar.qmd --to pdf
           cp interviews/interview-template-invulbaar.pdf _site/downloads/interview-template-invulbaar.pdf
 
-      - name: Render ingevulde interviews (PDF + DOCX)
-        run: |
-          mkdir -p _site/downloads
-          for f in interviews/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*.qmd; do
-            base=$(basename "$f" .qmd)
-            quarto render "$f" --to pdf
-            cp "interviews/${base}.pdf" "_site/downloads/interview-${base}.pdf" 2>/dev/null || true
-            quarto render "$f" --to docx --output "${base}.docx"
-            cp "${base}.docx" "_site/downloads/${base}.docx" 2>/dev/null || true
-          done
-
       - name: Render interview-template als DOCX
         run: |
           quarto render interviews/_template-interview.qmd --to docx --output interview-template-invulbaar.docx

@@ -103,10 +103,9 @@ git push origin main
 ```
 
 ### 11. Email versturen
-1. Wacht tot GitHub Actions klaar is: `gh run list --limit 3`
-2. Download PDF: `curl -o /tmp/naam.pdf "https://windesheim-a-i-support.github.io/.../downloads/interview-DATUM-NAAM.pdf"`
-3. Maak EML aan met Python (email.mime) inclusief base64 PDF-bijlage en `X-Unsent: 1` header
-4. Open: `xdg-open updates/email-NAAM.eml` -- opent in Thunderbird
+1. Render PDF lokaal: `quarto render interviews/DATUM-NAAM.qmd --to pdf`
+2. Maak EML aan met Python (email.mime) inclusief base64 PDF-bijlage en `X-Unsent: 1` header
+3. Open: `xdg-open updates/email-NAAM.eml` -- opent in Thunderbird
 
 ## Pipeline: van DOCX naar gepubliceerd PDF
 
@@ -137,13 +136,13 @@ Rapport voltooien in QMD:
 git push origin main
         ↓
 GitHub Actions (.github/workflows/render-quarto.yml)
-  - rendert interviews/DATUM-*.qmd → PDF + DOCX
-  - rendert dashboard.qmd apart (format: dashboard mag niet overschreven worden)
+  - rendert publieke pagina's (dashboard, tools, processen)
+  - rendert GEEN interviews -- die blijven privé
         ↓
-GitHub Pages publiceert:
-  downloads/interview-DATUM-NAAM.pdf
-  downloads/DATUM-NAAM.docx
-  dashboard.html
+GitHub Pages publiceert: dashboard.html + publieke QMDs
+  (interviews nooit gepubliceerd)
+        ↓
+quarto render interviews/DATUM-NAAM.qmd --to pdf  (lokaal)
         ↓
 EML aanmaken met PDF-bijlage → xdg-open → Thunderbird → versturen
 ```
