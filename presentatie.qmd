@@ -58,7 +58,7 @@ Het sterkste signaal is de **workaround** -- als iemand een trucje heeft bedacht
 | Naam | Rol |
 |------|-----|
 | Christiaan | Lid lectoraat / AI-intensief gebruiker |
-| Luca Gelisimo | Onderzoeker |
+| Luca Gelsomino | Onderzoeker |
 | Hendryk Dittfeld | Docent/onderzoeker |
 | Ritsaart Bergsma | Docent/onderzoeker data science |
 | Stefan Hoogervorst | Key Account Manager Involvation |
@@ -92,7 +92,7 @@ Het sterkste signaal is de **workaround** -- als iemand een trucje heeft bedacht
 gesprekken
 :::
 ::: {.column width="33%"}
-### 78
+### 73
 radartjes gevonden
 :::
 ::: {.column width="33%"}
@@ -181,7 +181,7 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 :::
 
 ::: {.fragment}
-**Wie profiteert direct:** Paulien (State of the Art), Mira (vraagarticulatie), Michiel (reviewcyclus), Christiaan de Goeij (lingo-afstemming)
+**Wie profiteert direct:** Paulien (State of the Art), Mira (vraagarticulatie), Michiel (reviewcyclus), Christiaan de Goeij (lingo-afstemming), Mounia (afgesloten ChatGPT-omgeving al in gebruik)
 :::
 
 ---
