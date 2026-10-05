@@ -6,7 +6,7 @@ date: "2026-10"
 lang: nl
 format:
   revealjs:
-    theme: simple
+    theme: [simple, windesheim.scss]
     slide-number: true
     progress: true
     transition: fade

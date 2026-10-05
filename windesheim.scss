@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+
+// Windesheim kleuren
+$windesheim-blauw: #104D9C;
+$windesheim-lichtblauw: #73BEEF;
+$windesheim-zwart: #0F0C00;
+
+$body-bg: #ffffff;
+$body-color: $windesheim-zwart;
+$link-color: $windesheim-blauw;
+$selection-bg: $windesheim-lichtblauw;
+$selection-color: #ffffff;
+
+$presentation-heading-color: $windesheim-blauw;
+$presentation-heading-font-weight: 700;
+
+/*-- scss:rules --*/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: $windesheim-blauw;
+  font-weight: 700;
+  border-bottom: 2px solid $windesheim-lichtblauw;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+}
+
+.reveal h1 {
+  font-size: 1.8em;
+  border-bottom: 3px solid $windesheim-blauw;
+}
+
+.reveal a {
+  color: $windesheim-blauw;
+  text-decoration: underline;
+}
+
+.reveal a:hover {
+  color: $windesheim-lichtblauw;
+}
+
+.reveal .progress {
+  background: rgba(16, 77, 156, 0.15);
+  height: 4px;
+}
+
+.reveal .progress span {
+  background: $windesheim-blauw;
+}
+
+.reveal .slide-number {
+  color: $windesheim-blauw;
+  background: rgba(255, 255, 255, 0.85);
+  font-weight: 600;
+}
+
+.reveal .controls {
+  color: $windesheim-blauw;
+}
+
+/* Tabel opmaak */
+.reveal table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.reveal table th {
+  background: $windesheim-blauw;
+  color: #ffffff;
+  padding: 0.4em 0.7em;
+  text-align: left;
+  font-weight: 600;
+}
+
+.reveal table td {
+  padding: 0.35em 0.7em;
+  border-bottom: 1px solid lighten($windesheim-lichtblauw, 15%);
+}
+
+.reveal table tr:nth-child(even) td {
+  background: rgba(115, 190, 239, 0.1);
+}
+
+/* Blockquote */
+.reveal blockquote {
+  border-left: 4px solid $windesheim-lichtblauw;
+  background: rgba(115, 190, 239, 0.08);
+  padding: 0.5em 1em;
+  font-style: italic;
+  color: darken($windesheim-blauw, 5%);
+  margin: 0.8em 0;
+}
+
+/* Footer */
+.reveal .footer {
+  color: $windesheim-blauw;
+  font-size: 0.5em;
+  opacity: 0.8;
+}
+
+.reveal .footer a {
+  color: $windesheim-blauw;
+}
+
+/* Titelpagina */
+.reveal .title-slide h1 {
+  color: $windesheim-blauw;
+  border-bottom: 3px solid $windesheim-lichtblauw;
+  font-size: 1.6em;
+}
+
+.reveal .title-slide .subtitle {
+  color: $windesheim-lichtblauw;
+  font-weight: 400;
+}
+
+/* Sterren in prioriteitstabel */
+.reveal td:last-child {
+  color: $windesheim-blauw;
+}
