@@ -159,7 +159,7 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 :::
 
 ::: {.fragment}
-**Tool: Gamma** (gamma.app) -- 70M+ gebruikers, gratis basisversie, geen Copilot-afhankelijkheid.
+**Tool: [Gamma](https://gamma.app)** -- 70M+ gebruikers, gratis basisversie, geen Copilot-afhankelijkheid.
 :::
 
 ---
@@ -194,15 +194,15 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 ::: {.column width="50%"}
 **Al in gebruik:**
 
-- Michiel Steeman -- Perplexity (bijna een jaar betaald)
-- Mounia Belmamoune -- Consensus voor papers rangschikken
+- Michiel Steeman -- [Perplexity](https://perplexity.ai) (bijna een jaar betaald)
+- Mounia Belmamoune -- [Consensus](https://consensus.app) voor papers rangschikken
 :::
 ::: {.column width="50%"}
 **Aanbevolen:**
 
-- **Elicit** -- 125M papers, GDPR-compliant, gratis basisversie
-- **ASReview** -- Universiteit Utrecht, open source, lokaal draaien
-- **Scite** -- citaties als supporting / contrasting / mentioning
+- **[Elicit](https://elicit.com)** -- 125M papers, GDPR-compliant, gratis basisversie
+- **[ASReview](https://asreview.nl)** -- Universiteit Utrecht, open source, lokaal draaien
+- **[Scite](https://scite.ai)** -- citaties als supporting / contrasting / mentioning
 :::
 :::
 
@@ -213,11 +213,11 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 Onderzoek naar 20+ tools, gescoord op universitaire adoptie, gebruikersaantal, academische verankering en privacy.
 
 ::: {.incremental}
-1. **Elicit** -- 2M+ gebruikers, Oregon State, Ohio State, Baylor, Deakin. Enige tool met gepubliceerde recall-scores op Cochrane-reviews (95%).
-2. **Consensus** -- 5M+ gebruikers, 10.000+ universiteiten waaronder Harvard, Stanford, Princeton.
-3. **Scite** -- 2M+ gebruikers, 1,6 miljard gecategoriseerde citaties. Institutionele abonnementen aan 6+ grote universiteiten.
-4. **ASReview** -- Universiteit Utrecht. Open source. Gepubliceerd in *Nature Machine Intelligence*.
-5. **tl;dv** -- Transcriptie en vergaderanalyse. Europese servers, geen modeltraining, gratis basisversie.
+1. **[Elicit](https://elicit.com)** -- 2M+ gebruikers, Oregon State, Ohio State, Baylor, Deakin. Enige tool met gepubliceerde recall-scores op Cochrane-reviews (95%).
+2. **[Consensus](https://consensus.app)** -- 5M+ gebruikers, 10.000+ universiteiten waaronder Harvard, Stanford, Princeton.
+3. **[Scite](https://scite.ai)** -- 2M+ gebruikers, 1,6 miljard gecategoriseerde citaties. Institutionele abonnementen aan 6+ grote universiteiten.
+4. **[ASReview](https://asreview.nl)** -- Universiteit Utrecht. Open source. Gepubliceerd in *Nature Machine Intelligence*.
+5. **[tl;dv](https://tldv.io)** -- Transcriptie en vergaderanalyse. Europese servers, geen modeltraining, gratis basisversie.
 :::
 
 ---
