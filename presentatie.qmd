@@ -133,8 +133,8 @@ Wel: *"Agenda-items omzetten naar een ingevuld urenformulier"*
 **8 collega's noemen dit.** Drie werkende oplossingen bestaan al binnen het lectoraat.
 
 ::: {.incremental}
-- **Richard Holman** -- Summary AI, transcribeert en stileert (zakelijk / diplomatiek / vriendelijk). Nu al overdraagbaar.
-- **Yolanda Beenen** -- Dutch PQ + ChatGPT voor Teams-vergaderingen. Beproefde stap-voor-stap aanpak.
+- **Richard Holman** -- [Summary AI](https://summary.ai), transcribeert en stileert (zakelijk / diplomatiek / vriendelijk). Nu al overdraagbaar.
+- **Yolanda Beenen** -- Dutch PQ + [ChatGPT](https://chatgpt.com) voor Teams-vergaderingen. Beproefde stap-voor-stap aanpak.
 - **Mounia Belmamoune** -- Word dicteerfunctie voor fysieke gesprekken. Ingebouwd, veilig, gratis.
 :::
 
@@ -172,7 +172,7 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 **De aanpak (overdraagbaar):**
 
 1. Brainstormsessie opnemen
-2. Transcript + subsidievoorwaarden in ChatGPT
+2. Transcript + subsidievoorwaarden in [ChatGPT](https://chatgpt.com)
 3. Iteratief per sectie uitwerken
 4. Reviewen en bijsturen -- inhoud blijft van de schrijver
 
@@ -245,7 +245,7 @@ Op basis van alle 17 gesprekken zijn dit de toepassingen die het beste passen:
 ::: {.incremental}
 - **Tekst genereren vanuit gestructureerde input** -- verslagen, subsidies, samenvattingen. Controleerbaar, inhoud blijft bij de schrijver.
 - **Structurering en reorganisatie van eigen tekst** -- outline, subsidieparagrafen per sectie, woordlimiet naleven.
-- **Zoeken en samenvatten in literatuur** -- Elicit, Perplexity, Consensus, ASReview.
+- **Zoeken en samenvatten in literatuur** -- [Elicit](https://elicit.com), [Perplexity](https://perplexity.ai), [Consensus](https://consensus.app), [ASReview](https://asreview.nl).
 - **Transcriberen en samenvatten van gesprekken** -- vergaderingen, interviews, mits juiste toolkeuze op privacy.
 - **Formules en code schrijven** -- Excel-opschoonformules, Python-visualisaties. AI schrijft, collega controleert.
 :::
@@ -260,7 +260,7 @@ Grenzen die collega's zelf stellen -- en die kloppen:
 - **Inhoudelijke redenering in onderzoek** -- Rea Vaz en Paulien: AI beïnvloedt de richting van denken. Methodologische keuzes blijven menselijk.
 - **Nakijken van studentenwerk** -- Mounia, Hendryk, Ritsaart: academische integriteit vereist dat de docent het werk zelf beoordeelt.
 - **Vertrouwelijke data zonder gewaarborgde omgeving** -- pas als de omgeving veilig is (lokaal, Europese servers, Windesheim-goedgekeurd).
-- **Visuele creativiteit** -- AI-output voor presentaties teleurstellend bij meerdere collega's. Gamma scoort beter, maar creatief oordeel blijft mensenwerk.
+- **Visuele creativiteit** -- AI-output voor presentaties teleurstellend bij meerdere collega's. [Gamma](https://gamma.app) scoort beter, maar creatief oordeel blijft mensenwerk.
 :::
 
 ---
@@ -294,10 +294,10 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 | Actie | Champion | Tool |
 |---|---|---|
-| Vergadertranscriptie | Richard + Yolanda | Dutch PQ / tl;dv |
-| Presentaties | Bart Ras | gamma.app |
-| Literatuuronderzoek | Michiel + Mounia | Elicit / Perplexity |
-| Forms-export opschonen | Ronald de Boer | ChatGPT + Excel |
+| Vergadertranscriptie | Richard + Yolanda | Dutch PQ / [tl;dv](https://tldv.io) |
+| Presentaties | Bart Ras | [Gamma](https://gamma.app) |
+| Literatuuronderzoek | Michiel + Mounia | [Elicit](https://elicit.com) / [Perplexity](https://perplexity.ai) |
+| Forms-export opschonen | Ronald de Boer | [ChatGPT](https://chatgpt.com) + Excel |
 
 ::: {.fragment}
 **Categorie B -- na één demo-sessie**
