@@ -214,12 +214,12 @@ Alle cloud-tools hebben een open source tegenhanger -- lokaal draaien, geen data
 
 | Use case | Cloud | Open source alternatief |
 |---|---|---|
-| Transcriptie | tl;dv / Summary AI | [Whisper](https://github.com/openai/whisper) / [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) -- lokaal, gratis |
-| LLM / assistent | ChatGPT | [Ollama](https://ollama.com) -- draait elk open model lokaal |
-| Literatuurreview | Elicit / Perplexity | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) · [STORM](https://github.com/stanford-oval/storm) · [ASReview](https://asreview.nl) |
-| Document-analyse | ChatGPT Projects | [Khoj](https://khoj.dev) · [privateGPT](https://privategpt.dev) -- volledig lokaal |
-| NotebookLM | NotebookLM (Google) | [Open Notebook](https://github.com/open-notebook) -- self-hosted |
-| Presentaties | Gamma | [Marp](https://marp.app) -- Markdown naar slides, open source |
+| Transcriptie | [tl;dv](https://tldv.io) / [Summary AI](https://summary.ai) | [Whisper](https://github.com/openai/whisper) / [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) -- lokaal, gratis |
+| LLM / assistent | [ChatGPT](https://chatgpt.com) | [Ollama](https://ollama.com) -- draait elk open model lokaal |
+| Literatuurreview | [Elicit](https://elicit.com) / [Perplexity](https://perplexity.ai) | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) · [STORM](https://github.com/stanford-oval/storm) · [ASReview](https://asreview.nl) |
+| Document-analyse | [ChatGPT](https://chatgpt.com) Projects | [Khoj](https://khoj.dev) · [privateGPT](https://privategpt.dev) -- volledig lokaal |
+| NotebookLM | [NotebookLM](https://notebooklm.google.com) (Google) | [Open Notebook](https://github.com/open-notebook) -- self-hosted |
+| Presentaties | [Gamma](https://gamma.app) | [Marp](https://marp.app) -- Markdown naar slides, open source |
 
 ::: {.fragment}
 **Gemeenschappelijk patroon:** open source = maximale privacybescherming, maar vereist technische setup. Christiaan (lectoraat) of Ritsaart kunnen Whisper en Ollama opzetten voor het team.
