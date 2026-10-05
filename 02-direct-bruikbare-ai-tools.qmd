@@ -261,7 +261,7 @@ Enige tool op de lijst met gepubliceerde recall-scores op Cochrane-reviews: 95% 
 
 **Valt af:**
 
-- *ASReview*: screener, geen finder — werkt op een bestaande lijst, zoekt niet zelfstandig
+- *ASReview*: screener, geen finder -- werkt op een bestaande lijst, zoekt niet zelfstandig
 - *Semantic Scholar*: sterke database maar minder stuurbaar op een specifieke onderzoeksvraag
 
 ---
@@ -352,39 +352,39 @@ Naast de tools die collega's kunnen gebruiken, zijn er tools die het onderzoek z
 
 ### Interviews afnemen en verwerken
 
-**Whisper (lokaal)** — Transcriptie van gesprekken zonder data naar externe servers. Interviews bevatten persoonsgegevens; Whisper draait volledig lokaal. Universiteit Groningen biedt dit al als gratis dienst aan.
+**Whisper (lokaal)** -- Transcriptie van gesprekken zonder data naar externe servers. Interviews bevatten persoonsgegevens; Whisper draait volledig lokaal. Universiteit Groningen biedt dit al als gratis dienst aan.
 
-**Claude** — Samenvatten van ruwe transcripts naar gestructureerde Q&A, signalen herkennen, conceptteksten schrijven voor weekupdates.
+**Claude** -- Samenvatten van ruwe transcripts naar gestructureerde Q&A, signalen herkennen, conceptteksten schrijven voor weekupdates.
 
 ### Literatuur- en toolonderzoek
 
-**VOSviewer** — Visualiseren van het supply chain finance onderzoekslandschap via co-citatie- en keyword-netwerken. Gratis, Leiden University.
+**VOSviewer** -- Visualiseren van het supply chain finance onderzoekslandschap via co-citatie- en keyword-netwerken. Gratis, Leiden University.
 
-**Bibliometrix** — Kwantitatieve analyse van wetenschappelijke literatuur over supply chain finance. Open source R-pakket.
+**Bibliometrix** -- Kwantitatieve analyse van wetenschappelijke literatuur over supply chain finance. Open source R-pakket.
 
-**Elicit** — Snel literatuur ophalen op een onderzoeksvraag (bijv. "AI in supply chain finance"). Gratis basisversie.
+**Elicit** -- Snel literatuur ophalen op een onderzoeksvraag (bijv. "AI in supply chain finance"). Gratis basisversie.
 
-**Semantic Scholar** — Open database voor wetenschappelijke literatuur. Gratis, non-profit.
+**Semantic Scholar** -- Open database voor wetenschappelijke literatuur. Gratis, non-profit.
 
-**OpenAlex** — Open alternatief voor Scopus/Web of Science. Volledig gratis API voor bibliometrische analyse.
+**OpenAlex** -- Open alternatief voor Scopus/Web of Science. Volledig gratis API voor bibliometrische analyse.
 
 ### Netwerkanalyse en mapping
 
-**Gephi** — Visualiseren van supply chain netwerken, leveranciersrelaties en financiële verbanden als graaf. Open source.
+**Gephi** -- Visualiseren van supply chain netwerken, leveranciersrelaties en financiële verbanden als graaf. Open source.
 
-**Microsoft GraphRAG** — Kennisgrafen bouwen uit documentcorpora: extraheert entiteiten en relaties automatisch. Vereist technische kennis.
+**Microsoft GraphRAG** -- Kennisgrafen bouwen uit documentcorpora: extraheert entiteiten en relaties automatisch. Vereist technische kennis.
 
-**LightRAG** — Lichter en sneller alternatief voor GraphRAG. EMNLP 2025. Geschikt voor iteratieve kennisopbouw.
+**LightRAG** -- Lichter en sneller alternatief voor GraphRAG. EMNLP 2025. Geschikt voor iteratieve kennisopbouw.
 
 ### Gegevens over kritieke grondstoffen en supply chains
 
-**RMIS / JRC Critical Raw Materials** — EU-database met criticality assessments, productielandendata en supply chain-monitoring voor kritieke grondstoffen. Volledig gratis, publiek toegankelijk.
+**RMIS / JRC Critical Raw Materials** -- EU-database met criticality assessments, productielandendata en supply chain-monitoring voor kritieke grondstoffen. Volledig gratis, publiek toegankelijk.
 
 ### Automatisch onderzoek
 
-**Deep Research (open source)** — Iteratieve onderzoeksagent die zelfstandig zoekt, scrapet en synthetiseert. Vereist API-sleutels.
+**Deep Research (open source)** -- Iteratieve onderzoeksagent die zelfstandig zoekt, scrapet en synthetiseert. Vereist API-sleutels.
 
-**AI-Researcher (HKUDS)** — Autonome wetenschappelijke onderzoeksagent. NeurIPS 2025 Spotlight. Vereist technische kennis.
+**AI-Researcher (HKUDS)** -- Autonome wetenschappelijke onderzoeksagent. NeurIPS 2025 Spotlight. Vereist technische kennis.
 
 ---
 

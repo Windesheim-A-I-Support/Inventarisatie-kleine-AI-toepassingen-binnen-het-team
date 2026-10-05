@@ -1,6 +1,6 @@
 # Werkprocessen in het lectoraat
 
-*Helikopterview op basis van 15 interviews (mei-juni 2026). Per werkproces: wie voert het uit, wat is de pijn, en waar zit kans.*
+*Helikopterview op basis van 17 interviews (mei-juni 2026). Per werkproces: wie voert het uit, wat is de pijn, en waar zit kans.*
 
 ---
 
@@ -47,9 +47,9 @@ Luca, Paulien en Hendryk stellen hetzelfde bezwaar: externe cloud (VS-servers, m
 
 ## Data-analyse en survey-verwerking
 
-**Wie:** Luca Gelsomino, Ronald de Boer, Stefan Hoogervorst, Paulien de Graaf-Muller, Christiaan de Goeij, Greg Cronie, Ritsaart Bergsma
+**Wie:** Luca Gelsomino, Ronald de Boer, Stefan Hoogervorst, Paulien de Graaf-Muller, Christiaan de Goeij, Greg Cronie, Ritsaart Bergsma, Mounia Belmamoune
 
-Data-analyse verschilt sterk per rol -- van statistische modellen (Luca, Ritsaart) tot benchmarkvisualisaties (Ronald) en survey-analyse (Paulien, Christiaan de Goeij, Greg Cronie).
+Data-analyse verschilt sterk per rol -- van statistische modellen (Luca, Ritsaart) tot benchmarkvisualisaties (Ronald), evaluatieverslagen bundelen (Mounia) en survey-analyse (Paulien, Christiaan de Goeij, Greg Cronie).
 
 **Survey-analyse als structureel knelpunt**
 
@@ -119,15 +119,16 @@ Gamma (gamma.app) genereert complete presentaties inclusief opmaak en visuals va
 
 ## Kenniswerving en literatuuronderzoek
 
-**Wie:** Mira Benes, Luca Gelsomino, Michiel Steeman, Paulien de Graaf-Muller
+**Wie:** Mira Benes, Luca Gelsomino, Michiel Steeman, Paulien de Graaf-Muller, Mounia Belmamoune, Rea Vaz
 
-Literatuuronderzoek is tijdrovend voor onderzoekers. Mira had Perplexity voor State of the Art maar haar account is verlopen. Luca heeft een handmatige pijplijn gebouwd voor jaarverslagenanalyse (Refinitiv + Python + ChatGPT API + handmatig). Michiel filtert bronnen handmatig en ervaart content-overload.
+Literatuuronderzoek is tijdrovend voor onderzoekers. Mira had Perplexity voor State of the Art maar haar account is verlopen. Luca heeft een handmatige pijplijn gebouwd voor jaarverslagenanalyse (Refinitiv + Python + ChatGPT API + handmatig). Michiel filtert bronnen handmatig en ervaart content-overload. Mounia gebruikt Consensus voor wetenschappelijke artikelen, en Rea verzamelt systematisch podcast- en literatuurdata via verfijnde zoekopdrachten.
 
 **Tools in de longlist**
 
 - *Elicit* (elicit.com): 2M+ gebruikers, gratis basisversie, GDPR-compliant. Zoekt en samenvat wetenschappelijke literatuur op basis van een onderzoeksvraag. Sterkst gevalideerd (Cochrane-recalls gepubliceerd).
 - *ASReview* (asreview.nl): gemaakt door Universiteit Utrecht, open source, lokaal draaien. Voor het screenen van grote literatuurvolumes in systematische reviews.
 - *Perplexity*: Michiel gebruikt het al bijna een jaar betaald. Mira's account is verlopen -- eenvoudig te heractiveren.
+- *Consensus* (consensus.app): door Mounia genoemd voor papers zoeken en rankschikken.
 
 ---
 
@@ -169,10 +170,10 @@ Copilot zou e-mailbeheer kunnen adresseren, maar staat bij Windesheim uitgeschak
 |---|---|---|---|
 | Subsidietrajecten | 6 | Yolanda: €40k bewijs | Hoog (IP) |
 | Vergader-/interviewtranscriptie | 8 | Richard: Summary AI werkt al | Hoog (gevoelige data) |
-| Data-analyse / survey | 6 | Ronald: Claude voor visualisaties | Laag tot middel |
+| Data-analyse / survey | 8 | Ronald: Claude voor visualisaties | Laag tot middel |
 | Urenregistratie | 5 | Mira/Stefan: urenbrieven TKI | Laag |
 | Presentaties | 6 | Bart: 100x sneller bewezen | Laag |
 | Netwerk / partners | 5 | Richard: RECAP Excel als aanzet | Laag |
-| Literatuuronderzoek | 4 | Michiel: Perplexity al in gebruik | Laag |
+| Literatuuronderzoek | 6 | Michiel: Perplexity al in gebruik | Laag |
 | Onderwijs | 4 | Hendryk: FAQ-bot duidelijkste | Laag |
 | E-mailbeheer | 4 | Copilot werkt -- maar uitgeschakeld | Middel |

@@ -74,17 +74,17 @@ Uitgangspunten tijdens elk gesprek:
 
 De gespreksgids is gebaseerd op technieken uit gebruikersonderzoek en contextual inquiry.
 
-**Walk-through** — iemand door een recente werkweek laten lopen onthult werkprocessen die ze zelf niet als probleem benoemen maar die wel herhaalbaar en tijdrovend zijn. De opener vraagt altijd naar wat iemand écht deed, niet wat ze hadden moeten doen.
+**Walk-through** -- iemand door een recente werkweek laten lopen onthult werkprocessen die ze zelf niet als probleem benoemen maar die wel herhaalbaar en tijdrovend zijn. De opener vraagt altijd naar wat iemand écht deed, niet wat ze hadden moeten doen.
 
-**Workaround-detectie** — als iemand zelf een trucje heeft bedacht voor een taak, is er echte pijn. Dat is het sterkste signaal in een gesprek. Een workaround betekent: de officiële werkwijze voldoet niet en de collega heeft zelf al nagedacht over een oplossing.
+**Workaround-detectie** -- als iemand zelf een trucje heeft bedacht voor een taak, is er echte pijn. Dat is het sterkste signaal in een gesprek. Een workaround betekent: de officiële werkwijze voldoet niet en de collega heeft zelf al nagedacht over een oplossing.
 
-**Volumevraag** — zonder volume weet je niet of een radartje ertoe doet. Iemand die één keer per jaar iets doet verschilt wezenlijk van iemand die het dagelijks doet.
+**Volumevraag** -- zonder volume weet je niet of een radartje ertoe doet. Iemand die één keer per jaar iets doet verschilt wezenlijk van iemand die het dagelijks doet.
 
-**Eerder-geprobeerd-vraag** — iemand die al iets probeerde en stopte heeft een echte drempel ondervonden: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
+**Eerder-geprobeerd-vraag** -- iemand die al iets probeerde en stopte heeft een echte drempel ondervonden: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
 
-**Schaalvraag** — als meerdere collega's hetzelfde doen, is het radartje groter dan het lijkt. Een oplossing voor één persoon heeft dan veel meer waarde.
+**Schaalvraag** -- als meerdere collega's hetzelfde doen, is het radartje groter dan het lijkt. Een oplossing voor één persoon heeft dan veel meer waarde.
 
-**Magische stagiairvraag** — "Wat laat je een slimme stagiair als eerste doen?" omzeilt het AI-frame volledig en levert concrete taken op, geen abstracties.
+**Magische stagiairvraag** -- "Wat laat je een slimme stagiair als eerste doen?" omzeilt het AI-frame volledig en levert concrete taken op, geen abstracties.
 
 ## De 12 interviewvragen
 
@@ -168,9 +168,9 @@ Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om later t
 
 Elk gesprek wordt vastgelegd in een gestandaardiseerd bestand met drie lagen:
 
-1. **Ruwe transcript** — woordelijk verslag, blijft privé in de repo
-2. **Gestructureerde Q&A** — samenvatting per vraag, blijft privé
-3. **Samenvatting voor weekupdate** — geanonimiseerd, dit is het enige dat gedeeld wordt
+1. **Ruwe transcript** -- woordelijk verslag, blijft privé in de repo
+2. **Gestructureerde Q&A** -- samenvatting per vraag, blijft privé
+3. **Samenvatting voor weekupdate** -- geanonimiseerd, dit is het enige dat gedeeld wordt
 
 De template staat in `interviews/_template-interview.qmd`. Nieuwe interviews volgen het naamformaat `interviews/DATUM-NAAM.qmd`.
 
