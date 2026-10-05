@@ -27,6 +27,8 @@ website:
         text: Analyse
       - href: dashboard.qmd
         text: Dashboard
+      - href: presentatie.html
+        text: Presentatie
       - text: Updates
         menu:
           - href: updates/week-01.qmd

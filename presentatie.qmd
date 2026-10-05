@@ -1,0 +1,327 @@
+---
+title: "Kleine AI-toepassingen binnen het lectoraat"
+subtitle: "Bevindingen uit 17 gesprekken · Supply Chain Finance · Windesheim"
+author: "Inventarisatie 2026"
+date: "2026-10"
+lang: nl
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    progress: true
+    transition: fade
+    background-transition: fade
+    highlight-style: github
+    footer: "Lectoraat Supply Chain Finance · Windesheim · 2026"
+    logo: "Windesheim Ai Survey.png"
+---
+
+## Opdracht
+
+> *"Eerst goed inventariseren voordat er oplossingen worden aangedragen."*
+>
+> -- Michiel Steeman
+
+**Twee werksporen:**
+
+1. Welke kleine AI-toepassingen leven er bij collega's?
+2. Welke AI-tools zetten andere universiteiten al in?
+
+::: {.fragment}
+Geen enquête. Geen AI-strategie. Mondeling, doorvragend, één-op-één.
+:::
+
+---
+
+## Aanpak
+
+**17 gesprekken** · mei -- juni 2026
+
+Scope breder dan AI: het volledige digitale werklandschap in kaart. Welke tools gebruik je al? Wat heb je geprobeerd en losgelaten? Welke werkprocessen zijn nog helemaal niet digitaal ondersteund?
+
+::: {.fragment}
+**Centrale vraag** is nooit: *"Waar kan AI jou helpen?"*
+
+Dat levert clichés op. In plaats daarvan: *"Loop me door een recente werkweek."*
+
+Het sterkste signaal is de **workaround** -- als iemand een trucje heeft bedacht, is er echte pijn.
+:::
+
+---
+
+## Wie zijn gesproken?
+
+| Naam | Rol |
+|------|-----|
+| Christiaan | Lid lectoraat / AI-intensief gebruiker |
+| Luca Gelisimo | Onderzoeker |
+| Hendryk Dittfeld | Docent/onderzoeker |
+| Ritsaart Bergsma | Docent/onderzoeker data science |
+| Stefan Hoogervorst | Key Account Manager Involvation |
+| Bart Ras | Research fellow / CFO MKB |
+| Mira Benes | Projectcoördinator |
+| Ronald de Boer | Projectmanager/onderzoeker/docent |
+
+---
+
+## Wie zijn gesproken? (vervolg)
+
+| Naam | Rol |
+|------|-----|
+| Maxime Bouillon | Senior researcher / PhD-kandidaat |
+| Christiaan de Goeij | Onderzoeksproject manager |
+| Greg Cronie | Consultant / onderzoeksmedewerker |
+| Yolanda Beenen | Programmamanager |
+| Richard Holman | Netwerk en cofinanciering |
+| Michiel Steeman | Lector |
+| Paulien de Graaf-Muller | Leider onderzoekslijn duurzame zorg |
+| Rea Vaz | Researcher/docent SCF |
+| Mounia Belmamoune | Researcher/docent/projectcoördinator |
+
+---
+
+## Opbrengst in cijfers
+
+::: {.columns}
+::: {.column width="33%"}
+### 17
+gesprekken
+:::
+::: {.column width="33%"}
+### 78
+radartjes gevonden
+:::
+::: {.column width="33%"}
+### 9
+werkproces-clusters
+:::
+:::
+
+::: {.fragment}
+Een **radartje** is: één concreet onderdeel van een werkproces · herhalend · afgebakend · gevoeligheid bekend
+
+Niet: *"AI inzetten voor onderzoek"*
+Wel: *"Agenda-items omzetten naar een ingevuld urenformulier"*
+:::
+
+---
+
+## De negen werkprocesclusters
+
+| Werkproces | Collega's | Prioriteit |
+|---|---|---|
+| Vergader-/interviewtranscriptie | 8 | ★★★★★ |
+| Presentaties maken | 6 | ★★★★★ |
+| Subsidietrajecten schrijven | 6 | ★★★★☆ |
+| Data-analyse / survey | 6 | ★★★★☆ |
+| Literatuuronderzoek | 5 | ★★★★☆ |
+| Netwerk / partners | 5 | ★★★☆☆ |
+| Urenregistratie | 5 | ★★★☆☆ |
+| E-mailbeheer | 4 | ★★☆☆☆ |
+| Onderwijs en studentbegeleiding | 4 | ★★★☆☆ |
+
+*Prioriteit = AI-gereedheid × tijdwinst × drempel*
+
+---
+
+## Quick win #1 · Transcriptie
+
+**8 collega's noemen dit.** Drie werkende oplossingen bestaan al binnen het lectoraat.
+
+::: {.incremental}
+- **Richard Holman** -- Summary AI, transcribeert en stileert (zakelijk / diplomatiek / vriendelijk). Nu al overdraagbaar.
+- **Yolanda Beenen** -- Dutch PQ + ChatGPT voor Teams-vergaderingen. Beproefde stap-voor-stap aanpak.
+- **Mounia Belmamoune** -- Word dicteerfunctie voor fysieke gesprekken. Ingebouwd, veilig, gratis.
+:::
+
+::: {.fragment}
+> *"Samenvatting staat er direct in, actiepunten ook, gaat meteen naar Chris voor afstudeeropdrachten."*
+> -- Richard Holman
+:::
+
+---
+
+## Quick win #2 · Presentaties
+
+**6 collega's** zijn hier regelmatig een halve dag aan kwijt.
+
+::: {.fragment}
+**Bart Ras heeft bewezen dat het 100x sneller kan:**
+
+Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + twee decks (presenter en leesdeck)
+
+> *"400 lines of Python in 38 seconden. Bij de presentaties werkt het net zo."*
+> -- Bart Ras
+:::
+
+::: {.fragment}
+**Tool: Gamma** (gamma.app) -- 70M+ gebruikers, gratis basisversie, geen Copilot-afhankelijkheid.
+:::
+
+---
+
+## Quick win #3 · Subsidies schrijven
+
+**Yolanda Beenen heeft €40.000 subsidie gehonoreerd** met AI als schrijfpartner.
+
+::: {.fragment}
+**De aanpak (overdraagbaar):**
+
+1. Brainstormsessie opnemen
+2. Transcript + subsidievoorwaarden in ChatGPT
+3. Iteratief per sectie uitwerken
+4. Reviewen en bijsturen -- inhoud blijft van de schrijver
+
+> *"ChatGPT is mijn beste vriend op dit moment."*
+> -- Yolanda Beenen
+:::
+
+::: {.fragment}
+**Wie profiteert direct:** Paulien (State of the Art), Mira (vraagarticulatie), Michiel (reviewcyclus), Christiaan de Goeij (lingo-afstemming)
+:::
+
+---
+
+## Literatuuronderzoek
+
+**5 collega's** noemen literatuur zoeken en samenvatten als tijdrovend werkproces.
+
+::: {.columns}
+::: {.column width="50%"}
+**Al in gebruik:**
+
+- Michiel Steeman -- Perplexity (bijna een jaar betaald)
+- Mounia Belmamoune -- Consensus voor papers rangschikken
+:::
+::: {.column width="50%"}
+**Aanbevolen:**
+
+- **Elicit** -- 125M papers, GDPR-compliant, gratis basisversie
+- **ASReview** -- Universiteit Utrecht, open source, lokaal draaien
+- **Scite** -- citaties als supporting / contrasting / mentioning
+:::
+:::
+
+---
+
+## Wat andere universiteiten gebruiken
+
+Onderzoek naar 20+ tools, gescoord op universitaire adoptie, gebruikersaantal, academische verankering en privacy.
+
+::: {.incremental}
+1. **Elicit** -- 2M+ gebruikers, Oregon State, Ohio State, Baylor, Deakin. Enige tool met gepubliceerde recall-scores op Cochrane-reviews (95%).
+2. **Consensus** -- 5M+ gebruikers, 10.000+ universiteiten waaronder Harvard, Stanford, Princeton.
+3. **Scite** -- 2M+ gebruikers, 1,6 miljard gecategoriseerde citaties. Institutionele abonnementen aan 6+ grote universiteiten.
+4. **ASReview** -- Universiteit Utrecht. Open source. Gepubliceerd in *Nature Machine Intelligence*.
+5. **tl;dv** -- Transcriptie en vergaderanalyse. Europese servers, geen modeltraining, gratis basisversie.
+:::
+
+---
+
+## Meest gehoorde quotes
+
+::: {.incremental}
+> *"Ik zou wel een goede secretaresse willen."* -- Christiaan
+
+> *"Als ik gewoon Claude zou kunnen gebruiken, maak ik gewoon een skill en dan doet hij dat gewoon."* -- Greg Cronie
+
+> *"Dat staat in je agenda... waarom moet ik dat allemaal nog nalopen zoeken?"* -- Ronald de Boer
+
+> *"Als dat binnen de cloudomgeving van Windesheim zou zijn, zou dat ontzettend veel tijd schelen."* -- Paulien de Graaf-Muller
+
+> *"Ik word nu teveel getriggerd door shit, in plaats van door interessante dingen."* -- Michiel Steeman
+:::
+
+---
+
+## Wat AI hier goed kan
+
+Op basis van alle 17 gesprekken zijn dit de toepassingen die het beste passen:
+
+::: {.incremental}
+- **Tekst genereren vanuit gestructureerde input** -- verslagen, subsidies, samenvattingen. Controleerbaar, inhoud blijft bij de schrijver.
+- **Structurering en reorganisatie van eigen tekst** -- outline, subsidieparagrafen per sectie, woordlimiet naleven.
+- **Zoeken en samenvatten in literatuur** -- Elicit, Perplexity, Consensus, ASReview.
+- **Transcriberen en samenvatten van gesprekken** -- vergaderingen, interviews, mits juiste toolkeuze op privacy.
+- **Formules en code schrijven** -- Excel-opschoonformules, Python-visualisaties. AI schrijft, collega controleert.
+:::
+
+---
+
+## Wat AI minder goed kan hier
+
+Grenzen die collega's zelf stellen -- en die kloppen:
+
+::: {.incremental}
+- **Inhoudelijke redenering in onderzoek** -- Rea Vaz en Paulien: AI beïnvloedt de richting van denken. Methodologische keuzes blijven menselijk.
+- **Nakijken van studentenwerk** -- Mounia, Hendryk, Ritsaart: academische integriteit vereist dat de docent het werk zelf beoordeelt.
+- **Vertrouwelijke data zonder gewaarborgde omgeving** -- pas als de omgeving veilig is (lokaal, Europese servers, Windesheim-goedgekeurd).
+- **Visuele creativiteit** -- AI-output voor presentaties teleurstellend bij meerdere collega's. Gamma scoort beter, maar creatief oordeel blijft mensenwerk.
+:::
+
+---
+
+## Structurele uitdagingen
+
+Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
+
+::: {.columns}
+::: {.column width="50%"}
+**Urenregistratie (TKI)**
+
+5 collega's kwijt aan dezelfde handmatige taak. De formule is standaard: studentenlijst + 40u/week = urenbriefje.
+
+*Wat nodig is:* een script (halve dag werk). Ritsaart of Mounia kunnen dit bouwen.
+:::
+::: {.column width="50%"}
+**E-mailbeheer**
+
+4 collega's noemen mail als expliciet knelpunt. Copilot staat uitgeschakeld bij Windesheim. Bij inChange werkt het goed.
+
+*Wat nodig is:* beleidsbesluit Windesheim. Michiel kan de business case maken.
+:::
+:::
+
+---
+
+## Concrete aanbevelingen
+
+**Categorie A -- morgen beginnen**
+
+| Actie | Champion | Tool |
+|---|---|---|
+| Vergadertranscriptie | Richard + Yolanda | Dutch PQ / tl;dv |
+| Presentaties | Bart Ras | gamma.app |
+| Literatuuronderzoek | Michiel + Mounia | Elicit / Perplexity |
+| Forms-export opschonen | Ronald de Boer | ChatGPT + Excel |
+
+::: {.fragment}
+**Categorie B -- na één demo-sessie**
+
+Yolanda's subsidie-aanpak overdragen aan Paulien, Mira en Michiel.
+:::
+
+::: {.fragment}
+**Categorie C -- structureel**
+
+Urenregistratie automatiseren · Copilot-beleid Windesheim
+:::
+
+---
+
+## Vervolgstappen
+
+::: {.incremental}
+1. **Kennisdelingssessie plannen** -- vier champions tonen hun aanpak (1 ochtend)
+2. **Piloot urenregistratie** -- Ritsaart of Mounia bouwt script, Mira test
+3. **Business case Copilot** -- Michiel maakt onderbouwing op basis van inChange-referentie
+4. **Drie collega's nog uit te nodigen** -- Corné de Ruijt, Monique Mensen, Henri Grolleman
+:::
+
+::: {.fragment}
+---
+
+**Alle radartjes, tools en interviews:**
+
+[Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html) · [Overzicht](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/)
+:::

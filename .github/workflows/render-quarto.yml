@@ -54,6 +54,9 @@ jobs:
           quarto render interviews/interview-template-invulbaar.qmd --to pdf
           cp interviews/interview-template-invulbaar.pdf _site/downloads/interview-template-invulbaar.pdf
 
+      - name: Render presentatie (RevealJS)
+        run: quarto render presentatie.qmd && cp presentatie.html _site/presentatie.html
+
       - name: Render interview-template als DOCX
         run: |
           quarto render interviews/_template-interview.qmd --to docx --output interview-template-invulbaar.docx
