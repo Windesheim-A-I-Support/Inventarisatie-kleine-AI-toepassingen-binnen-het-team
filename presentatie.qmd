@@ -208,6 +208,27 @@ Context beschrijven (doelgroep + niveau + situatie) → AI genereert script + tw
 
 ---
 
+## Open source alternatieven
+
+Alle cloud-tools hebben een open source tegenhanger -- lokaal draaien, geen data naar externe servers.
+
+| Use case | Cloud | Open source alternatief |
+|---|---|---|
+| Transcriptie | tl;dv / Summary AI | [Whisper](https://github.com/openai/whisper) / [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) -- lokaal, gratis |
+| LLM / assistent | ChatGPT | [Ollama](https://ollama.com) -- draait elk open model lokaal |
+| Literatuurreview | Elicit / Perplexity | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) · [STORM](https://github.com/stanford-oval/storm) · [ASReview](https://asreview.nl) |
+| Document-analyse | ChatGPT Projects | [Khoj](https://khoj.dev) · [privateGPT](https://privategpt.dev) -- volledig lokaal |
+| NotebookLM | NotebookLM (Google) | [Open Notebook](https://github.com/open-notebook) -- self-hosted |
+| Presentaties | Gamma | [Marp](https://marp.app) -- Markdown naar slides, open source |
+
+::: {.fragment}
+**Gemeenschappelijk patroon:** open source = maximale privacybescherming, maar vereist technische setup. Christiaan (lectoraat) of Ritsaart kunnen Whisper en Ollama opzetten voor het team.
+
+Zie ook: [Open Source Ranking in het dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html)
+:::
+
+---
+
 ## Wat andere universiteiten gebruiken
 
 Onderzoek naar 20+ tools, gescoord op universitaire adoptie, gebruikersaantal, academische verankering en privacy.
