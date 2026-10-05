@@ -4,6 +4,7 @@ subtitle: "Bevindingen uit 17 gesprekken · Supply Chain Finance · Windesheim"
 author: "Inventarisatie 2026"
 date: "2026-10"
 lang: nl
+link-external-newwindow: true
 format:
   revealjs:
     theme: [simple, windesheim.scss]
