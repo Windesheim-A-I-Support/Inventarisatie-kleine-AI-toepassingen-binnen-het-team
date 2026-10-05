@@ -223,7 +223,7 @@ Alle cloud-tools hebben een open source tegenhanger -- lokaal draaien, geen data
 | Presentaties | [Gamma](https://gamma.app) | [Marp](https://marp.app) -- Markdown naar slides, open source |
 
 ::: {.fragment}
-**Gemeenschappelijk patroon:** open source = maximale privacybescherming, maar vereist technische setup. Christiaan (lectoraat) of Ritsaart kunnen Whisper en Ollama opzetten voor het team.
+**Gemeenschappelijk patroon:** open source = maximale privacybescherming, maar vereist technische setup. Christiaan (lectoraat) of Ritsaart kunnen [Whisper](https://github.com/openai/whisper) en [Ollama](https://ollama.com) opzetten voor het team.
 
 Zie ook: [Open Source Ranking in het dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html)
 :::
