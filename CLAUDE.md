@@ -14,10 +14,11 @@ Windesheim hogeschool. Opdracht van Michiel Steeman. Twee werksporen:
 ## Bestandsstructuur
 
 ```
-interviews/DATUM-NAAM.qmd        interview per collega
+interviews/DATUM-NAAM.qmd        interview + rapport per collega
 data/radartjes.csv               radartjes uit interviews
 data/tools-in-gebruik.csv        tools per collega
 data/tools-longlist.csv          longlist externe tools
+03-processen-lectoraat.qmd       procesoverzicht lectoraat (website-pagina, na elk interview bijwerken)
 updates/email-NAAM.md            email-concept per collega
 updates/email-NAAM.eml           verstuurbare EML met PDF-bijlage
 .github/workflows/render-quarto.yml   GitHub Actions (Quarto render)
@@ -41,9 +42,11 @@ for para in root.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/
 
 ### 2. QMD aanmaken
 Bestandsnaam: `interviews/DATUM-NAAM.qmd`. Volg exact het format van bestaande interviews.
+Vul zoveel mogelijk vragen in uit de interview template op basis van het transcript.
 
 Secties in volgorde:
 - Metadata (datum, naam, rol, duur)
+- `## Jouw positie in het bredere beeld` -- DIRECT NA metadata, voor toolkit
 - Digitale toolkit (tabel)
 - `## Aantekeningen` -- gestructureerde notities per tijdstip, privé, niet gedeeld
 - `## Gestructureerde Q&A` -- samenvatting per interviewvraag
@@ -51,31 +54,55 @@ Secties in volgorde:
 - `## Letterlijke signalen` -- quotes
 - `## Nog niet oplossen`
 - `## Samenvatting voor weekupdate`
+- `## Aanbevolen tools en tips` -- op basis van analyse (stap 3)
+- `## Research buddy` -- met wie samenwerken, wie kan wat leren van wie
 - `## Volledige transcriptie` -- verbatim transcript ONDERAAN als appendix
 
-### 3. Radartjes toevoegen
+### 3. Analyse
+Inputs voor de analyse (allemaal lezen voor je radartjes en rapport schrijft):
+- Ruwe transcript + ingevulde QMD (stap 2)
+- Alle bestaande interview QMDs (`interviews/DATUM-*.qmd`)
+- `data/radartjes.csv` -- patronen over alle collega's
+- `data/tools-in-gebruik.csv` -- toolkit overzicht
+- `data/tools-longlist.csv` + `02-direct-bruikbare-ai-tools.qmd`
+- WebSearch: externe bewijzen dat genoemde pijnpunten breed voorkomen (andere hogescholen, universiteiten, NL hoger onderwijs context)
+- WebSearch: specifieke tools die de persoon noemt -- wat doet het precies, alternatieven
+
+Doel: identificeer radartjes, patronen, verbanden met andere interviews, externe validatie.
+
+### 4. Radartjes toevoegen
 `data/radartjes.csv` -- kolommen: datum, collega, rol, werkproces, klein_radartje, input, gewenste_output, frequentie, gevoeligheid, huidige_tool, opmerking
 
-### 4. Tools toevoegen
+### 5. Tools toevoegen
 `data/tools-in-gebruik.csv` -- kolommen: datum, collega, rol, tool, categorie, waarvoor, frequentie, tevredenheid, opmerking
 
-### 5. Interviewtabel bijwerken
+### 6. Interviewtabel bijwerken
 `01-inventarisatie-kleine-ai-toepassingen.qmd` -- collega toevoegen aan afgeronde tabel, verwijderen uit geplande tabel.
 
-### 6. Email-concept aanmaken
+### 7. Procesoverzicht bijwerken
+`03-processen-lectoraat.qmd` -- voeg nieuwe processen toe of update bestaande processen met nieuwe deelnemer. Dit is een website-pagina die een helikopterview geeft van alle werkprocessen in het lectoraat, gebaseerd op alle interviews samen.
+
+### 8. Rapport voltooien in QMD
+Vul op basis van stap 3 (analyse) de volgende secties in het QMD in:
+- `## Jouw positie in het bredere beeld` -- vergelijking met alle collega's, gedeelde radartjes, wat deze persoon toevoegt
+- `## Aanbevolen tools en tips` -- concrete tools uit de longlist + extern onderzoek die passen bij de radartjes
+- `## Research buddy` -- wie in het lectoraat kan het meest van elkaar leren
+
+### 9. Email-concept aanmaken
 `updates/email-NAAM.md` -- bevat: bedankje, link naar PDF, radartjes ter verificatie, dashboard-link, relevante tips.
 
-### 7. Committen
+### 10. Committen
 ```bash
 git add interviews/DATUM-NAAM.qmd "interviews/DOCX-bestand.docx" \
         data/radartjes.csv data/tools-in-gebruik.csv \
         01-inventarisatie-kleine-ai-toepassingen.qmd \
+        03-processen-lectoraat.qmd \
         updates/email-NAAM.md
 git commit -m "Voeg [naam] interview toe: X radartjes en Y tools"
 git push origin main
 ```
 
-### 8. Email versturen
+### 11. Email versturen
 1. Wacht tot GitHub Actions klaar is: `gh run list --limit 3`
 2. Download PDF: `curl -o /tmp/naam.pdf "https://windesheim-a-i-support.github.io/.../downloads/interview-DATUM-NAAM.pdf"`
 3. Maak EML aan met Python (email.mime) inclusief base64 PDF-bijlage en `X-Unsent: 1` header
@@ -90,9 +117,22 @@ DOCX transcriptie in interviews/
         ↓
 Python: tekst uitlezen uit DOCX
         ↓
-QMD aanmaken (aantekeningen + verbatim)
+QMD aanmaken (template vragen ingevuld)
+        ↓
+ANALYSE: transcript + alle interviews + CSV data + WebSearch
+  - radartjes identificeren
+  - verbanden andere interviews
+  - externe validatie pijnpunten
+  - tools onderzoeken
         ↓
 CSV bijwerken (radartjes + tools)
+        ↓
+03-processen-lectoraat.qmd bijwerken
+        ↓
+Rapport voltooien in QMD:
+  - Jouw positie in het bredere beeld
+  - Aanbevolen tools en tips
+  - Research buddy
         ↓
 git push origin main
         ↓
