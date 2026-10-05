@@ -12,10 +12,12 @@ format:
     transition: fade
     background-transition: fade
     highlight-style: github
-    footer: "Lectoraat Supply Chain Finance · Windesheim · 2026"
+    footer: '<a href="https://www.windesheim.nl/onderzoek/lectoraten/supply-chain-finance">Lectoraat Supply Chain Finance · Windesheim · 2026</a>'
     logo: "Windesheim Ai Survey.png"
     embed-resources: true
     standalone: true
+    smaller: true
+    scrollable: true
 ---
 
 ## Opdracht
@@ -321,8 +323,6 @@ Urenregistratie automatiseren · Copilot-beleid Windesheim
 :::
 
 ::: {.fragment}
----
-
 **Alle radartjes, tools en interviews:**
 
 [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html) · [Overzicht](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/)
