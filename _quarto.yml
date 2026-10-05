@@ -29,6 +29,7 @@ website:
         text: Dashboard
       - href: presentatie.html
         text: Presentatie
+        target: _blank
       - text: Updates
         menu:
           - href: updates/week-01.qmd
