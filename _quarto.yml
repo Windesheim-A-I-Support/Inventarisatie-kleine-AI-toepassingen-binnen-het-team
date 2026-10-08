@@ -34,6 +34,8 @@ website:
         menu:
           - href: updates/week-01.qmd
             text: Week 1
+          - href: updates/workshop-ai-uitwisseling.qmd
+            text: Workshop AI-dag
 
 format:
   html:
