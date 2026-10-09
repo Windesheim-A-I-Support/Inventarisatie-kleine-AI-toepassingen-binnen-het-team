@@ -1,0 +1,331 @@
+---
+title: "Gespreksgids: kleine AI-radartjes ophalen"
+---
+
+## Doel
+
+Kleine, concrete werkonderdelen blootleggen waar AI mogelijk iets mee kan. Geen AI-gesprek. Een werkgesprek.
+
+**Niet doen:** AI noemen als oplossing, suggereren, invullen, verbanden leggen.
+
+**Wel doen:** luisteren, terugvragen met hun eigen woorden, stilte laten vallen.
+
+---
+
+## Houding tijdens het gesprek
+
+Mensen weten niet wat een goed AI-gebruik is. Directe vragen daarover leveren clichés op. Je vindt de radartjes niet door te vragen waar AI kan helpen: je vindt ze door goed te luisteren naar hoe iemand werkt.
+
+Let op deze signalen:
+
+- "Ik doe altijd..." (herhaling, mogelijk automatiseerbaar)
+- "Dat kost me echt uren..." (tijdskosten)
+- "Ik heb zelf een trucje bedacht..." (workaround, sterkste pijnsignaal)
+- "Eigenlijk lees ik dat niet helemaal..." (kwaliteitscompromis)
+- "Ik moet dat steeds weer opzoeken..." (retrieval)
+- "Ik stuur dan altijd hetzelfde soort bericht..." (templating)
+
+---
+
+## Opening
+
+> "Ik ben bezig met een inventarisatie van kleine AI-toepassingen binnen het team. Geen grote strategie, gewoon ophalen wat er speelt. Ik stel je een paar vragen en luister. Er zijn geen goede of foute antwoorden."
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+## De 12 vragen
+
+### 0. Digitale toolkit (vroeg in het gesprek)
+
+> "Welke digitale tools gebruik je dagelijks of wekelijks? Denk aan alles: e-mail, agenda, tekstverwerking, projecttools. En ook AI-tools als je die gebruikt."
+
+Niet als AI-vraag stellen. Gewoon inventariseren wat het digitale werklandschap is. Dit geeft context voor alles wat daarna komt: je ziet waar iemand al digitaal werkt en waar nog niet.
+
+Let op:
+
+- Tools die ze vanzelfsprekend vinden (Outlook, Teams, Word) zijn net zo interessant als de experimentele tools
+- "Niet werkend" of "geprobeerd en gestopt" is ook relevante informatie
+- Noteer ook frequentie en tevredenheid per tool
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 1. Opener: recente taak
+
+> "Waar was je deze week het meest tijd aan kwijt? Niet wat je had moeten doen, maar wat je écht deed."
+
+Concreet en klein. Ze hoeven geen dag te reconstrueren, alleen iets recents te noemen.
+
+Gebruik als ze stoppen of vaag worden:
+
+- "Hoe lang was je daar globaal mee bezig?"
+- "Hoe begint dat precies?"
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 2. Drill-down
+
+Kies het meest tijdrovende of herhalende onderdeel en ga er dieper op in.
+
+> "Je zei dat je [X] doet. Hoe begint dat precies, wat doe je stap voor stap, en hoe eindigt het?"
+
+Gebruik hun eigen woorden, niet jouw interpretatie. Nooit invullen.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 3. Workaround-vraag
+
+> "Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?"
+
+Als ja: sterk signaal. Echte pijn, al nagedacht over oplossing.
+
+Doorvragen:
+
+- "Hoe ziet dat trucje eruit?"
+- "Waarom doe je het zo en niet anders?"
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 4. Volume
+
+> "Hoeveel van dit soort [X] doe je per week, globaal?"
+
+Volume maakt een radartje concreet. Zonder volume weet je niet of het ertoe doet.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 5. AI-kansen verkennen
+
+> "Gebruik je zelf al AI-tools, voor werk of privé?"
+
+Zo ja:
+
+- "Waarvoor precies?"
+- "Wat werkt goed, wat werkt niet?"
+
+Zo nee:
+
+- "Zijn er dingen in je werk waarvan je denkt: hier zou ik eigenlijk hulp bij willen?"
+
+Daarna altijd:
+
+> "Als je kijkt naar [X dat ze net noemden], denk je dat AI daar iets mee zou kunnen? Of zie je dat juist niet zitten?"
+
+Laat ze zelf de verbinding maken. Niet invullen.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 6. Eerder geprobeerd?
+
+> "Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt? Wat was dat?"
+
+Sterk signaal. Iemand die al iets probeerde en opgaf heeft een echte drempel: adoptie, tijd, vertrouwen, of mismatch. Die informatie bepaalt welk type oplossing realistisch is.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 7. Kwaliteitscompromis
+
+> "Wat doe je als je haast hebt? Wat laat je dan weg?"
+
+Dit onthult wat pijnlijk genoeg is om over te slaan. Precies daar zit vaak de kans.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 8. Samenwerking en schaal
+
+> "Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?"
+
+Als meerdere mensen hetzelfde doen: het radartje is groter dan het lijkt. Een oplossing voor één persoon heeft dan veel meer waarde.
+
+Doorvragen:
+
+- "Doen jullie het allemaal op dezelfde manier?"
+- "Is er iemand die het efficiënter doet dan anderen?"
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 9. Foutkosten
+
+> "Wat gaat er mis als [X] niet goed gaat?"
+
+Bepaalt hoe kritisch het radartje is. Een fout in een intern werkdocument is anders dan een fout in een publicatie of subsidieaanvraag.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 10. Bestaande tools en systemen
+
+> "Welke programma's of systemen gebruik je al bij [X]? Ook de saaie: Outlook, Teams, Excel."
+
+Bepaalt integratie-vereisten. Een oplossing die buiten bestaande systemen werkt heeft een hogere drempel.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 11. De magische stagiairvraag
+
+> "Stel: er zit een slimme stagiair een week naast je die precies kan leren wat jij doet. Wat laat je die als eerste doen?"
+
+Omzeilt het AI-frame volledig. Mensen noemen echte taken, geen abstracties.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+### 12. Succescriterium
+
+> "Stel het werkt. Hoe merk je dat het beter gaat?"
+
+Maakt het radartje meetbaar. Zonder succescriterium is er geen manier om te weten of een tool daadwerkelijk helpt.
+
+```{=latex}
+\vspace{0.4cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.8cm}
+\noindent\rule{\textwidth}{0.3pt}\vspace{0.4cm}
+```
+
+---
+
+## Radartje gevonden? Afpellen.
+
+| Vraag | Antwoord |
+|---|---|
+| Wat gaat er precies in? | |
+| **In welk formaat?** (tekst, PDF, audio, data, agenda, iets anders) | |
+| Wat moet er uitkomen? | |
+| Hoe vaak per week? | |
+| Doet iedereen het hetzelfde of verschilt het? | |
+| Is de informatie gevoelig? (publiek / intern / persoonsgegevens) | |
+| **Wie zou dit moeten gebruiken?** (alleen jij, heel team, iedereen) | |
+| Wat gebruik je er nu voor? | |
+
+---
+
+## Aantekeningen
+
+**Digitale toolkit (vroeg invullen):**
+
+| Tool | Categorie | Frequentie | Tevredenheid |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+**Kleine radartjes:**
+
+| Werkproces | Radartje | Volume | Privacyniveau |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+**Letterlijke uitspraken om te onthouden:**
+
+-
+
+**Ideeën die ik nu nog niet benoem:**
+
+-

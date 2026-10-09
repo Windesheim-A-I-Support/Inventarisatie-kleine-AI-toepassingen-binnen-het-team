@@ -1,0 +1,153 @@
+---
+title: "Interview-template (invulbaar)"
+format:
+  docx:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+lang: nl
+---
+
+# Interview: [naam collega]
+
+## Metadata
+
+| Veld | Waarde |
+|---|---|
+| Datum | [datum] |
+| Collega | [naam] |
+| Rol | [rol] |
+| Gespreksvorm | Mondeling, één op één |
+| Duur | [duur] |
+
+## Digitale toolkit
+
+*Vul in vroeg in het gesprek. Alle tools, niet alleen AI.*
+
+| Tool | Categorie | Waarvoor | Frequentie | Tevredenheid | Opmerking |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Categorieën: AI/LLM, AI lokaal, Automatisering, Literatuur, Projectmanagement, Ontwikkeling, Communicatie, Documenten, Andere
+
+---
+
+## Aantekeningen
+
+*Gestructureerde aantekeningen per onderwerp. Blijft privé in de repo. Niet gedeeld.*
+
+[transcript hier]
+
+## Gestructureerde Q&A
+
+*Samenvatting per vraag op basis van het transcript. Blijft privé.*
+
+### 1. Recente taak (opener)
+
+> “Waar was je deze week het meest tijd aan kwijt?”
+
+Antwoord:
+
+### 2. Drill-down
+
+> “Je zei dat je [X] doet. Hoe begint dat precies, stap voor stap?”
+
+Antwoord:
+
+### 3. Workaround
+
+> “Heb je voor [X] zelf een manier bedacht om het makkelijker te maken?”
+
+Antwoord:
+
+### 4. Volume
+
+> “Hoeveel van dit soort [X] doe je per week?”
+
+Antwoord:
+
+### 5. AI-gebruik
+
+> “Gebruik je zelf al AI-tools, voor werk of privé?”
+
+Antwoord:
+
+### 6. Eerder geprobeerd en gestopt?
+
+> “Heb je ooit iets geprobeerd om [X] makkelijker te maken en ben je daarmee gestopt?”
+
+Antwoord:
+
+### 7. Kwaliteitscompromis
+
+> “Wat doe je als je haast hebt? Wat laat je dan weg?”
+
+Antwoord:
+
+### 8. Samenwerking en schaal
+
+> “Doe je [X] altijd alleen, of zijn er collega's die hetzelfde doen?”
+
+Antwoord:
+
+### 9. Foutkosten
+
+> “Wat gaat er mis als [X] niet goed gaat?”
+
+Antwoord:
+
+### 10. Bestaande tools en systemen
+
+> “Welke programma's of systemen gebruik je al bij [X]?”
+
+Antwoord:
+
+### 11. De magische stagiairvraag
+
+> “Stel: er zit een slimme stagiair een week naast je. Wat laat je die als eerste doen?”
+
+Antwoord:
+
+### 12. Succescriterium
+
+> “Stel het werkt. Hoe merk je dat het beter gaat?”
+
+Antwoord:
+
+## Kleine radartjes uit dit gesprek
+
+| Werkproces | Klein radartje | Inputtype | Gewenste output | Privacyniveau | Trigger | Opmerking |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+## Letterlijke signalen
+
+- “[quote]”
+
+## Nog niet oplossen
+
+Noteer hier ideeën die opkomen, maar nog niet als oplossing worden voorgesteld.
+
+-
+
+---
+
+## Samenvatting voor weekupdate
+
+*Dit blok is het enige dat gedeeld wordt. Geen namen, geen ruwe notities.*
+
+**Rol/context collega:** [bijv. “onderzoeker”, “beleidsmedewerker”]
+
+**In het kort:** [1-2 zinnen wat de collega doet en wat opviel]
+
+**Kleine radartjes:**
+
+- [radartje 1: werkproces + wat AI zou kunnen doen]
+- [radartje 2]
+- [radartje 3]
+
+**Al in gebruik:** [tools of werkwijzen die de collega nu al gebruikt, of “niets”]
+
+**Sterkste signaal:** “[letterlijke uitspraak of kernobservatie]”
