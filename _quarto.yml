@@ -42,6 +42,9 @@ format:
     toc: true
     number-sections: true
     theme: cosmo
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
   docx:
     toc: true
     number-sections: true
