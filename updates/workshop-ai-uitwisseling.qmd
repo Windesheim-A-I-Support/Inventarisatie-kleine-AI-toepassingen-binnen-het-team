@@ -1,168 +1,90 @@
 ---
-title: "Draaiboek Workshop AI-Uitwisselingsdag"
+title: "Draaiboek AI-Uitwisselingsdag"
 ---
 
-# Draaiboek & Plan: AI-Uitwisselingsdag Lectoraat
+# Draaiboek: AI-Uitwisselingsmiddag Lectoraat Supply Chain Finance
 
-## Doel en Uitgangspunten
+## Doel
 
-Naar aanleiding van de afstemming tussen Michiel en Chris organiseren we eind van de maand een praktische team-middag rondom AI-uitwisseling en samenwerking.
+Uit de AI-inventarisatie bleek dat iedereen op zijn eigen manier met AI experimenteert, maar dat we dat nauwelijks van elkaar weten. In plaats van iedereen dezelfde methode aan te leren, willen we van elkaar leren. De beste aanpakken zitten al in het team.
 
-Het doel van deze bijeenkomst:
-1. **Peer-to-peer leren**: Geen theoretische AI-visie van bovenaf, maar direct zien hoe collega's binnen het team AI nu al succesvol inzetten in hun dagelijkse werk.
-2. **Champions in hun kracht**: Bart, Yolanda en Ronald nemen eigenaarschap over hun eigen bewezen toepassingen en laten collega's live meekijken.
-3. **Samenwerking versterken (World Café)**: Concreet ophalen hoe we elkaars werkwijzen, prompts en templates kunnen hergebruiken.
-4. **Inspirerende afsluiter**: Een demonstratie van hoe Chris AI inzet voor geavanceerde workflows en analyses.
+Vijf collega's laten live zien hoe ze AI gebruiken in hun werk. De rest kijkt mee en stelt vragen. Daarna werken we per onderwerp uit wat we er als lectoraat mee kunnen.
 
 ---
 
-## Programma en Tijdsindeling
-
-Voorgesteld format: een compacte, energieke halve dag (middag) van circa 3,5 uur, afgesloten met een borrel.
+## Programma
 
 | Tijd | Onderdeel | Toelichting |
 |---|---|---|
-| 13:00 - 13:20 | Inloop & koffie | Informele start, iedereen installeert zich |
-| 13:20 - 13:35 | Opening & context (Michiel & Chris) | Waarom deze dag? Van losse inventarisatie naar samen slimmer werken |
-| 13:35 - 13:45 | Pitch van de Champions (3 x 3 min) | Bart, Yolanda en Ronald geven een korte vooruitblik op hun tafel |
-| 13:45 - 14:15 | **World Café Ronde 1** (30 min) | Groep A naar Bart, Groep B naar Yolanda, Groep C naar Ronald |
-| 14:15 - 14:45 | **World Café Ronde 2** (30 min) | Wisseling van tafels |
-| 14:45 - 15:00 | Korte pauze (15 min) | Koffie, benen strekken, informele uitwisseling |
-| 15:00 - 15:30 | **World Café Ronde 3** (30 min) | Laatste wissel: iedereen heeft alle drie de tafels bezocht |
-| 15:30 - 16:00 | **Plenaire oogst: Beter samenwerken** (30 min) | Tafeloogst samenbrengen: welke concrete afspraken maken we als team? |
-| 16:00 - 16:30 | **Afsluiter: Hoe Chris AI gebruikt** (30 min) | Een blik achter de schermen: geavanceerde workflows, agents en tools |
-| 16:30 - 17:15 | Borrel & napraten | Informele afronding en ervaringen delen |
+| 13:00 - 13:20 | Inloop & koffie | Informele start |
+| 13:20 - 13:35 | Opening & context | Michiel & Chris: van inventarisatie naar samendoen |
+| 13:35 - 13:55 | **Demo 1 -- Richard Holman** | Transcriptie via Summary AI (15 min + vragen) |
+| 13:55 - 14:15 | **Demo 2 -- Christiaan de Goeij** | Subsidies schrijven met ChatGPT (15 min + vragen) |
+| 14:15 - 14:35 | **Demo 3 -- Bart Ras** | Presentaties maken met AI (15 min + vragen) |
+| 14:35 - 14:55 | **Demo 4 -- Mounia Belmamoune** | Verslaglegging via ChatGPT Projects (15 min + vragen) |
+| 14:55 - 15:15 | **Demo 5 -- Ritsaart Bergsma** | Onderwijs & toetsen (15 min + vragen) |
+| 15:15 - 15:35 | Koffiepauze | Even bijkomen |
+| 15:35 - 16:05 | **Tafelkleed** | Per onderwerp invullen in kleine groepjes |
+| 16:05 - 16:35 | **Plenaire oogst** | Acties en afspraken voor het lectoraat |
+| 16:35 - 17:00 | **Afsluiter -- Chris** | Blik achter de schermen: geavanceerde workflows & agents |
+| 17:00 - 17:30 | Borrel & napraten | Informele afronding |
 
 ---
 
-## De Drie Champion-Tafels (World Café)
+## De Demo's
 
-Elke tafel heeft een eigen thema, gebaseerd op de sterke punten die uit de interviews naar voren zijn gekomen. De insteek voor de champions is uitdrukkelijk laagdrempelig: **geen gelikte PowerPoint**, maar gewoon de eigen laptop openklappen en 10 minuten laten zien wat je doet, gevolgd door dialoog en vragen.
+Elke demo duurt 15 minuten: de host klapt zijn eigen laptop open en laat live zien hoe het werkt. Geen slides, geen voorbereiding. Daarna is er ruimte voor vragen en discussie.
 
-### Tafel 1: Yolanda Beenen
-**Thema:** Van brainstorm naar gehonoreerde subsidie en actiepunten
+### Demo 1 -- Richard Holman: Transcriptie
 
-- **Wat Yolanda laat zien:**
-  - Hoe zij een gesproken brainstorm of Teams-vergadering opneemt en transcribeert.
-  - Hoe het transcript samen met subsidievoorwaarden in ChatGPT wordt gezet om iteratief subsidieteksten op te stellen (de bewezen casus van €40.000).
-  - Hoe vergadertranscripties worden omgezet in overzichtelijke actielijsten per persoon.
-- **Centrale vraag voor het tafelgesprek:**
-  - *Hoe kunnen we elkaars brainstorms en subsidie-ideeën sneller vertalen naar concrete voorstellen en projectacties?*
+Richard gebruikt Summary AI dagelijks om gesprekken met bedrijven en afstuderenden te transcriberen. Hij kiest daarna de toon van de samenvatting: zakelijk, diplomatiek of vriendelijk. De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
 
-### Tafel 2: Bart Ras
-**Thema:** Presentaties in turbomodus en werken met gerichte AI-assistenten
+### Demo 2 -- Christiaan de Goeij: Subsidies schrijven
 
-- **Wat Bart laat zien:**
-  - Hoe je in 20 minuten van context en doelgroepomschrijving naar een sprekersscript, presenter deck én leesdeck gaat ("100 keer sneller").
-  - Hoe je AI niet benadert als een zoekmachine, maar als een getrainde assistent met een duidelijke rol en taakafbakening (agentic thinking).
-  - Voorbeelden van snelle analyses en modelmatige toepassingen.
-- **Centrale vraag voor het tafelgesprek:**
-  - *Welke terugkerende presentaties, rapportages of pitches binnen ons team kunnen we standaardiseren met deze aanpak?*
+Christiaan herschrijft conceptteksten naar de juiste terminologie per subsidiegever via ChatGPT. IenW, TKI, topsector -- elke subsidiegever heeft zijn eigen taal en Christiaan stemt de tekst daar op af.
 
-### Tafel 3: Ronald de Boer
-**Thema:** Betrouwbaar bronnenonderzoek, data visualisaties en audio-leren
+### Demo 3 -- Bart Ras: Presentaties maken
 
-- **Wat Ronald laat zien:**
-  - Waarom en hoe hij Perplexity gebruikt voor feitelijk bronnenonderzoek zonder hallucinaties.
-  - Hoe NotebookLM dikke rapporten, boeken en beleidsstukken omzet in een dynamische audio-podcast voor onderweg in de auto of trein.
-  - Hoe Claude helpt bij het snel genereren van data-overzichten en benchmark visualisaties.
-- **Centrale vraag voor het tafelgesprek:**
-  - *Hoe zorgen we dat we betrouwbare bronnen delen en taaie rapporten sneller tot ons nemen zonder tijd te verliezen?*
+Bart maakt presentaties voor MKB-bedrijven via Gamma en ChatGPT. Wat vroeger een halve dag kostte, doet hij nu in minuten. Hij gebruikt AI als een getrainde assistent met een duidelijke rol, niet als zoekmachine.
+
+### Demo 4 -- Mounia Belmamoune: Verslaglegging
+
+Mounia bundelt data in een ChatGPT-projectomgeving en schrijft daar evaluatieverslagen en hackathon-rapporten mee. Ze heeft een werkende workflow die direct overdraagbaar is aan collega's die hetzelfde doen.
+
+### Demo 5 -- Ritsaart Bergsma: Onderwijs & toetsen
+
+Ritsaart genereert toetsvragen direct in het importformaat voor ANS en Brightspace. Hij gebruikt AI ook voor het herstructureren van cursusmateriaal en het stroomlijnen van herhalende onderwijsadministratie.
 
 ---
 
-## De World Café Werkwijze: Ideeën Vangen voor Samenwerking
+## Tafelkleed
 
-Om te voorkomen dat het alleen bij kijken blijft, gebruiken we de World Café methodiek om actief ideeën op te halen:
+Na alle demo's werken we per onderwerp verder in kleine groepjes. Elk groepje vult een tafelkleed in:
 
-1. **Grote papieren tafelkleden en stiften**: Op elke tafel ligt een groot vel papier (of flipovervel) waarop deelnemers direct gedachten, tips, vragen en behoeften noteren.
-2. **De Champion blijft gastheer/gastvrouw**: Bij elke ronde geeft de champion aan de nieuwe groep een korte samenvatting van wat de vorige groep op het vel heeft gezet.
-3. **Drie vaste reflectievragen op tafel**:
-   - *Wat kan ik morgen direct overnemen in mijn eigen werk?*
-   - *Waar zit een kans om samen op te trekken (bv. elkaars prompts of templates gebruiken)?*
-   - *Wat hebben we als team nodig om dit breder vast te houden (licenties, tooling, afspraken)?*
-4. **Plenaire oogst (15:30 - 16:00)**:
-   - De drie champions plakken hun tafelkleed op het bord.
-   - We kiezen met het team 3 concrete actiepunten voor de komende maand (bijvoorbeeld: een gezamenlijke prompt-map in Teams, vaste subsidie-templates, of een buddy-systeem voor nieuwe tools).
-
----
-
-## Afsluiter: Hoe Chris AI Gebruikt (16:00 - 16:30)
-
-Een inspirerende demonstratie van Chris waarin hij laat zien hoe AI als volwaardige partner kan fungeren in complexe werkprocessen:
-- **Meta-casus**: Hoe deze hele team-inventarisatie, transcriptie-analyses en Quarto-website tot stand zijn gekomen met behulp van AI.
-- **Agentic workflows**: Een kijkje in tools zoals Claude Code, geautomatiseerde scripts en taakgestuurde agenten.
-- **Praktische takeaway voor het team**: Hoe je de stap maakt van losse prompts naar herbruikbare workflows die je dagelijks uren werk besparen.
+| # | Vraag |
+|---|---|
+| 1 | **Wat werkt al** -- host vult dit voor de middag in |
+| 2 | **Ik gebruik dit voor** -- huidig gebruik |
+| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik |
+| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd |
+| 5 | **Waaraan moet het voldoen?** -- eisen en randvoorwaarden |
+| 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** |
+| 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer |
 
 ---
 
-## Conceptberichten voor Benadering
+## Organisatie
 
-### 1. Persoonlijk bericht aan de drie Champions (Bart, Yolanda, Ronald)
+**Datum:** voorstel 30 november (nog te bevestigen)
+**Tijdsduur:** 13:00 - 17:30 (inclusief borrel)
+**Ruimte:** plenaire zaal met projectiemogelijkheid
 
-> **Onderwerp:** Samen een team-middag vormgeven: jouw AI-ervaring als inspiratie
->
-> Hoi [Bart / Yolanda / Ronald],
->
-> In het vervolg op de inventarisatie hebben Michiel en ik afgesproken om eind van deze maand een praktische middag voor het hele team te organiseren. Geen lange beleidsverhalen, maar een middag waarin we van elkaar leren hoe we AI nu al in de praktijk gebruiken.
->
-> Uit de gesprekken bleek dat jij een hele gave, concrete werkwijze hebt waar collega's ontzettend veel van kunnen leren:
-> - *Voor Bart:* de manier waarop jij binnen no-time presentaties bouwt en met gerichte taken/agents werkt.
-> - *Voor Yolanda:* de manier waarop je van brainstorm via transcriptie naar een gehonoreerde subsidie (€40.000) werkt.
-> - *Voor Ronald:* hoe je Perplexity inzet voor betrouwbaar bronnenonderzoek en NotebookLM gebruikt om rapporten te beluisteren.
->
-> We willen werken met een World Café opzet: 3 tafels waar collega's in kleine groepjes langs rouleren. We willen je vragen om aan één van die tafels gastheer/gastvrouw te zijn.
->
-> **Belangrijk:** dit vraagt uitdrukkelijk *geen* formele presentatie of zware voorbereiding! Het idee is simpelweg je laptop openklappen, 10 minuten laten zien hoe jij het doet, en daarna met collega's in gesprek gaan over hoe zij dit kunnen toepassen.
->
-> Vind je het leuk om dit eigenaarschap te pakken? Laat me even weten of je hier voor openstaat, dan stemmen we binnenkort even kort 10 minuutjes af over de details en de datum.
->
-> Groet,
-> Chris
+**Checklist:**
 
----
-
-### 2. Uitnodiging / Save-the-Date voor het hele team
-
-> **Onderwerp:** Save the Date: Praktische AI-Uitwisselingsmiddag Lectoraat
->
-> Beste collega's,
->
-> De afgelopen weken hebben we met velen van jullie gesproken over digitale hulpmiddelen en kleine AI-toepassingen in ons dagelijkse werk. Wat vooral opviel: verschillende collega's hebben al hele slimme, praktische manieren gevonden om AI voor zich te laten werken, terwijl anderen nog zoeken naar waar te beginnen.
->
-> Daarom organiseren we eind van deze maand een informele en hands-on middag:
-> **Samen Slimmer Werken met AI: Van en Voor Elkaar**.
->
-> Geen theoretische verhalen over de toekomst van AI, maar direct meekijken bij collega's:
-> - Hoe bouw je binnen een kwartier een complete presentatie met structuur en sprekersnotities? (Bart)
-> - Hoe zet je een gesproken brainstorm om in een gehonoreerde subsidieaanvraag of strakke actielijst? (Yolanda)
-> - Hoe check je betrouwbare bronnen zonder hallucinaties en beluister je dikke rapporten als podcast onderweg? (Ronald)
-> - En als afsluiter: een blik achter de schermen bij hoe Chris AI inzet voor complexe analyses en workflows.
->
-> We doen dit in een interactieve World Café opzet met kleine groepen, volop ruimte voor vragen en een afsluitende borrel.
->
-> **Wanneer:** [Datum, bv. donderdag 29 oktober / vrijdag 30 oktober], 13:00 - 17:00 uur (inclusief borrel).
-> **Locatie:** [Ruimte / Locatie Windesheim].
->
-> Zet deze middag alvast in je agenda. De definitieve datum en het detailprogramma volgen begin volgende week!
->
-> Hartelijke groet,
-> Michiel & Chris
-
----
-
-## Checklist voor de Organisatie
-
-1. **Afstemming Champions (deze week)**:
-   - Bart, Yolanda en Ronald benaderen met het conceptbericht.
-   - Hun beschikbaarheid peilen voor de laatste week van de maand.
-2. **Datum en Ruimte (deze week / begin volgende week)**:
-   - Datum definitief prikken in overleg met Michiel en de champions.
-   - Ruimte reserveren: grote ruimte met 3 à 4 aparte groepstafels, elk voorzien van een extern scherm/monitor voor de laptop van de champion.
-3. **Facilitair & Materiaal**:
-   - Grote vellen papier / tafelkleden voor de tafels.
-   - Stiften en post-its in meerdere kleuren.
-   - Koffie, thee en afsluitende borrel regelen.
-4. **Opvolging na de dag**:
-   - De opbrengst van de tafelkleden digitaliseren en toevoegen aan de Quarto projectdocumentatie.
-   - De 3 gekozen actiepunten borgen in het teamoverleg.
+- [ ] Datum definitief prikken met Michiel en de hosts
+- [ ] Ruimte reserveren
+- [ ] Hosts bevestigen: Richard (ja), Bart (ja), Mounia (ja), Ritsaart (ja), Christiaan (gevraagd)
+- [ ] Uitnodiging versturen naar heel lectoraat
+- [ ] Tafelkleden voorbereiden (A0 vel per onderwerp + stiften)
+- [ ] Koffie, thee en borrel regelen
+- [ ] Opbrengst na de dag digitaliseren en actiepunten borgen
