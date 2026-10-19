@@ -113,17 +113,17 @@ Wel: *"Agenda-items omzetten naar een ingevuld urenformulier"*
 
 ## De negen werkprocesclusters
 
-| Werkproces | Collega's | Prioriteit |
-|---|---|---|
-| Vergader-/interviewtranscriptie | 8 | ★★★★★ |
-| Presentaties maken | 6 | ★★★★★ |
-| Subsidietrajecten schrijven | 6 | ★★★★☆ |
-| Data-analyse / survey | 6 | ★★★★☆ |
-| Literatuuronderzoek | 5 | ★★★★☆ |
-| Netwerk / partners | 5 | ★★★☆☆ |
-| Urenregistratie | 5 | ★★★☆☆ |
-| E-mailbeheer | 4 | ★★☆☆☆ |
-| Onderwijs en studentbegeleiding | 4 | ★★★☆☆ |
+| Werkproces | Collega's | Champion | Prioriteit |
+|---|---|---|---|
+| Vergader-/interviewtranscriptie | 8 | Richard / Yolanda | ★★★★★ |
+| Presentaties maken | 6 | Bart Ras | ★★★★★ |
+| Subsidietrajecten schrijven | 6 | Yolanda Beenen | ★★★★☆ |
+| Data-analyse / survey | 6 | Ronald de Boer | ★★★★☆ |
+| Literatuuronderzoek | 5 | Michiel / Mounia | ★★★★☆ |
+| Netwerk / partners | 5 | Richard Holman | ★★★☆☆ |
+| Urenregistratie | 5 | Ritsaart / Stefan | ★★★☆☆ |
+| E-mailbeheer | 4 | Michiel (inChange) | ★★☆☆☆ |
+| Onderwijs en studentbegeleiding | 4 | Ritsaart Bergsma | ★★★☆☆ |
 
 *Prioriteit = AI-gereedheid × tijdwinst × drempel*
 
@@ -312,40 +312,108 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ## Concrete aanbevelingen
 
-**Categorie A -- morgen beginnen**
+**Categorie A -- direct starten (quick wins)**
 
-| Actie | Champion | Tool |
+| Actie | Champion | Tool / Aanpak |
 |---|---|---|
-| Vergadertranscriptie | Richard + Yolanda | Dutch PQ / [tl;dv](https://tldv.io) |
-| Presentaties | Bart Ras | [Gamma](https://gamma.app) |
+| Vergadertranscriptie | Richard + Yolanda | Dutch PQ / [tl;dv](https://tldv.io) / Summary AI |
+| Presentaties in turbomodus | Bart Ras | [Gamma](https://gamma.app) (20 min naar 2 decks) |
 | Literatuuronderzoek | Michiel + Mounia | [Elicit](https://elicit.com) / [Perplexity](https://perplexity.ai) |
-| Forms-export opschonen | Ronald de Boer | [ChatGPT](https://chatgpt.com) + Excel |
+| Forms-export & survey-data | Ronald de Boer | [ChatGPT](https://chatgpt.com) + Claude + Excel |
+| Multiple source intelligence & netwerk | Richard Holman | Meerdere LLMs vergelijken & contact-pipeline |
+| Onderwijs- & toetsautomatisering | Ritsaart Bergsma | Toetsvragen ANS/Brightspace & Python scripts |
 
 ::: {.fragment}
-**Categorie B -- na één demo-sessie**
+**Categorie B -- overdraagbaar na korte demo**
 
-Yolanda's subsidie-aanpak overdragen aan Paulien, Mira en Michiel.
+- Yolanda's subsidie-aanpak (€40.000 casus) overdragen aan subsidie-schrijvers.
+- Mounia's afgesloten ChatGPT-projectomgeving delen als privacy-aanpak.
 :::
 
 ::: {.fragment}
 **Categorie C -- structureel**
 
-Urenregistratie automatiseren · Copilot-beleid Windesheim
+- Urenregistratie (TKI) automatiseren via script (Ritsaart / Stefan / Mira).
+- Copilot-beleidsbesluit Windesheim voorbereiden via Michiel's business case.
 :::
+
+---
+
+## AI-Uitwisselingsmiddag Lectoraat
+
+**Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen aan de tafel.
+
+::: {.columns}
+::: {.column width="50%"}
+**5 Demo-tafels**
+
+1. **Transcriptie** -- Richard Holman (Summary AI)
+2. **Subsidies schrijven** -- Yolanda Beenen (€40k aanpak)
+3. **Presentaties** -- Bart Ras (Gamma / ChatGPT)
+4. **Verslaglegging** -- Mounia Belmamoune (ChatGPT Projects)
+5. **Onderwijs & toetsen** -- Ritsaart Bergsma (ANS / Brightspace)
+:::
+::: {.column width="50%"}
+**Formule: World Café**
+
+- **Demo (10 min):** host klapt laptop open, laat live zien hoe het werkt.
+- **Requirements (20 min):** groepje vult tafelkleed in.
+- **3 rondes:** iedereen bezoekt 3 van de 6 tafels naar keuze.
+- **Plenaire oogst:** acties en afspraken per tafel.
+:::
+:::
+
+---
+
+## Dagopdeling Workshop
+
+**Voorgesteld programma (halve dag, circa 4 uur + borrel):**
+
+| Tijd | Onderdeel | Insteek |
+|---|---|---|
+| 13:00 - 13:20 | Inloop & koffie | Informele start |
+| 13:20 - 13:35 | Opening & context | Michiel & Chris: van inventarisatie naar samendoen |
+| 13:35 - 13:45 | Tafelpitches | 5 x 2 min: elke tafelhost stelt zijn tafel voor |
+| 13:45 - 14:15 | **World Café Ronde 1** | Deelnemers kiezen tafel -- hosts blijven zitten (30 min) |
+| 14:15 - 14:20 | Wissel | |
+| 14:20 - 14:50 | **World Café Ronde 2** | Nieuwe groep per tafel (30 min) |
+| 14:50 - 14:55 | Wissel | |
+| 14:55 - 15:25 | **World Café Ronde 3** | Nieuwe groep per tafel (30 min) |
+| 15:25 - 15:45 | Koffiepauze | Hosts verzamelen oogst van hun tafelkleed |
+| 15:45 - 16:15 | **Plenaire oogst** | Tafelkleden presenteren: acties en afspraken |
+| 16:15 - 16:45 | **Afsluiter door Chris** | Blik achter de schermen: geavanceerde workflows & agents |
+| 16:45 - 17:30 | Borrel & napraten | Informele afronding |
+
+---
+
+## Tafelkleed -- per tafel invullen
+
+Elke tafelhost vult **"Wat werkt al"** in voor de middag. De rest vullen deelnemers samen in.
+
+| # | Vraag |
+|---|---|
+| 1 | **Wat werkt al** -- host vult dit voor de middag in |
+| 2 | **Ik gebruik dit voor** -- huidig gebruik |
+| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik |
+| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd |
+| 5 | **Waaraan moet het voldoen?** -- eisen en randvoorwaarden |
+| 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** |
+| 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer |
 
 ---
 
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Kennisdelingssessie plannen** -- vier champions tonen hun aanpak (1 ochtend)
-2. **Piloot urenregistratie** -- Ritsaart of Mounia bouwt script, Mira test
-3. **Business case Copilot** -- Michiel maakt onderbouwing op basis van inChange-referentie
-4. **Drie collega's nog uit te nodigen** -- Corné de Ruijt, Monique Mensen, Henri Grolleman
+1. **Tafelhosts bevestigen** -- Richard, Yolanda, Bart, Mounia en Ritsaart uitnodigen als tafelhost
+2. **Datum & ruimte prikken** -- ruimte met 5 tafels, beeldscherm per tafel
+3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
+4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven
+5. **Business case Copilot** -- Michiel werkt onderbouwing uit op basis van inChange-referentie
 :::
 
 ::: {.fragment}
-**Alle radartjes, tools en interviews:**
+**Alle radartjes, tools, draaiboek en dashboard:**
 
-[Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html) · [Overzicht](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/)
+[Draaiboek Workshop](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/updates/workshop-ai-uitwisseling.html) · [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html) · [Overzicht](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/)
 :::
