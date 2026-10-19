@@ -345,21 +345,21 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ::: {.columns}
 ::: {.column width="50%"}
-**5 Demo-tafels**
+**5 Demo's**
 
 1. **Transcriptie** -- Richard Holman (Summary AI)
-2. **Subsidies schrijven** -- Yolanda Beenen (€40k aanpak)
+2. **Subsidies schrijven** -- Christiaan de Goeij (terminologie per subsidiegever)
 3. **Presentaties** -- Bart Ras (Gamma / ChatGPT)
 4. **Verslaglegging** -- Mounia Belmamoune (ChatGPT Projects)
 5. **Onderwijs & toetsen** -- Ritsaart Bergsma (ANS / Brightspace)
 :::
 ::: {.column width="50%"}
-**Formule: World Café**
+**Formule: show & tell**
 
-- **Demo (10 min):** host klapt laptop open, laat live zien hoe het werkt.
-- **Requirements (20 min):** groepje vult tafelkleed in.
-- **3 rondes:** iedereen bezoekt 3 van de 6 tafels naar keuze.
-- **Plenaire oogst:** acties en afspraken per tafel.
+- **5 plenaire demo's:** elke host laat 15 minuten live zien hoe het werkt.
+- **Vragen & discussie:** iedereen reageert direct na elke demo.
+- **Tafelkleed per onderwerp:** na alle demo's als groep invullen.
+- **Plenaire oogst:** acties en afspraken voor het lectoraat.
 :::
 :::
 
@@ -373,16 +373,16 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 |---|---|---|
 | 13:00 - 13:20 | Inloop & koffie | Informele start |
 | 13:20 - 13:35 | Opening & context | Michiel & Chris: van inventarisatie naar samendoen |
-| 13:35 - 13:45 | Tafelpitches | 5 x 2 min: elke tafelhost stelt zijn tafel voor |
-| 13:45 - 14:15 | **World Café Ronde 1** | Deelnemers kiezen tafel -- hosts blijven zitten (30 min) |
-| 14:15 - 14:20 | Wissel | |
-| 14:20 - 14:50 | **World Café Ronde 2** | Nieuwe groep per tafel (30 min) |
-| 14:50 - 14:55 | Wissel | |
-| 14:55 - 15:25 | **World Café Ronde 3** | Nieuwe groep per tafel (30 min) |
-| 15:25 - 15:45 | Koffiepauze | Hosts verzamelen oogst van hun tafelkleed |
-| 15:45 - 16:15 | **Plenaire oogst** | Tafelkleden presenteren: acties en afspraken |
-| 16:15 - 16:45 | **Afsluiter door Chris** | Blik achter de schermen: geavanceerde workflows & agents |
-| 16:45 - 17:30 | Borrel & napraten | Informele afronding |
+| 13:35 - 13:55 | **Demo 1 -- Richard** | Transcriptie via Summary AI (15 min + vragen) |
+| 13:55 - 14:15 | **Demo 2 -- Christiaan** | Subsidies schrijven met ChatGPT (15 min + vragen) |
+| 14:15 - 14:35 | **Demo 3 -- Bart** | Presentaties maken met AI (15 min + vragen) |
+| 14:35 - 14:55 | **Demo 4 -- Mounia** | Verslaglegging via ChatGPT Projects (15 min + vragen) |
+| 14:55 - 15:15 | **Demo 5 -- Ritsaart** | Onderwijs & toetsen (15 min + vragen) |
+| 15:15 - 15:35 | Koffiepauze | Even bijkomen |
+| 15:35 - 16:05 | **Tafelkleed** | Per onderwerp invullen in kleine groepjes |
+| 16:05 - 16:35 | **Plenaire oogst** | Acties en afspraken voor het lectoraat |
+| 16:35 - 17:00 | **Afsluiter door Chris** | Blik achter de schermen: geavanceerde workflows & agents |
+| 17:00 - 17:30 | Borrel & napraten | Informele afronding |
 
 ---
 
@@ -405,7 +405,7 @@ Elke tafelhost vult **"Wat werkt al"** in voor de middag. De rest vullen deelnem
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Tafelhosts bevestigen** -- Richard, Yolanda, Bart, Mounia en Ritsaart uitnodigen als tafelhost
+1. **Tafelhosts bevestigen** -- Richard, Christiaan de Goeij, Bart, Mounia en Ritsaart uitnodigen als tafelhost
 2. **Datum & ruimte prikken** -- ruimte met 5 tafels, beeldscherm per tafel
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven
