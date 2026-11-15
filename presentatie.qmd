@@ -339,7 +339,7 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ---
 
-## AI-Uitwisselingsmiddag Lectoraat
+## AI-Uitwisselingsdag Lectoraat
 
 **Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen aan de tafel.
 
@@ -367,32 +367,35 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ## Dagopdeling Workshop
 
-**Voorgesteld programma (halve dag, circa 4 uur + borrel):**
+**Maandag 30 november 2026 · 10:00 - 17:00 · B.2.34**
 
 | Tijd | Onderdeel | Insteek |
 |---|---|---|
-| 13:00 - 13:20 | Inloop & koffie | Informele start |
-| 13:20 - 13:35 | Opening & context | Michiel & Chris: van inventarisatie naar samendoen |
-| 13:35 - 13:55 | **Demo 1 -- Richard** | Transcriptie via Summary AI (15 min + vragen) |
-| 13:55 - 14:15 | **Demo 2 -- Christiaan** | Subsidies schrijven met ChatGPT (15 min + vragen) |
-| 14:15 - 14:35 | **Demo 3 -- Bart** | Presentaties maken met AI (15 min + vragen) |
-| 14:35 - 14:55 | **Demo 4 -- Mounia** | Verslaglegging via ChatGPT Projects (15 min + vragen) |
-| 14:55 - 15:15 | **Demo 5 -- Ritsaart** | Onderwijs & toetsen (15 min + vragen) |
-| 15:15 - 15:35 | Koffiepauze | Even bijkomen |
-| 15:35 - 16:05 | **Tafelkleed** | Per onderwerp invullen in kleine groepjes |
-| 16:05 - 16:35 | **Plenaire oogst** | Acties en afspraken voor het lectoraat |
-| 16:35 - 17:00 | **Afsluiter door Chris** | Blik achter de schermen: geavanceerde workflows & agents |
-| 17:00 - 17:30 | Borrel & napraten | Informele afronding |
+| 10:00 - 10:15 | **Introductie** | Michiel & Chris: welkom, doel van de dag, programma |
+| 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
+| 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
+| 10:45 - 11:15 | **Demo 1 -- Richard Holman** | Transcriptie via Summary AI |
+| 11:15 - 11:30 | Koffiepauze | |
+| 11:30 - 12:00 | **Demo 2 -- Christiaan de Goeij** | Subsidies schrijven met ChatGPT |
+| 12:00 - 12:30 | **Demo 3 -- Bart Ras** | Presentaties maken met AI |
+| 12:30 - 13:15 | Lunch | |
+| 13:15 - 13:45 | **Lessons learned & mogelijke oplossingen -- Chris** | Wat werkt, wat niet, en welke oplossingen we tot nu toe zien |
+| 13:45 - 14:15 | **Demo 4 -- Mounia Belmamoune** | Verslaglegging via ChatGPT Projects |
+| 14:15 - 14:45 | **Demo 5 -- Ritsaart Bergsma** | Onderwijs & toetsen |
+| 14:45 - 15:00 | Pauze | Champions zetten hun tafel klaar |
+| 15:00 - 15:45 | **Zelf aan de slag** | Iedereen kiest een tafel en probeert het onder begeleiding van de champion zelf uit |
+| 15:45 - 16:30 | **Tafelkleed** | Per onderwerp invullen in kleine groepjes |
+| 16:30 - 17:00 | **Eindpresentatie** | Elke tafel presenteert haar tafelkleed (ca. 5 min), daarna afspraken en acties voor het lectoraat |
 
 ---
 
 ## Tafelkleed -- per tafel invullen
 
-Elke tafelhost vult **"Wat werkt al"** in voor de middag. De rest vullen deelnemers samen in.
+Elke champion vult **"Wat werkt al"** vooraf in. De rest vullen deelnemers samen in.
 
 | # | Vraag |
 |---|---|
-| 1 | **Wat werkt al** -- host vult dit voor de middag in |
+| 1 | **Wat werkt al** -- champion vult dit vooraf in |
 | 2 | **Ik gebruik dit voor** -- huidig gebruik |
 | 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik |
 | 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd |
@@ -406,7 +409,7 @@ Elke tafelhost vult **"Wat werkt al"** in voor de middag. De rest vullen deelnem
 
 ::: {.incremental}
 1. **Tafelhosts bevestigen** -- Richard, Christiaan de Goeij, Bart, Mounia en Ritsaart uitnodigen als tafelhost
-2. **Datum & ruimte prikken** -- ruimte met 5 tafels, beeldscherm per tafel
+2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven
 5. **Business case Copilot** -- Michiel werkt onderbouwing uit op basis van inChange-referentie
