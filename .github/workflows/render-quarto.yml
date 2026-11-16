@@ -58,6 +58,8 @@ jobs:
         run: |
           quarto render presentatie.qmd --to revealjs
           cp presentatie.html _site/presentatie.html
+          quarto render dagpresentatie.qmd --to revealjs
+          cp dagpresentatie.html _site/dagpresentatie.html
 
       - name: Render interview-template als DOCX
         run: |

@@ -36,6 +36,10 @@ website:
             text: Week 1
           - href: updates/workshop-ai-uitwisseling.qmd
             text: Workshop AI-dag
+          - href: updates/tafelkaarten.qmd
+            text: Tafelkaarten AI-dag
+          - href: dagpresentatie.html
+            text: Dagpresentatie AI-dag
 
 format:
   html:

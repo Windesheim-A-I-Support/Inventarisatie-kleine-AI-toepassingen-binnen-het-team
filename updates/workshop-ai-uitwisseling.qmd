@@ -23,6 +23,15 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 2. Per onderwerp een ingevuld tafelkleed: wat werkt, wat blokkeert, wat is nodig.
 3. Een korte lijst concrete acties met eigenaar en datum.
 
+## Materialen voor de dag
+
+| Materiaal | Waarvoor | Link |
+|---|---|---|
+| **Dagpresentatie** | Op het grote scherm: welkom, resultaten, icebreaker, uitleg World Café, rondeslides, lessons learned, galerij, eindpresentatie en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
+| **Tafelkaarten** | Eén A4 per tafel: werkwijze, rondeschema, gespreksvragen, starter-prompt | [Openen en printen](tafelkaarten.html) |
+| **Tafelkleed** | A0-vel per tafel met de 7 vragen (zie *Het tafelkleed* hieronder) | Zelf tekenen of printen |
+| **Draaiboek** | Deze pagina: programma, rollen, instructies champions, checklist | |
+
 ---
 
 ## Programma
@@ -324,7 +333,8 @@ Chris noteert de acties live. Michiel sluit af met wat het lectoraat oppakt.
 - [ ] Ruimte inrichten: 5 tafels met elk 6 à 7 stoelen, groot scherm voor de plenaire delen, stekkerdoos bij elke tafel
 - [ ] Tafelkleden voorbereiden (A0 vel per tafel + stiften), plakband om ze op te hangen, stickers voor de galerij
 - [ ] Bel of signaal voor de wissels
-- [ ] Starter-prompts per tafel printen (optioneel materiaal)
+- [ ] Tafelkaarten printen (5x A4, zie *Materialen voor de dag*)
+- [ ] Dagpresentatie testen op het scherm in B.2.34 en actielijst-slide klaarzetten
 - [ ] Koffie, thee en lunch regelen
 - [ ] Flap en stiften voor icebreaker; slides resultaten interviews en lessons learned (Chris)
 - [ ] Wifi-toegang voor gasten checken

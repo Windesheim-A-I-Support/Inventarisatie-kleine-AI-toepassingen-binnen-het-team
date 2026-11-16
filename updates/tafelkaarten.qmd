@@ -1,0 +1,167 @@
+---
+title: "Tafelkaarten AI-Uitwisselingsdag"
+format:
+  html:
+    toc: false
+    number-sections: false
+    include-in-header:
+      text: |
+        <style>
+        @media print { .tafelkaart { page-break-after: always; } nav, header, footer, #quarto-header { display:none !important; } }
+        .tafelkaart { border:2px solid #104D9C; border-radius:8px; padding:1.2em 1.5em; margin-bottom:2em; }
+        </style>
+---
+
+Eén kaart per tafel. Print deze pagina (Ctrl+P): elke kaart komt op een eigen A4. Leg de kaart midden op tafel naast het tafelkleed.
+
+::: {.tafelkaart}
+## Tafel 1 -- Transcriptie (Richard Holman)
+
+**Werkwijze die we als startpunt nemen:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
+
+**Zo verloopt een ronde (35 min)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Hieronder staat een transcript van een gesprek. Maak hiervan:
+1. Een zakelijke samenvatting van maximaal 5 zinnen.
+2. Een lijst actiepunten in de vorm: actie -- wie -- wanneer.
+Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met [?].
+
+[transcript]
+```
+
+🔒 **Let op:** opnames van externe partijen alleen met toestemming. Geen gesprekken met persoonsgegevens in tools zonder verwerkersovereenkomst.
+:::
+
+::: {.tafelkaart}
+## Tafel 2 -- Subsidies schrijven (Christiaan de Goeij)
+
+**Werkwijze die we als startpunt nemen:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
+
+**Zo verloopt een ronde (35 min)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Je bent een ervaren subsidieschrijver. Herschrijf onderstaande projectsamenvatting
+voor [subsidiegever, bijv. TKI Dinalog / RVO / NWO].
+Gebruik de terminologie en prioriteiten van deze subsidiegever.
+Houd de inhoud gelijk, verander alleen framing en woordkeuze.
+Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aangepast.
+
+[tekst]
+```
+
+🔒 **Let op:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
+:::
+
+::: {.tafelkaart}
+## Tafel 3 -- Presentaties maken (Bart Ras)
+
+**Werkwijze die we als startpunt nemen:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
+
+**Zo verloopt een ronde (35 min)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Je bent een presentatiecoach. Doelgroep: [wie], kennisniveau: [laag/midden/hoog],
+situatie: [bijv. 10 minuten pitch op een netwerkbijeenkomst].
+Maak een script voor 5 slides over: [onderwerp].
+Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
+Daarna: één slide die de doelgroep aanzet tot actie.
+```
+
+🔒 **Let op:** bedrijfsnamen en cijfers van partners anonimiseren voordat ze in een externe tool gaan.
+:::
+
+::: {.tafelkaart}
+## Tafel 4 -- Verslaglegging (Mounia Belmamoune)
+
+**Werkwijze die we als startpunt nemen:** data bundelen in een ChatGPT-projectomgeving en daar evaluatieverslagen en hackathon-rapporten mee schrijven. Een werkende workflow die direct overdraagbaar is.
+
+**Zo verloopt een ronde (35 min)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+In dit project staan documenten over [project].
+Maak een evaluatieverslag met deze structuur:
+1. Aanleiding en doel  2. Wat is er gedaan  3. Resultaten  4. Lessen  5. Aanbevelingen
+Gebruik alleen informatie uit de documenten. Vermeld per alinea uit welk document het komt.
+```
+
+🔒 **Let op:** fraude- en casusverslagen zijn hoog vertrouwelijk. Laat die buiten de oefening.
+:::
+
+::: {.tafelkaart}
+## Tafel 5 -- Onderwijs & toetsen (Ritsaart Bergsma)
+
+**Werkwijze die we als startpunt nemen:** toetsvragen genereren direct in het importformaat voor ANS en Brightspace, cursusmateriaal herstructureren en herhalende onderwijsadministratie stroomlijnen.
+
+**Zo verloopt een ronde (35 min)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Maak 5 meerkeuzevragen over [onderwerp] voor [opleiding, jaar].
+Niveau: [Bloom-niveau, bijv. toepassen].
+Per vraag: stam, 4 opties, juiste antwoord, korte uitleg waarom de afleiders fout zijn.
+Lever het op in dit formaat: [plak voorbeeldregel uit ANS/Brightspace-import].
+```
+
+🔒 **Let op:** nooit studentnamen, cijfers of ingeleverd werk in een externe tool. AI-nakijken alleen als hulpmiddel, beoordeling blijft bij de docent.
+:::
+

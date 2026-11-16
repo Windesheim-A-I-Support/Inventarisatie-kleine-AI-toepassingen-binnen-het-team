@@ -1,0 +1,376 @@
+---
+title: "AI-Uitwisselingsdag"
+subtitle: "Van en met elkaar leren · Lectoraat Supply Chain Finance"
+author: "Michiel Steeman & Chris"
+date: "Maandag 30 november 2026 · B.2.34"
+lang: nl
+link-external-newwindow: true
+format:
+  revealjs:
+    theme: [simple, windesheim.scss]
+    slide-number: true
+    progress: true
+    transition: fade
+    background-transition: fade
+    footer: 'AI-Uitwisselingsdag · Lectoraat Supply Chain Finance · 30 november 2026'
+    logo: "Windesheim Ai Survey.png"
+    embed-resources: true
+    standalone: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      text: |
+        <style>
+        .reveal .slide-background.has-dark-background ~ * h1, .reveal section.has-dark-background h1,
+        .reveal section.has-dark-background h2, .reveal section.has-dark-background p { color:#fff !important; border-bottom-color:#73BEEF; }
+        .reveal .columns h3 { font-size:2.4em; margin-bottom:0.1em; border:none; }
+        </style>
+---
+
+# Welkom {background-color="#104D9C"}
+
+10:00 - 10:15 · Michiel & Chris
+
+---
+
+## Waarom deze dag?
+
+::: {.incremental}
+- Iedereen in het lectoraat experimenteert met AI. **Maar vooral alleen.**
+- We hebben 17 collega's gesproken. De beste aanpakken zitten al in het team.
+- Vandaag geen externe trainer en geen demo's. **We vertellen elkaar hoe we het doen, en kijken samen wat er beter kan.**
+:::
+
+---
+
+## Wat we vandaag willen bereiken
+
+1. Iedereen heeft aan **vier tafels** gehoord hoe collega's hun werk met AI aanpakken, en neemt **minstens één werkwijze of idee** mee.
+2. Per onderwerp een **ingevuld tafelkleed**: wat werkt, wat blokkeert, wat is nodig.
+3. Een korte lijst **concrete acties**, met eigenaar en datum.
+
+---
+
+## Programma
+
+| Tijd | Onderdeel |
+|---|---|
+| 10:00 | Welkom |
+| 10:15 | Wat de interviews ons leren |
+| 10:30 | Icebreaker: de AI-lijn |
+| 10:45 | Uitleg World Café |
+| 11:00 | **Ronde 1** · 11:35 wissel & koffie · 11:45 **Ronde 2** |
+| 12:20 | Lunch |
+| 13:05 | Lessons learned & mogelijke oplossingen |
+| 13:35 | **Ronde 3** · 14:10 wissel · 14:20 **Ronde 4** |
+| 14:55 | Pauze |
+| 15:15 | Verdiepingsronde |
+| 16:00 | Galerij |
+| 16:30 | Eindpresentatie & afspraken |
+
+# Wat de interviews ons leren {background-color="#0b2f5e"}
+
+10:15 - 10:30 · Chris
+
+---
+
+## In cijfers
+
+::: {.columns}
+::: {.column width="33%"}
+### 17
+collega's gesproken
+:::
+::: {.column width="33%"}
+### 73
+radartjes: kleine taken waar AI kan helpen
+:::
+::: {.column width="33%"}
+### 73
+verschillende tools in gebruik
+:::
+:::
+
+Meer detail: [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html)
+
+---
+
+## Wat we het vaakst hoorden
+
+::: {.incremental}
+- **Transcriptie en verslaglegging** van gesprekken: het meest gedeelde radartje.
+- **Subsidieteksten** schrijven en afstemmen op de subsidiegever.
+- **Presentaties** maken vanuit een tekst of idee.
+- **Onderwijsadministratie**: toetsvragen, studiehandleidingen, urenbrieven.
+:::
+
+---
+
+## Het patroon
+
+::: {.columns}
+::: {.column width="50%"}
+**Wat goed gaat**
+
+- Iedereen probeert dingen uit.
+- Sommige werkwijzen besparen al uren per week.
+- De kennis zit in het team.
+:::
+::: {.column width="50%"}
+**Wat schuurt**
+
+- Iedereen doet het alleen, we weten weinig van elkaar.
+- Onzekerheid over **wat veilig is** met lectoraatsinformatie.
+- Geen tijd om uit te zoeken wat werkt.
+:::
+:::
+
+# Icebreaker: de AI-lijn {background-color="#104D9C"}
+
+10:30 - 10:45
+
+---
+
+## Stap 1 · Ga op de lijn staan (5 min)
+
+::: {.columns}
+::: {.column width="50%"}
+⬅️ **"Ik gebruik nooit AI"**
+:::
+::: {.column width="50%" style="text-align: right;"}
+**"Ik gebruik AI dagelijks"** ➡️
+:::
+:::
+
+<br>
+
+Waarom sta je daar?
+
+---
+
+## Stap 2 · Zoek iemand van de andere kant (8 min)
+
+Vertel elkaar, 2 minuten per persoon:
+
+> **Welke taak kost mij de meeste tijd, en zou ik het liefst kwijt zijn?**
+
+<br>
+
+**Stap 3 (2 min):** drie koppels delen hun taak. Die gaat op de flap en komt vandaag terug.
+
+# Zo werkt het World Café {background-color="#0b2f5e"}
+
+10:45 - 11:00
+
+---
+
+## De spelregels
+
+::: {.incremental}
+- Er zijn **vijf tafels**, elk met een eigen onderwerp en een collega als gastheer of gastvrouw.
+- **Kies zelf een tafel.** Maximaal 5 à 6 personen per tafel.
+- Een ronde duurt **35 minuten**. Bij de bel wissel je naar een **nieuwe tafel**.
+- De gastheer of gastvrouw **blijft zitten** en vertelt de volgende groep wat er al besproken is.
+- Na vier rondes heb je **vier van de vijf tafels** gezien.
+:::
+
+---
+
+## Zo verloopt een ronde
+
+| Minuten | Wat |
+|---|---|
+| 0 - 2 | **Terugblik:** wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** de gastheer of gastvrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 28 - 35 | **Tafelkleed** aanvullen |
+
+Geen demo, geen presentatie. **Het gesprek is het programma.**
+
+---
+
+## De vijf tafels
+
+| Tafel | Onderwerp | Gastheer / gastvrouw |
+|---|---|---|
+| 1 | **Transcriptie** van gesprekken | Richard Holman |
+| 2 | **Subsidies** schrijven | Christiaan de Goeij |
+| 3 | **Presentaties** maken | Bart Ras |
+| 4 | **Verslaglegging** en rapportages | Mounia Belmamoune |
+| 5 | **Onderwijs & toetsen** | Ritsaart Bergsma |
+
+---
+
+## Het tafelkleed
+
+Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
+
+| # | Vraag | Wanneer |
+|---|---|---|
+| 1 | Wat werkt al | vooraf, door gastheer/-vrouw |
+| 2 | Ik gebruik dit voor | rondes 1 - 4 |
+| 3 | Ik wil dit gebruiken voor | rondes 1 - 4 |
+| 4 | Dit blokkeert me nu | rondes 1 - 4 |
+| 5 | Waaraan moet het voldoen? | verdiepingsronde |
+| 6 | Hoe maken we het nog nuttiger? | verdiepingsronde |
+| 7 | Dit moet gebeuren: actie, wie, wanneer | verdiepingsronde |
+
+---
+
+## Spelregels voor de hele dag
+
+- 🔒 **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of gevoelige partnerinformatie.
+- ✅ **AI-output altijd zelf controleren.** Jij blijft verantwoordelijk.
+- 🙋 **Geen domme vragen.** Iedereen staat op een ander punt.
+- 🖊️ **Geef de stift door.** Iedereen schrijft mee op het tafelkleed.
+
+# Ronde 1 {background-color="#104D9C"}
+
+11:00 - 11:35 · Kies een tafel
+
+---
+
+## Wissel & koffie
+
+11:35 - 11:45
+
+Pak koffie en kies een **nieuwe** tafel.
+
+# Ronde 2 {background-color="#104D9C"}
+
+11:45 - 12:20 · Nieuwe tafel
+
+---
+
+## Lunch
+
+12:20 - 13:05
+
+# Lessons learned & mogelijke oplossingen {background-color="#0b2f5e"}
+
+13:05 - 13:35 · Chris
+
+---
+
+## Wat ik geleerd heb
+
+::: {.incremental}
+- **Klein beginnen werkt.** Eén radartje automatiseren levert meer op dan een groot AI-project.
+- **De prompt is maar de helft.** Goede context (wie ben je, wat is het doel, wat mag niet) bepaalt de kwaliteit.
+- **AI-output altijd nakijken.** De tijdwinst zit in de eerste versie, niet in het eindproduct.
+- **Veiligheid is de echte drempel.** Zonder veilige omgeving blijft veel gebruik beperkt tot openbare tekst.
+:::
+
+---
+
+## Mogelijke oplossingen die we tot nu toe zien
+
+| Oplossing | Status |
+|---|---|
+| **Kennisdeling via champions** | Vandaag van start |
+| **Script voor TKI-urenbrieven** | Idee, uitvoerders bekend |
+| **Business case Copilot** | Michiel werkt onderbouwing uit |
+| **Lokale / open source tools** (o.a. Whisper) | Uit te proberen |
+| **Veilige schrijfassistent** voor projectvoorstellen | Eerste prototype in ontwikkeling |
+| **Funding-radar**: maandelijks automatisch subsidiekansen signaleren | Idee uit het team, te bespreken |
+
+---
+
+## Vraag aan jullie
+
+De schrijfassistent en de funding-radar vragen allebei om een **veilige kennisbasis** van het lectoraat: projectvoorstellen, resultaten, partners.
+
+<br>
+
+> **Zien jullie dit zitten? En wat moet zo'n omgeving minimaal kunnen?**
+
+Neem je antwoord mee naar de tafels.
+
+# Ronde 3 {background-color="#104D9C"}
+
+13:35 - 14:10 · Nieuwe tafel
+
+---
+
+## Wissel
+
+14:10 - 14:20 · Kies een tafel waar je nog niet was
+
+# Ronde 4 {background-color="#104D9C"}
+
+14:20 - 14:55 · Laatste wisselronde
+
+---
+
+## Pauze
+
+14:55 - 15:15
+
+Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
+
+# Verdiepingsronde {background-color="#0b2f5e"}
+
+15:15 - 16:00
+
+---
+
+## Kies de tafel waar jij mee verder wilt
+
+| Minuten | Wat |
+|---|---|
+| 0 - 5 | Lees samen de punten bovenaan het tafelkleed |
+| 5 - 20 | **Vraag 5 en 6:** waaraan moet het voldoen, hoe maken we het nuttiger? |
+| 20 - 45 | **Vraag 7:** concrete acties. Wat, wie, wanneer? |
+
+Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien wensen.**
+
+# Galerij {background-color="#104D9C"}
+
+16:00 - 16:30
+
+---
+
+## Loop rond en kies
+
+- Alle tafelkleden hangen aan de muur.
+- Je hebt **3 stickers**. Plak ze bij de acties die het lectoraat **als eerste** moet oppakken.
+- Gastheren en -vrouwen staan bij hun tafelkleed voor vragen en tellen daarna de stickers.
+
+# Eindpresentatie {background-color="#0b2f5e"}
+
+16:30 - 17:00
+
+---
+
+## Per tafel maximaal 5 minuten
+
+1. **Eén zin:** wat is de belangrijkste les van onze tafel?
+2. **Grootste blokkade:** wat houdt ons tegen?
+3. **Acties:** de top drie volgens de stickers, met eigenaar en datum.
+
+---
+
+## Acties voor het lectoraat
+
+| Actie | Tafel | Eigenaar | Wanneer |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+*Wordt live ingevuld.*
+
+---
+
+## Hoe nu verder?
+
+- Foto's van de tafelkleden en de actielijst komen binnen een week op de [projectsite](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/).
+- De gastheren en -vrouwen blijven **aanspreekpunt** voor hun onderwerp.
+- Over een paar maanden kijken we samen terug: wat is er van de acties terechtgekomen?
+
+# Bedankt! {background-color="#104D9C"}
+
+Michiel sluit af
