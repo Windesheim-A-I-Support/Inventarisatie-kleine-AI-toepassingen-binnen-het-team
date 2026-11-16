@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+
+// Windesheim huisstijlkleuren
+$windesheim-blauw: #104D9C;
+$windesheim-donkerblauw: #0b2f5e;
+$windesheim-lichtblauw: #73BEEF;
+$windesheim-zwart: #0F0C00;
+
+$primary: $windesheim-blauw;
+$info: $windesheim-lichtblauw;
+$body-color: $windesheim-zwart;
+$link-color: $windesheim-blauw;
+$headings-color: $windesheim-blauw;
+$headings-font-weight: 700;
+
+$navbar-bg: $windesheim-blauw;
+$navbar-fg: #ffffff;
+$navbar-hl: $windesheim-lichtblauw;
+
+$callout-color-note: $windesheim-blauw;
+$callout-color-tip: $windesheim-lichtblauw;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  color: $windesheim-blauw;
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 3px solid $windesheim-lichtblauw;
+  padding-bottom: 0.25em;
+  margin-top: 2em;
+}
+
+h3 {
+  color: $windesheim-donkerblauw;
+  font-weight: 700;
+}
+
+.quarto-title .title {
+  color: $windesheim-blauw;
+}
+
+table thead th, .table > thead > tr > th, .table thead th {
+  background-color: $windesheim-blauw !important;
+  color: #ffffff !important;
+  border-bottom: none !important;
+  --bs-table-bg: #{$windesheim-blauw};
+  --bs-table-color: #ffffff;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: rgba(115, 190, 239, 0.12);
+}
+
+strong {
+  color: $windesheim-donkerblauw;
+}
+
+table thead th strong {
+  color: #ffffff;
+}
+
+a {
+  font-weight: 500;
+}
+
+.callout {
+  border-left-width: 6px !important;
+}
+
+pre, code {
+  border-radius: 6px;
+}
+
+.header-section-number {
+  color: $windesheim-lichtblauw;
+}
+
+#TOC a, .sidebar nav a {
+  color: $windesheim-blauw;
+}
+
+pre, pre code {
+  white-space: pre-wrap !important;
+  word-break: break-word;
+}
+
+.tafelkaart h2 {
+  margin-top: 0;
+}

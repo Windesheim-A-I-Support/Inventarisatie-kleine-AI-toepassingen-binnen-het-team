@@ -1,7 +1,9 @@
 ---
 title: "Tafelkaarten AI-Uitwisselingsdag"
+subtitle: "Lectoraat Supply Chain Finance · Windesheim"
 format:
   html:
+    theme: [cosmo, ../windesheim-site.scss]
     toc: false
     number-sections: false
     include-in-header:
