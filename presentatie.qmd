@@ -358,7 +358,7 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 - **Geen demo's:** de tafelhost vertelt kort hoe hij of zij het nu doet.
 - **Uitwisselen:** hoe doen anderen het, en wat kan er beter?
-- **4 rondes van 35 min:** groepjes wisselen, iedereen bezoekt 4 van de 5 tafels.
+- **3 rondes van 40 min:** groepjes wisselen, iedereen bezoekt 3 van de 5 tafels.
 - **Tafelkleed groeit mee:** elke groep bouwt verder op de vorige.
 - **Galerij & eindpresentatie:** stickers op de beste acties, daarna afspraken.
 :::
@@ -376,24 +376,22 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 | 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
 | 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
 | 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels voor |
-| 11:00 - 11:35 | **World Café ronde 1** | Kies een tafel: werkwijze delen, uitwisselen, beter maken, tafelkleed |
-| 11:35 - 11:45 | Wissel & koffie | |
-| 11:45 - 12:20 | **World Café ronde 2** | Nieuwe groep per tafel |
-| 12:20 - 13:05 | Lunch | |
-| 13:05 - 13:35 | **Lessons learned & mogelijke oplossingen -- Chris** | Wat werkt, wat niet, en welke oplossingen we tot nu toe zien |
-| 13:35 - 14:10 | **World Café ronde 3** | Nieuwe groep per tafel |
-| 14:10 - 14:20 | Wissel | |
-| 14:20 - 14:55 | **World Café ronde 4** | Laatste wisselronde |
-| 14:55 - 15:15 | Pauze | Champions bundelen hun tafelkleed |
-| 15:15 - 16:00 | **Verdiepingsronde** | Kies je favoriete tafel, maak het tafelkleed af (eisen en acties) |
-| 16:00 - 16:30 | **Galerij** | Tafelkleden ophangen, stickers bij de belangrijkste acties |
-| 16:30 - 17:00 | **Eindpresentatie** | Elke tafel presenteert haar tafelkleed (ca. 5 min), daarna afspraken en acties voor het lectoraat |
+| 11:00 - 11:40 | **World Café ronde 1** | Kies een tafel: werkwijze delen, uitwisselen, beter maken, tafelkleed |
+| 11:40 - 11:50 | Wissel & koffie | |
+| 11:50 - 12:30 | **World Café ronde 2** | Nieuwe groep per tafel |
+| 12:30 - 13:15 | Lunch | |
+| 13:15 - 13:45 | **Lessons learned & hoe ik met AI werk -- Chris** | Wat werkt, wat niet, kort voorbeeld, mogelijke oplossingen |
+| 13:45 - 14:25 | **World Café ronde 3** | Laatste wisselronde |
+| 14:25 - 14:40 | Pauze | Champions bundelen hun tafelkleed |
+| 14:40 - 15:50 | **Verdiepingsronde: de eindversie** | Kies je favoriete tafel, maak het tafelkleed af (eisen, acties) en bereid de presentatie voor |
+| 15:50 - 16:15 | **Galerij** | Tafelkleden ophangen, stickers bij de belangrijkste acties |
+| 16:15 - 17:00 | **Eindpresentatie** | Per tafel max. 5 min, daarna afspraken en afsluiting |
 
 ---
 
 ## Tafelkleed -- per tafel invullen
 
-Elke champion vult **"Wat werkt al"** vooraf in. Vragen 2 - 4 groeien mee met elke ronde, 5 - 7 in de verdiepingsronde.
+Elke champion vult **"Wat werkt al"** vooraf in. Vragen 2 - 4 groeien mee met elke ronde, 5 - 7 in de verdiepingsronde (de eindversie).
 
 | # | Vraag |
 |---|---|

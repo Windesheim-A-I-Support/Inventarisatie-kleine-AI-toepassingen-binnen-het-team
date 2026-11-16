@@ -19,7 +19,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 
 **Wat we aan het eind van de dag willen hebben:**
 
-1. Iedereen heeft aan vier tafels gehoord hoe collega's hun werk met AI aanpakken, en neemt minstens één werkwijze of idee mee om zelf te gebruiken.
+1. Iedereen heeft aan drie tafels gehoord hoe collega's hun werk met AI aanpakken, en neemt minstens één werkwijze of idee mee om zelf te gebruiken.
 2. Per onderwerp een ingevuld tafelkleed: wat werkt, wat blokkeert, wat is nodig.
 3. Een korte lijst concrete acties met eigenaar en datum.
 
@@ -42,28 +42,28 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 | 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
 | 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
 | 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels en hun gastheren en -vrouwen voor en legt uit hoe het wisselen werkt |
-| 11:00 - 11:35 | **World Café ronde 1** | Iedereen kiest een tafel (max. 5 à 6 personen per tafel): werkwijze delen, uitwisselen, tafelkleed |
-| 11:35 - 11:45 | Wissel & koffie | Nieuwe tafel kiezen, koffie meenemen |
-| 11:45 - 12:20 | **World Café ronde 2** | Nieuwe groep per tafel |
-| 12:20 - 13:05 | Lunch | |
-| 13:05 - 13:35 | **Lessons learned & mogelijke oplossingen -- Chris** | Plenair: wat werkt, wat niet, en welke oplossingen we tot nu toe zien |
-| 13:35 - 14:10 | **World Café ronde 3** | Nieuwe groep per tafel |
-| 14:10 - 14:20 | Wissel | |
-| 14:20 - 14:55 | **World Café ronde 4** | Laatste ronde: iedereen heeft dan 4 van de 5 tafels bezocht |
-| 14:55 - 15:15 | Pauze | Champions bundelen de opbrengst van hun tafelkleed |
-| 15:15 - 16:00 | **Verdiepingsronde** | Iedereen kiest de tafel waar hij of zij het meest mee verder wil; deze groep maakt het tafelkleed af (eisen en acties) |
-| 16:00 - 16:30 | **Galerij** | Tafelkleden hangen aan de muur. Iedereen loopt rond en zet 3 stickers bij de acties die het lectoraat volgens hem of haar als eerste moet oppakken |
-| 16:30 - 17:00 | **Eindpresentatie** | Elke tafel presenteert haar tafelkleed (ca. 5 min), daarna afspraken en acties voor het lectoraat |
+| 11:00 - 11:40 | **World Café ronde 1** | Iedereen kiest een tafel (minimaal 2, maximaal 6 personen per tafel): werkwijze delen, uitwisselen, tafelkleed |
+| 11:40 - 11:50 | Wissel & koffie | Nieuwe tafel kiezen, koffie meenemen |
+| 11:50 - 12:30 | **World Café ronde 2** | Nieuwe groep per tafel |
+| 12:30 - 13:15 | Lunch | |
+| 13:15 - 13:45 | **Lessons learned & hoe ik met AI werk -- Chris** | Plenair: wat werkt, wat niet, een kort voorbeeld uit eigen werk en welke oplossingen we tot nu toe zien |
+| 13:45 - 14:25 | **World Café ronde 3** | Laatste wisselronde: iedereen heeft dan 3 van de 5 tafels bezocht |
+| 14:25 - 14:40 | Pauze | Champions zetten de belangrijkste punten bovenaan hun tafelkleed |
+| 14:40 - 15:50 | **Verdiepingsronde: de eindversie** | Iedereen kiest de tafel waar hij of zij het meest mee verder wil; deze groep maakt het tafelkleed af (eisen, acties) en bereidt de presentatie voor |
+| 15:50 - 16:15 | **Galerij** | Tafelkleden hangen aan de muur. Iedereen loopt rond en zet 3 stickers bij de acties die het lectoraat volgens hem of haar als eerste moet oppakken |
+| 16:15 - 17:00 | **Eindpresentatie** | Elke tafel presenteert haar tafelkleed (max. 5 min, samen 25 min), daarna 20 min afspraken en afsluiting |
 
-**Opbouw van een ronde (35 minuten):**
+**Verdeling over de tafels:** deelnemers kiezen zelf, maar Chris stuurt bij. Zit een tafel vol (6), dan kies je een andere. Blijft een tafel leeg of zit er één persoon, dan vraagt Chris twee mensen om over te stappen. De champions blijven aan hun eigen tafel; zij zien de andere tafelkleden tijdens de galerij.
+
+**Opbouw van een ronde (40 minuten):**
 
 | Minuten | Wat |
 |---|---|
 | 0 - 2 | Champion vat kort samen wat vorige groepen op het tafelkleed zetten (vanaf ronde 2) |
-| 2 - 8 | **Zo doe ik het:** champion vertelt hoe hij of zij deze taak nu aanpakt, eventueel met laptop erbij |
-| 8 - 20 | **Zo doen wij het:** rondje langs de tafel. Wie doet dit ook? Hoe? Welke tools en trucs? Waar loop je tegenaan? |
-| 20 - 28 | **Beter maken:** wat kan er slimmer, sneller of veiliger? Wie wil, probeert de starter-prompt van de tafel even uit |
-| 28 - 35 | Samen het tafelkleed aanvullen (vraag 2 tot en met 4) |
+| 2 - 10 | **Zo doe ik het:** champion vertelt hoe hij of zij deze taak nu aanpakt, eventueel met laptop erbij |
+| 10 - 24 | **Zo doen wij het:** rondje langs de tafel. Wie doet dit ook? Hoe? Welke tools en trucs? Waar loop je tegenaan? |
+| 24 - 32 | **Beter maken:** wat kan er slimmer, sneller of veiliger? Wie wil, probeert de starter-prompt van de tafel even uit |
+| 32 - 40 | Samen het tafelkleed aanvullen (vraag 2 tot en met 4) |
 
 ### Rollen
 
@@ -77,7 +77,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 | Champion tafel 3 -- Presentaties maken | Bart Ras | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
 | Champion tafel 4 -- Verslaglegging | Mounia Belmamoune | Gastvrouw van haar tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
 | Champion tafel 5 -- Onderwijs & toetsen | Ritsaart Bergsma | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
-| Fotograaf / oogst | n.t.b. | Foto van elk tafelkleed, actielijst bijhouden |
+| Oogster | n.t.b. (vóór 27 november vastleggen) | Houdt tijdens de eindpresentatie de actielijst bij op het scherm, fotografeert elk tafelkleed |
 
 ---
 
@@ -102,9 +102,20 @@ Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-w
 
 ---
 
-## Middag: lessons learned & mogelijke oplossingen (13:05 - 13:35)
+## Middag: lessons learned & hoe ik met AI werk (13:15 - 13:45)
 
-Chris deelt wat hij tijdens de inventarisatie en het bouwen van eigen AI-workflows heeft geleerd, en welke oplossingen er tot nu toe in beeld zijn. Dit blok staat bewust midden op de dag, tussen ronde 2 en 3: iedereen heeft dan al twee tafels gezien, en de oplossingen kunnen in de middagrondes direct op de tafelkleden terechtkomen.
+Chris deelt wat hij tijdens de inventarisatie en het bouwen van eigen AI-workflows heeft geleerd, en welke oplossingen er tot nu toe in beeld zijn. Dit blok staat bewust midden op de dag, tussen ronde 2 en 3: iedereen heeft dan al twee tafels gezien, en de oplossingen kunnen in ronde 3 en de verdiepingsronde direct op de tafelkleden terechtkomen.
+
+**Opbouw (30 minuten):**
+
+| Minuten | Wat |
+|---|---|
+| 0 - 8 | Lessons learned uit de inventarisatie |
+| 8 - 18 | **Zo werk ik zelf:** één of twee korte, herkenbare voorbeelden uit eigen werk (geen geavanceerde agents of techniek). Zelfde vorm als aan de tafels: wat deed ik vroeger, wat doe ik nu, wat ging er mis |
+| 18 - 24 | Mogelijke oplossingen die we tot nu toe zien |
+| 24 - 30 | Vraag aan de zaal over een veilige kennisbasis |
+
+Houd het eigen voorbeeld bewust klein en eerlijk, inclusief wat niet werkte. De champions doen ook geen demo; als het eigen deel te technisch of te gelikt wordt, voelt hun verhaal kleiner.
 
 **Lessons learned (selectie):**
 
@@ -231,7 +242,7 @@ Lever het op in dit formaat: [plak voorbeeldregel uit ANS/Brightspace-import].
 
 ::: {.callout-tip}
 ## In het kort
-- Je zit de hele dag aan **je eigen tafel**, de groepjes komen naar jou (4 rondes van 35 minuten).
+- Je zit de hele dag aan **je eigen tafel**, de groepjes komen naar jou (3 rondes van 40 minuten).
 - **Geen demo, geen presentatie, geen slides.** Je vertelt een paar minuten hoe jij het doet, daarna praat de tafel.
 - Je rol is **gespreksleider**: ophalen hoe anderen het doen, wat er beter kan, en zorgen dat het tafelkleed wordt ingevuld.
 - Voorbereiding: ongeveer 15 minuten (zie hieronder).
@@ -246,15 +257,15 @@ Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**. Je blijft zitt
 - [ ] Wil je iets op je scherm laten zien? Prima, maar niet nodig. Gebruik dan geen vertrouwelijke gegevens.
 - [ ] Kijk naar de starter-prompt van jouw tafel hierboven. Klopt die met hoe jij het doet? Laat het Chris weten als je iets beters hebt.
 
-### Elke ronde (35 minuten, vier keer)
+### Elke ronde (40 minuten, drie keer)
 
 | Minuten | Wat | Tip |
 |---|---|---|
 | 0 - 2 | **Terugblik** | Vanaf ronde 2: wat staat er al op het tafelkleed? |
-| 2 - 8 | **Zo doe ik het** | Vertel hoe jij deze taak aanpakt: wat deed je vroeger, wat doe je nu, wat scheelt het? Laat gerust je scherm zien, hoeft niet. |
-| 8 - 20 | **Zo doen wij het** | Vraag de tafel rond: *wie doet dit ook, en hoe?* Laat anderen hun trucs en tools vertellen. Vaak leer jij hier zelf ook iets. |
-| 20 - 28 | **Beter maken** | *Wat kan er slimmer, sneller of veiliger? Wat zou je willen dat er bestond?* Wie wil, probeert de starter-prompt even uit. |
-| 28 - 35 | **Tafelkleed** | Vraag 2 tot en met 4 aanvullen. Geef de stift door, schrijf niet alles zelf. |
+| 2 - 10 | **Zo doe ik het** | Vertel hoe jij deze taak aanpakt: wat deed je vroeger, wat doe je nu, wat scheelt het? Laat gerust je scherm zien, hoeft niet. |
+| 10 - 24 | **Zo doen wij het** | Vraag de tafel rond: *wie doet dit ook, en hoe?* Laat anderen hun trucs en tools vertellen. Vaak leer jij hier zelf ook iets. |
+| 24 - 32 | **Beter maken** | *Wat kan er slimmer, sneller of veiliger? Wat zou je willen dat er bestond?* Wie wil, probeert de starter-prompt even uit. |
+| 32 - 40 | **Tafelkleed** | Vraag 2 tot en met 4 aanvullen. Geef de stift door, schrijf niet alles zelf. |
 
 - Chris belt 5 minuten voor het einde van elke ronde. Rond dan af met het tafelkleed.
 - Handige vragen om het gesprek op gang te houden: *"Waar zou jij dit morgen voor gebruiken?"*, *"Wat houdt je tegen?"*, *"Wie heeft dit al eens anders opgelost?"*
@@ -263,39 +274,42 @@ Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**. Je blijft zitt
 
 ### Het tafelkleed
 
-Het tafelkleed groeit de hele dag. Elke ronde voegt de nieuwe groep toe aan wat er al staat. In de verdiepingsronde (15:15 - 16:00) maakt de groep die bij jou blijft het af.
+Het tafelkleed groeit de hele dag. Elke ronde voegt de nieuwe groep toe aan wat er al staat. In de verdiepingsronde (14:40 - 15:50) maakt de groep die bij jou blijft de eindversie.
 
 | # | Vraag | Wanneer |
 |---|---|---|
 | 1 | **Wat werkt al** -- door jou vooraf ingevuld | Vooraf |
-| 2 | **Ik gebruik dit voor** -- huidig gebruik | Rondes 1 - 4 |
-| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik | Rondes 1 - 4 |
-| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd | Rondes 1 - 4 |
+| 2 | **Ik gebruik dit voor** -- huidig gebruik | Rondes 1 - 3 |
+| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik | Rondes 1 - 3 |
+| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd | Rondes 1 - 3 |
 | 5 | **Waaraan moet het voldoen?** -- eisen en randvoorwaarden | Verdiepingsronde |
 | 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** | Verdiepingsronde |
 | 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer | Verdiepingsronde |
 
 Let op bij vraag 7: een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wensen.
 
-### Pauze (14:55 - 15:15)
+### Pauze (14:25 - 14:40)
 
 Zet de vijf belangrijkste punten van vraag 2 tot en met 4 met een dikke stift bovenaan het tafelkleed. Zo kan de groep van de verdiepingsronde direct beginnen.
 
-### Verdiepingsronde (15:15 - 16:00)
+### Verdiepingsronde: de eindversie (14:40 - 15:50)
 
-Nu schuiven de collega's aan die het meest met jouw onderwerp verder willen. Deze groep blijft 45 minuten.
+Nu schuiven de collega's aan die het meest met jouw onderwerp verder willen. Deze groep blijft 70 minuten. Komen er minder dan twee mensen? Dan sluiten zij en jij aan bij een andere tafel, en zet je de acties voor jouw onderwerp samen met Chris op het tafelkleed.
 
 | Minuten | Wat |
 |---|---|
 | 0 - 5 | Lees samen de punten bovenaan het tafelkleed |
-| 5 - 20 | Vraag 5 en 6: waaraan moet een betere werkwijze voldoen, en hoe maken we het nuttiger? |
-| 20 - 45 | Vraag 7: concrete acties. Per actie: wat, wie, wanneer |
+| 5 - 25 | Vraag 5 en 6: waaraan moet een betere werkwijze voldoen, en hoe maken we het nuttiger? |
+| 25 - 50 | Vraag 7: concrete acties. Per actie: wat, wie, wanneer |
+| 50 - 70 | **Eindversie:** tafelkleed netjes maken, de belangrijkste acties markeren, kiezen wie presenteert en de 5 minuten voorbereiden |
 
-### Galerij (16:00 - 16:30)
+Eerder klaar? Hang het tafelkleed alvast op voor de galerij.
+
+### Galerij (15:50 - 16:15)
 
 Hang je tafelkleed op en blijf erbij staan om vragen te beantwoorden. Deelnemers zetten stickers bij de acties die volgens hen het eerst moeten. Tel daarna de stickers: de top drie neem je mee naar de eindpresentatie.
 
-### De eindpresentatie (16:30 - 17:00)
+### De eindpresentatie (16:15 - 17:00)
 
 Per tafel maximaal **5 minuten**, gepresenteerd door de champion of iemand van de tafel:
 
@@ -303,7 +317,7 @@ Per tafel maximaal **5 minuten**, gepresenteerd door de champion of iemand van d
 2. **Grootste blokkade:** wat houdt ons tegen (vraag 4)?
 3. **Acties:** de top drie volgens de stickers, met eigenaar en datum (vraag 7).
 
-Chris noteert de acties live en sluit af met wat we oppakken.
+De oogster zet de acties live op het scherm. Chris sluit af met wat we oppakken en wanneer we terugkijken.
 
 ### Na afloop
 
@@ -340,6 +354,9 @@ Chris noteert de acties live en sluit af met wat we oppakken.
 - [ ] Tafelkaarten printen (5x A4, zie *Materialen voor de dag*)
 - [ ] Dagpresentatie testen op het scherm in B.2.34 en actielijst-slide klaarzetten
 - [ ] Koffie, thee en lunch regelen
-- [ ] Flap en stiften voor icebreaker; slides resultaten interviews en lessons learned (Chris)
+- [ ] Flap en stiften voor icebreaker
+- [ ] Slide *Zo werk ik zelf* in de dagpresentatie invullen (Chris)
 - [ ] Wifi-toegang voor gasten checken
+- [ ] Oogster vastleggen (actielijst en foto's)
+- [ ] Terugkijkmoment op de acties prikken (bijv. februari 2027) en op de dag aankondigen
 - [ ] Opbrengst na de dag digitaliseren en actiepunten borgen

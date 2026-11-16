@@ -44,7 +44,7 @@ format:
 
 ## Wat we vandaag willen bereiken
 
-1. Iedereen heeft aan **vier tafels** gehoord hoe collega's hun werk met AI aanpakken, en neemt **minstens één werkwijze of idee** mee.
+1. Iedereen heeft aan **drie tafels** gehoord hoe collega's hun werk met AI aanpakken, en neemt **minstens één werkwijze of idee** mee.
 2. Per onderwerp een **ingevuld tafelkleed**: wat werkt, wat blokkeert, wat is nodig.
 3. Een korte lijst **concrete acties**, met eigenaar en datum.
 
@@ -58,14 +58,14 @@ format:
 | 10:15 | Wat de interviews ons leren |
 | 10:30 | Icebreaker: de AI-lijn |
 | 10:45 | Uitleg World Café |
-| 11:00 | **Ronde 1** · 11:35 wissel & koffie · 11:45 **Ronde 2** |
-| 12:20 | Lunch |
-| 13:05 | Lessons learned & mogelijke oplossingen |
-| 13:35 | **Ronde 3** · 14:10 wissel · 14:20 **Ronde 4** |
-| 14:55 | Pauze |
-| 15:15 | Verdiepingsronde |
-| 16:00 | Galerij |
-| 16:30 | Eindpresentatie & afspraken |
+| 11:00 | **Ronde 1** · 11:40 wissel & koffie · 11:50 **Ronde 2** |
+| 12:30 | Lunch |
+| 13:15 | Lessons learned & hoe ik met AI werk |
+| 13:45 | **Ronde 3** |
+| 14:25 | Pauze |
+| 14:40 | Verdiepingsronde: de eindversie |
+| 15:50 | Galerij |
+| 16:15 | Eindpresentatie & afspraken |
 
 # Wat de interviews ons leren {background-color="#0b2f5e"}
 
@@ -167,10 +167,10 @@ Vertel elkaar, 2 minuten per persoon:
 
 ::: {.incremental}
 - Er zijn **vijf tafels**, elk met een eigen onderwerp en een collega als gastheer of gastvrouw.
-- **Kies zelf een tafel.** Maximaal 5 à 6 personen per tafel.
-- Een ronde duurt **35 minuten**. Bij de bel wissel je naar een **nieuwe tafel**.
+- **Kies zelf een tafel.** Minimaal 2, maximaal 6 personen per tafel. Chris stuurt bij.
+- Een ronde duurt **40 minuten**. Bij de bel wissel je naar een **nieuwe tafel**.
 - De gastheer of gastvrouw **blijft zitten** en vertelt de volgende groep wat er al besproken is.
-- Na vier rondes heb je **vier van de vijf tafels** gezien.
+- Na drie rondes heb je **drie van de vijf tafels** gezien. Daarna kies je de tafel waar je mee verder wilt.
 :::
 
 ---
@@ -180,10 +180,10 @@ Vertel elkaar, 2 minuten per persoon:
 | Minuten | Wat |
 |---|---|
 | 0 - 2 | **Terugblik:** wat staat er al op het tafelkleed? |
-| 2 - 8 | **Zo doe ik het:** de gastheer of gastvrouw vertelt hoe hij of zij het aanpakt |
-| 8 - 20 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 20 - 28 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 28 - 35 | **Tafelkleed** aanvullen |
+| 2 - 10 | **Zo doe ik het:** de gastheer of gastvrouw vertelt hoe hij of zij het aanpakt |
+| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 32 - 40 | **Tafelkleed** aanvullen |
 
 Geen demo, geen presentatie. **Het gesprek is het programma.**
 
@@ -208,9 +208,9 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 | # | Vraag | Wanneer |
 |---|---|---|
 | 1 | Wat werkt al | vooraf, door gastheer/-vrouw |
-| 2 | Ik gebruik dit voor | rondes 1 - 4 |
-| 3 | Ik wil dit gebruiken voor | rondes 1 - 4 |
-| 4 | Dit blokkeert me nu | rondes 1 - 4 |
+| 2 | Ik gebruik dit voor | rondes 1 - 3 |
+| 3 | Ik wil dit gebruiken voor | rondes 1 - 3 |
+| 4 | Dit blokkeert me nu | rondes 1 - 3 |
 | 5 | Waaraan moet het voldoen? | verdiepingsronde |
 | 6 | Hoe maken we het nog nuttiger? | verdiepingsronde |
 | 7 | Dit moet gebeuren: actie, wie, wanneer | verdiepingsronde |
@@ -226,29 +226,29 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 
 # Ronde 1 {background-color="#104D9C"}
 
-11:00 - 11:35 · Kies een tafel
+11:00 - 11:40 · Kies een tafel
 
 ---
 
 ## Wissel & koffie
 
-11:35 - 11:45
+11:40 - 11:50
 
 Pak koffie en kies een **nieuwe** tafel.
 
 # Ronde 2 {background-color="#104D9C"}
 
-11:45 - 12:20 · Nieuwe tafel
+11:50 - 12:30 · Nieuwe tafel
 
 ---
 
 ## Lunch
 
-12:20 - 13:05
+12:30 - 13:15
 
-# Lessons learned & mogelijke oplossingen {background-color="#0b2f5e"}
+# Lessons learned & hoe ik met AI werk {background-color="#0b2f5e"}
 
-13:05 - 13:35 · Chris
+13:15 - 13:45 · Chris
 
 ---
 
@@ -260,6 +260,21 @@ Pak koffie en kies een **nieuwe** tafel.
 - **AI-output altijd nakijken.** De tijdwinst zit in de eerste versie, niet in het eindproduct.
 - **Veiligheid is de echte drempel.** Zonder veilige omgeving blijft veel gebruik beperkt tot openbare tekst.
 :::
+
+---
+
+## Zo werk ik zelf
+
+Zelfde vorm als aan de tafels:
+
+| | |
+|---|---|
+| **Vroeger** | *[taak en hoeveel tijd het kostte]* |
+| **Nu** | *[welke tool, welke stappen]* |
+| **Wat ging er mis** | *[eerlijke valkuil]* |
+| **Wat ik nog zelf doe** | *[controle, wat bewust niet met AI]* |
+
+*Chris vult dit in vóór 27 november.*
 
 ---
 
@@ -288,29 +303,19 @@ Neem je antwoord mee naar de tafels.
 
 # Ronde 3 {background-color="#104D9C"}
 
-13:35 - 14:10 · Nieuwe tafel
-
----
-
-## Wissel
-
-14:10 - 14:20 · Kies een tafel waar je nog niet was
-
-# Ronde 4 {background-color="#104D9C"}
-
-14:20 - 14:55 · Laatste wisselronde
+13:45 - 14:25 · Laatste wisselronde: kies een tafel waar je nog niet was
 
 ---
 
 ## Pauze
 
-14:55 - 15:15
+14:25 - 14:40
 
 Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
 
-# Verdiepingsronde {background-color="#0b2f5e"}
+# Verdiepingsronde: de eindversie {background-color="#0b2f5e"}
 
-15:15 - 16:00
+14:40 - 15:50
 
 ---
 
@@ -319,14 +324,15 @@ Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
 | Minuten | Wat |
 |---|---|
 | 0 - 5 | Lees samen de punten bovenaan het tafelkleed |
-| 5 - 20 | **Vraag 5 en 6:** waaraan moet het voldoen, hoe maken we het nuttiger? |
-| 20 - 45 | **Vraag 7:** concrete acties. Wat, wie, wanneer? |
+| 5 - 25 | **Vraag 5 en 6:** waaraan moet het voldoen, hoe maken we het nuttiger? |
+| 25 - 50 | **Vraag 7:** concrete acties. Wat, wie, wanneer? |
+| 50 - 70 | **Eindversie:** tafelkleed netjes, belangrijkste acties markeren, presentator kiezen |
 
 Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien wensen.**
 
 # Galerij {background-color="#104D9C"}
 
-16:00 - 16:30
+15:50 - 16:15
 
 ---
 
@@ -338,7 +344,7 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 
 # Eindpresentatie {background-color="#0b2f5e"}
 
-16:30 - 17:00
+16:15 - 17:00
 
 ---
 
@@ -360,7 +366,7 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 | | | | |
 | | | | |
 
-*Wordt live ingevuld.*
+*De oogster vult dit live in.*
 
 ---
 
@@ -368,7 +374,7 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 
 - Foto's van de tafelkleden en de actielijst komen binnen een week op de [projectsite](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/).
 - De gastheren en -vrouwen blijven **aanspreekpunt** voor hun onderwerp.
-- Over een paar maanden kijken we samen terug: wat is er van de acties terechtgekomen?
+- We kijken samen terug op de acties: datum volgt vandaag.
 
 # Bedankt! {background-color="#104D9C"}
 
