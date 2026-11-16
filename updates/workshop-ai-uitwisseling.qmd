@@ -80,7 +80,7 @@ We doen dat als een **World Café**. Vijf collega's (de *champions*) zijn gasthe
 | Champion tafel 3 -- Presentaties maken | Bart Ras | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
 | Champion tafel 4 -- Verslaglegging | Mounia Belmamoune | Gastvrouw van haar tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
 | Champion tafel 5 -- Onderwijs & toetsen | Ritsaart Bergsma | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
-| Oogster | n.t.b. (vóór 27 november vastleggen) | Houdt tijdens de eindpresentatie de actielijst bij op het scherm, fotografeert elk tafelkleed |
+| Notulist | n.t.b. (vóór 27 november vastleggen) | Houdt tijdens de eindpresentatie de actielijst bij op het scherm, fotografeert elk tafelkleed |
 
 ---
 
@@ -101,7 +101,7 @@ Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-w
 
 1. **Opstellen (5 min):** iedereen gaat op een denkbeeldige lijn door de zaal staan. Links: *"Ik gebruik nooit AI"*. Rechts: *"Ik gebruik AI dagelijks"*. Ik vraag een paar mensen waarom ze daar staan.
 2. **Koppelen (8 min):** zoek iemand van de andere kant van de lijn. Vertel elkaar in 2 minuten per persoon: *"Welke taak kost mij de meeste tijd en zou ik het liefst kwijt zijn?"*
-3. **Oogsten (2 min):** drie koppels noemen hun taak. Ik schrijf ze op een flap. Die blijft de hele dag hangen, en we komen er aan de tafels op terug.
+3. **Delen (2 min):** drie koppels noemen hun taak. Ik schrijf ze op een flap. Die blijft de hele dag hangen, en we komen er aan de tafels op terug.
 
 ---
 
@@ -320,7 +320,7 @@ Per tafel maximaal **5 minuten**, gepresenteerd door de champion of iemand van d
 2. **Grootste blokkade:** wat houdt ons tegen (vraag 4)?
 3. **Acties:** de top drie volgens de stickers, met eigenaar en datum (vraag 7).
 
-De oogster zet de acties live op het scherm. Ik sluit af met wat we gaan oppakken en wanneer we terugkijken.
+De notulist zet de acties live op het scherm. Ik sluit af met wat we gaan oppakken en wanneer we terugkijken.
 
 ### Na afloop
 
@@ -360,6 +360,6 @@ De oogster zet de acties live op het scherm. Ik sluit af met wat we gaan oppakke
 - [ ] Flap en stiften voor icebreaker
 - [ ] Slide *Zo werk ik zelf* in de dagpresentatie invullen (Chris)
 - [ ] Wifi-toegang voor gasten checken
-- [ ] Oogster vastleggen (actielijst en foto's)
+- [ ] Notulist vastleggen (actielijst en foto's)
 - [ ] Terugkijkmoment op de acties prikken (bijv. februari 2027) en op de dag aankondigen
 - [ ] Opbrengst na de dag digitaliseren en actiepunten borgen

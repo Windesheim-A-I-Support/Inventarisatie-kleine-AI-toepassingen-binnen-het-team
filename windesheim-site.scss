@@ -1,69 +1,63 @@
 /*-- scss:defaults --*/
 
-// Windesheim huisstijlkleuren
-$windesheim-blauw: #104D9C;
-$windesheim-donkerblauw: #0b2f5e;
-$windesheim-lichtblauw: #73BEEF;
-$windesheim-zwart: #0F0C00;
+// Windesheim huisstijl (bron: windesheim.nl): zwart/wit met oranje en geel als accent
+$wh-zwart: #000000;
+$wh-oranje: #F5A61A;
+$wh-geel: #FFCB05;
+$wh-lichtgrijs: #EDEDED;
 
-$primary: $windesheim-blauw;
-$info: $windesheim-lichtblauw;
-$body-color: $windesheim-zwart;
-$link-color: $windesheim-blauw;
-$headings-color: $windesheim-blauw;
+$primary: $wh-oranje;
+$body-color: $wh-zwart;
+$link-color: $wh-zwart;
+$headings-color: $wh-zwart;
 $headings-font-weight: 700;
 
-$navbar-bg: $windesheim-blauw;
+$navbar-bg: $wh-zwart;
 $navbar-fg: #ffffff;
-$navbar-hl: $windesheim-lichtblauw;
+$navbar-hl: $wh-oranje;
 
-$callout-color-note: $windesheim-blauw;
-$callout-color-tip: $windesheim-lichtblauw;
+$callout-color-note: $wh-oranje;
+$callout-color-tip: $wh-geel;
 
 /*-- scss:rules --*/
 
-h1, h2 {
-  color: $windesheim-blauw;
-  font-weight: 700;
+a {
+  color: $wh-zwart;
+  text-decoration: underline;
+  text-decoration-color: $wh-oranje;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: $wh-oranje;
 }
 
 h2 {
-  border-bottom: 3px solid $windesheim-lichtblauw;
+  border-bottom: 4px solid $wh-oranje;
   padding-bottom: 0.25em;
   margin-top: 2em;
 }
 
-h3 {
-  color: $windesheim-donkerblauw;
+h1, h2, h3, .quarto-title .title {
+  color: $wh-zwart;
   font-weight: 700;
 }
 
-.quarto-title .title {
-  color: $windesheim-blauw;
-}
-
 table thead th, .table > thead > tr > th, .table thead th {
-  background-color: $windesheim-blauw !important;
+  background-color: $wh-zwart !important;
   color: #ffffff !important;
-  border-bottom: none !important;
-  --bs-table-bg: #{$windesheim-blauw};
+  border-bottom: 3px solid $wh-oranje !important;
+  --bs-table-bg: #{$wh-zwart};
   --bs-table-color: #ffffff;
-}
-
-table tbody tr:nth-child(even) {
-  background-color: rgba(115, 190, 239, 0.12);
-}
-
-strong {
-  color: $windesheim-donkerblauw;
 }
 
 table thead th strong {
   color: #ffffff;
 }
 
-a {
-  font-weight: 500;
+table tbody tr:nth-child(even) {
+  background-color: $wh-lichtgrijs;
 }
 
 .callout {
@@ -74,17 +68,20 @@ pre, code {
   border-radius: 6px;
 }
 
-.header-section-number {
-  color: $windesheim-lichtblauw;
-}
-
-#TOC a, .sidebar nav a {
-  color: $windesheim-blauw;
-}
-
 pre, pre code {
   white-space: pre-wrap !important;
   word-break: break-word;
+}
+
+#TOC a, .sidebar nav a {
+  color: $wh-zwart;
+  text-decoration: none;
+}
+
+#TOC a.active, #TOC a:hover {
+  color: $wh-zwart;
+  border-left-color: $wh-oranje !important;
+  font-weight: 600;
 }
 
 .tafelkaart h2 {

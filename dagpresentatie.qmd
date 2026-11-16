@@ -21,12 +21,12 @@ format:
       text: |
         <style>
         .reveal .slide-background.has-dark-background ~ * h1, .reveal section.has-dark-background h1,
-        .reveal section.has-dark-background h2, .reveal section.has-dark-background p { color:#fff !important; border-bottom-color:#73BEEF; }
+        .reveal section.has-dark-background h2, .reveal section.has-dark-background p { color:#fff !important; border-bottom-color:#F5A61A; }
         .reveal .columns h3 { font-size:2.4em; margin-bottom:0.1em; border:none; }
         </style>
 ---
 
-# Welkom {background-color="#104D9C"}
+# Welkom {background-color="#F5A61A"}
 
 10:00 - 10:15 · Chris
 
@@ -67,7 +67,7 @@ format:
 | 15:50 | Galerij |
 | 16:15 | Eindpresentatie & afspraken |
 
-# Wat de interviews ons leren {background-color="#0b2f5e"}
+# Wat de interviews ons leren {background-color="#000000"}
 
 10:15 - 10:30 · Chris
 
@@ -124,7 +124,7 @@ Meer detail: [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie
 :::
 :::
 
-# Icebreaker: de AI-lijn {background-color="#104D9C"}
+# Icebreaker: de AI-lijn {background-color="#F5A61A"}
 
 10:30 - 10:45
 
@@ -157,7 +157,7 @@ Vertel elkaar, 2 minuten per persoon:
 
 **Stap 3 (2 min):** drie koppels delen hun taak. Die gaat op de flap en komt vandaag terug.
 
-# Zo werkt het World Café {background-color="#0b2f5e"}
+# Zo werkt het World Café {background-color="#000000"}
 
 10:45 - 11:00
 
@@ -224,7 +224,7 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 - 🙋 **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
 - 🖊️ **Geef de stift door.** Iedereen schrijft mee op het tafelkleed.
 
-# Ronde 1 {background-color="#104D9C"}
+# Ronde 1 {background-color="#F5A61A"}
 
 11:00 - 11:40 · Kies een tafel
 
@@ -236,7 +236,7 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 
 Pak koffie en kies een **nieuwe** tafel.
 
-# Ronde 2 {background-color="#104D9C"}
+# Ronde 2 {background-color="#F5A61A"}
 
 11:50 - 12:30 · Nieuwe tafel
 
@@ -246,7 +246,7 @@ Pak koffie en kies een **nieuwe** tafel.
 
 12:30 - 13:15
 
-# Lessons learned & hoe ik met AI werk {background-color="#0b2f5e"}
+# Lessons learned & hoe ik met AI werk {background-color="#000000"}
 
 13:15 - 13:45 · Chris
 
@@ -301,7 +301,7 @@ De schrijfassistent en de funding-radar vragen allebei om een **veilige kennisba
 
 Neem je antwoord mee naar de tafels.
 
-# Ronde 3 {background-color="#104D9C"}
+# Ronde 3 {background-color="#F5A61A"}
 
 13:45 - 14:25 · Laatste wisselronde: kies een tafel waar je nog niet was
 
@@ -313,7 +313,7 @@ Neem je antwoord mee naar de tafels.
 
 Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
 
-# Verdiepingsronde: de eindversie {background-color="#0b2f5e"}
+# Verdiepingsronde: de eindversie {background-color="#000000"}
 
 14:40 - 15:50
 
@@ -330,7 +330,7 @@ Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
 
 Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien wensen.**
 
-# Galerij {background-color="#104D9C"}
+# Galerij {background-color="#F5A61A"}
 
 15:50 - 16:15
 
@@ -342,7 +342,7 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 - Je hebt **3 stickers**. Plak ze bij de acties die het lectoraat **als eerste** moet oppakken.
 - Gastheren en -vrouwen staan bij hun tafelkleed voor vragen en tellen daarna de stickers.
 
-# Eindpresentatie {background-color="#0b2f5e"}
+# Eindpresentatie {background-color="#000000"}
 
 16:15 - 17:00
 
@@ -366,7 +366,7 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 | | | | |
 | | | | |
 
-*De oogster vult dit live in.*
+*De notulist vult dit live in.*
 
 ---
 
@@ -376,6 +376,6 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 - De gastheren en -vrouwen blijven **aanspreekpunt** voor hun onderwerp.
 - We kijken samen terug op de acties: datum volgt vandaag.
 
-# Bedankt! {background-color="#104D9C"}
+# Bedankt! {background-color="#F5A61A"}
 
 Tot de volgende keer!

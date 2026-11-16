@@ -1,17 +1,18 @@
 /*-- scss:defaults --*/
 
-// Windesheim kleuren
-$windesheim-blauw: #104D9C;
-$windesheim-lichtblauw: #73BEEF;
-$windesheim-zwart: #0F0C00;
+// Windesheim huisstijl (bron: windesheim.nl): zwart/wit met oranje en geel als accent
+$wh-zwart: #000000;
+$wh-oranje: #F5A61A;
+$wh-geel: #FFCB05;
+$wh-lichtgrijs: #EDEDED;
 
 $body-bg: #ffffff;
-$body-color: $windesheim-zwart;
-$link-color: $windesheim-blauw;
-$selection-bg: $windesheim-lichtblauw;
-$selection-color: #ffffff;
+$body-color: $wh-zwart;
+$link-color: $wh-zwart;
+$selection-bg: $wh-oranje;
+$selection-color: $wh-zwart;
 
-$presentation-heading-color: $windesheim-blauw;
+$presentation-heading-color: $wh-zwart;
 $presentation-heading-font-weight: 700;
 
 /*-- scss:rules --*/
@@ -22,44 +23,46 @@ $presentation-heading-font-weight: 700;
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
   font-weight: 700;
-  border-bottom: 2px solid $windesheim-lichtblauw;
+  border-bottom: 2px solid $wh-oranje;
   padding-bottom: 0.2em;
   margin-bottom: 0.6em;
 }
 
 .reveal h1 {
   font-size: 1.8em;
-  border-bottom: 3px solid $windesheim-blauw;
+  border-bottom: 3px solid $wh-zwart;
 }
 
 .reveal a {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
   text-decoration: underline;
+  text-decoration-color: $wh-oranje;
+  text-decoration-thickness: 2px;
 }
 
 .reveal a:hover {
-  color: $windesheim-lichtblauw;
+  color: $wh-oranje;
 }
 
 .reveal .progress {
-  background: rgba(16, 77, 156, 0.15);
+  background: rgba(245, 166, 26, 0.25);
   height: 4px;
 }
 
 .reveal .progress span {
-  background: $windesheim-blauw;
+  background: $wh-oranje;
 }
 
 .reveal .slide-number {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
   background: rgba(255, 255, 255, 0.85);
   font-weight: 600;
 }
 
 .reveal .controls {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
 }
 
 /* Tabel opmaak */
@@ -69,7 +72,7 @@ $presentation-heading-font-weight: 700;
 }
 
 .reveal table th {
-  background: $windesheim-blauw;
+  background: $wh-zwart;
   color: #ffffff;
   padding: 0.4em 0.7em;
   text-align: left;
@@ -78,47 +81,56 @@ $presentation-heading-font-weight: 700;
 
 .reveal table td {
   padding: 0.35em 0.7em;
-  border-bottom: 1px solid lighten($windesheim-lichtblauw, 15%);
+  border-bottom: 1px solid $wh-lichtgrijs;
 }
 
 .reveal table tr:nth-child(even) td {
-  background: rgba(115, 190, 239, 0.1);
+  background: $wh-lichtgrijs;
 }
 
 /* Blockquote */
 .reveal blockquote {
-  border-left: 4px solid $windesheim-lichtblauw;
-  background: rgba(115, 190, 239, 0.08);
+  border-left: 4px solid $wh-oranje;
+  background: rgba(245, 166, 26, 0.10);
   padding: 0.5em 1em;
   font-style: italic;
-  color: darken($windesheim-blauw, 5%);
+  color: $wh-zwart;
   margin: 0.8em 0;
 }
 
 /* Footer */
 .reveal .footer {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
   font-size: 0.5em;
   opacity: 0.8;
 }
 
 .reveal .footer a {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
 }
 
 /* Titelpagina */
 .reveal .title-slide h1 {
-  color: $windesheim-blauw;
-  border-bottom: 3px solid $windesheim-lichtblauw;
+  color: $wh-zwart;
+  border-bottom: 3px solid $wh-oranje;
   font-size: 1.6em;
 }
 
 .reveal .title-slide .subtitle {
-  color: $windesheim-lichtblauw;
+  color: $wh-zwart;
   font-weight: 400;
 }
 
 /* Sterren in prioriteitstabel */
 .reveal td:last-child {
-  color: $windesheim-blauw;
+  color: $wh-zwart;
+}
+
+/* Leesbaar op zwarte slides */
+.reveal.has-dark-background .slide-number,
+.reveal.has-dark-background .slide-number a,
+.reveal.has-dark-background .footer,
+.reveal.has-dark-background .footer a {
+  color: #ffffff !important;
+  background: transparent;
 }
