@@ -40,6 +40,8 @@ website:
             text: Tafelkaarten AI-dag
           - href: dagpresentatie.html
             text: Dagpresentatie AI-dag
+          - href: ai-training-10min.html
+            text: AI-training (10 min)
 
 format:
   html:

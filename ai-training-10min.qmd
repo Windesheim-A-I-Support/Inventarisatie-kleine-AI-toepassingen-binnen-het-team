@@ -1,0 +1,204 @@
+---
+title: "Hoe denkt AI eigenlijk?"
+subtitle: "AI-training in 10 minuten"
+author: "Chris · Lectoraat Supply Chain Finance"
+lang: nl
+title-slide-attributes:
+  data-background-color: "#FFCC00"
+link-external-newwindow: true
+format:
+  revealjs:
+    theme: [simple, windesheim.scss]
+    slide-number: true
+    progress: true
+    transition: fade
+    background-transition: fade
+    footer: 'AI-training in 10 minuten · Lectoraat Supply Chain Finance'
+    logo: "Windesheim Ai Survey.png"
+    embed-resources: true
+    standalone: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
+        <style>
+        .reveal section.has-dark-background h1, .reveal section.has-dark-background h2,
+        .reveal section.has-dark-background p, .reveal section.has-dark-background li { color:#fff !important; border-bottom-color:#FFCC00; }
+        .reveal .quote { font-size:1.3em; font-style:italic; border-left:8px solid #FFCC00; padding-left:0.6em; }
+        .reveal .klein { font-size:0.75em; color:#555; }
+        </style>
+---
+
+## Wat ik hoor als het over AI gaat
+
+:::: {.columns}
+::: {.column width="50%"}
+**Enthousiast**
+
+- "Het scheelt me uren per week."
+- "Een junior-assistent die nooit moe wordt."
+- "Ik vraag het eerst aan AI, dan pas aan een collega."
+:::
+::: {.column width="50%"}
+**Verbaasd**
+
+- "Waarom krijg ik nooit twee keer hetzelfde antwoord?"
+- "Waarom zegt hij *sorry, je hebt gelijk* zodra ik twijfel?"
+- "Waarom klinkt het zo zeker als het fout is?"
+:::
+::::
+
+**Het antwoord op alle drie: zie AI als een kind.** Vier kinderen, tien minuten.
+
+::: {.notes}
+0:00 - 1:00. Herkenbaar beginnen. Vraag: wie herkent een van deze zinnen? Handen omhoog.
+:::
+
+# 1. Het kind met oneindig veel boeken {background-color="#1D1D1B"}
+
+Het kind dat altijd antwoord moet geven
+
+---
+
+## Niet nadenken, alleen de zin afmaken
+
+<p class="quote">"De witte vos springt over de ..."</p>
+
+- Een taalmodel voorspelt steeds **het volgende woord**. Meer is het niet.
+- Het kind heeft alle boeken gelezen, maar **mag nooit stil blijven**.
+- Elke keer pakt het een ander boek van de plank. Daarom krijg je nooit twee keer hetzelfde antwoord.
+- Sterk in alles wat **taal** is: tekst, code, transcripties, samenvattingen.
+
+<p class="quote">AI verzint niet omdat hij kapot is. Hij verzint omdat hij precies doet waarvoor hij gebouwd is.</p>
+
+::: {.notes}
+1:00 - 2:30. Laat de zaal de zin afmaken ("hek", "luie hond"). Dat is precies wat het model doet.
+Optioneel: huggingface.co/spaces/Xenova/the-tokenizer-playground laat zien dat tekst getallen worden.
+:::
+
+---
+
+## Kun je een gestrest kind kalmeren? **Ja.**
+
+Zulke zinnen maken je antwoorden **een stuk beter**:
+
+- *"Neem de tijd en denk stap voor stap."*
+- *"Zeg het eerlijk als je iets niet zeker weet."*
+- *"Noem eerst waar je onzeker over bent, geef dan pas je antwoord."*
+
+Zo geef je het model ruimte om eerst te "denken" en dan pas te antwoorden.
+
+::: {.notes}
+2:30 - 3:15. Eerste tip die ze morgen kunnen gebruiken.
+:::
+
+# 2. Het kind met een klein bureau {background-color="#FFCC00"}
+
+Het werkgeheugen
+
+---
+
+## Waarom vergeet AI wat ik net zei?
+
+- Het kind heeft maar **een klein bureau**. Komt er te veel op, dan valt het oudste eraf.
+- Lange gesprekken = instructies van het begin raken kwijt.
+- Oplossing: zet je vaste afspraken in **één instructiebestand** en plak dat aan het begin.
+
+<p class="quote">"We vertrouwen het menselijk geheugen niet... waarom zou je het geheugen van een computer wel vertrouwen?"</p>
+<p class="klein">Christiaan Verhoef</p>
+
+::: {.notes}
+3:15 - 4:15. Herkenbaar: lange chat, ineens houdt hij zich niet meer aan je regels.
+:::
+
+---
+
+## Het instructiebestand in vier blokken
+
+| Blok | Wat je invult | Voorbeeld |
+|---|---|---|
+| **Rol** | Wie is de AI? Smal houden. | "Je bent redacteur van subsidieaanvragen." |
+| **Taak** | Wat moet hij doen, in 1 of 2 zinnen? | "Maak deze tekst korter en scherper." |
+| **Bronnen** | Welke stukken mag hij gebruiken? | "Alleen de call-tekst hieronder." |
+| **Vorm** | Opmaak, toon, lengte | "Opsommingstekens, zakelijk, max 150 woorden." |
+
+Plus één regel: **"Als iets onduidelijk of niet toegestaan is, zeg dat."**
+
+::: {.notes}
+4:15 - 5:00. Dit is de meest praktische slide. Zeg: dit sjabloon krijg je na afloop.
+:::
+
+# 3. Het kind zonder aantekeningen {background-color="#1D1D1B"}
+
+Overtuigend gokken
+
+---
+
+## Snelle quiz: roep maar wat
+
+1. In welk jaar werd de zeecontainer internationaal gestandaardiseerd?
+2. Welke Nederlandse wet regelt digitale identiteit bij de overheid?
+3. Hoeveel procent van de cacao wereldwijd komt van kleine boeren?
+
+. . .
+
+<p class="quote">"Wist je het, of klonk het gewoon goed?"</p>
+
+- Gokken is niet dom en geen liegen. **Het is wat elk brein doet als feiten ontbreken.**
+- AI doet hetzelfde. **Vloeiend is geen bewijs.**
+
+::: {.notes}
+5:00 - 6:30. Laat mensen echt antwoorden roepen, ook als ze het niet weten. Dan pas de vraag tonen.
+:::
+
+# 4. Het kind dat aantekeningen mag gebruiken {background-color="#FFCC00"}
+
+Antwoorden met bronnen (RAG)
+
+---
+
+## Dezelfde vragen, nu met bronnen
+
+| Vraag | Antwoord | Bron |
+|---|---|---|
+| Container | ISO-normen voor afmetingen in **1968** | [Wikipedia: Containerization](https://en.wikipedia.org/wiki/Containerization) |
+| Digitale identiteit | **Wet digitale overheid** (Wdo) | [nldigitalgovernment.nl](https://www.nldigitalgovernment.nl/overview/legislation/digital-government-act-wdo/) |
+| Cacao | Ongeveer **90%** van kleine boeren | [cacaonet.org](https://www.cacaonet.org/global-strategy/where-we-are-today) |
+
+- Geef AI **je eigen documenten** en vraag om **bronvermelding**.
+- Dan kun je elk antwoord nagaan. Zonder bron: zelf checken.
+
+::: {.notes}
+6:30 - 7:45. Kernboodschap: met aantekeningen wordt het kind betrouwbaar. Dit is ook waarom een veilige kennisbasis voor het lectoraat interessant is.
+:::
+
+# Bonus: het kind dat gedrag kopieert {background-color="#1D1D1B"}
+
+---
+
+## Waarom zegt hij "sorry, je hebt gelijk"?
+
+- AI leert niet wat **waar** is. Hij leert welk antwoord **beloond** wordt.
+- Behulpzaam, beleefd en zeker klinken wordt beloond. Twijfel veel minder.
+- Dus als jij zegt *"volgens mij klopt dit niet"*, geeft hij je gelijk. Ook als jij fout zit.
+
+**Tip:** vraag niet *"klopt dit?"* maar *"wat zijn de zwakke punten van dit antwoord?"*
+
+::: {.notes}
+7:45 - 8:45. Dit beantwoordt de derde vraag van de openingsslide.
+:::
+
+---
+
+## Drie dingen voor morgen
+
+1. **Geef het tijd.** "Denk stap voor stap en zeg het als je iets niet zeker weet."
+2. **Maak een instructiebestand.** Rol, taak, bronnen, vorm.
+3. **Vraag om bronnen.** Geen bron? Dan zelf checken.
+
+<p class="klein">En: gebruik geen vertrouwelijke of persoonsgegevens in publieke AI-tools.</p>
+
+::: {.notes}
+8:45 - 10:00. Afsluiten. Vraag: welke van de drie probeer jij deze week?
+:::

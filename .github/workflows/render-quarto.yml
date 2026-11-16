@@ -60,6 +60,8 @@ jobs:
           cp presentatie.html _site/presentatie.html
           quarto render dagpresentatie.qmd --to revealjs
           cp dagpresentatie.html _site/dagpresentatie.html
+          quarto render ai-training-10min.qmd --to revealjs
+          cp ai-training-10min.html _site/ai-training-10min.html
 
       - name: Render interview-template als DOCX
         run: |
