@@ -35,18 +35,18 @@ format:
 ## Waarom deze dag?
 
 ::: {.incremental}
-- Iedereen in het lectoraat experimenteert met AI. **Maar vooral alleen.**
-- We hebben 17 collega's gesproken. De beste aanpakken zitten al in het team.
-- Vandaag geen externe trainer en geen demo's. **We vertellen elkaar hoe we het doen, en kijken samen wat er beter kan.**
+- Ik heb 17 collega's gesproken. Iedereen is met AI bezig, maar vooral in z'n eentje.
+- De slimste trucs zitten gewoon al in ons team.
+- Dus vandaag geen trainer: **we vertellen elkaar hoe we het doen, en kijken samen wat beter kan.**
 :::
 
 ---
 
-## Wat we vandaag willen bereiken
+## Waar ik op hoop
 
-1. Iedereen heeft aan **drie tafels** gehoord hoe collega's hun werk met AI aanpakken, en neemt **minstens één werkwijze of idee** mee.
-2. Per onderwerp een **ingevuld tafelkleed**: wat werkt, wat blokkeert, wat is nodig.
-3. Een korte lijst **concrete acties**, met eigenaar en datum.
+1. Je hebt aan **drie tafels** gehoord hoe collega's het aanpakken, en je neemt **minstens één idee** mee om zelf te proberen.
+2. Per onderwerp een **vol tafelkleed**: wat werkt, wat zit in de weg, wat hebben we nodig.
+3. Een kort lijstje **acties**, met een naam en een datum erbij.
 
 ---
 
@@ -167,7 +167,7 @@ Vertel elkaar, 2 minuten per persoon:
 
 ::: {.incremental}
 - Er zijn **vijf tafels**, elk met een eigen onderwerp en een collega als gastheer of gastvrouw.
-- **Kies zelf een tafel.** Minimaal 2, maximaal 6 personen per tafel. Chris stuurt bij.
+- **Kies zelf een tafel.** Minimaal 2, maximaal 6 per tafel. Ik stuur bij als het scheef loopt.
 - Een ronde duurt **40 minuten**. Bij de bel wissel je naar een **nieuwe tafel**.
 - De gastheer of gastvrouw **blijft zitten** en vertelt de volgende groep wat er al besproken is.
 - Na drie rondes heb je **drie van de vijf tafels** gezien. Daarna kies je de tafel waar je mee verder wilt.
@@ -185,7 +185,7 @@ Vertel elkaar, 2 minuten per persoon:
 | 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
 | 32 - 40 | **Tafelkleed** aanvullen |
 
-Geen demo, geen presentatie. **Het gesprek is het programma.**
+Niemand geeft een presentatie. **Het gaat om het gesprek.**
 
 ---
 
@@ -221,7 +221,7 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 
 - 🔒 **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of gevoelige partnerinformatie.
 - ✅ **AI-output altijd zelf controleren.** Jij blijft verantwoordelijk.
-- 🙋 **Geen domme vragen.** Iedereen staat op een ander punt.
+- 🙋 **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
 - 🖊️ **Geef de stift door.** Iedereen schrijft mee op het tafelkleed.
 
 # Ronde 1 {background-color="#104D9C"}
@@ -255,10 +255,10 @@ Pak koffie en kies een **nieuwe** tafel.
 ## Wat ik geleerd heb
 
 ::: {.incremental}
-- **Klein beginnen werkt.** Eén radartje automatiseren levert meer op dan een groot AI-project.
-- **De prompt is maar de helft.** Goede context (wie ben je, wat is het doel, wat mag niet) bepaalt de kwaliteit.
-- **AI-output altijd nakijken.** De tijdwinst zit in de eerste versie, niet in het eindproduct.
-- **Veiligheid is de echte drempel.** Zonder veilige omgeving blijft veel gebruik beperkt tot openbare tekst.
+- **Klein beginnen werkt.** Eén vervelend klusje aanpakken levert meer op dan een groot AI-project.
+- **Vertel de AI wie je bent.** Wie je bent, wat je wilt en wat niet mag: dan wordt het antwoord echt beter.
+- **Altijd zelf nakijken.** De winst zit in die eerste versie. Het laatste stuk blijft mensenwerk.
+- **Veiligheid is de echte drempel.** Zonder veilige plek voor onze data blijft het bij openbare tekst.
 :::
 
 ---
@@ -274,7 +274,7 @@ Zelfde vorm als aan de tafels:
 | **Wat ging er mis** | *[eerlijke valkuil]* |
 | **Wat ik nog zelf doe** | *[controle, wat bewust niet met AI]* |
 
-*Chris vult dit in vóór 27 november.*
+*(Invullen vóór 27 november)*
 
 ---
 
@@ -378,4 +378,4 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 
 # Bedankt! {background-color="#104D9C"}
 
-Chris sluit af
+Tot de volgende keer!

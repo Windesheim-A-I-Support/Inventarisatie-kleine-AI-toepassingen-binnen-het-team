@@ -13,15 +13,15 @@ Neem je laptop mee. Koffie, thee en lunch zijn geregeld.
 
 ## Doel
 
-Uit de AI-inventarisatie bleek dat iedereen op zijn eigen manier met AI experimenteert, maar dat we dat nauwelijks van elkaar weten. In plaats van iedereen dezelfde methode aan te leren, willen we van elkaar leren. De beste aanpakken zitten al in het team.
+Tijdens de interviews zag ik iets moois: iedereen is op z'n eigen manier met AI bezig. Alleen weten we dat bijna niet van elkaar. Zonde, want de slimste trucs zitten gewoon al in ons team! Daarom geen training vandaag, maar een dag waarop we van elkaar leren.
 
-We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zijn gastheer of gastvrouw van een eigen tafel over een onderwerp waar zij al een werkwijze voor hebben. Het is **geen demo en geen presentatie**: de champion vertelt kort hoe hij of zij het nu aanpakt, en daarna wisselen we aan tafel uit hoe anderen het doen en wat er beter kan. Deelnemers schuiven in kleine groepjes aan en vullen samen het tafelkleed van die tafel aan. Na elke ronde wisselen de groepjes, de champion blijft zitten. Zo bouwt elke groep verder op wat de vorige groep heeft opgeschreven.
+We doen dat als een **World Café**. Vijf collega's (de *champions*) zijn gastheer of gastvrouw van een tafel, over iets waar ze al een eigen aanpak voor hebben. Ze vertellen kort hoe ze het doen, en dan gaat het gesprek los: hoe doe jij het, waar loop je vast, wat kan slimmer? Na elke ronde schuif je door naar een andere tafel. De champion blijft zitten en het tafelkleed groeit met elke groep mee.
 
-**Wat we aan het eind van de dag willen hebben:**
+**Waar ik op hoop aan het eind van de dag:**
 
-1. Iedereen heeft aan drie tafels gehoord hoe collega's hun werk met AI aanpakken, en neemt minstens één werkwijze of idee mee om zelf te gebruiken.
-2. Per onderwerp een ingevuld tafelkleed: wat werkt, wat blokkeert, wat is nodig.
-3. Een korte lijst concrete acties met eigenaar en datum.
+1. Je hebt aan drie tafels gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
+2. Per onderwerp ligt er een vol tafelkleed: wat werkt, wat zit in de weg, wat hebben we nodig.
+3. We hebben een kort lijstje acties, met een naam en een datum erbij.
 
 ## Materialen voor de dag
 
@@ -53,7 +53,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 | 15:50 - 16:15 | **Galerij** | Tafelkleden hangen aan de muur. Iedereen loopt rond en zet 3 stickers bij de acties die het lectoraat volgens hem of haar als eerste moet oppakken |
 | 16:15 - 17:00 | **Eindpresentatie** | Elke tafel presenteert haar tafelkleed (max. 5 min, samen 25 min), daarna 20 min afspraken en afsluiting |
 
-**Verdeling over de tafels:** deelnemers kiezen zelf, maar Chris stuurt bij. Zit een tafel vol (6), dan kies je een andere. Blijft een tafel leeg of zit er één persoon, dan vraagt Chris twee mensen om over te stappen. De champions blijven aan hun eigen tafel; zij zien de andere tafelkleden tijdens de galerij.
+**Hoe kies je een tafel?** Gewoon waar je zin in hebt. Zitten er al zes mensen, kies dan een andere. Blijft een tafel leeg, dan vraag ik een paar mensen om even te schuiven. De champions blijven aan hun eigen tafel; de andere tafelkleden zien zij tijdens de galerij.
 
 **Opbouw van een ronde (40 minuten):**
 
@@ -85,26 +85,26 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 
 ### Resultaten interviews (10:15 - 10:30)
 
-Chris laat in een kwartier zien wat de inventarisatie heeft opgeleverd:
+In een kwartier laat ik zien wat de gesprekken hebben opgeleverd:
 
 - **17 collega's** gesproken, **73 radartjes** (kleine taken waar AI kan helpen) en **73 verschillende tools** in gebruik.
 - **Meest gedeelde radartjes:** transcriptie en verslaglegging van gesprekken, subsidieteksten schrijven, presentaties maken, onderwijsadministratie.
-- **Patroon:** iedereen experimenteert, maar alleen. De beste aanpakken zitten al in het team, daarom zitten vandaag collega's aan tafel en geen externe trainer.
-- **Grootste blokkade:** onzekerheid over wat veilig is met vertrouwelijke lectoraatsinformatie.
+- **Wat opviel:** iedereen probeert dingen uit, maar vooral in z'n eentje. Terwijl de beste aanpakken al in het team zitten. Daarom zitten vandaag collega's aan tafel en geen externe trainer.
+- **Waar het vastloopt:** de vraag wat nou wel en niet veilig is met lectoraatsinformatie.
 
 Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-werkprocessen.html).
 
 ### Icebreaker: de AI-lijn (10:30 - 10:45)
 
-1. **Opstellen (5 min):** iedereen gaat op een denkbeeldige lijn door de zaal staan. Links: *"Ik gebruik nooit AI"*. Rechts: *"Ik gebruik AI dagelijks"*. Chris vraagt een paar mensen waarom ze daar staan.
+1. **Opstellen (5 min):** iedereen gaat op een denkbeeldige lijn door de zaal staan. Links: *"Ik gebruik nooit AI"*. Rechts: *"Ik gebruik AI dagelijks"*. Ik vraag een paar mensen waarom ze daar staan.
 2. **Koppelen (8 min):** zoek iemand van de andere kant van de lijn. Vertel elkaar in 2 minuten per persoon: *"Welke taak kost mij de meeste tijd en zou ik het liefst kwijt zijn?"*
-3. **Oogsten (2 min):** drie koppels noemen hun taak. Chris schrijft ze op een flap. Die flap hangt de hele dag zichtbaar en komt terug bij het tafelkleed.
+3. **Oogsten (2 min):** drie koppels noemen hun taak. Ik schrijf ze op een flap. Die blijft de hele dag hangen, en we komen er aan de tafels op terug.
 
 ---
 
 ## Middag: lessons learned & hoe ik met AI werk (13:15 - 13:45)
 
-Chris deelt wat hij tijdens de inventarisatie en het bouwen van eigen AI-workflows heeft geleerd, en welke oplossingen er tot nu toe in beeld zijn. Dit blok staat bewust midden op de dag, tussen ronde 2 en 3: iedereen heeft dan al twee tafels gezien, en de oplossingen kunnen in ronde 3 en de verdiepingsronde direct op de tafelkleden terechtkomen.
+Na de lunch vertel ik wat ik zelf geleerd heb: tijdens de interviews, en tijdens het knutselen met mijn eigen AI-workflows. En welke oplossingen ik tot nu toe zie. Ik zet dit expres tussen ronde 2 en 3. Je hebt dan al twee tafels gezien, en wat ik vertel kan meteen mee naar ronde 3 en de eindversie.
 
 **Opbouw (30 minuten):**
 
@@ -115,14 +115,14 @@ Chris deelt wat hij tijdens de inventarisatie en het bouwen van eigen AI-workflo
 | 18 - 24 | Mogelijke oplossingen die we tot nu toe zien |
 | 24 - 30 | Vraag aan de zaal over een veilige kennisbasis |
 
-Houd het eigen voorbeeld bewust klein en eerlijk, inclusief wat niet werkte. De champions doen ook geen demo; als het eigen deel te technisch of te gelikt wordt, voelt hun verhaal kleiner.
+Mijn eigen voorbeeld houd ik klein en eerlijk, ook wat niet lukte. Het gaat vandaag om ieders aanpak, niet om de mooiste techniek.
 
 **Lessons learned (selectie):**
 
-- Klein beginnen werkt. Eén radartje automatiseren levert meer op dan een groot AI-project.
-- De prompt is maar de helft. Goede context (wie ben je, wat is het doel, wat mag niet) bepaalt de kwaliteit.
-- AI-output altijd nakijken. De tijdwinst zit in de eerste versie, niet in het eindproduct.
-- Veiligheid is de echte drempel. Zolang er geen veilige omgeving is voor lectoraatsdata, blijft veel gebruik beperkt tot openbare tekst.
+- **Klein beginnen werkt.** Eén vervelend klusje aanpakken levert meer op dan een groot AI-project.
+- **Vertel de AI wie je bent.** Wie je bent, wat je wilt en wat niet mag: met die context wordt het antwoord echt beter.
+- **Altijd zelf nakijken.** De winst zit in die eerste versie. Het laatste stuk blijft mensenwerk.
+- **Veiligheid is de echte drempel.** Zolang we geen veilige plek hebben voor lectoraatsdata, blijft het bij openbare tekst.
 
 **Mogelijke oplossingen die we tot nu toe zien:**
 
@@ -135,13 +135,13 @@ Houd het eigen voorbeeld bewust klein en eerlijk, inclusief wat niet werkte. De 
 | **Veilige schrijfassistent voor projectvoorstellen** | Nieuwe aanvragen schrijven met eerdere voorstellen als bron, zonder lectoraatsdata naar publieke AI-tools | Eerste prototype in ontwikkeling |
 | **Funding-radar** | Maandelijks automatisch relevante subsidiekansen zoeken en een alert sturen naar wie met subsidies bezig is, gekoppeld aan veilige kennis over onze projecten en partners | Idee uit het team, te bespreken |
 
-De laatste twee hangen samen: beide vragen om een **veilige kennisbasis** van het lectoraat (projectvoorstellen, resultaten, partners) waar een AI-model mee kan werken zonder dat de data in publieke tools belandt. Vraag aan de zaal: *zien jullie dit zitten, en wat moet zo'n omgeving minimaal kunnen?* De antwoorden gaan mee naar de tafelkleden.
+De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de tafels.
 
 ---
 
 ## De vijf tafels: input voor de dag
 
-Per tafel staat hieronder de werkwijze van de champion zoals die uit het interview naar voren kwam, welke collega's een vergelijkbaar radartje noemden (zij hebben het meeste aan deze tafel en kunnen hun eigen aanpak inbrengen), en een optionele oefening met starter-prompt voor wie tijdens *Beter maken* iets wil uitproberen.
+Hieronder per tafel: hoe de champion het nu doet (uit het interview), welke collega's iets vergelijkbaars noemden, en een oefening voor wie tijdens *Beter maken* iets wil proberen. Sta je bij de radartjes? Dan heb je waarschijnlijk veel aan die tafel, en jouw aanpak is daar net zo welkom.
 
 ### Tafel 1 -- Transcriptie (Richard Holman)
 
@@ -204,7 +204,7 @@ Daarna: één slide die de doelgroep aanzet tot actie.
 
 ### Tafel 4 -- Verslaglegging (Mounia Belmamoune)
 
-**Werkwijze van Mounia:** data bundelen in een ChatGPT-projectomgeving en daar evaluatieverslagen en hackathon-rapporten mee schrijven. Een werkende workflow die direct overdraagbaar is.
+**Werkwijze van Mounia:** data bundelen in een ChatGPT-projectomgeving en daar evaluatieverslagen en hackathon-rapporten mee schrijven. Werkt goed en is makkelijk over te nemen.
 
 **Radartjes uit de interviews:** Hendryk (structuur voor eindrapport lectoraatproject), Ronald (overzicht van wat er in een project gedaan is), Mira (gesprekken en rapporten destilleren), Paulien (verbanden in kwalitatieve data), Luca (pijplijn voor jaarverslagen), Stefan (evaluatie na meetings).
 
@@ -221,7 +221,7 @@ Gebruik alleen informatie uit de documenten. Vermeld per alinea uit welk documen
 
 ### Tafel 5 -- Onderwijs & toetsen (Ritsaart Bergsma)
 
-**Werkwijze van Ritsaart:** toetsvragen genereren direct in het importformaat voor ANS en Brightspace, cursusmateriaal herstructureren en herhalende onderwijsadministratie stroomlijnen.
+**Werkwijze van Ritsaart:** toetsvragen genereren direct in het importformaat voor ANS en Brightspace, cursusmateriaal herindelen en terugkerende onderwijsadministratie sneller afhandelen.
 
 **Radartjes uit de interviews:** Hendryk (studiehandleiding naar heldere one-pager), Richard (afstudeerbegeleiding), Stefan en Mira (urenbrieven voor studenten), Maxime (interviewanalyse in onderzoek met studenten).
 
@@ -243,19 +243,19 @@ Lever het op in dit formaat: [plak voorbeeldregel uit ANS/Brightspace-import].
 ::: {.callout-tip}
 ## In het kort
 - Je zit de hele dag aan **je eigen tafel**, de groepjes komen naar jou (3 rondes van 40 minuten).
-- **Geen demo, geen presentatie, geen slides.** Je vertelt een paar minuten hoe jij het doet, daarna praat de tafel.
-- Je rol is **gespreksleider**: ophalen hoe anderen het doen, wat er beter kan, en zorgen dat het tafelkleed wordt ingevuld.
+- **Je hoeft niks te presenteren.** Je vertelt een paar minuten hoe jij het doet, en dan praat de tafel.
+- Je bent vooral **gespreksleider**: je haalt op hoe anderen het doen en wat beter kan, en je zorgt dat het tafelkleed vol komt.
 - Voorbereiding: ongeveer 15 minuten (zie hieronder).
 :::
 
-Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**. Je blijft zitten, de groepjes wisselen. Je hoeft **niets te presenteren of te demonstreren**. Je vertelt kort hoe jij het doet, en daarna ben je vooral gespreksleider: je haalt op hoe anderen het aanpakken en wat er beter kan. Jij hoeft niet alle antwoorden te hebben; aan elke tafel zitten collega's met eigen ervaring.
+Wat fijn dat je dit wilt doen! Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**: jij blijft zitten, de groepjes komen naar jou. Vertel gewoon hoe jij het doet, en haal dan op hoe de rest het aanpakt. Je hoeft echt niet alle antwoorden te hebben. Aan elke tafel zitten collega's met hun eigen ervaring, en daar gaat het juist om.
 
 ### Vooraf (uiterlijk vrijdag 27 november, ca. 15 minuten werk)
 
 - [ ] Bedenk in drie zinnen: **welke taak**, **hoe doe ik het nu** (welke tool, welke stappen) en **waar loop ik nog tegenaan**.
-- [ ] Vul op het tafelkleed alvast **vraag 1** in: *Wat werkt al?* (3 tot 5 punten). Chris kan dit ook samen met je doen.
+- [ ] Vul op het tafelkleed alvast **vraag 1** in: *Wat werkt al?* (3 tot 5 punten). Ik help je hier graag mee.
 - [ ] Wil je iets op je scherm laten zien? Prima, maar niet nodig. Gebruik dan geen vertrouwelijke gegevens.
-- [ ] Kijk naar de starter-prompt van jouw tafel hierboven. Klopt die met hoe jij het doet? Laat het Chris weten als je iets beters hebt.
+- [ ] Kijk naar de starter-prompt van jouw tafel hierboven. Klopt die met hoe jij het doet? Laat het me weten als je iets beters hebt.
 
 ### Elke ronde (40 minuten, drie keer)
 
@@ -267,7 +267,7 @@ Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**. Je blijft zitt
 | 24 - 32 | **Beter maken** | *Wat kan er slimmer, sneller of veiliger? Wat zou je willen dat er bestond?* Wie wil, probeert de starter-prompt even uit. |
 | 32 - 40 | **Tafelkleed** | Vraag 2 tot en met 4 aanvullen. Geef de stift door, schrijf niet alles zelf. |
 
-- Chris belt 5 minuten voor het einde van elke ronde. Rond dan af met het tafelkleed.
+- Ik bel 5 minuten voor het einde van elke ronde. Rond dan af met het tafelkleed.
 - Handige vragen om het gesprek op gang te houden: *"Waar zou jij dit morgen voor gebruiken?"*, *"Wat houdt je tegen?"*, *"Wie heeft dit al eens anders opgelost?"*
 - Merk je dat iemand echte vertrouwelijke gegevens in een publieke tool wil zetten? Benoem het kort en ga verder.
 - Elke groep is anders. Het gesprek mag vrij lopen, zolang het tafelkleed aan het eind van de ronde is aangevuld.
@@ -294,7 +294,7 @@ Zet de vijf belangrijkste punten van vraag 2 tot en met 4 met een dikke stift bo
 
 ### Verdiepingsronde: de eindversie (14:40 - 15:50)
 
-Nu schuiven de collega's aan die het meest met jouw onderwerp verder willen. Deze groep blijft 70 minuten. Komen er minder dan twee mensen? Dan sluiten zij en jij aan bij een andere tafel, en zet je de acties voor jouw onderwerp samen met Chris op het tafelkleed.
+Nu schuiven de collega's aan die het meest met jouw onderwerp verder willen. Deze groep blijft 70 minuten. Komen er minder dan twee mensen? Dan sluiten zij en jij aan bij een andere tafel, en zetten we de acties voor jouw onderwerp samen op het tafelkleed.
 
 | Minuten | Wat |
 |---|---|
@@ -317,12 +317,12 @@ Per tafel maximaal **5 minuten**, gepresenteerd door de champion of iemand van d
 2. **Grootste blokkade:** wat houdt ons tegen (vraag 4)?
 3. **Acties:** de top drie volgens de stickers, met eigenaar en datum (vraag 7).
 
-De oogster zet de acties live op het scherm. Chris sluit af met wat we oppakken en wanneer we terugkijken.
+De oogster zet de acties live op het scherm. Ik sluit af met wat we gaan oppakken en wanneer we terugkijken.
 
 ### Na afloop
 
-- Lever je tafelkleed in bij Chris (of maak een duidelijke foto).
-- Wil je je werkwijze delen? Stuur binnen een week een paar stappen of je prompt naar Chris. Dat komt op deze site zodat collega's het na kunnen doen.
+- Lever je tafelkleed bij mij in (of maak een duidelijke foto).
+- Wil je je werkwijze delen? Stuur me binnen een week een paar stappen of je prompt. Dat komt op deze site zodat collega's het na kunnen doen.
 - Je blijft aanspreekpunt voor jouw onderwerp. Collega's mogen je de komende maand een vraag stellen.
 
 ---
@@ -331,7 +331,7 @@ De oogster zet de acties live op het scherm. Chris sluit af met wat we oppakken 
 
 - **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of bedrijfsgevoelige informatie van partners. Oefen met openbare of verzonnen tekst.
 - **AI-output altijd zelf controleren.** AI verzint soms feiten. Jij blijft verantwoordelijk.
-- **Geen domme vragen.** Iedereen staat op een ander punt, en dat is precies waarom we dit doen.
+- **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
 
 ---
 
