@@ -410,7 +410,7 @@ Elke champion vult **"Wat werkt al"** vooraf in. Vragen 2 - 4 groeien mee met el
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Tafelhosts bevestigen** -- Richard, Christiaan de Goeij, Bart, Mounia en Ritsaart uitnodigen als tafelhost
+1. **Tafelhosts** -- Richard, Christiaan de Goeij, Bart, Mounia en Ritsaart (bevestigd)
 2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven

@@ -19,7 +19,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 
 **Wat we aan het eind van de dag willen hebben:**
 
-1. Iedereen heeft minstens één AI-toepassing zelf uitgeprobeerd met eigen (niet-vertrouwelijke) input.
+1. Iedereen heeft aan vier tafels gehoord hoe collega's hun werk met AI aanpakken, en neemt minstens één werkwijze of idee mee om zelf te gebruiken.
 2. Per onderwerp een ingevuld tafelkleed: wat werkt, wat blokkeert, wat is nodig.
 3. Een korte lijst concrete acties met eigenaar en datum.
 
@@ -76,7 +76,7 @@ Chris laat in een kwartier zien wat de inventarisatie heeft opgeleverd:
 
 - **17 collega's** gesproken, **73 radartjes** (kleine taken waar AI kan helpen) en **73 verschillende tools** in gebruik.
 - **Meest gedeelde radartjes:** transcriptie en verslaglegging van gesprekken, subsidieteksten schrijven, presentaties maken, onderwijsadministratie.
-- **Patroon:** iedereen experimenteert, maar alleen. De beste aanpakken zitten al in het team, daarom staan vandaag collega's voor de groep en geen externe trainer.
+- **Patroon:** iedereen experimenteert, maar alleen. De beste aanpakken zitten al in het team, daarom zitten vandaag collega's aan tafel en geen externe trainer.
 - **Grootste blokkade:** onzekerheid over wat veilig is met vertrouwelijke lectoraatsinformatie.
 
 Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-werkprocessen.html).
@@ -216,6 +216,14 @@ Lever het op in dit formaat: [plak voorbeeldregel uit ANS/Brightspace-import].
 
 ## Instructies voor de champions
 
+::: {.callout-tip}
+## In het kort
+- Je zit de hele dag aan **je eigen tafel**, de groepjes komen naar jou (4 rondes van 35 minuten).
+- **Geen demo, geen presentatie, geen slides.** Je vertelt een paar minuten hoe jij het doet, daarna praat de tafel.
+- Je rol is **gespreksleider**: ophalen hoe anderen het doen, wat er beter kan, en zorgen dat het tafelkleed wordt ingevuld.
+- Voorbereiding: ongeveer 15 minuten (zie hieronder).
+:::
+
 Je bent de hele dag **gastheer of gastvrouw van je eigen tafel**. Je blijft zitten, de groepjes wisselen. Je hoeft **niets te presenteren of te demonstreren**. Je vertelt kort hoe jij het doet, en daarna ben je vooral gespreksleider: je haalt op hoe anderen het aanpakken en wat er beter kan. Jij hoeft niet alle antwoorden te hebben; aan elke tafel zitten collega's met eigen ervaring.
 
 ### Vooraf (uiterlijk vrijdag 27 november, ca. 15 minuten werk)
@@ -254,7 +262,21 @@ Het tafelkleed groeit de hele dag. Elke ronde voegt de nieuwe groep toe aan wat 
 | 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** | Verdiepingsronde |
 | 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer | Verdiepingsronde |
 
-Let op bij vraag 7: een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wensen. In de pauze van 14:55 zet je de vijf belangrijkste punten van vraag 2 tot en met 4 met een dikke stift bovenaan, zodat de verdiepingsgroep snel kan starten.
+Let op bij vraag 7: een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wensen.
+
+### Pauze (14:55 - 15:15)
+
+Zet de vijf belangrijkste punten van vraag 2 tot en met 4 met een dikke stift bovenaan het tafelkleed. Zo kan de groep van de verdiepingsronde direct beginnen.
+
+### Verdiepingsronde (15:15 - 16:00)
+
+Nu schuiven de collega's aan die het meest met jouw onderwerp verder willen. Deze groep blijft 45 minuten.
+
+| Minuten | Wat |
+|---|---|
+| 0 - 5 | Lees samen de punten bovenaan het tafelkleed |
+| 5 - 20 | Vraag 5 en 6: waaraan moet een betere werkwijze voldoen, en hoe maken we het nuttiger? |
+| 20 - 45 | Vraag 7: concrete acties. Per actie: wat, wie, wanneer |
 
 ### Galerij (16:00 - 16:30)
 
@@ -273,7 +295,7 @@ Chris noteert de acties live. Michiel sluit af met wat het lectoraat oppakt.
 ### Na afloop
 
 - Lever je tafelkleed in bij Chris (of maak een duidelijke foto).
-- Stuur binnen een week je starter-prompt en eventuele handleiding naar Chris. Die komt op deze site zodat collega's het na kunnen doen.
+- Wil je je werkwijze delen? Stuur binnen een week een paar stappen of je prompt naar Chris. Dat komt op deze site zodat collega's het na kunnen doen.
 - Je blijft aanspreekpunt voor jouw onderwerp. Collega's mogen je de komende maand een vraag stellen.
 
 ---
@@ -296,7 +318,7 @@ Chris noteert de acties live. Michiel sluit af met wat het lectoraat oppakt.
 
 - [x] Datum definitief prikken (ma 30 november 2026)
 - [x] Ruimte reserveren (B.2.34)
-- [ ] Champions bevestigen: Richard (ja), Bart (ja), Mounia (ja), Ritsaart (ja), Christiaan (gevraagd)
+- [x] Champions bevestigen: Richard, Christiaan, Bart, Mounia en Ritsaart hebben ja gezegd
 - [ ] Champion-instructies (deze pagina) naar de vijf champions sturen en per champion 10 minuten afstemmen over vraag 1 van het tafelkleed
 - [ ] Uitnodiging versturen naar heel lectoraat (met verzoek: laptop meenemen)
 - [ ] Ruimte inrichten: 5 tafels met elk 6 à 7 stoelen, groot scherm voor de plenaire delen, stekkerdoos bij elke tafel
