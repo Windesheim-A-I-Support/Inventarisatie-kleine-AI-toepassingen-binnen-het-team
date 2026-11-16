@@ -72,7 +72,11 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 | Opening | Chris | Welkom, waarom deze dag, wat we ermee willen |
 | Resultaten, icebreaker, lessons learned | Chris | Ochtendblok en middagsessie (zie hieronder) |
 | Dagvoorzitter & tijdbewaker | Chris | Bewaakt de tijd (bel 5 minuten voor het einde van elke ronde en bij de wissel), leidt galerij en eindpresentatie |
-| Champions (tafelhosts) | Richard, Christiaan, Bart, Mounia, Ritsaart | Blijven de hele dag aan hun tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie (zie instructies hieronder) |
+| Champion tafel 1 -- Transcriptie | Richard Holman | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
+| Champion tafel 2 -- Subsidies schrijven | Christiaan de Goeij | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
+| Champion tafel 3 -- Presentaties maken | Bart Ras | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
+| Champion tafel 4 -- Verslaglegging | Mounia Belmamoune | Gastvrouw van haar tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
+| Champion tafel 5 -- Onderwijs & toetsen | Ritsaart Bergsma | Gastheer van zijn tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
 | Fotograaf / oogst | n.t.b. | Foto van elk tafelkleed, actielijst bijhouden |
 
 ---
@@ -327,7 +331,7 @@ Chris noteert de acties live en sluit af met wat we oppakken.
 
 - [x] Datum definitief prikken (ma 30 november 2026)
 - [x] Ruimte reserveren (B.2.34)
-- [x] Champions bevestigen: Richard, Christiaan, Bart, Mounia en Ritsaart hebben ja gezegd
+- [x] Champions bevestigen: Richard Holman (transcriptie), Christiaan de Goeij (subsidies), Bart Ras (presentaties), Mounia Belmamoune (verslaglegging) en Ritsaart Bergsma (onderwijs & toetsen) hebben ja gezegd
 - [ ] Champion-instructies (deze pagina) naar de vijf champions sturen en per champion 10 minuten afstemmen over vraag 1 van het tafelkleed
 - [ ] Uitnodiging versturen naar heel lectoraat (met verzoek: laptop meenemen)
 - [ ] Ruimte inrichten: 5 tafels met elk 6 à 7 stoelen, groot scherm voor de plenaire delen, stekkerdoos bij elke tafel
