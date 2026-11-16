@@ -38,7 +38,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 
 | Tijd | Onderdeel | Toelichting |
 |---|---|---|
-| 10:00 - 10:15 | **Introductie** | Michiel & Chris: welkom, doel van de dag, programma |
+| 10:00 - 10:15 | **Introductie** | Chris: welkom, doel van de dag, programma |
 | 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
 | 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
 | 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels en hun gastheren en -vrouwen voor en legt uit hoe het wisselen werkt |
@@ -69,7 +69,7 @@ We werken in de vorm van een **World Café**. Vijf collega's (de *champions*) zi
 
 | Rol | Wie | Taak |
 |---|---|---|
-| Opening | Michiel | Waarom deze dag, wat het lectoraat ermee wil |
+| Opening | Chris | Welkom, waarom deze dag, wat we ermee willen |
 | Resultaten, icebreaker, lessons learned | Chris | Ochtendblok en middagsessie (zie hieronder) |
 | Dagvoorzitter & tijdbewaker | Chris | Bewaakt de tijd (bel 5 minuten voor het einde van elke ronde en bij de wissel), leidt galerij en eindpresentatie |
 | Champions (tafelhosts) | Richard, Christiaan, Bart, Mounia, Ritsaart | Blijven de hele dag aan hun tafel: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie (zie instructies hieronder) |
@@ -115,7 +115,7 @@ Chris deelt wat hij tijdens de inventarisatie en het bouwen van eigen AI-workflo
 |---|---|---|
 | **Kennisdeling via champions** | Transcriptie, presentaties, subsidies, verslaglegging, toetsen | Vandaag van start |
 | **Script voor TKI-urenbrieven** | Urenbrieven per student maandelijks maken en versturen | Idee, uitvoerders bekend |
-| **Business case Copilot** | Veilige AI binnen de Windesheim-omgeving | Michiel werkt onderbouwing uit |
+| **Business case Copilot** | Veilige AI binnen de Windesheim-omgeving | Onderbouwing in voorbereiding |
 | **Lokale / open source tools** | Transcriptie (Whisper), documentanalyse zonder data naar buiten | Uit te proberen |
 | **Veilige schrijfassistent voor projectvoorstellen** | Nieuwe aanvragen schrijven met eerdere voorstellen als bron, zonder lectoraatsdata naar publieke AI-tools | Eerste prototype in ontwikkeling |
 | **Funding-radar** | Maandelijks automatisch relevante subsidiekansen zoeken en een alert sturen naar wie met subsidies bezig is, gekoppeld aan veilige kennis over onze projecten en partners | Idee uit het team, te bespreken |
@@ -299,7 +299,7 @@ Per tafel maximaal **5 minuten**, gepresenteerd door de champion of iemand van d
 2. **Grootste blokkade:** wat houdt ons tegen (vraag 4)?
 3. **Acties:** de top drie volgens de stickers, met eigenaar en datum (vraag 7).
 
-Chris noteert de acties live. Michiel sluit af met wat het lectoraat oppakt.
+Chris noteert de acties live en sluit af met wat we oppakken.
 
 ### Na afloop
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-Uitwisselingsdag"
 subtitle: "Van en met elkaar leren · Lectoraat Supply Chain Finance"
-author: "Michiel Steeman & Chris"
+author: "Chris"
 date: "Maandag 30 november 2026 · B.2.34"
 lang: nl
 link-external-newwindow: true
@@ -29,7 +29,7 @@ format:
 
 # Welkom {background-color="#104D9C"}
 
-10:00 - 10:15 · Michiel & Chris
+10:00 - 10:15 · Chris
 
 ---
 
@@ -270,7 +270,7 @@ Pak koffie en kies een **nieuwe** tafel.
 |---|---|
 | **Kennisdeling via champions** | Vandaag van start |
 | **Script voor TKI-urenbrieven** | Idee, uitvoerders bekend |
-| **Business case Copilot** | Michiel werkt onderbouwing uit |
+| **Business case Copilot** | Onderbouwing in voorbereiding |
 | **Lokale / open source tools** (o.a. Whisper) | Uit te proberen |
 | **Veilige schrijfassistent** voor projectvoorstellen | Eerste prototype in ontwikkeling |
 | **Funding-radar**: maandelijks automatisch subsidiekansen signaleren | Idee uit het team, te bespreken |
@@ -373,4 +373,4 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 
 # Bedankt! {background-color="#104D9C"}
 
-Michiel sluit af
+Chris sluit af

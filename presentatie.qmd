@@ -372,7 +372,7 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 | Tijd | Onderdeel | Insteek |
 |---|---|---|
-| 10:00 - 10:15 | **Introductie** | Michiel & Chris: welkom, doel van de dag, programma |
+| 10:00 - 10:15 | **Introductie** | Chris: welkom, doel van de dag, programma |
 | 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
 | 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
 | 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels voor |
