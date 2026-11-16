@@ -366,15 +366,15 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 | | | | |
 | | | | |
 
-*De notulist vult dit live in.*
+*Wordt live ingevuld.*
 
 ---
 
 ## Hoe nu verder?
 
-- Foto's van de tafelkleden en de actielijst komen binnen een week op de [projectsite](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/).
-- De gastheren en -vrouwen blijven **aanspreekpunt** voor hun onderwerp.
-- We kijken samen terug op de acties: datum volgt vandaag.
+- **Delen:** foto's van de tafelkleden en de actielijst staan binnen een week op de [projectsite](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/).
+- **Archiveren:** werkwijzen en prompts van de tafels komen erbij, zodat iedereen ze kan nadoen.
+- **Ankeren:** de champions blijven aanspreekpunt, en we kijken samen terug op de acties (datum volgt vandaag).
 
 # Bedankt! {background-color="#F5A61A"}
 
