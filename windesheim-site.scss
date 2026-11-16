@@ -1,22 +1,22 @@
 /*-- scss:defaults --*/
 
-// Windesheim huisstijl (bron: windesheim.nl): zwart/wit met oranje en geel als accent
-$wh-zwart: #000000;
+// Windesheim huisstijl, kleuren uit het logo op windesheim.nl: geel #FFCC00 en zwart #1D1D1B; oranje #F5A61A van de lectoraatspagina
+$wh-zwart: #1D1D1B;
 $wh-oranje: #F5A61A;
-$wh-geel: #FFCB05;
+$wh-geel: #FFCC00;
 $wh-lichtgrijs: #EDEDED;
 
-$primary: $wh-oranje;
+$primary: $wh-geel;
 $body-color: $wh-zwart;
 $link-color: $wh-zwart;
 $headings-color: $wh-zwart;
 $headings-font-weight: 700;
 
-$navbar-bg: $wh-zwart;
-$navbar-fg: #ffffff;
-$navbar-hl: $wh-oranje;
+$navbar-bg: $wh-geel;
+$navbar-fg: $wh-zwart;
+$navbar-hl: #000000;
 
-$callout-color-note: $wh-oranje;
+$callout-color-note: $wh-geel;
 $callout-color-tip: $wh-geel;
 
 /*-- scss:rules --*/
@@ -24,17 +24,18 @@ $callout-color-tip: $wh-geel;
 a {
   color: $wh-zwart;
   text-decoration: underline;
-  text-decoration-color: $wh-oranje;
+  text-decoration-color: $wh-geel;
+  text-decoration-skip-ink: none;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
 
 a:hover {
-  color: $wh-oranje;
+  background-color: $wh-geel;
 }
 
 h2 {
-  border-bottom: 4px solid $wh-oranje;
+  border-bottom: 5px solid $wh-geel;
   padding-bottom: 0.25em;
   margin-top: 2em;
 }
@@ -47,7 +48,7 @@ h1, h2, h3, .quarto-title .title {
 table thead th, .table > thead > tr > th, .table thead th {
   background-color: $wh-zwart !important;
   color: #ffffff !important;
-  border-bottom: 3px solid $wh-oranje !important;
+  border-bottom: 4px solid $wh-geel !important;
   --bs-table-bg: #{$wh-zwart};
   --bs-table-color: #ffffff;
 }
@@ -57,7 +58,7 @@ table thead th strong {
 }
 
 table tbody tr:nth-child(even) {
-  background-color: $wh-lichtgrijs;
+  background-color: rgba(255, 204, 0, 0.12);
 }
 
 .callout {
@@ -80,10 +81,20 @@ pre, pre code {
 
 #TOC a.active, #TOC a:hover {
   color: $wh-zwart;
-  border-left-color: $wh-oranje !important;
+  border-left-color: $wh-geel !important;
   font-weight: 600;
 }
 
 .tafelkaart h2 {
   margin-top: 0;
+}
+
+.navbar .navbar-brand, .navbar .nav-link, .navbar .navbar-title, .navbar .bi {
+  color: $wh-zwart !important;
+  text-decoration: none;
+}
+
+.quarto-title-block {
+  border-left: 10px solid $wh-geel;
+  padding-left: 1rem;
 }

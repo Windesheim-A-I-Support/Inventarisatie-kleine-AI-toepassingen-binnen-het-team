@@ -1,15 +1,15 @@
 /*-- scss:defaults --*/
 
-// Windesheim huisstijl (bron: windesheim.nl): zwart/wit met oranje en geel als accent
-$wh-zwart: #000000;
+// Windesheim huisstijl, kleuren uit het logo op windesheim.nl: geel #FFCC00 en zwart #1D1D1B; oranje #F5A61A van de lectoraatspagina
+$wh-zwart: #1D1D1B;
 $wh-oranje: #F5A61A;
-$wh-geel: #FFCB05;
+$wh-geel: #FFCC00;
 $wh-lichtgrijs: #EDEDED;
 
 $body-bg: #ffffff;
 $body-color: $wh-zwart;
 $link-color: $wh-zwart;
-$selection-bg: $wh-oranje;
+$selection-bg: $wh-geel;
 $selection-color: $wh-zwart;
 
 $presentation-heading-color: $wh-zwart;
@@ -25,7 +25,7 @@ $presentation-heading-font-weight: 700;
 .reveal h6 {
   color: $wh-zwart;
   font-weight: 700;
-  border-bottom: 2px solid $wh-oranje;
+  border-bottom: 2px solid $wh-geel;
   padding-bottom: 0.2em;
   margin-bottom: 0.6em;
 }
@@ -38,21 +38,21 @@ $presentation-heading-font-weight: 700;
 .reveal a {
   color: $wh-zwart;
   text-decoration: underline;
-  text-decoration-color: $wh-oranje;
+  text-decoration-color: $wh-geel;
   text-decoration-thickness: 2px;
 }
 
 .reveal a:hover {
-  color: $wh-oranje;
+  color: $wh-geel;
 }
 
 .reveal .progress {
-  background: rgba(245, 166, 26, 0.25);
+  background: rgba(255, 204, 0, 0.35);
   height: 4px;
 }
 
 .reveal .progress span {
-  background: $wh-oranje;
+  background: $wh-geel;
 }
 
 .reveal .slide-number {
@@ -90,8 +90,8 @@ $presentation-heading-font-weight: 700;
 
 /* Blockquote */
 .reveal blockquote {
-  border-left: 4px solid $wh-oranje;
-  background: rgba(245, 166, 26, 0.10);
+  border-left: 4px solid $wh-geel;
+  background: rgba(255, 204, 0, 0.15);
   padding: 0.5em 1em;
   font-style: italic;
   color: $wh-zwart;
@@ -112,7 +112,7 @@ $presentation-heading-font-weight: 700;
 /* Titelpagina */
 .reveal .title-slide h1 {
   color: $wh-zwart;
-  border-bottom: 3px solid $wh-oranje;
+  border-bottom: 3px solid $wh-geel;
   font-size: 1.6em;
 }
 
