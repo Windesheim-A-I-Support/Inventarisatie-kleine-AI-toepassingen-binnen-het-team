@@ -356,8 +356,8 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 ::: {.column width="50%"}
 **Formule: World Café**
 
-- **Tafelhost blijft zitten:** elke champion laat aan zijn tafel live zien hoe het werkt.
-- **Zelf proberen:** deelnemers oefenen met een opdracht en starter-prompt.
+- **Geen demo's:** de tafelhost vertelt kort hoe hij of zij het nu doet.
+- **Uitwisselen:** hoe doen anderen het, en wat kan er beter?
 - **4 rondes van 35 min:** groepjes wisselen, iedereen bezoekt 4 van de 5 tafels.
 - **Tafelkleed groeit mee:** elke groep bouwt verder op de vorige.
 - **Galerij & eindpresentatie:** stickers op de beste acties, daarna afspraken.
@@ -375,8 +375,8 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 | 10:00 - 10:15 | **Introductie** | Michiel & Chris: welkom, doel van de dag, programma |
 | 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
 | 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
-| 10:45 - 11:00 | **Tafelpitches** | 5 x 2 min: elke champion stelt zijn tafel voor |
-| 11:00 - 11:35 | **World Café ronde 1** | Kies een tafel: demo, zelf proberen, tafelkleed |
+| 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels voor |
+| 11:00 - 11:35 | **World Café ronde 1** | Kies een tafel: werkwijze delen, uitwisselen, beter maken, tafelkleed |
 | 11:35 - 11:45 | Wissel & koffie | |
 | 11:45 - 12:20 | **World Café ronde 2** | Nieuwe groep per tafel |
 | 12:20 - 13:05 | Lunch | |
