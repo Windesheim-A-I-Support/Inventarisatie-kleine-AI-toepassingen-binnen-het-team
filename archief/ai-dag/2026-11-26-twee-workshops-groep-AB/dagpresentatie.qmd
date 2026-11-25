@@ -1,0 +1,300 @@
+---
+title: "AI-Uitwisselingsdag"
+subtitle: "Maandag 30 november 2026 · 10:00 - 17:00 · B.2.34"
+author: "Chris · Lectoraat Supply Chain Finance"
+lang: nl
+title-slide-attributes:
+  data-background-color: "#FFCC00"
+link-external-newwindow: true
+format:
+  revealjs:
+    theme: [simple, windesheim.scss]
+    slide-number: true
+    progress: true
+    transition: fade
+    background-transition: fade
+    footer: 'AI-Uitwisselingsdag · Lectoraat Supply Chain Finance · 30 november 2026'
+    logo: "Windesheim Ai Survey.png"
+    embed-resources: true
+    standalone: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      text: |
+        <style>
+        .reveal .slide-background.has-dark-background ~ * h1, .reveal section.has-dark-background h1,
+        .reveal section.has-dark-background h2, .reveal section.has-dark-background p { color:#fff !important; border-bottom-color:#FFCC00; }
+        .reveal .columns h3 { font-size:2.4em; margin-bottom:0.1em; border:none; }
+        </style>
+---
+
+# Welkom {#welkom background-color="#FFCC00"}
+
+10:15 - 10:25 · Chris
+
+---
+
+## Filmpje
+
+*[filmpje volgt]*
+
+---
+
+## Waarom deze dag?
+
+::: {.incremental}
+- We hebben 17 collega's gesproken. Iedereen is met AI bezig, maar vooral in z'n eentje.
+- De slimste trucs zitten gewoon al in ons team.
+- Dus vandaag geen trainer: **collega's vertellen hoe zij het doen, en we kijken samen wat beter kan.**
+:::
+
+---
+
+## Waar ik op hoop
+
+1. Je hebt in **twee workshops** gehoord hoe collega's het aanpakken, en je neemt **minstens één idee** mee om zelf te proberen.
+2. Per workshop een **vol tafelkleed**: wat werkt, wat zit in de weg, wat hebben we nodig.
+3. Een kort lijstje **acties**, met een naam en een datum erbij.
+
+---
+
+## Programma
+
+| Tijd | Onderdeel |
+|---|---|
+| 10:15 | Welkom |
+| 10:30 | Visie: van ei tot zelfstandige vlucht · Michiel |
+| 11:05 | Wat de interviews ons leren · Chris |
+| 11:25 | Uitleg workshops |
+| 11:40 | **Workshopronde 1** · A naar workshop 1, B naar workshop 2 |
+| 12:55 | Lunch en wandeling |
+| 14:00 | **Workshopronde 2** · groepen wisselen |
+| 15:15 | Pauze, even naar buiten |
+| 15:35 | Oogst |
+| 16:20 | Afspraken en afsluiting |
+
+# Visie: van ei tot zelfstandige vlucht {#visie background-color="#1D1D1B"}
+
+10:30 - 11:00 · Michiel
+
+---
+
+## Bring the BEAST to life. Learn to ride it. Let it fly.
+
+*[presentatie Michiel volgt]*
+
+# Wat de interviews ons leren {#interviews background-color="#1D1D1B"}
+
+11:05 - 11:20 · Chris
+
+---
+
+## In cijfers
+
+::: {.columns}
+::: {.column width="33%"}
+### 17
+collega's gesproken
+:::
+::: {.column width="33%"}
+### 73
+radartjes: kleine taken waar AI kan helpen
+:::
+::: {.column width="33%"}
+### 73
+verschillende tools in gebruik
+:::
+:::
+
+Meer detail: [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dashboard.html)
+
+---
+
+## Wat we het vaakst hoorden
+
+::: {.incremental}
+- **Transcriptie en verslaglegging** van gesprekken: het meest gedeelde radartje.
+- **Subsidieteksten** schrijven en afstemmen op de subsidiegever.
+- **Presentaties** maken vanuit een tekst of idee.
+- **Onderwijsadministratie**: toetsvragen, studiehandleidingen, urenbrieven.
+:::
+
+---
+
+## Het patroon
+
+::: {.columns}
+::: {.column width="50%"}
+**Wat goed gaat**
+
+- Iedereen probeert dingen uit.
+- Sommige werkwijzen besparen al uren per week.
+- De kennis zit in het team.
+:::
+::: {.column width="50%"}
+**Wat schuurt**
+
+- Iedereen doet het alleen, we weten weinig van elkaar.
+- Onzekerheid over **wat veilig is** met lectoraatsinformatie.
+- Geen tijd om uit te zoeken wat werkt.
+:::
+:::
+
+
+---
+
+## Wat ik geleerd heb
+
+::: {.incremental}
+- **Klein beginnen werkt.** Eén vervelend klusje aanpakken levert meer op dan een groot AI-project.
+- **Vertel de AI wie je bent.** Wie je bent, wat je wilt en wat niet mag: dan wordt het antwoord echt beter.
+- **Altijd zelf nakijken.** De winst zit in die eerste versie. Het laatste stuk blijft mensenwerk.
+- **Veiligheid is de echte drempel.** Zonder veilige plek voor onze data blijft het bij openbare tekst.
+:::
+
+---
+
+---
+
+## Mogelijke oplossingen die we tot nu toe zien
+
+| Oplossing | Status |
+|---|---|
+| **Kennisdeling via de workshopduo's** | Vandaag van start |
+| **Script voor TKI-urenbrieven** | Idee, uitvoerders bekend |
+| **Business case Copilot** | Onderbouwing in voorbereiding |
+| **Lokale / open source tools** (o.a. Whisper) | Uit te proberen |
+| **Veilige schrijfassistent** voor projectvoorstellen | Eerste prototype in ontwikkeling |
+| **Funding-radar**: maandelijks automatisch subsidiekansen signaleren | Idee uit het team, te bespreken |
+
+---
+
+## Vraag aan jullie
+
+De schrijfassistent en de funding-radar vragen allebei om een **veilige kennisbasis** van het lectoraat: projectvoorstellen, resultaten, partners.
+
+<br>
+
+> **Zien jullie dit zitten? En wat moet zo'n omgeving minimaal kunnen?**
+
+Neem je antwoord mee naar de workshops.
+
+
+# De workshops {#uitleg background-color="#1D1D1B"}
+
+11:25 - 11:35 · Chris
+
+---
+
+## Twee workshops, twee onderwerpen per workshop
+
+| | Onderwerpen | Door |
+|---|---|---|
+| **Workshop 1** | **Interviews** en **subsidietrajecten** | Christiaan de Goeij en Richard Holman |
+| **Workshop 2** | **AI@research** en **presentaties maken** | Michiel Steeman en Bart Ras |
+
+- Op je badge staat **groep A** of **groep B**.
+- **Ronde 1:** A naar workshop 1, B naar workshop 2. **Ronde 2:** omgekeerd.
+- De tweede groep bouwt verder op het tafelkleed van de eerste.
+
+---
+
+## Zo verloopt een workshop (70 minuten)
+
+| Minuten | Wat |
+|---|---|
+| 0 - 5 | Welkom, wat staat er al op het tafelkleed? |
+| 5 - 35 | **Onderwerp 1:** zo doen wij het, hoe doe jij het, wat kan beter, tafelkleed |
+| 35 - 65 | **Onderwerp 2:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren |
+
+Niemand geeft een presentatie. **Het gaat om het gesprek.**
+
+---
+
+## Het tafelkleed
+
+| | Onderwerp 1 | Onderwerp 2 |
+|---|---|---|
+| **Zo doen we het nu** | | |
+| **Hier wil ik het voor gebruiken** | | |
+| **Dit houdt me tegen** | | |
+| **Dit moet gebeuren** (actie, wie, wanneer) | | |
+
+---
+
+## Spelregels voor de hele dag
+
+- 🔒 **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of gevoelige partnerinformatie.
+- ✅ **AI-output altijd zelf controleren.** Jij blijft verantwoordelijk.
+- 🙋 **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
+- 🖊️ **Geef de stift door.** Iedereen schrijft mee op het tafelkleed.
+
+# Workshopronde 1 {#ronde-1 background-color="#FFCC00"}
+
+11:40 - 12:50 · Groep A: workshop 1 · Groep B: workshop 2
+
+# Lunch en wandeling {#lunch background-color="#FFCC00"}
+
+12:55 - 13:50
+
+We zien je om **13:50** terug, bij je andere workshop.
+
+# Workshopronde 2 {#ronde-2 background-color="#FFCC00"}
+
+14:00 - 15:10 · Groep A: workshop 2 · Groep B: workshop 1
+
+# Pauze {#pauze background-color="#FFCC00"}
+
+15:15 - 15:30 · Even naar buiten
+
+De duo's hangen de tafelkleden op.
+
+# Oogst {#oogst background-color="#1D1D1B"}
+
+15:35 - 16:15
+
+---
+
+## Per workshop maximaal 10 minuten
+
+1. **Eén zin per onderwerp:** wat is de belangrijkste les?
+2. **Grootste blokkade:** wat houdt ons tegen?
+3. **Acties:** de drie belangrijkste, met eigenaar en datum.
+
+---
+
+## Kies met je stickers
+
+- Beide tafelkleden hangen aan de muur.
+- Je hebt **3 stickers**. Plak ze bij de acties die het lectoraat **als eerste** moet oppakken.
+
+# Afspraken en afsluiting {#afsluiting background-color="#1D1D1B"}
+
+16:20 - 17:00
+
+---
+
+## Acties voor het lectoraat
+
+| Actie | Workshop | Eigenaar | Wanneer |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+*Wordt live ingevuld.*
+
+---
+
+## Hoe nu verder?
+
+- **Delen:** foto's van de tafelkleden en de actielijst staan binnen een week op de [projectsite](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/).
+- **Archiveren:** werkwijzen en prompts uit de workshops komen erbij, zodat iedereen ze kan nadoen.
+- **Ankeren:** de duo's blijven aanspreekpunt voor hun onderwerp, en we kijken samen terug op de acties (datum volgt vandaag).
+
+# Bedankt! {background-color="#FFCC00"}
+
+Tot de volgende keer!

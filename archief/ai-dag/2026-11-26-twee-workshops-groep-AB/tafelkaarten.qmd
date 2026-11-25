@@ -1,0 +1,98 @@
+---
+title: "Workshops AI-dag"
+subtitle: "Eén A4 per workshop · maandag 30 november 2026 · B.2.34"
+lang: nl
+format:
+  html:
+    theme: [cosmo, ../windesheim-site.scss]
+    toc: false
+    number-sections: false
+    include-in-header:
+      text: |
+        <style>
+        @media print { .tafelkaart { page-break-after: always; } nav, header, footer, #quarto-header { display:none !important; } }
+        .tafelkaart { border:4px solid #FFCC00; border-radius:8px; padding:1.2em 1.5em; margin-bottom:2em; }
+        </style>
+---
+
+Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen de groepen. Print deze pagina (Ctrl+P): elke workshop komt op een eigen A4.
+
+::: {.tafelkaart}
+## Workshop 1: interviews en subsidietrajecten {#workshop-1}
+
+**Door:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+
+**Interviews.** Gesprekken met bedrijven, afstudeerders en partners opnemen, laten transcriberen en daarna een samenvatting maken in de toon die past (zakelijk, diplomatiek, vriendelijk). Het meest gedeelde radartje uit de inventarisatie: van verslag na een overleg tot thema's uit onderzoeksinterviews.
+
+**Subsidietrajecten.** Een concepttekst herschrijven naar de taal van verschillende subsidiegevers (IenW, TKI, topsectoren). Van brainstorm naar eerste tekst, en van commentaar naar tekstsuggesties.
+
+| Min | Wat |
+|---|---|
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
+| 5 - 35 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 35 - 65 | **Subsidietrajecten:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
+
+**Uitproberen (interviews):**
+
+```text
+Hieronder staat een transcript van een gesprek. Maak hiervan:
+1. Een zakelijke samenvatting van maximaal 5 zinnen.
+2. Een lijst actiepunten in de vorm: actie -- wie -- wanneer.
+Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met [?].
+```
+
+**Uitproberen (subsidies):**
+
+```text
+Herschrijf onderstaande projectsamenvatting voor [subsidiegever].
+Gebruik de terminologie en prioriteiten van deze subsidiegever.
+Houd de inhoud gelijk, verander alleen framing en woordkeuze.
+Geef daarna een lijstje van de termen die je hebt aangepast.
+```
+
+🔒 Opnames van externe partijen alleen met toestemming. Subsidieteksten bevatten vaak IP en strategie: oefen met openbare tekst.
+:::
+
+::: {.tafelkaart}
+## Workshop 2: AI@research en presentaties maken {#workshop-2}
+
+**Door:** Michiel Steeman en Bart Ras · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+
+**AI@research.** Hoe zetten we AI in voor het onderzoek zelf? Vanuit de visie van de ochtend (*van ei tot zelfstandige vlucht*) kijken we naar kleine, controleerbare onderzoekstaken: bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken. Welke taak kunnen we als eerste veilig uitproberen, en wat hebben we daarvoor nodig? *(Michiel vult aan.)*
+
+**Presentaties maken.** Doelgroep, niveau en situatie beschrijven en AI een script plus deck laten maken, bijvoorbeeld met Gamma en ChatGPT. Wat vroeger een halve dag kostte, kan nu in minuten.
+
+| Min | Wat |
+|---|---|
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
+| 5 - 35 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 35 - 65 | **Presentaties maken:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+
+**Gespreksvragen:** *Welke onderzoekstaak zou jij als eerste aan AI geven? · Hoe controleer je de uitkomst? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
+
+**Uitproberen (presentaties):**
+
+```text
+Je bent een presentatiecoach. Doelgroep: [wie], kennisniveau: [laag/midden/hoog],
+situatie: [bijv. 10 minuten pitch op een netwerkbijeenkomst].
+Maak een script voor 5 slides over: [onderwerp].
+Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
+```
+
+🔒 Geen onderzoeksdata of partnergegevens in publieke tools. Bedrijfsnamen en cijfers eerst anonimiseren.
+:::
+
+## Het tafelkleed
+
+Eén A0-vel per workshop, met een kolom per onderwerp. De tweede groep bouwt verder op wat de eerste groep schreef.
+
+| | Onderwerp 1 | Onderwerp 2 |
+|---|---|---|
+| **Zo doen we het nu** | | |
+| **Hier wil ik het voor gebruiken** | | |
+| **Dit houdt me tegen** | | |
+| **Dit moet gebeuren** (actie, wie, wanneer) | | |

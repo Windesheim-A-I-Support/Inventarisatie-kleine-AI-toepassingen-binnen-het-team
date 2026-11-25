@@ -1,0 +1,46 @@
+---
+title: "Programma AI-dag"
+subtitle: "Maandag 30 november 2026 · 10:00 - 17:00 · Ruimte B.2.34"
+lang: nl
+---
+
+Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: collega's vertellen hoe zij het doen en we kijken samen wat beter kan. Neem een jas mee, we gaan tussendoor ook naar buiten.
+
+## Programma
+
+| Tijd | Onderdeel |
+|---|---|
+| 10:00 - 10:15 | Inloop met koffie |
+| 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
+| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
+| 11:05 - 11:20 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
+| 11:25 - 11:35 | [Uitleg workshops](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
+| 11:40 - 12:50 | **[Workshopronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: groep A naar workshop 1, groep B naar workshop 2 |
+| 12:55 - 13:50 | **Lunch en wandeling** |
+| 14:00 - 15:10 | **[Workshopronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: de groepen wisselen |
+| 15:15 - 15:30 | Pauze, even naar buiten |
+| 15:35 - 16:15 | **[Oogst](../dagpresentatie.html#/oogst){target="_blank"}**: wat leverden de workshops op, welke acties pakken we op? |
+| 16:20 - 17:00 | **[Afspraken en afsluiting](../dagpresentatie.html#/afsluiting){target="_blank"}** |
+
+Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of naar je workshop te lopen.
+
+Alle slides van de dag: [dagpresentatie](../dagpresentatie.html){target="_blank"}. Per workshop een A4 met de opzet: [workshops](tafelkaarten.html).
+
+## De twee workshops
+
+Iedereen volgt **beide workshops**: de ene voor de lunch, de andere erna. Op je badge staat of je in groep A of groep B zit.
+
+| | Onderwerpen | Door |
+|---|---|---|
+| **[Workshop 1](tafelkaarten.html#workshop-1)** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
+| **[Workshop 2](tafelkaarten.html#workshop-2)** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
+
+Elke workshop heeft twee onderwerpen van ongeveer een half uur. Het duo vertelt kort hoe zij het aanpakken, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan. Alles komt op het tafelkleed. De tweede groep bouwt verder op wat de eerste groep heeft opgeschreven.
+
+**Oogst.** Aan het eind presenteert elk duo in tien minuten wat er uit de workshop kwam. Met drie stickers kies je welke acties het lectoraat als eerste oppakt.
+
+## Spelregels
+
+- Geen vertrouwelijke gegevens in publieke AI-tools: geen persoonsgegevens, studentgegevens of gevoelige partnerinformatie.
+- AI-output altijd zelf controleren. Jij blijft verantwoordelijk.
+- Geen domme vragen. Iedereen staat ergens anders, en juist daarom is dit leuk.

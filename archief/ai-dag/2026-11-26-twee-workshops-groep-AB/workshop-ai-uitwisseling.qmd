@@ -1,0 +1,241 @@
+---
+title: "Draaiboek AI-Uitwisselingsdag"
+subtitle: "Lectoraat Supply Chain Finance · Windesheim"
+format:
+  html:
+    theme: [cosmo, ../windesheim-site.scss]
+    number-sections: false
+---
+
+::: {.callout-note}
+## Praktisch
+**Maandag 30 november 2026 · 10:00 - 17:00 · Ruimte B.2.34**
+
+Neem je laptop mee. Koffie, thee en lunch zijn geregeld.
+:::
+
+## Doel
+
+Tijdens de interviews zag ik iets moois: iedereen is op z'n eigen manier met AI bezig. Alleen weten we dat bijna niet van elkaar. Zonde, want de slimste trucs zitten gewoon al in ons team! Daarom geen training vandaag, maar een dag waarop we van elkaar leren, met daarbij de visie van Michiel op AI in ons onderzoek.
+
+We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een duo. Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen ze.
+
+| | Onderwerpen | Door |
+|---|---|---|
+| **Workshop 1** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
+| **Workshop 2** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
+
+**Waar ik op hoop aan het eind van de dag:**
+
+1. Je hebt in twee workshops gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
+2. Per workshop ligt er een vol tafelkleed: wat werkt, wat zit in de weg, wat hebben we nodig.
+3. We hebben een kort lijstje acties, met een naam en een datum erbij.
+
+## Materialen voor de dag
+
+| Materiaal | Waarvoor | Link |
+|---|---|---|
+| **Programma** | Voor de deelnemers, met links naar de slides | [Openen](programma.html) |
+| **Dagpresentatie** | Op het grote scherm: welkom, filmpje, visie, interviews, uitleg workshops, rondeslides, oogst en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
+| **A4 per workshop** | Opzet, tijdschema, gespreksvragen en starter-prompts (gaat vrijdag 27 november naar de deelnemers) | [Openen en printen](tafelkaarten.html) |
+| **Instructie workshopduo's** | Rol per tijdslot, opbouw, tafelkleed, voorbereiding | [Openen](champions.html) |
+| **Tafelkleed** | A0-vel per workshop, een kolom per onderwerp | Zelf tekenen of printen |
+| **Draaiboek** | Deze pagina: programma, rollen, checklist | |
+
+---
+
+## Programma
+
+| Tijd | Onderdeel | Toelichting |
+|---|---|---|
+| 10:00 - 10:15 | Inloop met koffie | Badges met groep A of B |
+| 10:15 - 10:25 | **Welkom + filmpje** | Chris: welkom, kort filmpje als icebreaker, doel van de dag |
+| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** | Michiel: de vijf fundamenten (BEAST) en de zes fasen |
+| 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: 17 gesprekken, 73 radartjes, lessons learned |
+| 11:25 - 11:35 | **Uitleg workshops** | Chris stelt de twee workshops en duo's voor, legt groep A/B en het wisselen uit |
+| 11:40 - 12:50 | **Workshopronde 1** | A naar workshop 1, B naar workshop 2 |
+| 12:55 - 13:50 | **Lunch en wandeling** | Even naar buiten |
+| 14:00 - 15:10 | **Workshopronde 2** | Groepen wisselen, tweede groep bouwt verder op het tafelkleed |
+| 15:15 - 15:30 | Pauze, naar buiten | Duo's hangen de tafelkleden op in B.2.34 |
+| 15:35 - 16:15 | **Oogst** | Elk duo 10 min terugkoppeling, daarna 3 stickers per persoon op de acties |
+| 16:20 - 17:00 | **Afspraken en afsluiting** | Eigenaar en datum per actie, terugkijkmoment prikken |
+
+Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen.
+
+**Opbouw van een workshop (70 minuten):**
+
+| Minuten | Wat |
+|---|---|
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep op het tafelkleed gezet? |
+| 5 - 10 | **Onderwerp 1, zo doe ik het:** wie het voortouw heeft vertelt hoe hij het aanpakt |
+| 10 - 25 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
+| 25 - 35 | Tafelkleed aanvullen voor onderwerp 1 |
+| 35 - 65 | **Onderwerp 2:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+
+### Rollen
+
+| Rol | Wie | Taak |
+|---|---|---|
+| Dagvoorzitter, opening, interviews | Chris | Welkom en filmpje, resultaten interviews en lessons learned, tijd bewaken, oogst en afsluiting leiden |
+| Visie | Michiel | *Van ei tot zelfstandige vlucht* (30 min) |
+| Workshop 1 -- interviews | Richard Holman (voortouw), Christiaan de Goeij | Eigen werkwijze delen, gesprek leiden, tafelkleed, oogst |
+| Workshop 1 -- subsidietrajecten | Christiaan de Goeij (voortouw), Richard Holman | Idem |
+| Workshop 2 -- AI@research | Michiel Steeman (voortouw), Bart Ras | Idem |
+| Workshop 2 -- presentaties maken | Bart Ras (voortouw), Michiel Steeman | Idem |
+| Archiveren & delen | n.t.b. | Acties op het scherm tijdens de afsluiting, foto's van de tafelkleden, alles na afloop op de projectsite |
+
+---
+
+## Ochtend
+
+### Welkom en filmpje (10:15 - 10:25)
+
+Kort filmpje als icebreaker, daarna waarom deze dag en wat we ermee willen.
+
+### Visie Michiel (10:30 - 11:00)
+
+*Van ei tot zelfstandige vlucht. Bring the BEAST to life. Learn to ride it. Let it fly.* Michiel neemt ons mee in de vijf fundamenten (Brain, External sources, Agents, Security, Trusted data) en de zes fasen waarin we AI als onderzoeksgroep stap voor stap meer zelfstandigheid geven.
+
+### Resultaten interviews (11:05 - 11:20)
+
+- **17 collega's** gesproken, **73 radartjes** (kleine taken waar AI kan helpen) en **73 verschillende tools** in gebruik.
+- **Meest gedeelde radartjes:** transcriptie en verslaglegging van gesprekken, subsidieteksten schrijven, presentaties maken, onderwijsadministratie.
+- **Wat opviel:** iedereen probeert dingen uit, maar vooral in z'n eentje.
+- **Waar het vastloopt:** de vraag wat nou wel en niet veilig is met lectoraatsinformatie.
+
+Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-werkprocessen.html).
+
+### Lessons learned (onderdeel van 11:05 - 11:20)
+
+Na de cijfers uit de interviews vertel ik kort wat ik zelf geleerd heb.
+
+**Lessons learned (selectie):**
+
+- **Klein beginnen werkt.** Eén vervelend klusje aanpakken levert meer op dan een groot AI-project.
+- **Vertel de AI wie je bent.** Wie je bent, wat je wilt en wat niet mag: met die context wordt het antwoord echt beter.
+- **Altijd zelf nakijken.** De winst zit in die eerste versie. Het laatste stuk blijft mensenwerk.
+- **Veiligheid is de echte drempel.** Zolang we geen veilige plek hebben voor lectoraatsdata, blijft het bij openbare tekst.
+
+**Mogelijke oplossingen die we tot nu toe zien:**
+
+| Oplossing | Welk radartje | Status |
+|---|---|---|
+| **Kennisdeling via de workshopduo's** | Interviews, subsidies, AI@research, presentaties | Vandaag van start |
+| **Script voor TKI-urenbrieven** | Urenbrieven per student maandelijks maken en versturen | Idee, uitvoerders bekend |
+| **Business case Copilot** | Veilige AI binnen de Windesheim-omgeving | Onderbouwing in voorbereiding |
+| **Lokale / open source tools** | Transcriptie (Whisper), documentanalyse zonder data naar buiten | Uit te proberen |
+| **Veilige schrijfassistent voor projectvoorstellen** | Nieuwe aanvragen schrijven met eerdere voorstellen als bron, zonder lectoraatsdata naar publieke AI-tools | Eerste prototype in ontwikkeling |
+| **Funding-radar** | Maandelijks automatisch relevante subsidiekansen zoeken en een alert sturen naar wie met subsidies bezig is, gekoppeld aan veilige kennis over onze projecten en partners | Idee uit het team, te bespreken |
+
+De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de workshops.
+
+---
+
+## Input voor de workshops
+
+Per onderwerp: hoe de collega met het voortouw het nu doet (uit het interview), welke collega's iets vergelijkbaars noemden, en een oefening voor wie iets wil proberen.
+
+### Workshop 1: interviews en subsidietrajecten
+
+#### Interviews (voortouw: Richard Holman)
+
+**Werkwijze van Richard:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
+
+**Radartjes uit de interviews:** Luca (vergaderingen en onderzoeksinterviews), Yolanda (Teams-overleg naar actiepunten), Bart (sprekerherkenning bij fysieke vergaderingen), Mounia (verslag na opgenomen gesprek), Maxime en Hendryk (thema's uit interviewtranscripten), Stefan (output van partnermeetings). Dit is het meest gedeelde radartje van het lectoraat.
+
+**Optioneel uitproberen:** neem met je buurman 3 minuten een gesprek op over de vraag *"Welke taak kost mij de meeste tijd?"*. Laat het transcriberen en maak daarna twee samenvattingen: één zakelijk, één als actiepuntenlijst.
+
+```text
+Hieronder staat een transcript van een gesprek. Maak hiervan:
+1. Een zakelijke samenvatting van maximaal 5 zinnen.
+2. Een lijst actiepunten in de vorm: actie -- wie -- wanneer.
+Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met [?].
+
+[transcript]
+```
+
+**Aandachtspunt:** opnames van externe partijen alleen met toestemming. Geen gesprekken met persoonsgegevens in tools zonder verwerkersovereenkomst.
+
+#### Subsidietrajecten (voortouw: Christiaan de Goeij)
+
+**Werkwijze van Christiaan:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
+
+**Radartjes uit de interviews:** Yolanda (subsidietekst vanuit brainstorm-transcript, €40.000 gehonoreerd), Mira (vraagarticulatie in 1.400 woorden, literatuur voor onderbouwing), Paulien (subsidievoorstel schrijven), Michiel (commentaar omzetten naar tekstsuggesties), Luca (proposals reviewen), Ronald (bedrijfscontacten scouten voor aanvragen).
+
+**Link met lessons learned:** de veilige schrijfassistent en funding-radar horen bij dit onderwerp. Neem de wensen uit de workshop daarvoor mee.
+
+**Optioneel uitproberen:** pak een openbare projectsamenvatting (bijvoorbeeld van de lectoraatswebsite) en herschrijf die voor twee verschillende subsidiegevers. Vergelijk de versies: wat verandert er in woordkeuze en nadruk?
+
+```text
+Je bent een ervaren subsidieschrijver. Herschrijf onderstaande projectsamenvatting
+voor [subsidiegever, bijv. TKI Dinalog / RVO / NWO].
+Gebruik de terminologie en prioriteiten van deze subsidiegever.
+Houd de inhoud gelijk, verander alleen framing en woordkeuze.
+Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aangepast.
+
+[tekst]
+```
+
+**Aandachtspunt:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
+
+### Workshop 2: AI@research en presentaties maken
+
+#### AI@research (voortouw: Michiel Steeman)
+
+Vanuit de visie van de ochtend: welke kleine, controleerbare onderzoekstaak geven we als eerste aan AI (bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken)? Welke van de vijf fundamenten hebben we daarvoor nodig, en welke ontbreekt nog? *(Michiel vult aan.)*
+
+#### Presentaties maken (voortouw: Bart Ras)
+
+**Werkwijze van Bart:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
+
+**Radartjes uit de interviews:** Luca en Ritsaart (slides met professionele opmaak vanuit tekst), Christiaan (conceptuele boodschap naar geordende slides), Mounia (presentaties en flyers), Ronald (projectoverzicht), Stefan (presentatie delen direct na een meeting).
+
+**Optioneel uitproberen:** maak een deck van 5 slides over je eigen project of vak, gericht op een MKB-ondernemer die er nog nooit van gehoord heeft.
+
+```text
+Je bent een presentatiecoach. Doelgroep: [wie], kennisniveau: [laag/midden/hoog],
+situatie: [bijv. 10 minuten pitch op een netwerkbijeenkomst].
+Maak een script voor 5 slides over: [onderwerp].
+Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
+Daarna: één slide die de doelgroep aanzet tot actie.
+```
+
+**Aandachtspunt:** bedrijfsnamen en cijfers van partners anonimiseren voordat ze in een externe tool gaan.
+
+---
+
+## Spelregels voor de hele dag
+
+- **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of bedrijfsgevoelige informatie van partners. Oefen met openbare of verzonnen tekst.
+- **AI-output altijd zelf controleren.** AI verzint soms feiten. Jij blijft verantwoordelijk.
+- **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
+
+---
+
+## Organisatie
+
+**Datum:** maandag 30 november 2026
+**Tijd:** 10:00 - 17:00
+**Ruimte:** B.2.34, plus een tweede ruimte voor de tweede workshop
+
+**Checklist:**
+
+- [x] Datum definitief prikken (ma 30 november 2026)
+- [x] Ruimte reserveren (B.2.34)
+- [ ] Akkoord Michiel op het programma met twee workshops
+- [ ] Tweede ruimte reserveren (of B.2.34 in twee hoeken verdelen)
+- [ ] Duo's informeren: Christiaan en Richard (workshop 1), Michiel en Bart (workshop 2)
+- [ ] A4 per workshop af en vrijdag 27 november naar de deelnemers
+- [ ] Deelnemers indelen in groep A en B, badges maken
+- [ ] Tafelkleden voorbereiden (2x A0 + stiften), plakband, stickers voor de oogst
+- [ ] A4's printen (per workshop een stapel)
+- [ ] Filmpje maken en testen op het scherm in B.2.34
+- [ ] Visie-presentatie Michiel klaar en in de dagpresentatie
+- [ ] Dagpresentatie testen op het scherm en actielijst-slide klaarzetten
+- [ ] Koffie, thee en lunch regelen (lunch 12:55 - 13:50)
+- [ ] Wandelroute voor de lunch, plan B bij regen
+- [ ] Wifi-toegang voor gasten checken
+- [ ] Iemand vragen voor *archiveren & delen* (actielijst en foto's)
+- [ ] Terugkijkmoment op de acties prikken (bijv. februari 2027) en op de dag aankondigen
+- [ ] Opbrengst na de dag digitaliseren en actiepunten borgen

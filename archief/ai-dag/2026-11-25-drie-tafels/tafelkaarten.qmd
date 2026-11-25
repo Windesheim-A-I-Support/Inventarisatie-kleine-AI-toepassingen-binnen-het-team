@@ -1,0 +1,117 @@
+---
+title: "Tafelkaarten AI-Uitwisselingsdag"
+subtitle: "Lectoraat Supply Chain Finance · Windesheim"
+format:
+  html:
+    theme: [cosmo, ../windesheim-site.scss]
+    toc: false
+    number-sections: false
+    include-in-header:
+      text: |
+        <style>
+        @media print { .tafelkaart { page-break-after: always; } nav, header, footer, #quarto-header { display:none !important; } }
+        .tafelkaart { border:4px solid #FFCC00; border-radius:8px; padding:1.2em 1.5em; margin-bottom:2em; }
+        </style>
+---
+
+Eén kaart per tafel. Print deze pagina (Ctrl+P): elke kaart komt op een eigen A4. Leg de kaart midden op tafel naast het tafelkleed.
+
+::: {.tafelkaart}
+## Tafel 1 -- Transcriptie (Richard Holman)
+
+**Zo doet de champion het nu:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
+
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Hieronder staat een transcript van een gesprek. Maak hiervan:
+1. Een zakelijke samenvatting van maximaal 5 zinnen.
+2. Een lijst actiepunten in de vorm: actie -- wie -- wanneer.
+Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met [?].
+
+[transcript]
+```
+
+🔒 **Let op:** opnames van externe partijen alleen met toestemming. Geen gesprekken met persoonsgegevens in tools zonder verwerkersovereenkomst.
+:::
+
+::: {.tafelkaart}
+## Tafel 2 -- Subsidies schrijven (Christiaan de Goeij)
+
+**Zo doet de champion het nu:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
+
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Je bent een ervaren subsidieschrijver. Herschrijf onderstaande projectsamenvatting
+voor [subsidiegever, bijv. TKI Dinalog / RVO / NWO].
+Gebruik de terminologie en prioriteiten van deze subsidiegever.
+Houd de inhoud gelijk, verander alleen framing en woordkeuze.
+Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aangepast.
+
+[tekst]
+```
+
+🔒 **Let op:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
+:::
+
+::: {.tafelkaart}
+## Tafel 3 -- Presentaties maken (Bart Ras)
+
+**Zo doet de champion het nu:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
+
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
+
+| Min | Wat |
+|---|---|
+| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
+
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
+
+**Optioneel uitproberen (starter-prompt):**
+
+```text
+Je bent een presentatiecoach. Doelgroep: [wie], kennisniveau: [laag/midden/hoog],
+situatie: [bijv. 10 minuten pitch op een netwerkbijeenkomst].
+Maak een script voor 5 slides over: [onderwerp].
+Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
+Daarna: één slide die de doelgroep aanzet tot actie.
+```
+
+🔒 **Let op:** bedrijfsnamen en cijfers van partners anonimiseren voordat ze in een externe tool gaan.
+:::
+

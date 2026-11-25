@@ -1,0 +1,93 @@
+---
+title: "Instructie workshopduo's"
+subtitle: "AI-dag · maandag 30 november 2026 · Ruimte B.2.34"
+lang: nl
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+::: {.callout-tip}
+## In het kort
+- Je geeft samen met je duopartner **één workshop van 70 minuten, twee keer**: voor de lunch voor groep A of B, erna voor de andere groep.
+- Elke workshop heeft **twee onderwerpen** van ongeveer een half uur. Per onderwerp neemt één van jullie het voortouw.
+- **Je hoeft niks te presenteren.** Je vertelt een paar minuten hoe jij het doet, en dan praat de groep. Jullie leiden het gesprek en zorgen dat het tafelkleed vol komt.
+- Bij de oogst vertellen jullie in **tien minuten** wat er uit de workshop kwam.
+:::
+
+## De duo's
+
+| Workshop | Onderwerp | Voortouw | Samen met |
+|---|---|---|---|
+| 1 | Interviews | Richard Holman | Christiaan de Goeij |
+| 1 | Subsidietrajecten | Christiaan de Goeij | Richard Holman |
+| 2 | AI@research | Michiel Steeman | Bart Ras |
+| 2 | Presentaties maken | Bart Ras | Michiel Steeman |
+
+De opzet per workshop staat op het [A4 per workshop](tafelkaarten.html). Chris is dagvoorzitter en bewaakt de tijd.
+
+## Jullie dag
+
+| Tijd | Wat | Jullie rol |
+|---|---|---|
+| 10:00 - 10:15 | Inloop | Tafelkleed en A4 klaarleggen in je workshopruimte |
+| 10:15 - 11:35 | Welkom, visie, interviews, uitleg | Luisteren (Michiel: visie om 10:30). Chris stelt de duo's voor |
+| 11:40 - 12:50 | **Workshopronde 1** | Workshop geven aan de eerste groep |
+| 12:55 - 13:50 | Lunch en wandeling | |
+| 14:00 - 15:10 | **Workshopronde 2** | Zelfde workshop, andere groep. Begin met wat er al op het tafelkleed staat |
+| 15:15 - 15:30 | Pauze | Tafelkleed ophangen in B.2.34 |
+| 15:35 - 16:15 | **Oogst** | 10 minuten terugkoppeling per workshop, daarna stickers tellen |
+| 16:20 - 17:00 | Afspraken en afsluiting | Meedenken over wie welke actie oppakt |
+
+## Opbouw van de workshop (70 minuten)
+
+| Minuten | Wat |
+|---|---|
+| 0 - 5 | Welkom. In ronde 2: vertel kort wat de eerste groep op het tafelkleed zette |
+| 5 - 10 | **Onderwerp 1, zo doe ik het:** wat deed je vroeger, wat doe je nu, wat scheelt het? |
+| 10 - 25 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
+| 25 - 35 | Tafelkleed aanvullen voor onderwerp 1 |
+| 35 - 65 | **Onderwerp 2:** zelfde opbouw, je duopartner neemt het voortouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+
+- Handige vragen: *"Waar zou jij dit morgen voor gebruiken?"*, *"Wat houdt je tegen?"*, *"Wie heeft dit al eens anders opgelost?"*
+- Geef de stift door, schrijf niet alles zelf.
+- Wil iemand vertrouwelijke gegevens in een publieke tool zetten? Benoem het kort en ga verder.
+
+## Het tafelkleed
+
+Eén A0-vel per workshop, met een kolom per onderwerp:
+
+| | Onderwerp 1 | Onderwerp 2 |
+|---|---|---|
+| **Zo doen we het nu** | | |
+| **Hier wil ik het voor gebruiken** | | |
+| **Dit houdt me tegen** | | |
+| **Dit moet gebeuren** (actie, wie, wanneer) | | |
+
+Een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wensen.
+
+## Vooraf (uiterlijk vrijdag 27 november)
+
+- [ ] Stem met je duopartner af wie bij welk onderwerp het voortouw neemt.
+- [ ] Lees het [A4 van je workshop](tafelkaarten.html) en stuur aanvullingen naar Michiel. Het A4 gaat vrijdag naar de deelnemers.
+- [ ] Bedenk per onderwerp in drie zinnen: **welke taak**, **hoe doe ik het nu** en **waar loop ik nog tegenaan**.
+- [ ] Wil je iets op je scherm laten zien? Prima, maar niet nodig. Gebruik geen vertrouwelijke gegevens.
+
+## Oogst (15:35 - 16:15)
+
+Per workshop maximaal tien minuten:
+
+1. **Eén zin per onderwerp:** wat is de belangrijkste les?
+2. **Grootste blokkade:** wat houdt ons tegen?
+3. **Acties:** de drie belangrijkste, met eigenaar en datum.
+
+Daarna plakt iedereen drie stickers bij de acties die het lectoraat als eerste moet oppakken.
+
+## Na afloop
+
+- Lever je tafelkleed in bij Chris, of maak een duidelijke foto.
+- Wil je je werkwijze delen? Stuur binnen een week een paar stappen of je prompt. Dat komt op de projectsite.
+
+Vragen? Bel of mail Chris.
