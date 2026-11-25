@@ -9,8 +9,9 @@ lang: nl
 - **Twee workshops in plaats van vier rondes.** Workshop 1 (uitwisselen) in de ochtend, workshop 2 (verdieping en acties) in de middag.
 - **Visie van Michiel** als nieuw onderdeel in de ochtend: *Van ei tot zelfstandige vlucht* (BEAST).
 - **Filmpje als icebreaker** in plaats van de AI-lijn.
-- **Ruimte om naar buiten te gaan:** lunch van 75 minuten met wandeling, en een pauze buiten in de middag.
-- **Eerder klaar:** het programma eindigt om 16:15, daarna is er tot 17:00 ruimte om na te praten.
+- **Ruimte om naar buiten te gaan:** lunch van 70 minuten met wandeling, en een pauze buiten in de middag.
+- **Tijd voor elke wissel:** 10 minuten tussen de rondes, voor workshop 2 en rond de galerij.
+- **Eerder klaar:** het programma eindigt om 16:20, daarna is er tot 17:00 ruimte om na te praten.
 
 ## Nieuw programma
 
@@ -19,19 +20,23 @@ lang: nl
 | 10:00 - 10:10 | **Welkom + filmpje** (icebreaker) | Chris |
 | 10:10 - 10:40 | **Visie: van ei tot zelfstandige vlucht** (BEAST) | Michiel |
 | 10:40 - 10:55 | **Wat de interviews ons leren** | Chris |
-| 10:55 - 11:05 | Uitleg workshop 1 en de vijf tafels | Chris |
-| 11:05 - 12:15 | **Workshop 1: uitwisselen** (World Café): ronde 1 · 11:35 wissel & koffie · 11:45 ronde 2 | Champions |
-| 12:15 - 13:30 | **Lunch + naar buiten** (wandeling) | |
+| 10:55 - 11:10 | Uitleg workshop 1, koffie pakken en tafel kiezen | Chris |
+| 11:10 - 11:40 | **Workshop 1, ronde 1** (World Café) | Champions |
+| 11:40 - 11:50 | Wissel & koffie, nieuwe tafel kiezen | |
+| 11:50 - 12:20 | **Workshop 1, ronde 2** | Champions |
+| 12:20 - 13:30 | **Lunch + naar buiten** (wandeling) | |
 | 13:30 - 13:50 | **Lessons learned & hoe ik met AI werk** | Chris |
-| 13:50 - 15:00 | **Workshop 2: de eindversie** (eisen en acties per tafel) | Champions |
-| 15:00 - 15:15 | Pauze, naar buiten | |
-| 15:15 - 15:35 | **Galerij** (stickers bij de acties) | Iedereen |
-| 15:35 - 16:15 | **Eindpresentatie & afspraken** (max. 5 min per tafel, daarna afspraken) | Tafels, Chris, Michiel |
-| 16:15 - 17:00 | Napraten | |
+| 13:50 - 14:00 | Wissel: tafel kiezen voor workshop 2 | |
+| 14:00 - 15:00 | **Workshop 2: de eindversie** (eisen en acties per tafel) | Champions |
+| 15:00 - 15:20 | Pauze, naar buiten · champions hangen tafelkleden op | |
+| 15:20 - 15:40 | **Galerij** (stickers bij de acties) | Iedereen |
+| 15:40 - 15:45 | Terug naar je plek | |
+| 15:45 - 16:20 | **Eindpresentatie & afspraken** (max. 5 min per tafel, daarna afspraken) | Tafels, Chris, Michiel |
+| 16:20 - 17:00 | Napraten | |
 
 ## De twee workshops
 
-**Workshop 1: uitwisselen (11:05 - 12:15).** Zelfde vijf tafels en champions als eerder. Twee rondes van 30 minuten, daartussen 10 minuten wissel en koffie. Iedereen ziet twee van de vijf tafels.
+**Workshop 1: uitwisselen (11:10 - 12:20).** Zelfde vijf tafels en champions als eerder. Twee rondes van 30 minuten, daartussen 10 minuten wissel en koffie. Iedereen ziet twee van de vijf tafels.
 
 | Minuten | Wat |
 |---|---|
@@ -41,7 +46,7 @@ lang: nl
 | 18 - 24 | Beter maken: wat kan slimmer, sneller of veiliger? |
 | 24 - 30 | Tafelkleed aanvullen (vraag 2 tot en met 4) |
 
-**Workshop 2: de eindversie (13:50 - 15:00).** Iedereen kiest de tafel waar hij of zij mee verder wil. Deze groep maakt het tafelkleed af: waaraan moet het voldoen, hoe maken we het nuttiger, en welke acties (wat, wie, wanneer). Michiels visie en de lessons learned geven hier de kapstok: welke stap uit het BEAST-verhaal past bij deze tafel?
+**Workshop 2: de eindversie (14:00 - 15:00, 60 min).** Iedereen kiest de tafel waar hij of zij mee verder wil. Deze groep maakt het tafelkleed af: waaraan moet het voldoen, hoe maken we het nuttiger, en welke acties (wat, wie, wanneer). Michiels visie en de lessons learned geven hier de kapstok: welke stap uit het BEAST-verhaal past bij deze tafel?
 
 | Tafel | Onderwerp | Champion |
 |---|---|---|
@@ -60,7 +65,7 @@ lang: nl
 | Visie-presentatie BEAST (30 min), eventueel met beeld van de zes fasen | Michiel, Chris helpt | 28 nov |
 | Champions informeren: 2 rondes van 30 min in plaats van 3 van 40, plus workshop 2 | Chris | 26 nov |
 | Deelnemers kort laten weten dat het programma is aangepast | Chris of Michiel | 26 nov |
-| Lunch en catering afstemmen op 12:15 - 13:30 | Chris | 26 nov |
+| Lunch en catering afstemmen op 12:20 - 13:30, koffie om 10:55, 11:40 en 15:00 | Chris | 26 nov |
 | Wandelroute voor de lunch bedenken, plan B bij regen | Chris | 27 nov |
 | Dagpresentatie, draaiboek en tafelkaarten bijwerken naar dit programma | Chris | 27 nov |
 | Slide *Zo werk ik zelf* invullen | Chris | 27 nov |
