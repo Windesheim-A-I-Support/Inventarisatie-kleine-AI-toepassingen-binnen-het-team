@@ -10,22 +10,24 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: we
 
 | Tijd | Onderdeel |
 |---|---|
-| 10:00 - 10:10 | **Welkom** |
-| 10:10 - 10:40 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
-| 10:40 - 10:55 | **Wat de interviews ons leren** · Chris |
-| 10:55 - 11:10 | Uitleg workshop, koffie pakken en tafel kiezen |
-| 11:10 - 11:40 | **Workshop 1, ronde 1** |
-| 11:40 - 11:50 | Wissel & koffie |
-| 11:50 - 12:20 | **Workshop 1, ronde 2** |
-| 12:20 - 13:30 | **Lunch en wandeling** |
-| 13:30 - 13:50 | **Lessons learned & hoe ik met AI werk** · Chris |
-| 13:50 - 14:00 | Wissel: kies je tafel voor workshop 2 |
-| 14:00 - 15:00 | **Workshop 2: de eindversie** |
-| 15:00 - 15:20 | Pauze, even naar buiten |
-| 15:20 - 15:40 | **Galerij** |
-| 15:40 - 15:45 | Terug naar je plek |
-| 15:45 - 16:20 | **Eindpresentatie & afspraken** |
-| 16:20 - 17:00 | Napraten |
+| 10:00 - 10:15 | Inloop met koffie |
+| 10:15 - 10:25 | **Welkom** |
+| 10:25 - 10:55 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
+| 10:55 - 11:10 | **Wat de interviews ons leren** · Chris |
+| 11:10 - 11:30 | Uitleg workshop en naar je tafel |
+| 11:30 - 12:00 | **Workshop 1, ronde 1** |
+| 12:00 - 12:10 | Wissel naar een nieuwe tafel |
+| 12:10 - 12:40 | **Workshop 1, ronde 2** |
+| 12:40 - 13:45 | **Lunch en wandeling** |
+| 13:45 - 13:55 | Terug binnen, koffie pakken |
+| 13:55 - 14:15 | **Lessons learned & hoe ik met AI werk** · Chris |
+| 14:15 - 14:25 | Naar je tafel voor workshop 2 |
+| 14:25 - 15:25 | **Workshop 2: de eindversie** |
+| 15:25 - 15:45 | Pauze, even naar buiten |
+| 15:45 - 16:05 | **Galerij** |
+| 16:05 - 16:15 | Terug naar je plek |
+| 16:15 - 16:50 | **Eindpresentatie & afspraken** |
+| 16:50 - 17:00 | Afsluiting |
 
 ## De workshops
 
