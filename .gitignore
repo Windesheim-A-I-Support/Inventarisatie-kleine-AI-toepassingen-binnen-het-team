@@ -17,3 +17,20 @@ interviews/*.html
 
 # Tijdelijke EML-bestanden (niet committen)
 updates/*.eml
+presentatie.html
+dagpresentatie.html
+ai-training-10min.html
+
+# Lokale agent/tool-state (niet committen)
+.claude-flow/
+.swarm/
+graphify-out/
+ruvector.db
+agentdb.rvf
+agentdb.rvf.lock
+
+# Grote of privé bestanden
+*.pptx
+interviews/*.mp4
+interviews/*.deb
+updates/michiel-visie-beast.md

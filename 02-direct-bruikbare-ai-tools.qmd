@@ -105,12 +105,12 @@ Een tool scoort hoog als:
 | [Resilinc EventWatchAI](https://resilinc.ai) | Supply chain risico-monitoring AI | bedrijven, defensie | Naval Postgraduate School (CRADA-partnership) | Real-time monitoring van 104M+ bronnen in 100+ talen op supply chain verstoringen. Meest geavanceerde tool in dit segment. Commercieel. |
 | [Everstream Analytics](https://everstream.ai) | Supply chain risico-intelligence AI | enterprise, logistiek, procurement | geen NL gevonden | Gartner Magic Quadrant Leader 2026 voor leveranciersrisicobeheer. Voorspellende risicomodellering via NLP + real-time data. Commercieel. |
 | [Gamma](https://gamma.app) | Presentaties | 70M+ | Breed onderwijs (geen inst. cijfers) | Sterkste AI-presentatietool. Interviewvalidatie: ChatGPT en Claude leveren slechte slides. Geen institutionele NL adoptie gevonden. |
-| [Writefull](https://writefull.com) | Academisch schrijven | Niet bekend | 100+ (Montclair State, Overleaf-integratie) | Getraind op peer-reviewed artikelen. Interviewvalidatie: Hendryk (niet-native) gebruikt ChatGPT voor taalcorrectie; Writefull is hiervoor specifieker. Aandachtspunt: minder relevant voor Nederlandstalig schrijven. |
-| [Ollama](https://ollama.com) | Lokale LLM-deployment | 169K GitHub stars | Breed enterprise en research | Open source platform voor lokale LLMs. Interviewvalidatie: Christiaan gebruikt het al. Infrastructuurtool, geen eindgebruikerstool. Aanvullend op SURF AI-hub. |
+| [Writefull](https://writefull.com) | Academisch schrijven | Niet bekend | 100+ (Montclair State, Overleaf-integratie) | Getraind op peer-reviewed artikelen. Interviewvalidatie: een collega (niet-native spreker) gebruikt ChatGPT voor taalcorrectie; Writefull is hiervoor specifieker. Aandachtspunt: minder relevant voor Nederlandstalig schrijven. |
+| [Ollama](https://ollama.com) | Lokale LLM-deployment | 169K GitHub stars | Breed enterprise en research | Open source platform voor lokale LLMs. Interviewvalidatie: een collega gebruikt dit al voor lokale experimenten. Infrastructuurtool, geen eindgebruikerstool. Aanvullend op SURF AI-hub. |
 | [STORM](https://github.com/stanford-oval/storm) | Kenniscuratie / rapportgeneratie | 28K GitHub stars | Stanford OVAL (maker) | Genereert complete literatuurrapporten met citaties via multi-agent dialogen. Complementair aan Elicit voor synthese-fase. Te technisch voor directe eindgebruikersadoptie. |
-| [DeepL Write](https://deepl.com/write) | Taalverbetering | Niet bekend (DeepL: 100M+) | Breed, GDPR-compliant | Interviewvalidatie: Hendryk gebruikt ChatGPT voor taalcorrectie subsidieteksten; DeepL Write is hiervoor specifieker. GDPR-compliant, verwerkersovereenkomst beschikbaar. |
+| [DeepL Write](https://deepl.com/write) | Taalverbetering | Niet bekend (DeepL: 100M+) | Breed, GDPR-compliant | Interviewvalidatie: een collega gebruikt ChatGPT voor taalcorrectie bij subsidieteksten; DeepL Write is hiervoor specifieker. GDPR-compliant, verwerkersovereenkomst beschikbaar. |
 | [MeetGeek](https://meetgeek.ai) | Vergaderingsassistent | Niet bekend | Breed enterprise | Automatische transcriptie + samenvatting + actiepunten. Alternatief voor Whisper voor niet-privacygevoelige meetings; makkelijker te adopteren dan lokale installatie. |
-| [MinerU](https://github.com/opendatalab/MinerU) | PDF-extractie | 60K GitHub stars | Breed research | Open source extractie van wetenschappelijke PDFs naar Markdown. Interviewvalidatie: Luca's handmatige jaarverslagenanalyse kan worden geautomatiseerd. Technisch maar direct inzetbaar. |
+| [MinerU](https://github.com/opendatalab/MinerU) | PDF-extractie | 60K GitHub stars | Breed research | Open source extractie van wetenschappelijke PDFs naar Markdown. Interviewvalidatie: handmatige jaarverslagenanalyse door een onderzoeker kan worden geautomatiseerd. Technisch maar direct inzetbaar. |
 
 Het volledige overzicht met privacyanalyse en universitaire adoptiedata staat in het [dashboard](/dashboard.html).
 
@@ -152,7 +152,7 @@ Scite classificeert 1,6 miljard citaties als *supporting*, *contrasting* of *men
 
 Whisper is het open source spraakherkenningsmodel van OpenAI. Het draait volledig lokaal: geen data naar externe servers. Transcribeert vergaderingen en interviews zonder privacyrisico.
 
-**Waarom geselecteerd:** Enige privacyveilige transcriptieoptie op deze lijst. Interviewvalidatie: drie collega's signaleren behoefte aan transcriptie. Luca overweegt Krisp maar ziet privacybezwaren. Hendryk gebruikt NotebookLM voor interviewanalyse maar wil een lokale oplossing voor bedrijfsdata van studenten: "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." Whisper is het GDPR-proof antwoord.
+**Waarom geselecteerd:** Enige privacyveilige transcriptieoptie op deze lijst. Interviewvalidatie: drie collega's signaleren behoefte aan transcriptie. Een onderzoeker overweegt Krisp maar ziet privacybezwaren. Een docent/onderzoeker gebruikt NotebookLM voor interviewanalyse maar wil een lokale oplossing voor bedrijfsdata van studenten: "Als ik hem decentraal bij mezelf zou kunnen runnen, is dat een ander verhaal." Whisper is het GDPR-proof antwoord.
 
 **Lokale dienst:** Universiteit Groningen biedt Whisper gratis aan voor alle medewerkers en studenten.
 
@@ -162,7 +162,7 @@ Whisper is het open source spraakherkenningsmodel van OpenAI. Het draait volledi
 
 tl;dv transcribeert vergaderingen en interviews automatisch. Het sterkste GDPR-profiel van alle cloud-vergadertools: data uitsluitend in Europese datacenters, end-to-end encryptie, geen modeltraining op opnames. Integreert met Zoom, Teams en Google Meet.
 
-**Waarom geselecteerd:** Zes interviews bevestigen vergadertranscriptie als gedeeld radartje: Luca, Ritsaart, Bart, Yolanda, Richard en Ronald -- allen met behoefte aan gespreksnotities of transcriptie. Luca overweegt Krisp maar heeft bezwaar tegen VS-servers. tl;dv lost dit exact op: data blijft in Europa, geen modeltraining, end-to-end versleuteld. Direct testbaar via de gratis versie -- geen installatie nodig.
+**Waarom geselecteerd:** Zes interviews bevestigen vergadertranscriptie als gedeeld radartje: meerdere docenten, onderzoekers en projectleiders hebben behoefte aan gespreksnotities of transcriptie zonder dat data naar externe servers buiten Europa gaat. tl;dv lost dit exact op: data blijft in Europa, geen modeltraining, end-to-end versleuteld. Direct testbaar via de gratis versie -- geen installatie nodig.
 
 **Lokaal alternatief:** Whisper (zie #4) is de GDPR-proof optie voor gevoelige gesprekken waarbij ook cloud-Europese servers te veel zijn. tl;dv is de drempelverlagende cloud-optie.
 

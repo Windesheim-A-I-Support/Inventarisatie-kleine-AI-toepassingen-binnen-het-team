@@ -21,15 +21,17 @@ Eén kaart per tafel. Print deze pagina (Ctrl+P): elke kaart komt op een eigen A
 
 **Zo doet de champion het nu:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
 
-**Zo verloopt een ronde (40 min)**
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
 
 | Min | Wat |
 |---|---|
 | 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 70 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
 
@@ -52,15 +54,17 @@ Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met
 
 **Zo doet de champion het nu:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
 
-**Zo verloopt een ronde (40 min)**
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
 
 | Min | Wat |
 |---|---|
 | 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 70 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
 
@@ -84,15 +88,17 @@ Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aan
 
 **Zo doet de champion het nu:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
 
-**Zo verloopt een ronde (40 min)**
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
 
 | Min | Wat |
 |---|---|
 | 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 70 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
 
@@ -114,15 +120,17 @@ Daarna: één slide die de doelgroep aanzet tot actie.
 
 **Zo doet de champion het nu:** data bundelen in een ChatGPT-projectomgeving en daar evaluatieverslagen en hackathon-rapporten mee schrijven. Werkt goed en is makkelijk over te nemen.
 
-**Zo verloopt een ronde (40 min)**
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
 
 | Min | Wat |
 |---|---|
 | 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 70 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
 
@@ -143,15 +151,17 @@ Gebruik alleen informatie uit de documenten. Vermeld per alinea uit welk documen
 
 **Zo doet de champion het nu:** toetsvragen genereren direct in het importformaat voor ANS en Brightspace, cursusmateriaal herindelen en terugkerende onderwijsadministratie sneller afhandelen.
 
-**Zo verloopt een ronde (40 min)**
+**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
 
 | Min | Wat |
 |---|---|
 | 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+
+**Workshop 2 (middag, 70 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
 
