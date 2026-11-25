@@ -34,6 +34,10 @@ website:
         menu:
           - href: updates/week-01.qmd
             text: Week 1
+          - href: updates/programma.qmd
+            text: Programma AI-dag
+          - href: updates/champions.qmd
+            text: Instructie champions
           - href: updates/workshop-ai-uitwisseling.qmd
             text: Workshop AI-dag
           - href: updates/tafelkaarten.qmd

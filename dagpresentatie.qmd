@@ -28,9 +28,15 @@ format:
         </style>
 ---
 
-# Welkom {background-color="#FFCC00"}
+# Welkom {#welkom background-color="#FFCC00"}
 
-10:00 - 10:15 · Chris
+10:15 - 10:25 · Chris
+
+---
+
+## Filmpje
+
+*[filmpje volgt]*
 
 ---
 
@@ -46,7 +52,7 @@ format:
 
 ## Waar ik op hoop
 
-1. Je hebt aan **drie tafels** gehoord hoe collega's het aanpakken, en je neemt **minstens één idee** mee om zelf te proberen.
+1. Je hebt aan **twee tafels** gehoord hoe collega's het aanpakken, en je neemt **minstens één idee** mee om zelf te proberen.
 2. Per onderwerp een **vol tafelkleed**: wat werkt, wat zit in de weg, wat hebben we nodig.
 3. Een kort lijstje **acties**, met een naam en een datum erbij.
 
@@ -56,22 +62,31 @@ format:
 
 | Tijd | Onderdeel |
 |---|---|
-| 10:00 | Welkom |
-| 10:15 | Wat de interviews ons leren |
-| 10:30 | Icebreaker: de AI-lijn |
-| 10:45 | Uitleg World Café |
-| 11:00 | **Ronde 1** · 11:40 wissel & koffie · 11:50 **Ronde 2** |
-| 12:30 | Lunch |
-| 13:15 | Lessons learned & hoe ik met AI werk |
-| 13:45 | **Ronde 3** |
-| 14:25 | Pauze |
-| 14:40 | Verdiepingsronde: de eindversie |
-| 15:50 | Galerij |
-| 16:15 | Eindpresentatie & afspraken |
+| 10:15 | Welkom |
+| 10:30 | Visie: van ei tot zelfstandige vlucht · Michiel |
+| 11:05 | Wat de interviews ons leren |
+| 11:25 | Uitleg workshop |
+| 11:40 | **Workshop 1** · ronde 1 · 12:20 ronde 2 |
+| 12:55 | Lunch en wandeling |
+| 14:00 | Lessons learned & hoe ik met AI werk |
+| 14:30 | **Workshop 2**: de eindversie |
+| 15:35 | Pauze, even naar buiten |
+| 15:55 | Galerij |
+| 16:20 | Eindpresentatie, afspraken en afsluiting |
 
-# Wat de interviews ons leren {background-color="#1D1D1B"}
+# Visie: van ei tot zelfstandige vlucht {#visie background-color="#1D1D1B"}
 
-10:15 - 10:30 · Chris
+10:30 - 11:00 · Michiel
+
+---
+
+## Bring the BEAST to life. Learn to ride it. Let it fly.
+
+*[presentatie Michiel volgt]*
+
+# Wat de interviews ons leren {#interviews background-color="#1D1D1B"}
+
+11:05 - 11:20 · Chris
 
 ---
 
@@ -126,53 +141,20 @@ Meer detail: [Dashboard](https://windesheim-a-i-support.github.io/Inventarisatie
 :::
 :::
 
-# Icebreaker: de AI-lijn {background-color="#FFCC00"}
+# Zo werkt de workshop {#uitleg background-color="#1D1D1B"}
 
-10:30 - 10:45
-
----
-
-## Stap 1 · Ga op de lijn staan (5 min)
-
-::: {.columns}
-::: {.column width="50%"}
-⬅️ **"Ik gebruik nooit AI"**
-:::
-::: {.column width="50%" style="text-align: right;"}
-**"Ik gebruik AI dagelijks"** ➡️
-:::
-:::
-
-<br>
-
-Waarom sta je daar?
-
----
-
-## Stap 2 · Zoek iemand van de andere kant (8 min)
-
-Vertel elkaar, 2 minuten per persoon:
-
-> **Welke taak kost mij de meeste tijd, en zou ik het liefst kwijt zijn?**
-
-<br>
-
-**Stap 3 (2 min):** drie koppels delen hun taak. Die gaat op de flap en komt vandaag terug.
-
-# Zo werkt het World Café {background-color="#1D1D1B"}
-
-10:45 - 11:00
+11:25 - 11:35
 
 ---
 
 ## De spelregels
 
 ::: {.incremental}
-- Er zijn **vijf tafels**, elk met een eigen onderwerp en een collega als gastheer of gastvrouw.
-- **Kies zelf een tafel.** Minimaal 2, maximaal 6 per tafel. Ik stuur bij als het scheef loopt.
-- Een ronde duurt **40 minuten**. Bij de bel wissel je naar een **nieuwe tafel**.
+- Er zijn **drie tafels**, elk met een eigen onderwerp en een collega als gastheer of gastvrouw.
+- **Kies zelf een tafel.** Verdeel je ongeveer gelijk, ik stuur bij als het scheef loopt.
+- **Workshop 1:** twee rondes van **30 minuten**. Na ronde 1 wissel je naar een **andere tafel**.
 - De gastheer of gastvrouw **blijft zitten** en vertelt de volgende groep wat er al besproken is.
-- Na drie rondes heb je **drie van de vijf tafels** gezien. Daarna kies je de tafel waar je mee verder wilt.
+- **Workshop 2** (middag): je kiest de tafel waar je mee verder wilt en maakt samen de eindversie.
 :::
 
 ---
@@ -182,24 +164,22 @@ Vertel elkaar, 2 minuten per persoon:
 | Minuten | Wat |
 |---|---|
 | 0 - 2 | **Terugblik:** wat staat er al op het tafelkleed? |
-| 2 - 10 | **Zo doe ik het:** de gastheer of gastvrouw vertelt hoe hij of zij het aanpakt |
-| 10 - 24 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 24 - 32 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 32 - 40 | **Tafelkleed** aanvullen |
+| 2 - 8 | **Zo doe ik het:** de gastheer of gastvrouw vertelt hoe hij of zij het aanpakt |
+| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
+| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
+| 24 - 30 | **Tafelkleed** aanvullen |
 
 Niemand geeft een presentatie. **Het gaat om het gesprek.**
 
 ---
 
-## De vijf tafels
+## De drie tafels
 
-| Tafel | Onderwerp | Gastheer / gastvrouw |
+| Tafel | Onderwerp | Gastheer |
 |---|---|---|
 | 1 | **Transcriptie** van gesprekken | Richard Holman |
 | 2 | **Subsidies** schrijven | Christiaan de Goeij |
 | 3 | **Presentaties** maken | Bart Ras |
-| 4 | **Verslaglegging** en rapportages | Mounia Belmamoune |
-| 5 | **Onderwijs & toetsen** | Ritsaart Bergsma |
 
 ---
 
@@ -209,13 +189,13 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 
 | # | Vraag | Wanneer |
 |---|---|---|
-| 1 | Wat werkt al | vooraf, door gastheer/-vrouw |
-| 2 | Ik gebruik dit voor | rondes 1 - 3 |
-| 3 | Ik wil dit gebruiken voor | rondes 1 - 3 |
-| 4 | Dit blokkeert me nu | rondes 1 - 3 |
-| 5 | Waaraan moet het voldoen? | verdiepingsronde |
-| 6 | Hoe maken we het nog nuttiger? | verdiepingsronde |
-| 7 | Dit moet gebeuren: actie, wie, wanneer | verdiepingsronde |
+| 1 | Wat werkt al | vooraf, door de gastheer |
+| 2 | Ik gebruik dit voor | workshop 1 |
+| 3 | Ik wil dit gebruiken voor | workshop 1 |
+| 4 | Dit blokkeert me nu | workshop 1 |
+| 5 | Waaraan moet het voldoen? | workshop 2 |
+| 6 | Hoe maken we het nog nuttiger? | workshop 2 |
+| 7 | Dit moet gebeuren: actie, wie, wanneer | workshop 2 |
 
 ---
 
@@ -226,31 +206,31 @@ Groeit de hele dag mee. Elke groep bouwt verder op de vorige.
 - 🙋 **Geen domme vragen.** Iedereen staat ergens anders, en juist daarom is dit leuk.
 - 🖊️ **Geef de stift door.** Iedereen schrijft mee op het tafelkleed.
 
-# Ronde 1 {background-color="#FFCC00"}
+# Workshop 1 · ronde 1 {#ronde-1 background-color="#FFCC00"}
 
-11:00 - 11:40 · Kies een tafel
-
----
-
-## Wissel & koffie
-
-11:40 - 11:50
-
-Pak koffie en kies een **nieuwe** tafel.
-
-# Ronde 2 {background-color="#FFCC00"}
-
-11:50 - 12:30 · Nieuwe tafel
+11:40 - 12:10 · Kies een tafel
 
 ---
 
-## Lunch
+## Wissel
 
-12:30 - 13:15
+12:10 - 12:20
 
-# Lessons learned & hoe ik met AI werk {background-color="#1D1D1B"}
+Kies een **andere** tafel.
 
-13:15 - 13:45 · Chris
+# Workshop 1 · ronde 2 {#ronde-2 background-color="#FFCC00"}
+
+12:20 - 12:50 · Andere tafel
+
+# Lunch en wandeling {#lunch background-color="#FFCC00"}
+
+12:55 - 13:50
+
+We zien je om **14:00** terug.
+
+# Lessons learned & hoe ik met AI werk {#lessons background-color="#1D1D1B"}
+
+14:00 - 14:20 · Chris
 
 ---
 
@@ -303,21 +283,9 @@ De schrijfassistent en de funding-radar vragen allebei om een **veilige kennisba
 
 Neem je antwoord mee naar de tafels.
 
-# Ronde 3 {background-color="#FFCC00"}
+# Workshop 2: de eindversie {#workshop-2 background-color="#1D1D1B"}
 
-13:45 - 14:25 · Laatste wisselronde: kies een tafel waar je nog niet was
-
----
-
-## Pauze
-
-14:25 - 14:40
-
-Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
-
-# Verdiepingsronde: de eindversie {background-color="#1D1D1B"}
-
-14:40 - 15:50
+14:30 - 15:30
 
 ---
 
@@ -325,16 +293,22 @@ Gastheren en -vrouwen zetten de belangrijkste punten bovenaan hun tafelkleed.
 
 | Minuten | Wat |
 |---|---|
-| 0 - 5 | Lees samen de punten bovenaan het tafelkleed |
-| 5 - 25 | **Vraag 5 en 6:** waaraan moet het voldoen, hoe maken we het nuttiger? |
-| 25 - 50 | **Vraag 7:** concrete acties. Wat, wie, wanneer? |
-| 50 - 70 | **Eindversie:** tafelkleed netjes, belangrijkste acties markeren, presentator kiezen |
+| 0 - 5 | Lees samen wat er al op het tafelkleed staat |
+| 5 - 20 | **Vraag 5 en 6:** waaraan moet het voldoen, hoe maken we het nuttiger? |
+| 20 - 40 | **Vraag 7:** concrete acties. Wat, wie, wanneer? |
+| 40 - 60 | **Eindversie:** tafelkleed netjes, belangrijkste acties markeren, presentator kiezen |
 
 Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien wensen.**
 
-# Galerij {background-color="#FFCC00"}
+# Pauze {#pauze background-color="#FFCC00"}
 
-15:50 - 16:15
+15:35 - 15:50 · Even naar buiten
+
+Gastheren hangen de tafelkleden op.
+
+# Galerij {#galerij background-color="#FFCC00"}
+
+15:55 - 16:15
 
 ---
 
@@ -342,11 +316,11 @@ Een actie zonder naam en datum telt niet. **Liever twee echte acties dan tien we
 
 - Alle tafelkleden hangen aan de muur.
 - Je hebt **3 stickers**. Plak ze bij de acties die het lectoraat **als eerste** moet oppakken.
-- Gastheren en -vrouwen staan bij hun tafelkleed voor vragen en tellen daarna de stickers.
+- De gastheren staan bij hun tafelkleed voor vragen en tellen daarna de stickers.
 
-# Eindpresentatie {background-color="#1D1D1B"}
+# Eindpresentatie {#eindpresentatie background-color="#1D1D1B"}
 
-16:15 - 17:00
+16:20 - 17:00
 
 ---
 

@@ -11,18 +11,20 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: we
 | Tijd | Onderdeel |
 |---|---|
 | 10:00 - 10:15 | Inloop met koffie |
-| 10:15 - 10:25 | **Welkom** |
-| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
-| 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
-| 11:25 - 11:35 | Uitleg workshop |
+| 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** |
+| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
+| 11:05 - 11:20 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
+| 11:25 - 11:35 | [Uitleg workshop](../dagpresentatie.html#/uitleg){target="_blank"} |
 | 11:40 - 12:10 | **Workshop 1, ronde 1** |
 | 12:20 - 12:50 | **Workshop 1, ronde 2** |
 | 12:55 - 13:50 | **Lunch en wandeling** |
-| 14:00 - 14:20 | **Lessons learned & hoe ik met AI werk** · Chris |
-| 14:30 - 15:30 | **Workshop 2: de eindversie** |
+| 14:00 - 14:20 | **[Lessons learned & hoe ik met AI werk](../dagpresentatie.html#/lessons){target="_blank"}** · Chris |
+| 14:30 - 15:30 | **[Workshop 2: de eindversie](../dagpresentatie.html#/workshop-2){target="_blank"}** |
 | 15:35 - 15:50 | Pauze, even naar buiten |
-| 15:55 - 16:15 | **Galerij** |
-| 16:20 - 17:00 | **Eindpresentatie, afspraken en afsluiting** |
+| 15:55 - 16:15 | **[Galerij](../dagpresentatie.html#/galerij){target="_blank"}** |
+| 16:20 - 17:00 | **[Eindpresentatie, afspraken en afsluiting](../dagpresentatie.html#/eindpresentatie){target="_blank"}** |
+
+Alle slides van de dag: [dagpresentatie](../dagpresentatie.html){target="_blank"}. Voor de gastheren: [instructie champions](champions.html) en [tafelkaarten](tafelkaarten.html).
 
 Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of van tafel te veranderen.
 
