@@ -37,11 +37,11 @@ website:
           - href: updates/programma.qmd
             text: Programma AI-dag
           - href: updates/champions.qmd
-            text: Instructie champions
+            text: Instructie workshopduo's
           - href: updates/workshop-ai-uitwisseling.qmd
             text: Workshop AI-dag
           - href: updates/tafelkaarten.qmd
-            text: Tafelkaarten AI-dag
+            text: Workshops AI-dag (A4)
           - href: dagpresentatie.html
             text: Dagpresentatie AI-dag
           - href: ai-training-10min.html

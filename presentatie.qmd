@@ -341,23 +341,21 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ## AI-Uitwisselingsdag Lectoraat
 
-**Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen aan de tafel.
+**Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen in de workshops.
 
 ::: {.columns}
 ::: {.column width="50%"}
-**3 Tafels**
+**2 Workshops, elk 2 onderwerpen**
 
-1. **Transcriptie** -- Richard Holman (Summary AI)
-2. **Subsidies schrijven** -- Christiaan de Goeij (terminologie per subsidiegever)
-3. **Presentaties** -- Bart Ras (Gamma / ChatGPT)
+1. **Interviews en subsidietrajecten** -- Christiaan de Goeij en Richard Holman
+2. **AI@research en presentaties maken** -- Michiel Steeman en Bart Ras
 :::
 ::: {.column width="50%"}
-**Formule: twee workshops**
+**Formule**
 
-- **Geen demo's:** de champion vertelt kort hoe hij het nu doet.
-- **Workshop 1:** 2 rondes van 30 min, iedereen bezoekt 2 van de 3 tafels.
-- **Workshop 2:** kies je tafel en maak samen de eindversie (eisen, acties).
-- **Galerij & eindpresentatie:** stickers op de beste acties, daarna afspraken.
+- **Geen demo's:** het duo vertelt kort hoe zij het nu doen, daarna het gesprek.
+- **Iedereen volgt beide workshops:** groep A en B wisselen na de lunch.
+- **Oogst:** elk duo 10 min terugkoppeling, stickers op de beste acties, daarna afspraken.
 :::
 :::
 
@@ -373,38 +371,32 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 | 10:15 - 10:25 | **Welkom** |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
 | 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
-| 11:25 - 11:35 | Uitleg workshop |
-| 11:40 - 12:10 | **Workshop 1, ronde 1** |
-| 12:20 - 12:50 | **Workshop 1, ronde 2** |
-| 12:55 - 13:50 | **Lunch en wandeling** |
-| 14:00 - 14:20 | **Lessons learned & hoe ik met AI werk** · Chris |
-| 14:30 - 15:30 | **Workshop 2: de eindversie** |
-| 15:35 - 15:50 | Pauze, naar buiten |
-| 15:55 - 16:15 | **Galerij** |
-| 16:20 - 17:00 | **Eindpresentatie, afspraken en afsluiting** |
+| 11:25 - 12:35 | **Workshopronde 1** · A: workshop 1, B: workshop 2 |
+| 12:40 - 13:40 | **Lunch en wandeling** |
+| 13:50 - 15:00 | **Workshopronde 2** · groepen wisselen |
+| 15:05 - 15:25 | Pauze, naar buiten |
+| 15:30 - 16:15 | **Oogst** |
+| 16:20 - 17:00 | **Afspraken en afsluiting** |
 
 ---
 
-## Tafelkleed -- per tafel invullen
+## Tafelkleed -- per workshop invullen
 
-Elke champion vult **"Wat werkt al"** vooraf in. Vak 2 - 4 groeien mee in workshop 1, vak 5 - 7 in workshop 2.
+Eén A0-vel per workshop, een kolom per onderwerp. De tweede groep bouwt verder op de eerste.
 
-| # | Vraag |
+| Rij | Vraag |
 |---|---|
-| 1 | **Wat werkt al** -- champion vult dit vooraf in |
-| 2 | **Ik gebruik dit voor** -- huidig gebruik |
-| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik |
-| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd |
-| 5 | **Waaraan moet het voldoen?** -- eisen en randvoorwaarden |
-| 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** |
-| 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer |
+| 1 | **Zo doen we het nu** |
+| 2 | **Hier wil ik het voor gebruiken** |
+| 3 | **Dit houdt me tegen** -- beleid / tool / kennis / tijd |
+| 4 | **Dit moet gebeuren** -- actie + door wie + wanneer |
 
 ---
 
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Champions** -- Richard, Christiaan de Goeij en Bart (bevestigd)
+1. **Workshopduo's** -- Christiaan de Goeij en Richard, Michiel en Bart
 2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven

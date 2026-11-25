@@ -18,12 +18,17 @@ Neem je laptop mee. Koffie, thee en lunch zijn geregeld.
 
 Tijdens de interviews zag ik iets moois: iedereen is op z'n eigen manier met AI bezig. Alleen weten we dat bijna niet van elkaar. Zonde, want de slimste trucs zitten gewoon al in ons team! Daarom geen training vandaag, maar een dag waarop we van elkaar leren, met daarbij de visie van Michiel op AI in ons onderzoek.
 
-We werken in **twee workshops**. Drie collega's (de *champions*) zijn gastheer van een tafel, over iets waar ze al een eigen aanpak voor hebben. In workshop 1 vertellen ze kort hoe ze het doen, en dan gaat het gesprek los: hoe doe jij het, waar loop je vast, wat kan slimmer? Na 30 minuten schuif je door naar een andere tafel. In workshop 2 kies je de tafel waar je mee verder wilt en maak je samen de eindversie: eisen en acties.
+We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een duo. Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen ze.
+
+| | Onderwerpen | Door |
+|---|---|---|
+| **Workshop 1** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
+| **Workshop 2** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
 
 **Waar ik op hoop aan het eind van de dag:**
 
-1. Je hebt aan twee tafels gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
-2. Per onderwerp ligt er een vol tafelkleed: wat werkt, wat zit in de weg, wat hebben we nodig.
+1. Je hebt in twee workshops gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
+2. Per workshop ligt er een vol tafelkleed: wat werkt, wat zit in de weg, wat hebben we nodig.
 3. We hebben een kort lijstje acties, met een naam en een datum erbij.
 
 ## Materialen voor de dag
@@ -31,10 +36,10 @@ We werken in **twee workshops**. Drie collega's (de *champions*) zijn gastheer v
 | Materiaal | Waarvoor | Link |
 |---|---|---|
 | **Programma** | Voor de deelnemers, met links naar de slides | [Openen](programma.html) |
-| **Dagpresentatie** | Op het grote scherm: welkom, filmpje, visie Michiel, interviews, uitleg workshop, rondeslides, lessons learned, workshop 2, galerij, eindpresentatie en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
-| **Instructie champions** | Rol per tijdslot, tafelkleed, voorbereiding | [Openen](champions.html) |
-| **Tafelkaarten** | Eén A4 per tafel: werkwijze, rondeschema, gespreksvragen, starter-prompt | [Openen en printen](tafelkaarten.html) |
-| **Tafelkleed** | A0-vel per tafel met 7 vakken (zie [instructie champions](champions.html#het-tafelkleed)) | Zelf tekenen of printen |
+| **Dagpresentatie** | Op het grote scherm: welkom, filmpje, visie, interviews, uitleg workshops, rondeslides, oogst en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
+| **A4 per workshop** | Opzet, tijdschema, gespreksvragen en starter-prompts (gaat vrijdag 27 november naar de deelnemers) | [Openen en printen](tafelkaarten.html) |
+| **Instructie workshopduo's** | Rol per tijdslot, opbouw, tafelkleed, voorbereiding | [Openen](champions.html) |
+| **Tafelkleed** | A0-vel per workshop, een kolom per onderwerp | Zelf tekenen of printen |
 | **Draaiboek** | Deze pagina: programma, rollen, checklist | |
 
 ---
@@ -43,54 +48,41 @@ We werken in **twee workshops**. Drie collega's (de *champions*) zijn gastheer v
 
 | Tijd | Onderdeel | Toelichting |
 |---|---|---|
-| 10:00 - 10:15 | Inloop met koffie | |
+| 10:00 - 10:15 | Inloop met koffie | Badges met groep A of B |
 | 10:15 - 10:25 | **Welkom + filmpje** | Chris: welkom, kort filmpje als icebreaker, doel van de dag |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** | Michiel: de vijf fundamenten (BEAST) en de zes fasen |
-| 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
-| 11:25 - 11:35 | **Uitleg workshop** | Chris stelt de drie tafels en champions voor en legt uit hoe het wisselen werkt |
-| 11:40 - 12:10 | **Workshop 1, ronde 1** | Iedereen kiest een tafel: werkwijze delen, uitwisselen, tafelkleed |
-| 12:20 - 12:50 | **Workshop 1, ronde 2** | Andere tafel, nieuwe groep |
-| 12:55 - 13:50 | **Lunch en wandeling** | Even naar buiten |
-| 14:00 - 14:20 | **Lessons learned & hoe ik met AI werk** | Chris: wat werkt, wat niet, eigen voorbeeld, mogelijke oplossingen |
-| 14:30 - 15:30 | **Workshop 2: de eindversie** | Kies de tafel waar je mee verder wilt: tafelkleed afmaken (eisen, acties), presentator kiezen |
-| 15:35 - 15:50 | Pauze, naar buiten | Champions hangen de tafelkleden op |
-| 15:55 - 16:15 | **Galerij** | Iedereen zet 3 stickers bij de acties die het lectoraat als eerste moet oppakken |
-| 16:20 - 17:00 | **Eindpresentatie, afspraken en afsluiting** | Per tafel max. 5 min, daarna afspraken |
+| 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: 17 gesprekken, 73 radartjes, lessons learned, uitleg workshops |
+| 11:25 - 12:35 | **Workshopronde 1** | A naar workshop 1, B naar workshop 2 |
+| 12:40 - 13:40 | **Lunch en wandeling** | Even naar buiten |
+| 13:50 - 15:00 | **Workshopronde 2** | Groepen wisselen, tweede groep bouwt verder op het tafelkleed |
+| 15:05 - 15:25 | Pauze, naar buiten | Duo's hangen de tafelkleden op in B.2.34 |
+| 15:30 - 16:15 | **Oogst** | Elk duo 10 min terugkoppeling, daarna 3 stickers per persoon op de acties |
+| 16:20 - 17:00 | **Afspraken en afsluiting** | Eigenaar en datum per actie, terugkijkmoment prikken |
 
 Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen.
 
-**Hoe kies je een tafel?** Gewoon waar je zin in hebt. Verdeel je ongeveer gelijk over de drie tafels, ik stuur bij als het scheef loopt.
-
-**Opbouw van een ronde in workshop 1 (30 minuten):**
+**Opbouw van een workshop (70 minuten):**
 
 | Minuten | Wat |
 |---|---|
-| 0 - 2 | Champion vat kort samen wat de vorige groep op het tafelkleed zette (ronde 2) |
-| 2 - 8 | **Zo doe ik het:** champion vertelt hoe hij deze taak nu aanpakt, eventueel met laptop erbij |
-| 8 - 18 | **Zo doen wij het:** rondje langs de tafel. Wie doet dit ook? Hoe? Welke tools en trucs? |
-| 18 - 24 | **Beter maken:** wat kan er slimmer, sneller of veiliger? Wie wil, probeert de starter-prompt even uit |
-| 24 - 30 | Samen het tafelkleed aanvullen (vak 2 tot en met 4) |
-
-**Opbouw van workshop 2 (60 minuten):**
-
-| Minuten | Wat |
-|---|---|
-| 0 - 5 | Lees samen wat er op het tafelkleed staat |
-| 5 - 20 | Vak 5 en 6: waaraan moet een betere werkwijze voldoen, en hoe maken we het nuttiger? |
-| 20 - 40 | Vak 7: concrete acties. Per actie: wat, wie, wanneer |
-| 40 - 60 | Eindversie: tafelkleed netjes, belangrijkste acties markeren, presentator kiezen |
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep op het tafelkleed gezet? |
+| 5 - 10 | **Onderwerp 1, zo doe ik het:** wie het voortouw heeft vertelt hoe hij het aanpakt |
+| 10 - 25 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
+| 25 - 35 | Tafelkleed aanvullen voor onderwerp 1 |
+| 35 - 65 | **Onderwerp 2:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
 
 ### Rollen
 
 | Rol | Wie | Taak |
 |---|---|---|
-| Opening, interviews, lessons learned | Chris | Welkom en filmpje, resultaten interviews, middagsessie |
+| Dagvoorzitter, opening, interviews | Chris | Welkom en filmpje, resultaten interviews en lessons learned, tijd bewaken, oogst en afsluiting leiden |
 | Visie | Michiel | *Van ei tot zelfstandige vlucht* (30 min) |
-| Dagvoorzitter & tijdbewaker | Chris | Bewaakt de tijd (bel 5 minuten voor het einde van elke ronde), leidt galerij en eindpresentatie |
-| Champion tafel 1 -- Transcriptie | Richard Holman | Gastheer: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
-| Champion tafel 2 -- Subsidies schrijven | Christiaan de Goeij | Gastheer: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
-| Champion tafel 3 -- Presentaties maken | Bart Ras | Gastheer: eigen werkwijze delen, gesprek leiden, tafelkleed, eindpresentatie |
-| Archiveren & delen | n.t.b. | Zet tijdens de eindpresentatie de acties op het scherm, fotografeert elk tafelkleed en zet alles na afloop op de projectsite |
+| Workshop 1 -- interviews | Richard Holman (voortouw), Christiaan de Goeij | Eigen werkwijze delen, gesprek leiden, tafelkleed, oogst |
+| Workshop 1 -- subsidietrajecten | Christiaan de Goeij (voortouw), Richard Holman | Idem |
+| Workshop 2 -- AI@research | Michiel Steeman (voortouw), Bart Ras | Idem |
+| Workshop 2 -- presentaties maken | Bart Ras (voortouw), Michiel Steeman | Idem |
+| Archiveren & delen | n.t.b. | Acties op het scherm tijdens de afsluiting, foto's van de tafelkleden, alles na afloop op de projectsite |
 
 ---
 
@@ -106,29 +98,16 @@ Kort filmpje als icebreaker, daarna waarom deze dag en wat we ermee willen.
 
 ### Resultaten interviews (11:05 - 11:20)
 
-In een kwartier laat ik zien wat de gesprekken hebben opgeleverd:
-
 - **17 collega's** gesproken, **73 radartjes** (kleine taken waar AI kan helpen) en **73 verschillende tools** in gebruik.
 - **Meest gedeelde radartjes:** transcriptie en verslaglegging van gesprekken, subsidieteksten schrijven, presentaties maken, onderwijsadministratie.
-- **Wat opviel:** iedereen probeert dingen uit, maar vooral in z'n eentje. Terwijl de beste aanpakken al in het team zitten.
+- **Wat opviel:** iedereen probeert dingen uit, maar vooral in z'n eentje.
 - **Waar het vastloopt:** de vraag wat nou wel en niet veilig is met lectoraatsinformatie.
 
 Meer detail: [Dashboard](../dashboard.html) en [Analyse](../04-ai-toepassingen-werkprocessen.html).
 
----
+### Lessons learned (onderdeel van 11:05 - 11:20)
 
-## Middag: lessons learned & hoe ik met AI werk (14:00 - 14:20)
-
-Na de lunch vertel ik wat ik zelf geleerd heb: tijdens de interviews, en tijdens het knutselen met mijn eigen AI-workflows. Ik zet dit expres tussen workshop 1 en 2: je hebt dan al twee tafels gezien, en wat ik vertel kan meteen mee naar de eindversie.
-
-**Opbouw (20 minuten):**
-
-| Minuten | Wat |
-|---|---|
-| 0 - 5 | Lessons learned uit de inventarisatie |
-| 5 - 12 | **Zo werk ik zelf:** één kort, herkenbaar voorbeeld uit eigen werk. Wat deed ik vroeger, wat doe ik nu, wat ging er mis |
-| 12 - 16 | Mogelijke oplossingen die we tot nu toe zien |
-| 16 - 20 | Vraag aan de zaal over een veilige kennisbasis |
+Na de cijfers uit de interviews vertel ik kort wat ik zelf geleerd heb.
 
 **Lessons learned (selectie):**
 
@@ -141,24 +120,24 @@ Na de lunch vertel ik wat ik zelf geleerd heb: tijdens de interviews, en tijdens
 
 | Oplossing | Welk radartje | Status |
 |---|---|---|
-| **Kennisdeling via champions** | Transcriptie, subsidies, presentaties | Vandaag van start |
+| **Kennisdeling via de workshopduo's** | Interviews, subsidies, AI@research, presentaties | Vandaag van start |
 | **Script voor TKI-urenbrieven** | Urenbrieven per student maandelijks maken en versturen | Idee, uitvoerders bekend |
 | **Business case Copilot** | Veilige AI binnen de Windesheim-omgeving | Onderbouwing in voorbereiding |
 | **Lokale / open source tools** | Transcriptie (Whisper), documentanalyse zonder data naar buiten | Uit te proberen |
 | **Veilige schrijfassistent voor projectvoorstellen** | Nieuwe aanvragen schrijven met eerdere voorstellen als bron, zonder lectoraatsdata naar publieke AI-tools | Eerste prototype in ontwikkeling |
 | **Funding-radar** | Maandelijks automatisch relevante subsidiekansen zoeken en een alert sturen naar wie met subsidies bezig is, gekoppeld aan veilige kennis over onze projecten en partners | Idee uit het team, te bespreken |
 
-De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de tafels.
+De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de workshops.
 
 ---
 
----
+## Input voor de workshops
 
-## De drie tafels: input voor de dag
+Per onderwerp: hoe de collega met het voortouw het nu doet (uit het interview), welke collega's iets vergelijkbaars noemden, en een oefening voor wie iets wil proberen.
 
-Hieronder per tafel: hoe de champion het nu doet (uit het interview), welke collega's iets vergelijkbaars noemden, en een oefening voor wie tijdens *Beter maken* iets wil proberen. Sta je bij de radartjes? Dan heb je waarschijnlijk veel aan die tafel, en jouw aanpak is daar net zo welkom.
+### Workshop 1: interviews en subsidietrajecten
 
-### Tafel 1 -- Transcriptie (Richard Holman)
+#### Interviews (voortouw: Richard Holman)
 
 **Werkwijze van Richard:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
 
@@ -177,13 +156,13 @@ Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met
 
 **Aandachtspunt:** opnames van externe partijen alleen met toestemming. Geen gesprekken met persoonsgegevens in tools zonder verwerkersovereenkomst.
 
-### Tafel 2 -- Subsidies schrijven (Christiaan de Goeij)
+#### Subsidietrajecten (voortouw: Christiaan de Goeij)
 
 **Werkwijze van Christiaan:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
 
 **Radartjes uit de interviews:** Yolanda (subsidietekst vanuit brainstorm-transcript, €40.000 gehonoreerd), Mira (vraagarticulatie in 1.400 woorden, literatuur voor onderbouwing), Paulien (subsidievoorstel schrijven), Michiel (commentaar omzetten naar tekstsuggesties), Luca (proposals reviewen), Ronald (bedrijfscontacten scouten voor aanvragen).
 
-**Link met de middagsessie:** de veilige schrijfassistent en funding-radar (zie *Lessons learned*) horen bij dit onderwerp. Neem de wensen van deze tafel daarvoor mee.
+**Link met lessons learned:** de veilige schrijfassistent en funding-radar horen bij dit onderwerp. Neem de wensen uit de workshop daarvoor mee.
 
 **Optioneel uitproberen:** pak een openbare projectsamenvatting (bijvoorbeeld van de lectoraatswebsite) en herschrijf die voor twee verschillende subsidiegevers. Vergelijk de versies: wat verandert er in woordkeuze en nadruk?
 
@@ -199,7 +178,13 @@ Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aan
 
 **Aandachtspunt:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
 
-### Tafel 3 -- Presentaties maken (Bart Ras)
+### Workshop 2: AI@research en presentaties maken
+
+#### AI@research (voortouw: Michiel Steeman)
+
+Vanuit de visie van de ochtend: welke kleine, controleerbare onderzoekstaak geven we als eerste aan AI (bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken)? Welke van de vijf fundamenten hebben we daarvoor nodig, en welke ontbreekt nog? *(Michiel vult aan.)*
+
+#### Presentaties maken (voortouw: Bart Ras)
 
 **Werkwijze van Bart:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
 
@@ -219,12 +204,6 @@ Daarna: één slide die de doelgroep aanzet tot actie.
 
 ---
 
-## Instructies voor de champions
-
-De volledige instructie, inclusief het tafelkleed, staat op een eigen pagina: **[Instructie champions](champions.html)**.
-
----
-
 ## Spelregels voor de hele dag
 
 - **Geen vertrouwelijke gegevens in publieke AI-tools.** Geen persoonsgegevens, studentgegevens, IP of bedrijfsgevoelige informatie van partners. Oefen met openbare of verzonnen tekst.
@@ -237,26 +216,24 @@ De volledige instructie, inclusief het tafelkleed, staat op een eigen pagina: **
 
 **Datum:** maandag 30 november 2026
 **Tijd:** 10:00 - 17:00
-**Ruimte:** B.2.34
+**Ruimte:** B.2.34, plus een tweede ruimte voor de tweede workshop
 
 **Checklist:**
 
 - [x] Datum definitief prikken (ma 30 november 2026)
 - [x] Ruimte reserveren (B.2.34)
-- [x] Champions bevestigen: Richard Holman (transcriptie), Christiaan de Goeij (subsidies), Bart Ras (presentaties)
-- [ ] Akkoord Michiel op het aangepaste programma
-- [ ] Instructie champions naar de drie champions sturen en per champion 10 minuten afstemmen over vak 1 van het tafelkleed
-- [ ] Deelnemers het aangepaste programma sturen (met verzoek: laptop en jas meenemen)
-- [ ] Ruimte inrichten: 3 tafels met genoeg stoelen, groot scherm voor de plenaire delen, stekkerdoos bij elke tafel
-- [ ] Tafelkleden voorbereiden (A0 vel per tafel + stiften), plakband om ze op te hangen, stickers voor de galerij
-- [ ] Bel of signaal voor de wissels
-- [ ] Tafelkaarten printen (3x A4)
+- [ ] Akkoord Michiel op het programma met twee workshops
+- [ ] Tweede ruimte reserveren (of B.2.34 in twee hoeken verdelen)
+- [ ] Duo's informeren: Christiaan en Richard (workshop 1), Michiel en Bart (workshop 2)
+- [ ] A4 per workshop af en vrijdag 27 november naar de deelnemers
+- [ ] Deelnemers indelen in groep A en B, badges maken
+- [ ] Tafelkleden voorbereiden (2x A0 + stiften), plakband, stickers voor de oogst
+- [ ] A4's printen (per workshop een stapel)
 - [ ] Filmpje maken en testen op het scherm in B.2.34
 - [ ] Visie-presentatie Michiel klaar en in de dagpresentatie
 - [ ] Dagpresentatie testen op het scherm en actielijst-slide klaarzetten
-- [ ] Koffie, thee en lunch regelen (lunch 12:55 - 13:50)
+- [ ] Koffie, thee en lunch regelen (lunch 12:40 - 13:40)
 - [ ] Wandelroute voor de lunch, plan B bij regen
-- [ ] Slide *Zo werk ik zelf* in de dagpresentatie invullen (Chris)
 - [ ] Wifi-toegang voor gasten checken
 - [ ] Iemand vragen voor *archiveren & delen* (actielijst en foto's)
 - [ ] Terugkijkmoment op de acties prikken (bijv. februari 2027) en op de dag aankondigen

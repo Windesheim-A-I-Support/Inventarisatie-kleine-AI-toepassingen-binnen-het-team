@@ -1,6 +1,7 @@
 ---
-title: "Tafelkaarten AI-Uitwisselingsdag"
-subtitle: "Lectoraat Supply Chain Finance · Windesheim"
+title: "Workshops AI-dag"
+subtitle: "Eén A4 per workshop · maandag 30 november 2026 · B.2.34"
+lang: nl
 format:
   html:
     theme: [cosmo, ../windesheim-site.scss]
@@ -14,104 +15,84 @@ format:
         </style>
 ---
 
-Eén kaart per tafel. Print deze pagina (Ctrl+P): elke kaart komt op een eigen A4. Leg de kaart midden op tafel naast het tafelkleed.
+Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen de groepen. Print deze pagina (Ctrl+P): elke workshop komt op een eigen A4.
 
 ::: {.tafelkaart}
-## Tafel 1 -- Transcriptie (Richard Holman)
+## Workshop 1: interviews en subsidietrajecten {#workshop-1}
 
-**Zo doet de champion het nu:** gesprekken met bedrijven en afstudeerders opnemen, transcriberen met Summary AI en daarna de toon van de samenvatting kiezen (zakelijk, diplomatiek, vriendelijk). De output gaat direct door voor afstudeeropdrachten en relatiebeheer.
+**Door:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:25 - 12:35 en 13:50 - 15:00
 
-**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
+**Interviews.** Gesprekken met bedrijven, afstudeerders en partners opnemen, laten transcriberen en daarna een samenvatting maken in de toon die past (zakelijk, diplomatiek, vriendelijk). Het meest gedeelde radartje uit de inventarisatie: van verslag na een overleg tot thema's uit onderzoeksinterviews.
+
+**Subsidietrajecten.** Een concepttekst herschrijven naar de taal van verschillende subsidiegevers (IenW, TKI, topsectoren). Van brainstorm naar eerste tekst, en van commentaar naar tekstsuggesties.
 
 | Min | Wat |
 |---|---|
-| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
+| 5 - 35 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 35 - 65 | **Subsidietrajecten:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
 
-**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
+**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 
-**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
-
-**Optioneel uitproberen (starter-prompt):**
+**Uitproberen (interviews):**
 
 ```text
 Hieronder staat een transcript van een gesprek. Maak hiervan:
 1. Een zakelijke samenvatting van maximaal 5 zinnen.
 2. Een lijst actiepunten in de vorm: actie -- wie -- wanneer.
 Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met [?].
-
-[transcript]
 ```
 
-🔒 **Let op:** opnames van externe partijen alleen met toestemming. Geen gesprekken met persoonsgegevens in tools zonder verwerkersovereenkomst.
-:::
-
-::: {.tafelkaart}
-## Tafel 2 -- Subsidies schrijven (Christiaan de Goeij)
-
-**Zo doet de champion het nu:** een concepttekst herschrijven naar de terminologie van verschillende subsidiegevers (IenW, TKI, topsectoren). Elke subsidiegever heeft zijn eigen taal en ChatGPT helpt de tekst daarop af te stemmen.
-
-**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
-
-| Min | Wat |
-|---|---|
-| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
-
-**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
-
-**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
-
-**Optioneel uitproberen (starter-prompt):**
+**Uitproberen (subsidies):**
 
 ```text
-Je bent een ervaren subsidieschrijver. Herschrijf onderstaande projectsamenvatting
-voor [subsidiegever, bijv. TKI Dinalog / RVO / NWO].
+Herschrijf onderstaande projectsamenvatting voor [subsidiegever].
 Gebruik de terminologie en prioriteiten van deze subsidiegever.
 Houd de inhoud gelijk, verander alleen framing en woordkeuze.
-Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aangepast.
-
-[tekst]
+Geef daarna een lijstje van de termen die je hebt aangepast.
 ```
 
-🔒 **Let op:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
+🔒 Opnames van externe partijen alleen met toestemming. Subsidieteksten bevatten vaak IP en strategie: oefen met openbare tekst.
 :::
 
 ::: {.tafelkaart}
-## Tafel 3 -- Presentaties maken (Bart Ras)
+## Workshop 2: AI@research en presentaties maken {#workshop-2}
 
-**Zo doet de champion het nu:** presentaties voor MKB-bedrijven maken met Gamma en ChatGPT. Hij beschrijft doelgroep, niveau en situatie, en laat AI een script plus deck genereren. Wat vroeger een halve dag kostte, doet hij nu in minuten.
+**Door:** Michiel Steeman en Bart Ras · **Rondes:** 11:25 - 12:35 en 13:50 - 15:00
 
-**Workshop 1: zo verloopt een ronde (30 min, twee keer)**
+**AI@research.** Hoe zetten we AI in voor het onderzoek zelf? Vanuit de visie van de ochtend (*van ei tot zelfstandige vlucht*) kijken we naar kleine, controleerbare onderzoekstaken: bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken. Welke taak kunnen we als eerste veilig uitproberen, en wat hebben we daarvoor nodig? *(Michiel vult aan.)*
+
+**Presentaties maken.** Doelgroep, niveau en situatie beschrijven en AI een script plus deck laten maken, bijvoorbeeld met Gamma en ChatGPT. Wat vroeger een halve dag kostte, kan nu in minuten.
 
 | Min | Wat |
 |---|---|
-| 0 - 2 | Terugblik: wat staat er al op het tafelkleed? |
-| 2 - 8 | **Zo doe ik het:** gastheer/-vrouw vertelt hoe hij of zij het aanpakt |
-| 8 - 18 | **Zo doen wij het:** wie doet dit ook, en hoe? |
-| 18 - 24 | **Beter maken:** wat kan slimmer, sneller of veiliger? |
-| 24 - 30 | Tafelkleed aanvullen (vraag 2 - 4) |
+| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
+| 5 - 35 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 35 - 65 | **Presentaties maken:** zelfde opbouw |
+| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
 
-**Workshop 2 (middag, 60 min):** de groep die blijft maakt de eindversie: vraag 5 - 7, acties met wie en wanneer.
+**Gespreksvragen:** *Welke onderzoekstaak zou jij als eerste aan AI geven? · Hoe controleer je de uitkomst? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 
-**Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Waar zou je dit morgen voor gebruiken? · Wat zou je willen dat er bestond?*
-
-**Optioneel uitproberen (starter-prompt):**
+**Uitproberen (presentaties):**
 
 ```text
 Je bent een presentatiecoach. Doelgroep: [wie], kennisniveau: [laag/midden/hoog],
 situatie: [bijv. 10 minuten pitch op een netwerkbijeenkomst].
 Maak een script voor 5 slides over: [onderwerp].
 Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
-Daarna: één slide die de doelgroep aanzet tot actie.
 ```
 
-🔒 **Let op:** bedrijfsnamen en cijfers van partners anonimiseren voordat ze in een externe tool gaan.
+🔒 Geen onderzoeksdata of partnergegevens in publieke tools. Bedrijfsnamen en cijfers eerst anonimiseren.
 :::
 
+## Het tafelkleed
+
+Eén A0-vel per workshop, met een kolom per onderwerp. De tweede groep bouwt verder op wat de eerste groep schreef.
+
+| | Onderwerp 1 | Onderwerp 2 |
+|---|---|---|
+| **Zo doen we het nu** | | |
+| **Hier wil ik het voor gebruiken** | | |
+| **Dit houdt me tegen** | | |
+| **Dit moet gebeuren** (actie, wie, wanneer) | | |
