@@ -15,7 +15,7 @@ Hierbij mijn voorstel voor de aanpassing van de dag:
 - **Ruimte voor wissels**: 10 min tussen de rondes, voor workshop 2 en rond de galerij.
 - **Eerder klaar**: einde om 16:20, daarna ruimte om na te praten.
 
-Het programma: https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/updates/programma-voorstel.html
+Het programma: https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/updates/programma.html
 
 Nog te doen vóór maandag:
 

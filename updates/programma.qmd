@@ -1,0 +1,50 @@
+---
+title: "Programma AI-dag"
+subtitle: "Maandag 30 november 2026 · 10:00 - 17:00 · Ruimte B.2.34"
+lang: nl
+---
+
+Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: we vertellen elkaar hoe we het doen en kijken samen wat beter kan. Neem een jas mee, we gaan tussendoor ook naar buiten.
+
+## Programma
+
+| Tijd | Onderdeel |
+|---|---|
+| 10:00 - 10:10 | **Welkom** |
+| 10:10 - 10:40 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
+| 10:40 - 10:55 | **Wat de interviews ons leren** · Chris |
+| 10:55 - 11:10 | Uitleg workshop, koffie pakken en tafel kiezen |
+| 11:10 - 11:40 | **Workshop 1, ronde 1** |
+| 11:40 - 11:50 | Wissel & koffie |
+| 11:50 - 12:20 | **Workshop 1, ronde 2** |
+| 12:20 - 13:30 | **Lunch en wandeling** |
+| 13:30 - 13:50 | **Lessons learned & hoe ik met AI werk** · Chris |
+| 13:50 - 14:00 | Wissel: kies je tafel voor workshop 2 |
+| 14:00 - 15:00 | **Workshop 2: de eindversie** |
+| 15:00 - 15:20 | Pauze, even naar buiten |
+| 15:20 - 15:40 | **Galerij** |
+| 15:40 - 15:45 | Terug naar je plek |
+| 15:45 - 16:20 | **Eindpresentatie & afspraken** |
+| 16:20 - 17:00 | Napraten |
+
+## De workshops
+
+**Workshop 1: uitwisselen.** Er zijn vijf tafels, elk met een onderwerp en een collega als gastheer of gastvrouw. Je kiest zelf een tafel en wisselt na 30 minuten naar een andere. De gastheer of gastvrouw vertelt kort hoe hij of zij het aanpakt, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan. Alles komt op het tafelkleed.
+
+**Workshop 2: de eindversie.** Je kiest de tafel waar je het meest mee verder wilt. Samen maak je het tafelkleed af: waaraan moet het voldoen, hoe maken we het nuttiger en welke acties pakken we op (wat, wie, wanneer).
+
+**Galerij en eindpresentatie.** De tafelkleden hangen aan de muur. Met drie stickers kies je welke acties als eerste opgepakt moeten worden. Daarna presenteert elke tafel in maximaal vijf minuten haar uitkomst.
+
+| Tafel | Onderwerp | Gastheer / gastvrouw |
+|---|---|---|
+| 1 | Transcriptie van gesprekken | Richard Holman |
+| 2 | Subsidies schrijven | Christiaan de Goeij |
+| 3 | Presentaties maken | Bart Ras |
+| 4 | Verslaglegging en rapportages | Mounia Belmamoune |
+| 5 | Onderwijs & toetsen | Ritsaart Bergsma |
+
+## Spelregels
+
+- Geen vertrouwelijke gegevens in publieke AI-tools: geen persoonsgegevens, studentgegevens of gevoelige partnerinformatie.
+- AI-output altijd zelf controleren. Jij blijft verantwoordelijk.
+- Geen domme vragen. Iedereen staat ergens anders, en juist daarom is dit leuk.
