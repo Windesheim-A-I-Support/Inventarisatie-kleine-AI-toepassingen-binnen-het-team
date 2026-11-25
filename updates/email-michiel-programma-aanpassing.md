@@ -1,29 +1,34 @@
 # Email aan Michiel -- aangepast programma AI-dag
 
 **Aan:** ma.steeman@windesheim.nl
-**Onderwerp:** Voorstel aangepast programma AI-dag 30 nov
+**Onderwerp:** Aangepast programma AI-dag 30 nov
 
 ---
 
-Michiel,
+Hoi Michiel,
 
-Hierbij mijn voorstel voor de aanpassing van de dag:
+Ik heb je voorstel verwerkt. De dag is wat rustiger geworden, met meer lucht en ruimte voor jouw verhaal.
 
-- **Twee workshops**: 's ochtends uitwisselen aan de tafels (2 rondes van 30 min), 's middags de verdieping met eisen en acties.
-- **Jouw visie** (BEAST, 30 min) om 10:10, direct na een kort filmpje als icebreaker.
-- **Naar buiten**: lunch van 70 min met wandeling, plus een pauze buiten om 15:00.
-- **Ruimte voor wissels**: 10 min tussen de rondes, voor workshop 2 en rond de galerij.
-- **Eerder klaar**: einde om 16:20, daarna ruimte om na te praten.
+Dit zijn de aanpassingen:
 
-Het programma: https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/updates/programma.html
+- Twee workshops in plaats van vier rondes: 's ochtends uitwisselen aan de tafels (2 rondes van 30 min), 's middags de verdieping met eisen en acties.
+- Jouw visie, "Van ei tot zelfstandige vlucht", krijgt 30 minuten om 10:10, direct na de opening.
+- De AI-lijn vervalt. We openen met een kort filmpje (staat bewust niet in het programma, dat blijft een verrassing).
+- Naar buiten: de lunch duurt 70 minuten met een wandeling, en om 15:00 is er een pauze buiten.
+- Elke wissel heeft 10 minuten: tussen de rondes, voor workshop 2 en rond de galerij.
+- We zijn om 16:20 klaar, daarna is er tijd om na te praten.
 
-Nog te doen vóór maandag:
+Het nieuwe programma, zoals de deelnemers het ook te zien krijgen:
+https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/updates/programma.html
 
-- Jouw akkoord op het programma (graag uiterlijk morgen).
-- Visie-presentatie: ik help graag mee met de opbouw en een beeld van de zes fasen.
-- Filmpje: ik maak het, maar wil jou en Mira er even voor lenen.
-- Champions en deelnemers laten weten wat er verandert.
-- Lunch afstemmen op de nieuwe tijden.
+Wat nog open staat:
+
+- Jouw akkoord, graag morgen. Daarna print ik de tafelkaarten en informeer ik champions en deelnemers.
+- Je visie-presentatie: zullen we deze week een uur samen zitten voor de opbouw en een beeld van de zes fasen?
+- Het filmpje: ik wil jou en Mira er even voor lenen. Is Mira daarvoor te porren?
+- Wie stuurt de deelnemers het nieuwe programma: jij of ik?
+- Catering: ik check of de lunch naar 12:20 kan.
+- Weer: bij regen houden we de wandeling kort of blijven we binnen.
 
 Groet,
 Chris
