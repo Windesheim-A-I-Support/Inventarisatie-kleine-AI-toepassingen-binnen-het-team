@@ -12,6 +12,7 @@ Ik heb je voorstel verwerkt. De dag is wat rustiger geworden, met meer lucht en 
 Dit zijn de aanpassingen:
 
 - Twee workshops in plaats van vier rondes: 's ochtends uitwisselen aan de tafels (2 rondes van 30 min), 's middags de verdieping met eisen en acties.
+- Drie tafels in plaats van vijf: transcriptie (Richard), subsidies (Christiaan) en presentaties (Bart).
 - Jouw visie, "Van ei tot zelfstandige vlucht", krijgt 30 minuten om 10:30, direct na de opening.
 - De AI-lijn vervalt. We openen met een kort filmpje (staat bewust niet in het programma, dat blijft een verrassing).
 - Naar buiten: de lunch duurt ruim een uur met een wandeling, en om 15:35 is er een pauze buiten.
@@ -22,7 +23,7 @@ https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-b
 
 Wat nog open staat:
 
-- Jouw akkoord, graag morgen. Daarna print ik de tafelkaarten en informeer ik champions en deelnemers.
+- Jouw akkoord, graag morgen. Daarna print ik de tafelkaarten en informeer ik de drie champions en de deelnemers.
 - Je visie-presentatie: zullen we deze week een uur samen zitten voor de opbouw en een beeld van de zes fasen?
 - Het filmpje: ik wil jou en Mira er even voor lenen. Is Mira daarvoor te porren?
 - Wie stuurt de deelnemers het nieuwe programma: jij of ik?
