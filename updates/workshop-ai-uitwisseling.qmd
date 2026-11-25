@@ -18,17 +18,17 @@ Neem je laptop mee. Koffie, thee en lunch zijn geregeld.
 
 Tijdens de interviews zag ik iets moois: iedereen is op z'n eigen manier met AI bezig. Alleen weten we dat bijna niet van elkaar. Zonde, want de slimste trucs zitten gewoon al in ons team! Daarom geen training vandaag, maar een dag waarop we van elkaar leren, met daarbij de visie van Michiel op AI in ons onderzoek.
 
-We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een duo. Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen ze.
+We werken als **world café** met twee ronde tafels, elk met twee onderwerpen en een duo als gastheren. In ronde 1 kies je een tafel, in ronde 2 schuif je door naar de andere. Het duo blijft zitten en vertelt de nieuwe groep wat er al op de A0-poster hangt.
 
-| | Onderwerpen | Door |
+| Tafel | Onderwerpen | Gastheren |
 |---|---|---|
-| **Workshop 1** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
-| **Workshop 2** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
+| **1** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
+| **2** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
 
 **Waar ik op hoop aan het eind van de dag:**
 
-1. Je hebt in twee workshops gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
-2. Per workshop ligt er een vol tafelkleed: wat werkt, wat zit in de weg, wat hebben we nodig.
+1. Je hebt aan beide tafels gehoord hoe collega's het aanpakken, en je neemt minstens één idee mee dat je zelf gaat proberen.
+2. Per tafel hangt er een volle poster: wat werkt, wat zit in de weg, wat hebben we nodig.
 3. We hebben een kort lijstje acties, met een naam en een datum erbij.
 
 ## Materialen voor de dag
@@ -36,10 +36,10 @@ We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een du
 | Materiaal | Waarvoor | Link |
 |---|---|---|
 | **Programma** | Voor de deelnemers, met links naar de slides | [Openen](programma.html) |
-| **Dagpresentatie** | Op het grote scherm: welkom, filmpje, visie, interviews, uitleg workshops, rondeslides, oogst en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
-| **A4 per workshop** | Opzet, tijdschema, gespreksvragen en starter-prompts (gaat vrijdag 27 november naar de deelnemers) | [Openen en printen](tafelkaarten.html) |
-| **Instructie workshopduo's** | Rol per tijdslot, opbouw, tafelkleed, voorbereiding | [Openen](champions.html) |
-| **Tafelkleed** | A0-vel per workshop, een kolom per onderwerp | Zelf tekenen of printen |
+| **Dagpresentatie** | Op het grote scherm: welkom, filmpje, visie, interviews, uitleg world café, rondeslides, galerij, eindpresentatie en actielijst | [Openen](../dagpresentatie.html){target="_blank"} |
+| **Tafelkaarten** | Eén A4 per tafel: opzet, gespreksvragen en starter-prompts (gaat vrijdag 27 november naar de deelnemers) | [Openen en printen](tafelkaarten.html) |
+| **Instructie gastheren** | Rol per tijdslot, opbouw van een ronde, A0-poster, voorbereiding | [Openen](champions.html) |
+| **A0-poster** | Eén per tafel met 7 vakken (zie [instructie gastheren](champions.html#de-a0-poster)), post-its erop | Zelf tekenen of printen |
 | **Draaiboek** | Deze pagina: programma, rollen, checklist | |
 
 ---
@@ -48,42 +48,42 @@ We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een du
 
 | Tijd | Onderdeel | Toelichting |
 |---|---|---|
-| 10:00 - 10:15 | Inloop met koffie | Badges met groep A of B |
+| 10:00 - 10:15 | Inloop met koffie | |
 | 10:15 - 10:25 | **Welkom + filmpje** | Chris: welkom, kort filmpje als icebreaker, doel van de dag |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** | Michiel: de vijf fundamenten (BEAST) en de zes fasen |
 | 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: 17 gesprekken, 73 radartjes, lessons learned |
-| 11:25 - 11:35 | **Uitleg workshops** | Chris stelt de twee workshops en duo's voor, legt groep A/B en het wisselen uit |
-| 11:40 - 12:50 | **Workshopronde 1** | A naar workshop 1, B naar workshop 2 |
+| 11:25 - 11:35 | **Uitleg world café** | Chris stelt de twee tafels en gastheren voor en legt uit hoe het wisselen werkt |
+| 11:40 - 12:50 | **World café, ronde 1** | Iedereen kiest een tafel |
 | 12:55 - 13:50 | **Lunch en wandeling** | Even naar buiten |
-| 14:00 - 15:10 | **Workshopronde 2** | Groepen wisselen, tweede groep bouwt verder op het tafelkleed |
-| 15:15 - 15:30 | Pauze, naar buiten | Duo's hangen de tafelkleden op in B.2.34 |
-| 15:35 - 16:15 | **Oogst** | Elk duo 10 min terugkoppeling, daarna 3 stickers per persoon op de acties |
+| 14:00 - 15:10 | **World café, ronde 2** | Iedereen schuift door naar de andere tafel en bouwt verder op de poster |
+| 15:15 - 15:30 | Pauze, naar buiten | Gastheren hangen de posters op (punaises) |
+| 15:35 - 16:15 | **Galerij en eindpresentatie** | Iedereen stemt met 3 ronde stickers op de acties, daarna per tafel max. 10 min |
 | 16:20 - 17:00 | **Afspraken en afsluiting** | Eigenaar en datum per actie, terugkijkmoment prikken |
 
 Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen.
 
-**Opbouw van een workshop (70 minuten):**
+**Opbouw van een ronde (70 minuten):**
 
 | Minuten | Wat |
 |---|---|
-| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep op het tafelkleed gezet? |
+| 0 - 5 | Welkom. Ronde 2: het duo vertelt wat de vorige groep op de poster zette |
 | 5 - 10 | **Onderwerp 1, zo doe ik het:** wie het voortouw heeft vertelt hoe hij het aanpakt |
 | 10 - 25 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
-| 25 - 35 | Tafelkleed aanvullen voor onderwerp 1 |
+| 25 - 35 | Post-its schrijven en op de poster plakken |
 | 35 - 65 | **Onderwerp 2:** zelfde opbouw |
-| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+| 65 - 70 | Belangrijkste punten op de poster markeren |
 
 ### Rollen
 
 | Rol | Wie | Taak |
 |---|---|---|
-| Dagvoorzitter, opening, interviews | Chris | Welkom en filmpje, resultaten interviews en lessons learned, tijd bewaken, oogst en afsluiting leiden |
+| Dagvoorzitter, opening, interviews | Chris | Welkom en filmpje, resultaten interviews en lessons learned, uitleg world café, tijd bewaken, galerij en afsluiting leiden |
 | Visie | Michiel | *Van ei tot zelfstandige vlucht* (30 min) |
-| Workshop 1 -- interviews | Richard Holman (voortouw), Christiaan de Goeij | Eigen werkwijze delen, gesprek leiden, tafelkleed, oogst |
-| Workshop 1 -- subsidietrajecten | Christiaan de Goeij (voortouw), Richard Holman | Idem |
-| Workshop 2 -- AI@research | Michiel Steeman (voortouw), Bart Ras | Idem |
-| Workshop 2 -- presentaties maken | Bart Ras (voortouw), Michiel Steeman | Idem |
-| Archiveren & delen | n.t.b. | Acties op het scherm tijdens de afsluiting, foto's van de tafelkleden, alles na afloop op de projectsite |
+| Tafel 1 -- interviews | Richard Holman (voortouw), Christiaan de Goeij | Gastheer: eigen werkwijze delen, gesprek leiden, poster, eindpresentatie |
+| Tafel 1 -- subsidietrajecten | Christiaan de Goeij (voortouw), Richard Holman | Idem |
+| Tafel 2 -- AI@research | Michiel Steeman (voortouw), Bart Ras | Idem |
+| Tafel 2 -- presentaties maken | Bart Ras (voortouw), Michiel Steeman | Idem |
+| Archiveren & delen | n.t.b. | Acties op het scherm tijdens de afsluiting, foto's van de posters, alles na afloop op de projectsite |
 
 ---
 
@@ -121,22 +121,22 @@ Na de cijfers uit de interviews vertel ik kort wat ik zelf geleerd heb.
 
 | Oplossing | Welk radartje | Status |
 |---|---|---|
-| **Kennisdeling via de workshopduo's** | Interviews, subsidies, AI@research, presentaties | Vandaag van start |
+| **Kennisdeling via de gastheren** | Interviews, subsidies, AI@research, presentaties | Vandaag van start |
 | **Script voor TKI-urenbrieven** | Urenbrieven per student maandelijks maken en versturen | Idee, uitvoerders bekend |
 | **Business case Copilot** | Veilige AI binnen de Windesheim-omgeving | Onderbouwing in voorbereiding |
 | **Lokale / open source tools** | Transcriptie (Whisper), documentanalyse zonder data naar buiten | Uit te proberen |
 | **Veilige schrijfassistent voor projectvoorstellen** | Nieuwe aanvragen schrijven met eerdere voorstellen als bron, zonder lectoraatsdata naar publieke AI-tools | Eerste prototype in ontwikkeling |
 | **Funding-radar** | Maandelijks automatisch relevante subsidiekansen zoeken en een alert sturen naar wie met subsidies bezig is, gekoppeld aan veilige kennis over onze projecten en partners | Idee uit het team, te bespreken |
 
-De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de workshops.
+De laatste twee horen bij elkaar. Allebei hebben ze een **veilige kennisbasis** nodig: een plek met onze projectvoorstellen, resultaten en partners waar AI mee kan werken, zonder dat er iets in publieke tools belandt. Mijn vraag aan jullie: *zien jullie dit zitten, en wat moet zo'n plek minimaal kunnen?* Neem je antwoord mee naar de tafels.
 
 ---
 
-## Input voor de workshops
+## Input voor de tafels
 
 Per onderwerp: hoe de collega met het voortouw het nu doet (uit het interview), welke collega's iets vergelijkbaars noemden, en een oefening voor wie iets wil proberen.
 
-### Workshop 1: interviews en subsidietrajecten
+### Tafel 1: interviews en subsidietrajecten
 
 #### Interviews (voortouw: Richard Holman)
 
@@ -163,7 +163,7 @@ Verzin niets dat niet in het transcript staat. Markeer onduidelijke passages met
 
 **Radartjes uit de interviews:** Yolanda (subsidietekst vanuit brainstorm-transcript, €40.000 gehonoreerd), Mira (vraagarticulatie in 1.400 woorden, literatuur voor onderbouwing), Paulien (subsidievoorstel schrijven), Michiel (commentaar omzetten naar tekstsuggesties), Luca (proposals reviewen), Ronald (bedrijfscontacten scouten voor aanvragen).
 
-**Link met lessons learned:** de veilige schrijfassistent en funding-radar horen bij dit onderwerp. Neem de wensen uit de workshop daarvoor mee.
+**Link met lessons learned:** de veilige schrijfassistent en funding-radar horen bij dit onderwerp. Neem de wensen van deze tafel daarvoor mee.
 
 **Optioneel uitproberen:** pak een openbare projectsamenvatting (bijvoorbeeld van de lectoraatswebsite) en herschrijf die voor twee verschillende subsidiegevers. Vergelijk de versies: wat verandert er in woordkeuze en nadruk?
 
@@ -179,7 +179,7 @@ Maximaal [aantal] woorden. Geef daarna een lijstje van de termen die je hebt aan
 
 **Aandachtspunt:** subsidieteksten bevatten vaak IP en strategie. Oefen met openbare tekst; gebruik voor echte aanvragen alleen een door Windesheim goedgekeurde omgeving.
 
-### Workshop 2: AI@research en presentaties maken
+### Tafel 2: AI@research en presentaties maken
 
 #### AI@research (voortouw: Michiel Steeman)
 
@@ -217,19 +217,18 @@ Daarna: één slide die de doelgroep aanzet tot actie.
 
 **Datum:** maandag 30 november 2026
 **Tijd:** 10:00 - 17:00
-**Ruimte:** B.2.34, plus een tweede ruimte voor de tweede workshop
+**Ruimte:** B.2.34
 
 **Checklist:**
 
 - [x] Datum definitief prikken (ma 30 november 2026)
 - [x] Ruimte reserveren (B.2.34)
-- [ ] Akkoord Michiel op het programma met twee workshops
-- [ ] Tweede ruimte reserveren (of B.2.34 in twee hoeken verdelen)
-- [ ] Duo's informeren: Christiaan en Richard (workshop 1), Michiel en Bart (workshop 2)
-- [ ] A4 per workshop af en vrijdag 27 november naar de deelnemers
-- [ ] Deelnemers indelen in groep A en B, badges maken
-- [ ] Tafelkleden voorbereiden (2x A0 + stiften), plakband, stickers voor de oogst
-- [ ] A4's printen (per workshop een stapel)
+- [ ] Akkoord Michiel op het world café met twee tafels
+- [ ] Gastheren informeren: Christiaan en Richard (tafel 1), Michiel en Bart (tafel 2)
+- [ ] Tafelkaarten af en vrijdag 27 november naar de deelnemers
+- [ ] Ruimte inrichten: 2 ronde tafels met genoeg stoelen, groot scherm voor de plenaire delen
+- [ ] Materiaal: 2 A0-posters, post-its, stiften, punaises, ronde stickers (3 per persoon)
+- [ ] Tafelkaarten printen
 - [ ] Filmpje maken en testen op het scherm in B.2.34
 - [ ] Visie-presentatie Michiel klaar en in de dagpresentatie
 - [ ] Dagpresentatie testen op het scherm en actielijst-slide klaarzetten

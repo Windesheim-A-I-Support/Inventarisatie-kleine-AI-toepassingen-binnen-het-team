@@ -341,11 +341,11 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ## AI-Uitwisselingsdag Lectoraat
 
-**Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen in de workshops.
+**Doel:** Beter gebruik van AI-tools -- van en met elkaar. Geen theorie, maar meekijken en meeproberen aan de tafel.
 
 ::: {.columns}
 ::: {.column width="50%"}
-**2 Workshops, elk 2 onderwerpen**
+**World café: 2 tafels, elk 2 onderwerpen**
 
 1. **Interviews en subsidietrajecten** -- Christiaan de Goeij en Richard Holman
 2. **AI@research en presentaties maken** -- Michiel Steeman en Bart Ras
@@ -354,8 +354,8 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 **Formule**
 
 - **Geen demo's:** het duo vertelt kort hoe zij het nu doen, daarna het gesprek.
-- **Iedereen volgt beide workshops:** groep A en B wisselen na de lunch.
-- **Oogst:** elk duo 10 min terugkoppeling, stickers op de beste acties, daarna afspraken.
+- **Twee rondes:** ronde 1 voor de lunch, ronde 2 aan de andere tafel. Het duo blijft zitten.
+- **Galerij & eindpresentatie:** stemmen met ronde stickers, daarna per tafel max. 10 min.
 :::
 :::
 
@@ -371,33 +371,36 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 | 10:15 - 10:25 | **Welkom** |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
 | 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
-| 11:25 - 11:35 | Uitleg workshops |
-| 11:40 - 12:50 | **Workshopronde 1** · A: workshop 1, B: workshop 2 |
+| 11:25 - 11:35 | Uitleg world café |
+| 11:40 - 12:50 | **World café, ronde 1** · kies een tafel |
 | 12:55 - 13:50 | **Lunch en wandeling** |
-| 14:00 - 15:10 | **Workshopronde 2** · groepen wisselen |
+| 14:00 - 15:10 | **World café, ronde 2** · andere tafel |
 | 15:15 - 15:30 | Pauze, naar buiten |
-| 15:35 - 16:15 | **Oogst** |
+| 15:35 - 16:15 | **Galerij en eindpresentatie** |
 | 16:20 - 17:00 | **Afspraken en afsluiting** |
 
 ---
 
-## Tafelkleed -- per workshop invullen
+## A0-poster -- per tafel, met post-its
 
-Eén A0-vel per workshop, een kolom per onderwerp. De tweede groep bouwt verder op de eerste.
+Het duo vult **"Wat werkt al"** vooraf in. Vak 2 - 4 vult de groep in ronde 1, vak 5 - 7 de groep in ronde 2.
 
-| Rij | Vraag |
+| # | Vraag |
 |---|---|
-| 1 | **Zo doen we het nu** |
-| 2 | **Hier wil ik het voor gebruiken** |
-| 3 | **Dit houdt me tegen** -- beleid / tool / kennis / tijd |
-| 4 | **Dit moet gebeuren** -- actie + door wie + wanneer |
+| 1 | **Wat werkt al** -- duo vult dit vooraf in |
+| 2 | **Ik gebruik dit voor** -- huidig gebruik |
+| 3 | **Ik wil dit gebruiken voor** -- toekomstig gebruik |
+| 4 | **Dit blokkeert me nu** -- beleid / tool / kennis / tijd |
+| 5 | **Waaraan moet het voldoen?** -- eisen en randvoorwaarden |
+| 6 | **Hoe zouden we dit nog meer nuttig kunnen maken?** |
+| 7 | **Dit moet daarvoor gebeuren** -- actie + door wie + wanneer |
 
 ---
 
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Workshopduo's** -- Christiaan de Goeij en Richard, Michiel en Bart
+1. **Gastheren** -- Christiaan de Goeij en Richard (tafel 1), Michiel en Bart (tafel 2)
 2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven

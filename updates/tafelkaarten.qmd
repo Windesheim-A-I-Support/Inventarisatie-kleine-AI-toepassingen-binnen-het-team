@@ -1,6 +1,6 @@
 ---
-title: "Workshops AI-dag"
-subtitle: "Eén A4 per workshop · maandag 30 november 2026 · B.2.34"
+title: "Tafelkaarten AI-dag"
+subtitle: "Eén A4 per tafel · world café · maandag 30 november 2026 · B.2.34"
 lang: nl
 format:
   html:
@@ -15,12 +15,12 @@ format:
         </style>
 ---
 
-Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij workshop 2, na de lunch wisselen de groepen. Print deze pagina (Ctrl+P): elke workshop komt op een eigen A4.
+World café met twee tafels. In ronde 1 kies je een tafel, in ronde 2 schuif je door naar de andere. Het duo blijft zitten. Print deze pagina (Ctrl+P): elke tafel komt op een eigen A4. Leg de kaart naast de A0-poster.
 
 ::: {.tafelkaart}
-## Workshop 1: interviews en subsidietrajecten {#workshop-1}
+## Tafel 1: interviews en subsidietrajecten {#tafel-1}
 
-**Door:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+**Gastheren:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
 
 **Interviews.** Gesprekken met bedrijven, afstudeerders en partners opnemen, laten transcriberen en daarna een samenvatting maken in de toon die past (zakelijk, diplomatiek, vriendelijk). Het meest gedeelde radartje uit de inventarisatie: van verslag na een overleg tot thema's uit onderzoeksinterviews.
 
@@ -28,10 +28,10 @@ Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij works
 
 | Min | Wat |
 |---|---|
-| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
-| 5 - 35 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 0 - 5 | Welkom. Ronde 2: het duo vertelt wat de vorige groep op de poster zette |
+| 5 - 35 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), post-its op de poster (10) |
 | 35 - 65 | **Subsidietrajecten:** zelfde opbouw |
-| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+| 65 - 70 | Belangrijkste punten op de poster markeren |
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 
@@ -57,9 +57,9 @@ Geef daarna een lijstje van de termen die je hebt aangepast.
 :::
 
 ::: {.tafelkaart}
-## Workshop 2: AI@research en presentaties maken {#workshop-2}
+## Tafel 2: AI@research en presentaties maken {#tafel-2}
 
-**Door:** Michiel Steeman en Bart Ras · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+**Gastheren:** Michiel Steeman en Bart Ras · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
 
 **AI@research.** Hoe zetten we AI in voor het onderzoek zelf? Vanuit de visie van de ochtend (*van ei tot zelfstandige vlucht*) kijken we naar kleine, controleerbare onderzoekstaken: bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken. Welke taak kunnen we als eerste veilig uitproberen, en wat hebben we daarvoor nodig? *(Michiel vult aan.)*
 
@@ -67,10 +67,10 @@ Geef daarna een lijstje van de termen die je hebt aangepast.
 
 | Min | Wat |
 |---|---|
-| 0 - 5 | Welkom. Ronde 2: wat heeft de eerste groep al op het tafelkleed gezet? |
-| 5 - 35 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), tafelkleed (10) |
+| 0 - 5 | Welkom. Ronde 2: het duo vertelt wat de vorige groep op de poster zette |
+| 5 - 35 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), post-its op de poster (10) |
 | 35 - 65 | **Presentaties maken:** zelfde opbouw |
-| 65 - 70 | De drie belangrijkste acties markeren voor de oogst |
+| 65 - 70 | Belangrijkste punten op de poster markeren |
 
 **Gespreksvragen:** *Welke onderzoekstaak zou jij als eerste aan AI geven? · Hoe controleer je de uitkomst? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 
@@ -86,13 +86,16 @@ Per slide: titel, 3 kernpunten, en wat ik mondeling vertel.
 🔒 Geen onderzoeksdata of partnergegevens in publieke tools. Bedrijfsnamen en cijfers eerst anonimiseren.
 :::
 
-## Het tafelkleed
+## De A0-poster
 
-Eén A0-vel per workshop, met een kolom per onderwerp. De tweede groep bouwt verder op wat de eerste groep schreef.
+Eén A0-poster per tafel, verdeeld in 7 vakken. Iedereen schrijft op **post-its** en plakt ze in het juiste vak. De poster groeit de hele dag mee: de groep in ronde 2 bouwt verder op wat er al hangt.
 
-| | Onderwerp 1 | Onderwerp 2 |
+| # | Vak | Wanneer |
 |---|---|---|
-| **Zo doen we het nu** | | |
-| **Hier wil ik het voor gebruiken** | | |
-| **Dit houdt me tegen** | | |
-| **Dit moet gebeuren** (actie, wie, wanneer) | | |
+| 1 | **Wat werkt al** | Vooraf, door het duo |
+| 2 | **Ik gebruik dit voor** | Ronde 1 |
+| 3 | **Ik wil dit gebruiken voor** | Ronde 1 |
+| 4 | **Dit blokkeert me nu** | Ronde 1 |
+| 5 | **Waaraan moet het voldoen?** | Ronde 2 |
+| 6 | **Hoe maken we het nog nuttiger?** | Ronde 2 |
+| 7 | **Dit moet daarvoor gebeuren** (actie, wie, wanneer) | Ronde 2, stickers in de galerij |

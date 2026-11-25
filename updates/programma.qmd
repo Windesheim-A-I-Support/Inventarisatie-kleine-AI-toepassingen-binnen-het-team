@@ -14,30 +14,30 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: co
 | 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
 | 11:05 - 11:20 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
-| 11:25 - 11:35 | [Uitleg workshops](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
-| 11:40 - 12:50 | **[Workshopronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: groep A naar workshop 1, groep B naar workshop 2 |
+| 11:25 - 11:35 | [Uitleg world café](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
+| 11:40 - 12:50 | **[World café, ronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: kies een van de twee tafels |
 | 12:55 - 13:50 | **Lunch en wandeling** |
-| 14:00 - 15:10 | **[Workshopronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: de groepen wisselen |
+| 14:00 - 15:10 | **[World café, ronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: je schuift door naar de andere tafel |
 | 15:15 - 15:30 | Pauze, even naar buiten |
-| 15:35 - 16:15 | **[Oogst](../dagpresentatie.html#/oogst){target="_blank"}**: wat leverden de workshops op, welke acties pakken we op? |
+| 15:35 - 16:15 | **[Galerij en eindpresentatie](../dagpresentatie.html#/galerij){target="_blank"}** |
 | 16:20 - 17:00 | **[Afspraken en afsluiting](../dagpresentatie.html#/afsluiting){target="_blank"}** |
 
-Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of naar je workshop te lopen.
+Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of van tafel te wisselen.
 
-Alle slides van de dag: [dagpresentatie](../dagpresentatie.html){target="_blank"}. Per workshop een A4 met de opzet: [workshops](tafelkaarten.html).
+Alle slides van de dag: [dagpresentatie](../dagpresentatie.html){target="_blank"}. Per tafel een A4 met de opzet: [tafelkaarten](tafelkaarten.html).
 
-## De twee workshops
+## World café
 
-Iedereen volgt **beide workshops**: de ene voor de lunch, de andere erna. Op je badge staat of je in groep A of groep B zit.
+In B.2.34 staan **twee ronde tafels**, elk met twee onderwerpen en een duo als gastheren. Op elke tafel ligt een **A0-poster**: je schrijft op post-its wat je gebruikt, wilt en mist, en plakt ze op de poster. Zo groeit hij de hele dag mee.
 
-| | Onderwerpen | Door |
+| Tafel | Onderwerpen | Gastheren |
 |---|---|---|
-| **[Workshop 1](tafelkaarten.html#workshop-1)** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
-| **[Workshop 2](tafelkaarten.html#workshop-2)** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
+| **[1](tafelkaarten.html#tafel-1)** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
+| **[2](tafelkaarten.html#tafel-2)** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
 
-Elke workshop heeft twee onderwerpen van ongeveer een half uur. Het duo vertelt kort hoe zij het aanpakken, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan. Alles komt op het tafelkleed. De tweede groep bouwt verder op wat de eerste groep heeft opgeschreven.
+**Twee rondes.** In ronde 1 kies je zelf een tafel. In ronde 2 schuif je door naar de andere tafel, zodat je allebei de tafels meemaakt. Het duo blijft zitten en vertelt de nieuwe groep wat er al op de poster staat. Per onderwerp vertelt het duo kort hoe zij het aanpakken, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan.
 
-**Oogst.** Aan het eind presenteert elk duo in tien minuten wat er uit de workshop kwam. Met drie stickers kies je welke acties het lectoraat als eerste oppakt.
+**Galerij en eindpresentatie.** De posters hangen aan de muur. Met drie stickers kies je welke acties als eerste opgepakt moeten worden. Daarna presenteert elke tafel in maximaal tien minuten haar uitkomst.
 
 ## Spelregels
 
