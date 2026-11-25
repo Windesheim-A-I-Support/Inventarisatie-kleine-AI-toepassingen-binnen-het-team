@@ -12,22 +12,19 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: we
 |---|---|
 | 10:00 - 10:15 | Inloop met koffie |
 | 10:15 - 10:25 | **Welkom** |
-| 10:25 - 10:55 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
-| 10:55 - 11:10 | **Wat de interviews ons leren** · Chris |
-| 11:10 - 11:30 | Uitleg workshop en naar je tafel |
-| 11:30 - 12:00 | **Workshop 1, ronde 1** |
-| 12:00 - 12:10 | Wissel naar een nieuwe tafel |
-| 12:10 - 12:40 | **Workshop 1, ronde 2** |
-| 12:40 - 13:45 | **Lunch en wandeling** |
-| 13:45 - 13:55 | Terug binnen, koffie pakken |
-| 13:55 - 14:15 | **Lessons learned & hoe ik met AI werk** · Chris |
-| 14:15 - 14:25 | Naar je tafel voor workshop 2 |
-| 14:25 - 15:25 | **Workshop 2: de eindversie** |
-| 15:25 - 15:45 | Pauze, even naar buiten |
-| 15:45 - 16:05 | **Galerij** |
-| 16:05 - 16:15 | Terug naar je plek |
-| 16:15 - 16:50 | **Eindpresentatie & afspraken** |
-| 16:50 - 17:00 | Afsluiting |
+| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
+| 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
+| 11:25 - 11:35 | Uitleg workshop |
+| 11:40 - 12:10 | **Workshop 1, ronde 1** |
+| 12:20 - 12:50 | **Workshop 1, ronde 2** |
+| 12:55 - 13:50 | **Lunch en wandeling** |
+| 14:00 - 14:20 | **Lessons learned & hoe ik met AI werk** · Chris |
+| 14:30 - 15:30 | **Workshop 2: de eindversie** |
+| 15:35 - 15:50 | Pauze, even naar buiten |
+| 15:55 - 16:15 | **Galerij** |
+| 16:20 - 17:00 | **Eindpresentatie, afspraken en afsluiting** |
+
+Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of van tafel te veranderen.
 
 ## De workshops
 
