@@ -20,7 +20,7 @@ Iedereen volgt beide workshops: groep A begint bij workshop 1, groep B bij works
 ::: {.tafelkaart}
 ## Workshop 1: interviews en subsidietrajecten {#workshop-1}
 
-**Door:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:25 - 12:35 en 13:50 - 15:00
+**Door:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
 
 **Interviews.** Gesprekken met bedrijven, afstudeerders en partners opnemen, laten transcriberen en daarna een samenvatting maken in de toon die past (zakelijk, diplomatiek, vriendelijk). Het meest gedeelde radartje uit de inventarisatie: van verslag na een overleg tot thema's uit onderzoeksinterviews.
 
@@ -59,7 +59,7 @@ Geef daarna een lijstje van de termen die je hebt aangepast.
 ::: {.tafelkaart}
 ## Workshop 2: AI@research en presentaties maken {#workshop-2}
 
-**Door:** Michiel Steeman en Bart Ras · **Rondes:** 11:25 - 12:35 en 13:50 - 15:00
+**Door:** Michiel Steeman en Bart Ras · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
 
 **AI@research.** Hoe zetten we AI in voor het onderzoek zelf? Vanuit de visie van de ochtend (*van ei tot zelfstandige vlucht*) kijken we naar kleine, controleerbare onderzoekstaken: bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken. Welke taak kunnen we als eerste veilig uitproberen, en wat hebben we daarvoor nodig? *(Michiel vult aan.)*
 

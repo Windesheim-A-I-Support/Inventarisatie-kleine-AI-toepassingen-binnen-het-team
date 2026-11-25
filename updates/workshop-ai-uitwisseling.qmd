@@ -51,12 +51,13 @@ We werken in **twee workshops**, elk met twee onderwerpen en gegeven door een du
 | 10:00 - 10:15 | Inloop met koffie | Badges met groep A of B |
 | 10:15 - 10:25 | **Welkom + filmpje** | Chris: welkom, kort filmpje als icebreaker, doel van de dag |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** | Michiel: de vijf fundamenten (BEAST) en de zes fasen |
-| 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: 17 gesprekken, 73 radartjes, lessons learned, uitleg workshops |
-| 11:25 - 12:35 | **Workshopronde 1** | A naar workshop 1, B naar workshop 2 |
-| 12:40 - 13:40 | **Lunch en wandeling** | Even naar buiten |
-| 13:50 - 15:00 | **Workshopronde 2** | Groepen wisselen, tweede groep bouwt verder op het tafelkleed |
-| 15:05 - 15:25 | Pauze, naar buiten | Duo's hangen de tafelkleden op in B.2.34 |
-| 15:30 - 16:15 | **Oogst** | Elk duo 10 min terugkoppeling, daarna 3 stickers per persoon op de acties |
+| 11:05 - 11:20 | **Wat de interviews ons leren** | Chris: 17 gesprekken, 73 radartjes, lessons learned |
+| 11:25 - 11:35 | **Uitleg workshops** | Chris stelt de twee workshops en duo's voor, legt groep A/B en het wisselen uit |
+| 11:40 - 12:50 | **Workshopronde 1** | A naar workshop 1, B naar workshop 2 |
+| 12:55 - 13:50 | **Lunch en wandeling** | Even naar buiten |
+| 14:00 - 15:10 | **Workshopronde 2** | Groepen wisselen, tweede groep bouwt verder op het tafelkleed |
+| 15:15 - 15:30 | Pauze, naar buiten | Duo's hangen de tafelkleden op in B.2.34 |
+| 15:35 - 16:15 | **Oogst** | Elk duo 10 min terugkoppeling, daarna 3 stickers per persoon op de acties |
 | 16:20 - 17:00 | **Afspraken en afsluiting** | Eigenaar en datum per actie, terugkijkmoment prikken |
 
 Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen.
@@ -232,7 +233,7 @@ Daarna: één slide die de doelgroep aanzet tot actie.
 - [ ] Filmpje maken en testen op het scherm in B.2.34
 - [ ] Visie-presentatie Michiel klaar en in de dagpresentatie
 - [ ] Dagpresentatie testen op het scherm en actielijst-slide klaarzetten
-- [ ] Koffie, thee en lunch regelen (lunch 12:40 - 13:40)
+- [ ] Koffie, thee en lunch regelen (lunch 12:55 - 13:50)
 - [ ] Wandelroute voor de lunch, plan B bij regen
 - [ ] Wifi-toegang voor gasten checken
 - [ ] Iemand vragen voor *archiveren & delen* (actielijst en foto's)

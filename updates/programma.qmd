@@ -14,11 +14,12 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: co
 | 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
 | 11:05 - 11:20 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
-| 11:25 - 12:35 | **[Workshopronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: groep A naar workshop 1, groep B naar workshop 2 |
-| 12:40 - 13:40 | **Lunch en wandeling** |
-| 13:50 - 15:00 | **[Workshopronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: de groepen wisselen |
-| 15:05 - 15:25 | Pauze, even naar buiten |
-| 15:30 - 16:15 | **[Oogst](../dagpresentatie.html#/oogst){target="_blank"}**: wat leverden de workshops op, welke acties pakken we op? |
+| 11:25 - 11:35 | [Uitleg workshops](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
+| 11:40 - 12:50 | **[Workshopronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: groep A naar workshop 1, groep B naar workshop 2 |
+| 12:55 - 13:50 | **Lunch en wandeling** |
+| 14:00 - 15:10 | **[Workshopronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: de groepen wisselen |
+| 15:15 - 15:30 | Pauze, even naar buiten |
+| 15:35 - 16:15 | **[Oogst](../dagpresentatie.html#/oogst){target="_blank"}**: wat leverden de workshops op, welke acties pakken we op? |
 | 16:20 - 17:00 | **[Afspraken en afsluiting](../dagpresentatie.html#/afsluiting){target="_blank"}** |
 
 Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of naar je workshop te lopen.

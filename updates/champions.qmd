@@ -32,12 +32,12 @@ De opzet per workshop staat op het [A4 per workshop](tafelkaarten.html). Chris i
 | Tijd | Wat | Jullie rol |
 |---|---|---|
 | 10:00 - 10:15 | Inloop | Tafelkleed en A4 klaarleggen in je workshopruimte |
-| 10:15 - 11:20 | Welkom, visie, interviews | Luisteren (Michiel: visie om 10:30) |
-| 11:25 - 12:35 | **Workshopronde 1** | Workshop geven aan de eerste groep |
-| 12:40 - 13:40 | Lunch en wandeling | |
-| 13:50 - 15:00 | **Workshopronde 2** | Zelfde workshop, andere groep. Begin met wat er al op het tafelkleed staat |
-| 15:05 - 15:25 | Pauze | Tafelkleed ophangen in B.2.34 |
-| 15:30 - 16:15 | **Oogst** | 10 minuten terugkoppeling per workshop, daarna stickers tellen |
+| 10:15 - 11:35 | Welkom, visie, interviews, uitleg | Luisteren (Michiel: visie om 10:30). Chris stelt de duo's voor |
+| 11:40 - 12:50 | **Workshopronde 1** | Workshop geven aan de eerste groep |
+| 12:55 - 13:50 | Lunch en wandeling | |
+| 14:00 - 15:10 | **Workshopronde 2** | Zelfde workshop, andere groep. Begin met wat er al op het tafelkleed staat |
+| 15:15 - 15:30 | Pauze | Tafelkleed ophangen in B.2.34 |
+| 15:35 - 16:15 | **Oogst** | 10 minuten terugkoppeling per workshop, daarna stickers tellen |
 | 16:20 - 17:00 | Afspraken en afsluiting | Meedenken over wie welke actie oppakt |
 
 ## Opbouw van de workshop (70 minuten)
@@ -75,7 +75,7 @@ Een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wens
 - [ ] Bedenk per onderwerp in drie zinnen: **welke taak**, **hoe doe ik het nu** en **waar loop ik nog tegenaan**.
 - [ ] Wil je iets op je scherm laten zien? Prima, maar niet nodig. Gebruik geen vertrouwelijke gegevens.
 
-## Oogst (15:30 - 16:15)
+## Oogst (15:35 - 16:15)
 
 Per workshop maximaal tien minuten:
 

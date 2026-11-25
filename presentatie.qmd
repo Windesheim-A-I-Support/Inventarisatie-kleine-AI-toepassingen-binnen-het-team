@@ -371,11 +371,12 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 | 10:15 - 10:25 | **Welkom** |
 | 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
 | 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
-| 11:25 - 12:35 | **Workshopronde 1** · A: workshop 1, B: workshop 2 |
-| 12:40 - 13:40 | **Lunch en wandeling** |
-| 13:50 - 15:00 | **Workshopronde 2** · groepen wisselen |
-| 15:05 - 15:25 | Pauze, naar buiten |
-| 15:30 - 16:15 | **Oogst** |
+| 11:25 - 11:35 | Uitleg workshops |
+| 11:40 - 12:50 | **Workshopronde 1** · A: workshop 1, B: workshop 2 |
+| 12:55 - 13:50 | **Lunch en wandeling** |
+| 14:00 - 15:10 | **Workshopronde 2** · groepen wisselen |
+| 15:15 - 15:30 | Pauze, naar buiten |
+| 15:35 - 16:15 | **Oogst** |
 | 16:20 - 17:00 | **Afspraken en afsluiting** |
 
 ---
