@@ -345,21 +345,18 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 ::: {.columns}
 ::: {.column width="50%"}
-**5 Tafels**
+**3 Tafels**
 
 1. **Transcriptie** -- Richard Holman (Summary AI)
 2. **Subsidies schrijven** -- Christiaan de Goeij (terminologie per subsidiegever)
 3. **Presentaties** -- Bart Ras (Gamma / ChatGPT)
-4. **Verslaglegging** -- Mounia Belmamoune (ChatGPT Projects)
-5. **Onderwijs & toetsen** -- Ritsaart Bergsma (ANS / Brightspace)
 :::
 ::: {.column width="50%"}
-**Formule: World Café**
+**Formule: twee workshops**
 
-- **Geen demo's:** de tafelhost vertelt kort hoe hij of zij het nu doet.
-- **Uitwisselen:** hoe doen anderen het, en wat kan er beter?
-- **3 rondes van 40 min:** groepjes wisselen, iedereen bezoekt 3 van de 5 tafels.
-- **Tafelkleed groeit mee:** elke groep bouwt verder op de vorige.
+- **Geen demo's:** de champion vertelt kort hoe hij het nu doet.
+- **Workshop 1:** 2 rondes van 30 min, iedereen bezoekt 2 van de 3 tafels.
+- **Workshop 2:** kies je tafel en maak samen de eindversie (eisen, acties).
 - **Galerij & eindpresentatie:** stickers op de beste acties, daarna afspraken.
 :::
 :::
@@ -370,28 +367,27 @@ Twee knelpunten zijn geen toolkeuze maar organisatievraagstuk:
 
 **Maandag 30 november 2026 · 10:00 - 17:00 · B.2.34**
 
-| Tijd | Onderdeel | Insteek |
-|---|---|---|
-| 10:00 - 10:15 | **Introductie** | Chris: welkom, doel van de dag, programma |
-| 10:15 - 10:30 | **Resultaten interviews** | Chris: wat 17 gesprekken en 73 radartjes ons leren |
-| 10:30 - 10:45 | **Icebreaker** | AI-lijn: waar sta jij? (zie hieronder) |
-| 10:45 - 11:00 | **Uitleg World Café** | Chris stelt de vijf tafels voor |
-| 11:00 - 11:40 | **World Café ronde 1** | Kies een tafel: werkwijze delen, uitwisselen, beter maken, tafelkleed |
-| 11:40 - 11:50 | Wissel & koffie | |
-| 11:50 - 12:30 | **World Café ronde 2** | Nieuwe groep per tafel |
-| 12:30 - 13:15 | Lunch | |
-| 13:15 - 13:45 | **Lessons learned & hoe ik met AI werk -- Chris** | Wat werkt, wat niet, kort voorbeeld, mogelijke oplossingen |
-| 13:45 - 14:25 | **World Café ronde 3** | Laatste wisselronde |
-| 14:25 - 14:40 | Pauze | Champions bundelen hun tafelkleed |
-| 14:40 - 15:50 | **Verdiepingsronde: de eindversie** | Kies je favoriete tafel, maak het tafelkleed af (eisen, acties) en bereid de presentatie voor |
-| 15:50 - 16:15 | **Galerij** | Tafelkleden ophangen, stickers bij de belangrijkste acties |
-| 16:15 - 17:00 | **Eindpresentatie** | Per tafel max. 5 min, daarna afspraken en afsluiting |
+| Tijd | Onderdeel |
+|---|---|
+| 10:00 - 10:15 | Inloop met koffie |
+| 10:15 - 10:25 | **Welkom** |
+| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
+| 11:05 - 11:20 | **Wat de interviews ons leren** · Chris |
+| 11:25 - 11:35 | Uitleg workshop |
+| 11:40 - 12:10 | **Workshop 1, ronde 1** |
+| 12:20 - 12:50 | **Workshop 1, ronde 2** |
+| 12:55 - 13:50 | **Lunch en wandeling** |
+| 14:00 - 14:20 | **Lessons learned & hoe ik met AI werk** · Chris |
+| 14:30 - 15:30 | **Workshop 2: de eindversie** |
+| 15:35 - 15:50 | Pauze, naar buiten |
+| 15:55 - 16:15 | **Galerij** |
+| 16:20 - 17:00 | **Eindpresentatie, afspraken en afsluiting** |
 
 ---
 
 ## Tafelkleed -- per tafel invullen
 
-Elke champion vult **"Wat werkt al"** vooraf in. Vragen 2 - 4 groeien mee met elke ronde, 5 - 7 in de verdiepingsronde (de eindversie).
+Elke champion vult **"Wat werkt al"** vooraf in. Vak 2 - 4 groeien mee in workshop 1, vak 5 - 7 in workshop 2.
 
 | # | Vraag |
 |---|---|
@@ -408,7 +404,7 @@ Elke champion vult **"Wat werkt al"** vooraf in. Vragen 2 - 4 groeien mee met el
 ## Vervolgstappen
 
 ::: {.incremental}
-1. **Tafelhosts** -- Richard, Christiaan de Goeij, Bart, Mounia en Ritsaart (bevestigd)
+1. **Champions** -- Richard, Christiaan de Goeij en Bart (bevestigd)
 2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
 3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven
