@@ -402,7 +402,7 @@ Het duo vult **"Wat werkt al"** vooraf in. Vak 2 - 4 vult de groep in ronde 1, v
 ::: {.incremental}
 1. **Gastheren** -- Christiaan de Goeij en Richard (tafel 1), Michiel en Bart (tafel 2)
 2. **Datum & ruimte** -- ma 30 november, 10:00 - 17:00, B.2.34 (gereserveerd)
-3. **Save-the-Date sturen** -- uitnodiging naar het hele lectoraat
+3. **Uitnodiging** -- verstuurd naar het hele lectoraat (16 november)
 4. **Piloot urenregistratie starten** -- Ritsaart en Stefan bouwen script voor TKI-urenbrieven
 5. **Business case Copilot** -- Michiel werkt onderbouwing uit op basis van inChange-referentie
 :::

@@ -81,7 +81,31 @@ format:
 
 ## Bring the BEAST to life. Learn to ride it. Let it fly.
 
-*[presentatie Michiel volgt]*
+*[opbouw in concept, Michiel vult aan]*
+
+---
+
+## De vijf fundamenten: BEAST
+
+| | | |
+|---|---|---|
+| **B** | Brain | onze kennisbasis |
+| **E** | External sources | publieke data en kennis |
+| **A** | Agents | AI die onderzoekstaken uitvoert |
+| **S** | Security | technische, juridische en organisatorische waarborgen |
+| **T** | Trusted data | authentieke data uit de beroepspraktijk |
+
+---
+
+## Van ei tot zelfstandige vlucht
+
+| Beweging | Fasen |
+|---|---|
+| **Bring the BEAST to life** | 1. Het ei · 2. Het uitkomen |
+| **Learn to ride it** | 3. De eerste vleugelslagen · 4. Samen vliegen |
+| **Let it fly** | 5. De eerste solovlucht · 6. De zelfstandige vlucht |
+
+Elke volgende fase is een bewuste keuze.
 
 # Wat de interviews ons leren {#interviews background-color="#1D1D1B"}
 
@@ -240,6 +264,10 @@ Schrijf op **post-its** en plak ze in het juiste vak. De poster groeit de hele d
 # World café · ronde 1 {#ronde-1 background-color="#FFCC00"}
 
 11:40 - 12:50 · Kies een tafel
+
+**Tafel 1** · interviews en subsidietrajecten · Richard en Christiaan
+
+**Tafel 2** · AI@research en presentaties maken · Michiel en Bart
 
 # Lunch en wandeling {#lunch background-color="#FFCC00"}
 
