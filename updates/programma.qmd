@@ -10,8 +10,7 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: co
 
 | Tijd | Onderdeel |
 |---|---|
-| 10:00 - 10:15 | Inloop met koffie |
-| 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
+| 10:00 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
 | 10:25 - 10:55 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
 | 10:55 - 11:05 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
 | 11:05 - 11:15 | [Uitleg world café](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
