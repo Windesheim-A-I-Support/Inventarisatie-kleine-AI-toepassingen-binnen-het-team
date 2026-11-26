@@ -30,7 +30,7 @@ format:
 
 # Welkom {#welkom background-color="#FFCC00"}
 
-10:00 - 10:25 · Chris
+10:10 - 10:20 · Chris
 
 ---
 
@@ -62,7 +62,8 @@ format:
 
 | Tijd | Onderdeel |
 |---|---|
-| 10:00 | Welkom |
+| 10:00 | Inloop met koffie |
+| 10:10 | Welkom |
 | 10:25 | Visie: van ei tot zelfstandige vlucht · Michiel |
 | 10:55 | Wat de interviews ons leren · Chris |
 | 11:05 | Uitleg world café |

@@ -14,7 +14,8 @@ Op **maandag 30 november** houden we een AI-dag voor het hele lectoraat. Een dag
 
 | Tijd | Onderdeel |
 |---|---|
-| 10:00 - 10:25 | **[Welkom](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dagpresentatie.html#/welkom)** · Chris |
+| 10:00 - 10:10 | Inloop met koffie |
+| 10:10 - 10:20 | **[Welkom](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dagpresentatie.html#/welkom)** · Chris |
 | 10:25 - 10:55 | **Visie: van ei tot zelfstandige vlucht** · Michiel |
 | 10:55 - 11:05 | **[Wat de interviews ons leren](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dagpresentatie.html#/interviews)** · Chris |
 | 11:05 - 11:15 | [Uitleg world café](https://windesheim-a-i-support.github.io/Inventarisatie-kleine-AI-toepassingen-binnen-het-team/dagpresentatie.html#/uitleg) · Chris |

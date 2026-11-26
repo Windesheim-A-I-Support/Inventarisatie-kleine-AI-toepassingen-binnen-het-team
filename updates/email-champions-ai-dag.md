@@ -23,8 +23,8 @@ Fijn dat jullie maandag 30 november gastheer zijn op de AI-dag. Hieronder lees j
 
 | Tijd | Wat | Jouw rol |
 |---|---|---|
-| Vóór 10:00 | Klaarzetten | Poster, post-its en tafelkaart klaarleggen |
-| 10:00 - 11:15 | Welkom, visie, interviews, uitleg | Luisteren. Chris stelt de tafels voor |
+| 10:00 - 10:10 | Inloop | Poster, post-its en tafelkaart klaarleggen |
+| 10:10 - 11:15 | Welkom, visie, interviews, uitleg | Luisteren. Chris stelt de tafels voor |
 | 11:30 - 12:30 | **World café, ronde 1** | Gastheer van de eerste groep |
 | 12:30 - 14:00 | Lunch en wandeling | |
 | 14:00 - 15:00 | **World café, ronde 2** | Blijf zitten, nieuwe groep. Begin met wat er al op de poster staat |
