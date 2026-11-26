@@ -23,7 +23,7 @@ format:
 ::: {.callout-tip}
 ## In het kort
 - World café met **twee ronde tafels**. Jullie zitten de hele dag als duo aan **je eigen tafel**, de groepen komen naar jullie.
-- **Twee rondes van 70 minuten:** ronde 1 voor de lunch, ronde 2 erna met de andere groep.
+- **Twee rondes van een uur:** ronde 1 voor de lunch, ronde 2 erna met de andere groep.
 - Elke tafel heeft **twee onderwerpen** van ongeveer een half uur. Per onderwerp neemt één van jullie het voortouw.
 - **Je hoeft niks te presenteren.** Je vertelt een paar minuten hoe jij het doet, en dan praat de tafel. Jullie zorgen dat de A0-poster vol post-its komt.
 :::
@@ -44,24 +44,24 @@ Je tafelkaart, met de opzet, gespreksvragen en starter-prompts, ligt op tafel: [
 | Tijd | Wat | Jullie rol |
 |---|---|---|
 | 10:00 - 10:15 | Inloop | Poster, post-its en tafelkaart klaarleggen |
-| 10:15 - 11:35 | Welkom, visie, interviews, uitleg | Luisteren (Michiel: visie om 10:30). Chris stelt de tafels voor |
-| 11:40 - 12:50 | **World café, ronde 1** | Gastheer van de eerste groep |
-| 12:55 - 13:50 | Lunch en wandeling | |
-| 14:00 - 15:10 | **World café, ronde 2** | Blijf zitten, nieuwe groep. Begin met wat er al op de poster hangt |
-| 15:15 - 15:30 | Pauze | Poster op de muur hangen |
-| 15:35 - 16:15 | **Galerij en eindpresentatie** | Bij je poster staan, stickers tellen, max. 10 min presenteren |
-| 16:20 - 17:00 | Afspraken en afsluiting | Meedenken over wie welke actie oppakt |
+| 10:15 - 11:15 | Welkom, visie, interviews, uitleg | Luisteren (Michiel: visie om 10:25). Chris stelt de tafels voor |
+| 11:30 - 12:30 | **World café, ronde 1** | Gastheer van de eerste groep |
+| 12:30 - 14:00 | Lunch en wandeling | |
+| 14:00 - 15:00 | **World café, ronde 2** | Blijf zitten, nieuwe groep. Begin met wat er al op de poster hangt. Hang daarna je poster op de muur |
+| 15:10 - 15:50 | **Galerij en eindpresentatie** | Bij je poster staan, stickers tellen, max. 10 min presenteren |
+| 15:50 - 16:30 | Afspraken en afsluiting | Meedenken over wie welke actie oppakt |
+| 16:30 | Borrel | |
 
-## Zo verloopt een ronde (70 minuten)
+## Zo verloopt een ronde (een uur)
 
 | Minuten | Wat |
 |---|---|
 | 0 - 5 | Welkom. In ronde 2: vertel kort wat de vorige groep op de poster zette |
 | 5 - 10 | **Onderwerp 1, zo doe ik het:** wat deed je vroeger, wat doe je nu, wat scheelt het? |
-| 10 - 25 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
-| 25 - 35 | Post-its schrijven en op de poster plakken |
-| 35 - 65 | **Onderwerp 2:** zelfde opbouw, je duopartner neemt het voortouw |
-| 65 - 70 | Belangrijkste punten op de poster markeren |
+| 10 - 22 | **Zo doen wij het:** wie doet dit ook, en hoe? Wat kan slimmer, sneller of veiliger? |
+| 22 - 30 | Post-its schrijven en op de poster plakken |
+| 30 - 55 | **Onderwerp 2:** zelfde opbouw, je duopartner neemt het voortouw |
+| 55 - 60 | Belangrijkste punten op de poster markeren |
 
 - Handige vragen: *"Waar zou jij dit morgen voor gebruiken?"*, *"Wat houdt je tegen?"*, *"Wie heeft dit al eens anders opgelost?"*
 - Laat iedereen zelf post-its schrijven, schrijf niet alles zelf.
@@ -114,9 +114,9 @@ Een actie zonder naam en datum telt niet. Liever twee echte acties dan tien wens
 - [ ] Vul **vak 1** alvast in: *Wat werkt al?* (3 tot 5 punten per onderwerp). Stuur het naar Chris, dan zet hij het op de poster.
 - [ ] Wil je iets op je scherm laten zien? Prima, maar niet nodig. Gebruik geen vertrouwelijke gegevens.
 
-## Galerij en eindpresentatie (15:35 - 16:15)
+## Galerij en eindpresentatie (15:10 - 15:50)
 
-- **Pauze (15:15):** hang je poster op de muur.
+- **Na ronde 2 (15:00):** hang je poster op de muur.
 - **Galerij:** blijf bij je poster voor vragen. Deelnemers plakken stickers bij de acties in vak 7. Tel daarna de stickers.
 - **Eindpresentatie, max. 10 minuten per tafel:**
   1. **Eén zin per onderwerp:** wat is de belangrijkste les?

@@ -20,7 +20,7 @@ World café met twee tafels. In ronde 1 kies je een tafel, in ronde 2 schuif je 
 ::: {.tafelkaart}
 ## Tafel 1: interviews en subsidietrajecten {#tafel-1}
 
-**Gastheren:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+**Gastheren:** Christiaan de Goeij en Richard Holman · **Rondes:** 11:30 - 12:30 en 14:00 - 15:00
 
 **Interviews.** Gesprekken met bedrijven, afstudeerders en partners opnemen, laten transcriberen en daarna een samenvatting maken in de toon die past (zakelijk, diplomatiek, vriendelijk). Het meest gedeelde radartje uit de inventarisatie: van verslag na een overleg tot thema's uit onderzoeksinterviews.
 
@@ -29,9 +29,9 @@ World café met twee tafels. In ronde 1 kies je een tafel, in ronde 2 schuif je 
 | Min | Wat |
 |---|---|
 | 0 - 5 | Welkom. Ronde 2: het duo vertelt wat de vorige groep op de poster zette |
-| 5 - 35 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), post-its op de poster (10) |
-| 35 - 65 | **Subsidietrajecten:** zelfde opbouw |
-| 65 - 70 | Belangrijkste punten op de poster markeren |
+| 5 - 30 | **Interviews:** zo doen wij het (5), hoe doe jij het en wat kan beter (12), post-its op de poster (8) |
+| 30 - 55 | **Subsidietrajecten:** zelfde opbouw |
+| 55 - 60 | Belangrijkste punten op de poster markeren |
 
 **Gespreksvragen:** *Wie doet dit ook, en hoe? · Welke tool of truc werkt voor jou? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 
@@ -59,7 +59,7 @@ Geef daarna een lijstje van de termen die je hebt aangepast.
 ::: {.tafelkaart}
 ## Tafel 2: AI@research en presentaties maken {#tafel-2}
 
-**Gastheren:** Michiel Steeman en Bart Ras · **Rondes:** 11:40 - 12:50 en 14:00 - 15:10
+**Gastheren:** Michiel Steeman en Bart Ras · **Rondes:** 11:30 - 12:30 en 14:00 - 15:00
 
 **AI@research.** Hoe zetten we AI in voor het onderzoek zelf? Vanuit de visie van de ochtend (*van ei tot zelfstandige vlucht*) kijken we naar kleine, controleerbare onderzoekstaken: bronnen verzamelen, informatie ordenen, een analyse voorstellen, bevindingen vergelijken. Welke taak kunnen we als eerste veilig uitproberen, en wat hebben we daarvoor nodig? *(Michiel vult aan.)*
 
@@ -68,9 +68,9 @@ Geef daarna een lijstje van de termen die je hebt aangepast.
 | Min | Wat |
 |---|---|
 | 0 - 5 | Welkom. Ronde 2: het duo vertelt wat de vorige groep op de poster zette |
-| 5 - 35 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (15), post-its op de poster (10) |
-| 35 - 65 | **Presentaties maken:** zelfde opbouw |
-| 65 - 70 | Belangrijkste punten op de poster markeren |
+| 5 - 30 | **AI@research:** zo doen wij het (5), hoe doe jij het en wat kan beter (12), post-its op de poster (8) |
+| 30 - 55 | **Presentaties maken:** zelfde opbouw |
+| 55 - 60 | Belangrijkste punten op de poster markeren |
 
 **Gespreksvragen:** *Welke onderzoekstaak zou jij als eerste aan AI geven? · Hoe controleer je de uitkomst? · Waar loop je tegenaan? · Wat zou je willen dat er bestond?*
 

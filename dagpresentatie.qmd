@@ -1,6 +1,6 @@
 ---
 title: "AI-Uitwisselingsdag"
-subtitle: "Maandag 30 november 2026 · 10:00 - 17:00 · B.2.34"
+subtitle: "Maandag 30 november 2026 · 10:00 - 16:30 · B.2.34"
 author: "Chris · Lectoraat Supply Chain Finance"
 lang: nl
 title-slide-attributes:
@@ -63,19 +63,19 @@ format:
 | Tijd | Onderdeel |
 |---|---|
 | 10:15 | Welkom |
-| 10:30 | Visie: van ei tot zelfstandige vlucht · Michiel |
-| 11:05 | Wat de interviews ons leren · Chris |
-| 11:25 | Uitleg world café |
-| 11:40 | **World café, ronde 1** · kies een tafel |
-| 12:55 | Lunch en wandeling |
+| 10:25 | Visie: van ei tot zelfstandige vlucht · Michiel |
+| 10:55 | Wat de interviews ons leren · Chris |
+| 11:05 | Uitleg world café |
+| 11:30 | **World café, ronde 1** · kies een tafel |
+| 12:30 | Lunch en wandeling |
 | 14:00 | **World café, ronde 2** · andere tafel |
-| 15:15 | Pauze, even naar buiten |
-| 15:35 | Galerij en eindpresentatie |
-| 16:20 | Afspraken en afsluiting |
+| 15:10 | Galerij en eindpresentatie |
+| 15:50 | Afspraken en afsluiting |
+| 16:30 | Borrel |
 
 # Visie: van ei tot zelfstandige vlucht {#visie background-color="#1D1D1B"}
 
-10:30 - 11:00 · Michiel
+10:25 - 10:55 · Michiel
 
 ---
 
@@ -109,7 +109,7 @@ Elke volgende fase is een bewuste keuze.
 
 # Wat de interviews ons leren {#interviews background-color="#1D1D1B"}
 
-11:05 - 11:20 · Chris
+10:55 - 11:05 · Chris
 
 ---
 
@@ -206,7 +206,7 @@ Neem je antwoord mee naar de tafels.
 
 # Zo werkt het world café {#uitleg background-color="#1D1D1B"}
 
-11:25 - 11:35 · Chris
+11:05 - 11:15 · Chris
 
 ---
 
@@ -225,14 +225,14 @@ Neem je antwoord mee naar de tafels.
 
 ---
 
-## Zo verloopt een ronde (70 minuten)
+## Zo verloopt een ronde (een uur)
 
 | Minuten | Wat |
 |---|---|
 | 0 - 5 | Welkom. Ronde 2: wat hangt er al op de poster? |
-| 5 - 35 | **Onderwerp 1:** zo doen wij het, hoe doe jij het, wat kan beter, post-its plakken |
-| 35 - 65 | **Onderwerp 2:** zelfde opbouw |
-| 65 - 70 | Belangrijkste punten markeren |
+| 5 - 30 | **Onderwerp 1:** zo doen wij het, hoe doe jij het, wat kan beter, post-its plakken |
+| 30 - 55 | **Onderwerp 2:** zelfde opbouw |
+| 55 - 60 | Belangrijkste punten markeren |
 
 Niemand geeft een presentatie. **Het gaat om het gesprek.**
 
@@ -263,7 +263,7 @@ Schrijf op **post-its** en plak ze in het juiste vak. De poster groeit de hele d
 
 # World café · ronde 1 {#ronde-1 background-color="#FFCC00"}
 
-11:40 - 12:50 · Kies een tafel
+11:30 - 12:30 · Kies een tafel
 
 **Tafel 1** · interviews en subsidietrajecten · Richard en Christiaan
 
@@ -271,23 +271,19 @@ Schrijf op **post-its** en plak ze in het juiste vak. De poster groeit de hele d
 
 # Lunch en wandeling {#lunch background-color="#FFCC00"}
 
-12:55 - 13:50
+12:30 - 14:00
 
 We zien je om **14:00** terug, aan de **andere** tafel.
 
 # World café · ronde 2 {#ronde-2 background-color="#FFCC00"}
 
-14:00 - 15:10 · Andere tafel
+14:00 - 15:00 · Andere tafel
 
-# Pauze {#pauze background-color="#FFCC00"}
-
-15:15 - 15:30 · Even naar buiten
-
-De gastheren hangen de posters op.
+Na afloop hangen de gastheren de posters op.
 
 # Galerij {#galerij background-color="#FFCC00"}
 
-15:35 - 15:50
+15:10 - 15:25
 
 ---
 
@@ -299,7 +295,7 @@ De gastheren hangen de posters op.
 
 # Eindpresentatie {#eindpresentatie background-color="#1D1D1B"}
 
-15:50 - 16:15
+15:25 - 15:50
 
 ---
 
@@ -311,7 +307,7 @@ De gastheren hangen de posters op.
 
 # Afspraken en afsluiting {#afsluiting background-color="#1D1D1B"}
 
-16:20 - 17:00
+15:50 - 16:30
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Programma AI-dag"
-subtitle: "Maandag 30 november 2026 · 10:00 - 17:00 · Ruimte B.2.34"
+subtitle: "Maandag 30 november 2026 · 10:00 - 16:30 · Ruimte B.2.34"
 lang: nl
 ---
 
-Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: collega's vertellen hoe zij het doen en we kijken samen wat beter kan. Neem een jas mee, we gaan tussendoor ook naar buiten.
+Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: collega's vertellen hoe zij het doen en we kijken samen wat beter kan. Neem een jas mee, we gaan tussen de middag naar buiten.
 
 ## Programma
 
@@ -12,17 +12,17 @@ Een dag om van elkaar te leren hoe we AI gebruiken in ons werk. Geen trainer: co
 |---|---|
 | 10:00 - 10:15 | Inloop met koffie |
 | 10:15 - 10:25 | **[Welkom](../dagpresentatie.html#/welkom){target="_blank"}** · Chris |
-| 10:30 - 11:00 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
-| 11:05 - 11:20 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
-| 11:25 - 11:35 | [Uitleg world café](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
-| 11:40 - 12:50 | **[World café, ronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: kies een van de twee tafels |
-| 12:55 - 13:50 | **Lunch en wandeling** |
-| 14:00 - 15:10 | **[World café, ronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: je schuift door naar de andere tafel |
-| 15:15 - 15:30 | Pauze, even naar buiten |
-| 15:35 - 16:15 | **[Galerij en eindpresentatie](../dagpresentatie.html#/galerij){target="_blank"}** |
-| 16:20 - 17:00 | **[Afspraken en afsluiting](../dagpresentatie.html#/afsluiting){target="_blank"}** |
+| 10:25 - 10:55 | **Visie: van ei tot zelfstandige vlucht** · Michiel (presentatie volgt) |
+| 10:55 - 11:05 | **[Wat de interviews ons leren](../dagpresentatie.html#/interviews){target="_blank"}** · Chris |
+| 11:05 - 11:15 | [Uitleg world café](../dagpresentatie.html#/uitleg){target="_blank"} · Chris |
+| 11:30 - 12:30 | **[World café, ronde 1](../dagpresentatie.html#/ronde-1){target="_blank"}**: kies een van de twee tafels |
+| 12:30 - 14:00 | **Lunch en wandeling** |
+| 14:00 - 15:00 | **[World café, ronde 2](../dagpresentatie.html#/ronde-2){target="_blank"}**: je schuift door naar de andere tafel |
+| 15:10 - 15:50 | **[Galerij en eindpresentatie](../dagpresentatie.html#/galerij){target="_blank"}** |
+| 15:50 - 16:30 | **[Afspraken en afsluiting](../dagpresentatie.html#/afsluiting){target="_blank"}** |
+| 16:30 | **Borrel** |
 
-Tussen de onderdelen zit steeds 5 tot 10 minuten om te wisselen, koffie te pakken of van tafel te wisselen.
+Koffie en thee pak je tussendoor wanneer het uitkomt, daar staat geen vaste tijd voor.
 
 Alle slides van de dag: [dagpresentatie](../dagpresentatie.html){target="_blank"}. Per tafel een A4 met de opzet: [tafelkaarten](tafelkaarten.html).
 
@@ -35,7 +35,7 @@ In B.2.34 staan **twee ronde tafels**, elk met twee onderwerpen en een duo als g
 | **[1](tafelkaarten.html#tafel-1)** | Interviews en subsidietrajecten | Christiaan de Goeij en Richard Holman |
 | **[2](tafelkaarten.html#tafel-2)** | AI@research en presentaties maken | Michiel Steeman en Bart Ras |
 
-**Twee rondes.** In ronde 1 kies je zelf een tafel. In ronde 2 schuif je door naar de andere tafel, zodat je allebei de tafels meemaakt. Het duo blijft zitten en vertelt de nieuwe groep wat er al op de poster staat. Per onderwerp vertelt het duo kort hoe zij het aanpakken, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan.
+**Twee rondes van een uur.** In ronde 1 kies je zelf een tafel. In ronde 2 schuif je door naar de andere tafel, zodat je allebei de tafels meemaakt. Het duo blijft zitten en vertelt de nieuwe groep wat er al op de poster staat. Per onderwerp vertelt het duo kort hoe zij het aanpakken, daarna gaat het gesprek over hoe jij het doet, waar je vastloopt en wat slimmer kan.
 
 **Galerij en eindpresentatie.** De posters hangen aan de muur. Met drie stickers kies je welke acties als eerste opgepakt moeten worden. Daarna presenteert elke tafel in maximaal tien minuten haar uitkomst.
 
