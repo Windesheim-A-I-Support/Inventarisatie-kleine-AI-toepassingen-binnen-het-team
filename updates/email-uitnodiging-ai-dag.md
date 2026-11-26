@@ -43,12 +43,6 @@ In B.2.34 staan **twee ronde tafels**, elk met twee onderwerpen en een duo als g
 
 **Galerij en eindpresentatie.** De posters hangen aan de muur. Met drie stickers kies je welke acties als eerste opgepakt moeten worden. Daarna presenteert elke tafel in maximaal tien minuten haar uitkomst.
 
-### Spelregels
-
-- Geen vertrouwelijke gegevens in publieke AI-tools: geen persoonsgegevens, studentgegevens of gevoelige partnerinformatie.
-- AI-output altijd zelf controleren. Jij blijft verantwoordelijk.
-- Geen domme vragen. Iedereen staat ergens anders, en juist daarom is dit leuk.
-
 **Voorbereiding (optioneel):** wil je vooraf wat basis opdoen? [AI for actual work](https://aiforactualwork.com/) is een gratis cursus, ook in het Nederlands. Eén les is genoeg.
 
 Graag tot maandag 30 november!
